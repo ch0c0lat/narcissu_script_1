@@ -3,17 +3,12 @@
 
 ;bg "tui\title_off2.bmp",1
 
-dwavestop 5
-
 ;プロローグ
 
 bg "e\b.jpg",3
 
 
-
-
-
-lsph 5,":s;#999999^~i =19~... Those dazzling days, those winter days...~i =19~",230,358
+... Those dazzling days, those winter days...
 
 dwave 0,"w\n001.ogg"
 
@@ -32,8 +27,6 @@ bg "agilis\1\c002.png",3
 
 ;bg "e\c003.jpg",3
 bg "agilis\1\c003.png",3
-
-wait 700
 
 ;bg "e\c004.jpg",5
 bg "agilis\1\c004.png",5
@@ -54,7 +47,7 @@ bg "agilis\1\c02.png",3
 
 ;　■　１９９６年　春　セツミ　■\
 ;^ * 1996 Spring. Setsumi *\
-;-- meh not like this line is needed
+
 
 ;bg "e\c02b.jpg",3
 
