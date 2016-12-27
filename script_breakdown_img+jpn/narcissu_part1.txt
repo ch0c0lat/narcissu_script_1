@@ -1,5 +1,6 @@
-;mov $sys_midasi,"プロローグ　ボイスＶｅｒ"
-mov $sys_midasi,"Prologue [a]"
+﻿;"プロローグ　ボイスＶｅｒ"
+"Prologue [a]"
+
 ;bg "tui\title_off2.bmp",1
 
 dwavestop 5
