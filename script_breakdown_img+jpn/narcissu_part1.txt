@@ -76,8 +76,6 @@ S
 
 bg "e\sora_ame03.jpg",5
 
-
-
 ;真っ白な梅雨空の中。\
 ^In the midst of that pure white sky of the rainy season.\
 
@@ -94,8 +92,6 @@ bg "e\sora_ame03.jpg",5
 
 ;;どんどん学校から、社会から、置き去りにされてしまうわたし。\
 
-dwavestop 5
-
 ;bg "e\byoin_heya_yu2.jpg",5
 
 bg "e\sora_ame01.jpg",3
@@ -103,10 +99,10 @@ bg "e\sora_ame01.jpg",3
 ;秋を迎え、冬を越し、
 ;入院、退院、通院…そしてまた入院を繰り返し…\
 ^Fall came, winter left. Hospitalized, discharged, outpatient care... and then starting again with hospitalization.\
+
 会釈
 ;かつて、友達と呼んでいたクラスメイト。\
 ^Classmates who once were called friends.\
-
 
 ;いつしか、知り合いへと変わった。\
 ^At some point, became acquaintances.\
@@ -119,8 +115,6 @@ bg "e\sora_ame01.jpg",3
 ^With each turning of the seasons, it seemed that I was disappearing from their memories.\
 
 bg "e\chara_k01.jpg",5
-
-dwave 0,"w\n003.ogg"
 
 ;「…どうやら、”良い気がしない”らしい」\
 ^``... It looks like, it makes them uncomfortable.''\
