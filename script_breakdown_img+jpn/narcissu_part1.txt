@@ -7,7 +7,6 @@
 
 bg "e\b.jpg",3
 
-
 ... Those dazzling days, those winter days...
 
 
@@ -30,12 +29,14 @@ bg "agilis\1\c003.png",3
 ;bg "e\c004.jpg",5
 bg "agilis\1\c004.png",5
 
-
-
 bg "e\b.jpg",5
 
+<<<<<<< HEAD
 
 
+=======
+dwave 5,"se\rain_1.ogg"
+>>>>>>> origin/master
 
 bg "e\sora_ame03.jpg",3
 
@@ -46,20 +47,19 @@ bg "agilis\1\c02.png",3
 ;　■　１９９６年　春　セツミ　■\
 ;^ * 1996 Spring. Setsumi *\
 
-
 ;bg "e\c02b.jpg",3
 
 mp3loop "bgm\n04.mp3"
 
 bg "e\sora_ame01.jpg",3
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 ;『…確かに、幼い頃から丈夫な方じゃなかった…』\
 ^``... Certainly, since I was a child, I wasn't on the healthy side...''\
-
-
-
 
 ;それでも小学校は普通に通えたし、
 ;夏休みには真っ黒に日焼けするほど遊んだこともあった。\
@@ -68,6 +68,7 @@ bg "e\sora_ame01.jpg",3
 ;○とも＞教室夕方
 
 bg "e\byoin_heya_yu2.jpg",5
+
 S
 ;６月。中学に入ってすぐの頃。^@^
 ;来月から始まる、水泳用の水着を注文した翌日。\
@@ -82,10 +83,11 @@ S
 
 ;○とも＞夕：空
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 bg "e\sora_ame03.jpg",5
-
-
 
 ;真っ白な梅雨空の中。\
 ^In the midst of that pure white sky of the rainy season.\
@@ -103,8 +105,6 @@ bg "e\sora_ame03.jpg",5
 
 ;;どんどん学校から、社会から、置き去りにされてしまうわたし。\
 
-dwavestop 5
-
 ;bg "e\byoin_heya_yu2.jpg",5
 
 bg "e\sora_ame01.jpg",3
@@ -112,10 +112,10 @@ bg "e\sora_ame01.jpg",3
 ;秋を迎え、冬を越し、
 ;入院、退院、通院…そしてまた入院を繰り返し…\
 ^Fall came, winter left. Hospitalized, discharged, outpatient care... and then starting again with hospitalization.\
+
 会釈
 ;かつて、友達と呼んでいたクラスメイト。\
 ^Classmates who once were called friends.\
-
 
 ;いつしか、知り合いへと変わった。\
 ^At some point, became acquaintances.\
@@ -129,7 +129,10 @@ bg "e\sora_ame01.jpg",3
 
 bg "e\chara_k01.jpg",5
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 ;「…どうやら、”良い気がしない”らしい」\
 ^``... It looks like, it makes them uncomfortable.''\
 
