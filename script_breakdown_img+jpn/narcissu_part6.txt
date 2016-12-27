@@ -1,0 +1,2496 @@
+
+dwave 6,"se\umitori.ogg"
+
+!sd
+
+;「もしかして…くれるのか？」\
+^``Are you... giving this to me?''\
+
+dwavestop 0
+
+;dwave 0,"w\n044.ogg"
+;dwave 0,"w\new_467.ogg"
+dwave 0,"w\new_467b.ogg"
+
+;「うん、あげる…」\
+^``Un. I am...''\
+
+dwavestop 0
+
+;「そっか…じゃあ俺も、記念に貰っといてやるよ」\
+^``I see... then, I'll take it as a memento myself.''\
+
+dwavestop 0
+
+;同じように受け取った腕輪。
+;俺も自分のポケットへと収める。\
+^In the same way, I accepted the bracelet and placed it in my pocket.\
+
+;そして、再び海へと歩き始める彼女の…\
+^Then, once again, the girl began walking towards the sea...\
+
+;その後ろ姿に向かって、俺は最後の言葉をかけた。\
+^Facing her back, I threw out my final words.\
+
+!s75
+
+;「なあ…最後にもう一つだけ質問していいか？」\
+^``Hey... can I ask you just one last question?''\
+
+dwavestop 0
+
+!s90
+
+;dwave 0,"w\n406.ogg"
+dwave 0,"w\nv406.ogg"
+
+;「うん」\
+^``Un.''\
+
+dwavestop 0
+
+;「お前、今…^@^引きとめてほしいか？」\
+^``Do you, right now...^@^ want me to pull you back?''\
+
+dwavestop 0
+
+dwave 0,"w\n407.ogg"
+
+;「……………」\
+^``.....''\
+
+dwavestop 0
+
+;「それとも…背中を押して欲しいか？」\
+^``Or instead... you want me to give your back a push?''\
+
+dwavestop 0
+
+dwave 5,"se\nami3.ogg"
+
+dwave 6,"se\umitori.ogg"
+
+!s75
+
+;寄せる波を足に受けながら、その場に立ち止まった彼女。
+;問いを投げる俺に背中を向けたままだった。\
+^While the waves splashed at her feet, the girl stopped in place. Her back remained facing me after I asked the question.\
+
+;強い風が波頭を飛沫に変え、
+;そんな彼女を冷たく叩いていた。\
+^The strong wind turned the crests of the waves into spray that struck her.\
+
+;やがて、俺の方を振り返ってくれると…\
+^Before long, she turned around, and...\
+
+!s85
+
+;dwave 0,"w\n408.ogg"
+dwave 0,"w\nv408.ogg"
+
+;「…さあ…どっちだろうね」\
+^``... Hmm... which one, I wonder...''\
+
+;dwave 0,"w\nv409.ogg"
+dwave 0,"w\nv409b.ogg"
+;「あはは、よくわからないね」\
+^``Ahaha, I don't really know.''\
+
+dwavestop 0
+
+!s75
+
+;そう言って、最後にもう一度だけ笑ってくれた。\
+^Saying that, just one more time, she smiled for me.\
+
+;冷たい波の飛沫を受けながら、
+;涙を浮かべながらでも笑顔を向けてくれた。\
+^While being struck by the spray from the waves, even as tears welled up, she faced me with a smile.\
+
+;以前は、波打ち際で止まっていた、その足…\
+^Before, those feet had stopped at the water's edge...\
+
+;でも今は止まることはなかった。\
+^But this time, they didn't stop.\
+
+!s100
+
+;…だから、それが答えなんだと思う…\
+^... That was why, I thought that was her answer...\
+
+
+bg "e\w.jpg",5
+
+!w500
+
+
+
+;dwave 0,"w\n410.ogg"
+dwave 0,"w\nv410.ogg"
+
+;「それじゃあ…^@^さよなら…」\
+^``Well then...^@^ Farewell...''\
+
+dwavestop 0
+
+dwavestop 5
+
+dwavestop 6
+
+;*last01
+
+mp3loop "bgm\sen02_20.mp3"
+
+;bg "e\st00.jpg",1
+bg "english\credits\st00.png",1
+
+
+!s75
+
+;…こうして、俺達の９６０ｋｍの旅が終わった…\
+^... And so, our journey of 960km ended...\
+
+!s80
+
+;俺にとっては１５日間、
+;彼女にとっては２２年間の旅も終わった。\
+^To me, it was 15 days time.
+^To her, it was the end of a 22 year journey.\
+
+;７階でも家でもない、自らの意志で避けた彼女。^@^
+;２００５年度、推定自殺者数３万５千人の中の一人。\
+^Not the 7th floor, nor home. Of her own will, she avoided them.^@^ In the year 2005, she was one of the estimated 35,000 people who committed suicide.\
+
+;血液型Ｏ、名前はセツミ、２２才、女性…
+;ビニールの認識腕輪は白。\
+^Blood type, O, name, Setsumi, 22 years old, female...
+^Vinyl identification bracelet, white.\
+
+;これが彼女の全てだった。\
+^This was everything about the girl.\
+
+bg "e\w.jpg",3
+
+;…でも、俺は知っている。\
+^... But, I knew.\
+
+bg "yobi\cat09.bmp",5
+
+!s75
+
+;本当は、ビキニの水着が好きで、ナビ以上に道に詳しくて、
+;車が好きで、普免だって持っている。\
+^In reality, she liked bikini swimsuits, knew more about the roads than a navigation system, and loved cars. She even had a license.\
+
+;いつもは無表情で、滅多に向けてくれないけど、^@^
+;たまには、照れくさそうな、拗ねたような顔だってしてくれる…\
+^She was always without expression, and would only rarely face you,^@^ but once in a while, she would even make this embarrassed, pouting face...\
+
+!s80
+
+;エメラルドの海を背に…\
+^The emerald sea to her back...\
+
+;跳ねるように、嬉しそうに、
+;まるで、グラビアアイドルのように笑ってくれる…\
+^As if dancing, happily, like a magazine model, she smiled...\
+
+;なのに…\
+^And yet...\
+
+;この安っぽい使い捨てカメラに、
+;たった一枚しか残せなかった彼女の笑顔。\
+^On this cheap disposable camera, only a single picture remained of her smile.\
+
+!s90
+
+bg "e\imege94.jpg",5
+
+;…それでも…たった一枚だけでも…\
+^... But even so...
+^... Even with just one picture...\
+
+!s120
+
+;　……残せた俺達の証し……\
+^... It was the proof of ourselves that we left behind...\
+
+bg "e\b.jpg",5
+
+;bg "e\st01.jpg",5
+bg "english\credits\st01.png",5
+
+!w1500
+
+bg "e\b.jpg",5
+
+
+;bg "e\st02.jpg",5
+bg "english\credits\st02.png",5
+
+!w1500
+
+bg "e\b.jpg",5
+
+;bg "e\st03.jpg",5
+bg "english\credits\st03.png",5
+
+!w1500
+
+bg "e\b.jpg",5
+
+;bg "e\st04.jpg",5
+bg "english\credits\st04.png",5
+
+!w1500
+
+bg "e\b.jpg",5
+
+;bg "e\st05.jpg",5
+bg "english\credits\st05.png",5
+
+!w1500
+
+!s85
+
+bg "e\w.jpg",3
+
+bg "e\nar01d.jpg",3
+
+bg "e\nar01c.jpg",1
+
+bg "e\nar01.jpg",5
+
+!w1500
+
+;bg "e\imege95.jpg",5
+bg "agilis\1\imege95.png",5
+
+dwave 0,"w\n001.ogg"
+
+;bg "e\imege96.jpg",10,1000
+bg "agilis\1\imege96.png",10,1000
+
+!w1500
+
+;bg "e\imege97.jpg",5
+bg "agilis\1\imege97.png",5
+
+click
+
+click
+
+!sd
+
+bg "english\1\imege98.bmp",5
+
+if %unvoiced_mode == 0 goto *generated_narc1_voiced_agi
+
+goto *generated_narc1_unvoiced_agi
+*generated_narc1_voiced_agi
+steamsetachieve narc1
+goto *narc1_continue_agi
+*generated_narc1_unvoiced_agi
+steamsetachieve narc3
+goto *narc1_continue_agi
+
+*narc1_continue_agi
+
+dwavestop 5
+
+mov %flg_cha9,1
+mov %flg_bplay,9
+
+mov %sys_nar1_limited,1
+goto *title_nar1_limited
+
+;agi_narci1_end
+;-*- ponscripter -*-
+; Chapter select screen: Narci1 tr. gp32
+*gp32_mini_title
+
+lsp 200,":a/2,0,3;english\sys\modoru.png",644,549
+
+lsp 191,":a/2,0,3;english\1\chapter00.bmp",285,224
+if %flg_pro  == 1 lsp 192,":a/2,0,3;gp32\1\chapter01.bmp",285,248
+if %flg_cha2 == 1 lsp 193,":a/2,0,3;gp32\1\chapter02.bmp",285,272
+if %flg_cha3 == 1 lsp 194,":a/2,0,3;gp32\1\chapter03.bmp",285,296
+if %flg_cha4 == 1 lsp 195,":a/2,0,3;english\1\chapter04.bmp",285,320
+if %flg_cha5 == 1 lsp 196,":a/2,0,3;gp32\1\chapter05.bmp",535,248
+if %flg_cha6 == 1 lsp 197,":a/2,0,3;english\1\chapter06.bmp",535,272
+if %flg_cha7 == 1 lsp 198,":a/2,0,3;gp32\1\chapter07.bmp",535,296
+if %flg_cha8 == 1 lsp 199,":a/2,0,3;english\1\chapter08.bmp",535,320
+
+lsp 200,":a/2,0,3;english\sys\modoru.png",644,549
+
+movz ?0[0], 273, 273, 273, 273, 523, 523, 523, 523
+movz ?0[1], 252, 276, 300, 324, 252, 276, 300, 324
+if %flg_bplay <= 8 lsp 201,":a/10,250,0;tui\cur2.bmp",?0[0][%flg_bplay-1],?0[1][%flg_bplay-1]
+
+if %unvoiced_mode == 0 bg "english\1\mini_title.png",5
+if %unvoiced_mode == 1 bg "english\1\mini_title_novoice.png",5
+
+~
+btndef clear
+cellcheckspbtn 191,200,1
+
+btnwait %11
+
+if %11==-1 csp 191,201:goto *middle_title
+if %11<=0 jumpb
+
+if %11==10 csp 191,201:goto *middle_title
+;前の画面に戻る
+
+;以下はボタンを押した場合なのでまず画像クリア
+csp 191,201
+tablegoto1 %11, *gp32_image, *gp32_honpen2, *gp32_honpen3, *gp32_honpen4, *gp32_honpen5, *gp32_honpen6, *gp32_honpen7, *gp32_honpen8, *gp32_honpen9
+
+jumpb
+;-*- ponscripter -*-
+*gp32_image
+mov $sys_midasi,"^Prologue [g]"
+
+; TODOs:
+; * Remove manual line breaks where Ponscripter's auto-breaking should be used
+
+;goto *tc1
+
+
+;bg "tui\title_off2.bmp",1
+
+dwavestop 5
+
+;プロローグ
+
+bg "e\b.jpg",3
+stop
+mp3fadeout 1500
+
+dwavestop 0
+
+h_usewindow "caption"
+
+dwave 0,"w\n001.ogg"
+
+!s100
+h_centreline ^~s~... on a blindingly bright day ...~s~^
+^~s~... on a blindingly bright day ...~s~
+wait 400
+h_centreline ^~s~... on that very day of winter ...~s~^
+^~s~... on that very day of winter ...~s~\
+
+bg "english\1\c001a.jpg",1
+
+bg "english\1\c001b.jpg",3
+
+bg "english\1\c001.jpg",3
+
+bg "english\1\c002.jpg",3
+
+bg "english\1\c003.jpg",3
+
+wait 700
+
+bg "english\1\c004.jpg",5
+
+wait 1000
+
+bg "e\b.jpg",5
+
+wait 200
+
+dwave 5,"se\rain_1.ogg"
+
+bg "e\sora_ame03.jpg",3
+
+bg "english\1\c02.jpg",3
+
+;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
+h_usewindow "main"
+!sd
+erasetextwindow 0
+
+;　■　１９９６年　春　セツミ　■\
+^ ■ Spring 1996: Setsumi ■\
+
+;bg "e\c02b.jpg",3
+
+mp3loop "bgm\n04.mp3"
+
+bg "e\sora_ame01.jpg",3
+
+
+dwave 0,"w\n002.ogg"
+
+;『…確かに、幼い頃から丈夫な方じゃなかった…』\
+^(... true, I wasn't very healthy ever since I was a child ...)\
+
+dwavestop 0
+
+
+;それでも小学校は普通に通えたし、
+;夏休みには真っ黒に日焼けするほど遊んだこともあった。\
+^Even so, I attended elementary school like all the others,
+^and during summer breaks I often played until I was utterly tanned.\
+
+;○とも＞教室夕方
+
+bg "e\byoin_heya_yu2.jpg",5
+
+;６月。中学に入ってすぐの頃。^@^
+;来月から始まる、水泳用の水着を注文した翌日。\
+^June.  Shortly after my entry into middle school.^@^
+^The day after I'd ordered a swimsuit for use the next month.\
+
+;その時、初めて入院ってのを経験した。\
+^My first hospitalization.\
+
+;一学期の中間テストの少し前、
+;降り始めた雨が、やけに冷たい日だった。\
+^On a day just before the first semester midterms,
+^on a day when the first drops of rain were so cruelly cold.\
+
+;○とも＞夕：空
+
+dwave 5,"se\rain_1.ogg"
+
+bg "e\sora_ame03.jpg",5
+
+
+
+;真っ白な梅雨空の中。\
+^Falling from amidst the pure white of the overcast sky.\
+
+;そりゃあ、最初の頃は、
+;クラスの皆んなも毎日のように見舞いに来てくれた。\
+^Of course, the first time it happened,
+^all my classmates came to visit me almost every day.\
+
+;退院した頃には、
+;週末の度に、家にも遊びに来てくれた。\
+^And when I was released,
+^they even came to my house on weekends to play.\
+
+;…でも、そんなのは最初だけ。\
+^... but that was only the first time around.\
+
+;どんどん学校から、社会から、置き去りにされてしまうわたし。\
+
+dwavestop 5
+
+;bg "e\byoin_heya_yu2.jpg",5
+
+bg "e\sora_ame01.jpg",3
+
+;秋を迎え、冬を越し、
+;入院、退院、通院…そしてまた入院を繰り返し…\
+^Autumn into winter, winter into spring, a vicious cycle:
+^hospitalization, release, clinics ... and hospitalization again ...\
+
+;かつて、友達と呼んでいたクラスメイト。\
+^And before I knew it, even the classmates I once called friends ...\
+
+
+;いつしか、知り合いへと変わった。\
+^... turned into acquaintances ...\
+
+;そして、他人へと変わった。\
+^... and then into strangers.\
+
+;季節を重ねる毎に、
+;彼等の記憶からわたしは消えたようだった。\
+^As if with every changing of seasons,
+^I was being erased from their collective memory.\
+
+bg "e\chara_k01.jpg",5
+
+dwave 0,"w\n003.ogg"
+
+;「…どうやら、”良い気がしない”らしい」\
+^``... it seems that to all those normal people ...''\
+
+dwavestop 0
+
+wait 300
+
+dwave 0,"w\n004.ogg"
+
+;「普通に生きている人にとって、わたしの存在ってのは」\
+^``... my very existence was an `unpleasant' fact.''\
+
+dwavestop 0
+
+bg "e\chara_k01.jpg",3
+
+dwave 0,"w\n005.ogg"
+
+;「だから…消されたようだった…」\
+^``And so ... it looks like I've been erased ...''\
+
+dwavestop 0
+
+dwave 5,"se\rain_1.ogg"
+
+bg "e\w.jpg",5
+
+bg "e\sora_ame03.jpg",5
+
+dwave 0,"w\n006.ogg"
+
+;「幾つもの季節を、白い梅雨空を…
+;　誰とも言葉を交わす必要もなく過ごした…」\
+^``I'd spent so many seasons, so many white overcast skies ...
+^ without the want or need to converse with anybody ...''\
+
+dwavestop 0
+
+dwave 0,"w\n007.ogg"
+
+;「わたしの英語の教科書は、
+;　１年生の中間テスト以降、まっさらな状態だった」\
+^``For that matter, my English textbook never changed from that of a 1st-year middle school student before the first midterms.''\
+
+dwavestop 0
+
+bg "e\chara_0012.jpg",5
+
+dwave 0,"w\n008.ogg"
+
+;「…そこで…^@^わたしの時間も止まったらしい」\
+^``... that is where ...^@^ my time seems to come to an end.''\
+
+dwavestop 0
+
+bg "e\chara_0013b.jpg",3
+
+bg "e\c005.jpg",5
+
+bg "e\c0052.jpg",3
+
+;mp3fadeout 2000
+;stop
+
+;click
+
+!w800
+
+dwave 5,"se\z42r.ogg"
+
+bg "e\w.jpg",1
+
+bg "e\sora01.jpg",5
+
+bg "english\1\c00.jpg",5
+
+;　■　８年後…２００４年　主人公　初夏　■\
+^ ■ Eight years later ... Early Summer 2004: Protagonist ■\
+
+bg "e\sora01.jpg",3
+
+;mp3loop "tui\sen032.mp3"
+
+;mp3loop "tui2\e01.mp3"
+
+
+;夏。流れる汗。\
+^Summer.  Flowing sweat.\
+
+;運転免許試験場に設置された、大きな電光掲示板。\
+^The gigantic electronic scoreboard in the driver's license examination facility.\
+
+;一斉に点灯を始めたライト。
+;俺も他の皆んなと同じように、自分のナンバーを目で追う。\
+^Lit up all at once.
+^My eyes and everyone else's looked for our respective numbers.\
+
+;○とも＞なにか室内ｏｒ街中系
+
+;「２３７、２３７…」\
+^``237, 237 ...''\
+
+dwavestop 0
+
+;チカチカと約８割ほどのライトが点灯する中、
+;無事に自分の受験番号が光ったことを確認した。\
+^And of some eight columns of lit text,
+^sure enough, my examination number was shining in the midst.\
+
+bg "e\b.jpg",3
+
+;○とも＞ＳＥとか
+
+dwave 5,"se\faan1_b.ogg"
+
+;ガタンゴトン、\
+^ *clickety-clack*\
+
+;ちょうど昼過ぎの為か、よく空いていた車内。\
+^A nearly-empty train car,
+^perhaps thanks to the beautiful afternoon.\
+
+;そんなガラ空きの車内を、
+;俺は試験場からの帰路についていた。\
+^Almost alone in that train car,
+^I was heading back home from the examination hall.\
+
+;左手には貰ったばかりの交通教本、
+;胸ポケットには真新しい免許証。\
+^My left hand held a new traffic regulations handbook,
+^and my breast pocket held my brand new driver's license.\
+
+;「これで俺も、普免持ちか…」\
+^``So now I've got a license as well ...''\
+
+dwavestop 0
+
+;しみじみ呟くが、特に感慨はなかった。\
+^I muttered somewhat happily,
+^but there were no strong feelings behind it.\
+
+;別に、車に乗りたかった訳じゃない。
+;他に何かの目的があった訳でもない。\
+^I never particularly wanted to drive a car.
+^I never particularly had any motive for it.\
+
+;只、まわりの連中も教習所に通っていたし、
+;車の免許くらい取っておけと勧められただけだった。\
+^It was just that my colleagues and the technical institute both recommended that I at least get a driver's license.\
+
+;○とも＞夜空
+
+bg "e\sora_yoru01.jpg",5
+
+;その夜。\
+^That night.\
+
+;親に免許が取れたことを報告すると、
+;『そうか』と、短く返された。\
+^When I told my parents that I'd gotten my license,
+^they merely replied with an `I see'.\
+
+;試しに、車を貸してくれと言ってみたら、
+;同じように短く、^@^駄目だ。とだけ返された。\
+^And when I asked if I could borrow the car, just for a test run,
+^they instantly and curtly said just one thing:^@^ `no'.\
+
+;別に車に乗りたかった訳じゃないけど、
+;その返答はあまりに予想通りだった。そんな親だった。\
+^While I didn't really want to drive the car or anything,
+^the response was all-too-expected.  Those were my parents for you.\
+
+bg "e\b.jpg",3
+
+;翌日。
+;寝覚めから胸が苦しかったので病院へと向かった。\
+^The next day.
+^I awoke with chest pain and went to the hospital.\
+
+;普段から俺は、病気なんてもんに縁がなかった。
+;だから、初診受付の待ち時間は、ひどく退屈に感じた。\
+^Sickness and I generally had nothing to do with each other.
+^Which is why I found the E.R. waiting room to be utterly boring.\
+
+bg "e\byoin_rouka.jpg",3
+
+;やっと診察が終わったと思うと、
+;今度はレントゲンと血液検査にも行った。行かされた。\
+^And just when I thought they were through examining me,
+^they ordered an X-ray and some blood tests.  Then they left.\
+
+;更に、長い長い時間を、ぼ～っと待たされ…\
+^And again, I was left waiting for a long, long time ...\
+
+;思わず、待合室にあったジャンプを３冊も読み、
+;４冊目に手を伸ばした時、\
+^I'd already polished off 3 volumes of Shonen Jump and was just about to start on a fourth when ...\
+
+;そのまま入院の手続きをさせられた。\
+^... they admitted me to the hospital right then and there.\
+
+;胸ポケットに入れたままになっていた、真新しい免許証。\
+^And it seemed that my new license,
+^which still lay snugly in my breast pocket ...\
+
+;その出番は遠のいたようだった。\
+^... would have to wait a long time for its turn to come.\
+
+bg "e\b.jpg",5
+
+mp3fadeout 2000
+stop
+
+bg "e\sora07.jpg",5
+
+;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
+h_usewindow "main"
+!sd
+erasetextwindow 0
+
+dwavestop 5
+
+bg "english\1\c03.jpg",3
+
+;　■　主人公　２００４年　秋　■\
+^ ■ Protagonist: Autumn 2004 ■\
+
+mp3loop "tui2\e01.mp3"
+
+;mp3loop "tui\sen032.mp3"
+
+bg "e\sora07.jpg",3
+
+;あんなにうるさかった蝉が鳴き止む頃。\
+^Right around when the all-too-noisy cicadas had finally gone silent,\
+
+;相変わらず俺は病院に居た。\
+^I once again found myself in the hospital, as per usual.\
+
+;bg "e\byoin_rouka.jpg",3
+
+;もちろん、ずっと入院していた訳じゃない。
+;出たり入ったりの繰り返しだった。\
+^Of course, it wasn't as if I'd been there the entire time.
+^I came and went, came and went.  A futile cycle.\
+
+;先月には、初めて手術ってのも経験した。
+;退院後は、原チャで５分の距離を通院もした。\
+^My first surgery was a month before.  After that, I started doing the 5-minute commute to and from the hospital by moped.\
+
+;それからも、入院、退院、通院、入院を小刻みに繰り返して…\
+^And from then on, I was hospitalized, discharged, ordered to clinic,
+^and hospitalized again and again and again ...\
+
+;ＰＥＴだかイレッサだか知らないけど、
+;気づけば、その繰り返しで数ヶ月が経とうとしていた。\
+^While I still had no clue what `PET' or `Iressa' stood for,
+^in no time at all, several months had already passed.\
+
+;食欲が減った代わりに、貰う薬の量と種類が増えた。
+;自分でも、目に見えて体力が落ちてきたと実感できる。\
+^As my appetite decreased, my medications increased.
+^I could feel my own physical strength atrophying away.\
+
+;足が細くなった気がするけど、\
+^I kept imagining that my legs were getting thinner,\
+
+;”それは気のせいじゃない”
+;と、体重計の針は教えてくれた。\
+^But the needle of the weight scale rudely informed me:
+^``It's not just your imagination.''\
+
+;なのに俺は…^@^どこか客観的に自分を見ていた。\
+^And yet I ...^@^ kept looking on at myself with detached interest.\
+
+;まるで他人事か、
+;テレビの１シーンでも眺めているようだった。\
+^As if it were happening to somebody else entirely,
+^as if I were looking at a scene on TV or the like.\
+
+;突然、身に起こったことに、頭がついて行けなかった。
+;リアルとして起こった実感が沸かなかった。\
+^My mind could not grasp what had so suddenly happened to my body.
+^Nothing within me was telling me that this was real at all.\
+
+;だから、自分自身のことの筈なのに、
+;どこか遠い場所から冷めた目でしか見れなかった。\
+^And that's why, even though it was all happening to me,
+^I kept looking on as if it were happening to someone far away.\
+
+
+bg "english\1\c033.jpg",5
+
+bg "e\b.jpg",5
+
+;冬の日。
+;街頭からクリスマスツリーが姿を消す頃、\
+^A day of winter.
+^Around when the Christmas trees had vanished from the streets,\
+
+;年末ということもあってか、自宅に帰してくれた。\
+^I was discharged home as a kind of year's end treat.\
+
+;あくまでも一時的なものらしい。
+;それでも少しは嬉しかった。\
+^It seemed like an exercise in total transience.
+^But still, it made me slightly happy.\
+
+bg "e\amazora02.jpg",5
+
+;みぞれ混じりの雨の中、
+;久しぶりに帰ってきた俺の家。\
+^I traveled back to a home I had not seen in a long time in the midst of a freezing rain.\
+
+;何故か、家族が全員揃っていた。\
+^Strangely enough, my entire family was there.\
+
+;普段からそれほど話すことも無かった親なのに、
+;どこかギクシャクとしながらも、笑顔で迎えてくれた。\
+^My parents, who had never so much as talked to me,
+^came out to meet me, if with terribly stilted smiles.\
+
+;いつも口喧嘩ばかりしていた妹が、
+;俺の好きなクリームシチューとエビフライを作って待っていた。\
+^And my little sister, with whom I'd never had a pleasant word,
+^had made my favorite cream stew and fried shrimp just for me.\
+
+;こたつに並んで座った。みかんをむいてくれた。
+;やけに優しかった。それが印象的だった。\
+^They made me sit at the table.  They peeled tangerines for me.
+^They were cruelly kind.  It was an impressive display.\
+
+;この時点で…^@^俺は少しだけ察した。\
+^At this point ...^@^ a little thought occured to me.\
+
+;ポケットに入れたままになった、例の真新しい免許証。\
+^About my new driver's license,
+^which was still stuffed away in my pocket.\
+
+;この免許証は、その価値を生かすことなく
+;終わるのかも知れないと思った。\
+^That perhaps things would end for the license without it ever having known any use.\
+
+;dwave 5,"se\rain01.ogg"
+
+;bg "e\amazora02.jpg",5
+
+bg "e\w.jpg",5
+
+;ギクシャクとした不自然な笑顔に迎えられて…\
+;
+;冷静に、曖昧に、ひたすら薄っぺらく、
+;他人事のように俺はそう思った。\
+^And surrounded by a trio of stilted, strained smiles ...\
+^I kept that thought, as if it were someone else's business,
+^with dispassion, ambiguity, and total disinterest.\
+
+bg "e\w.jpg",5
+;bg "e\b.jpg",5
+
+;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+bg "english\1\c032.jpg",5
+
+;　■　主人公　２００５年　１月　■\
+^ ■ Protagonist:  January 2005 ■\
+
+;bgm
+
+bg "e\byoin_rouka.jpg",5
+
+;年が明けて、また帰って来た病院。\
+^A new year began, and I returned to the hospital.\
+
+;何故かその日は、いつもの４階ではなく、
+;談話室のような部屋に行った。行かされた。\
+^But on this day, instead of my usual ４F room,
+^I ended up in a conference room of sorts.  They took me there.\
+
+;そして、オヤジと医者の先生、
+;それに俺も交えた三人で色んな話しを聞いた。聞かされた。\
+^And then, my father and the doctors had a little talk.  I joined in.  Well, they talked to me.\
+
+;いわゆる、告知というやつなんだろう。\
+^So this was their so-called announcement.\
+
+;すごく遠回しな言い方だったが、
+;そう解釈した。死ぬらしい俺は。\
+^They said it in a terribly roundabout fashion,
+^but they told me: that I was going to die.\
+
+;「そうですか…」\
+^``I see ...''\
+
+dwavestop 0
+
+;だから、それだけを返した。他に言葉は見つからなかった。
+;入室してから出るまでに、口にしたのはこれだけだった。\
+^That was my only reply.  I had no other words.
+^It was the only thing that left my mouth from beginning to end.\
+
+;俺の返事を受け、
+;手に持ったボールペンを走らせる先生。\
+^And the doctors' ballpoint pens flew across paper as if in response to my words.\
+
+;恐らくはホスピスへの手続きだろう。
+;あくまでも事務的な態度だった。オヤジも似たようなもんだった。\
+^Those were probably Hospice enrollment procedures.
+^Businesslike to the last.  My father was the same.\
+
+;…こんな簡単なモンなんだ…\
+^... so it's this simple ...\
+
+;それが俺の率直な感想だった。\
+^... was the only real thought I had.\
+
+bg "e\b.jpg",5
+
+;;☆シーン変え
+
+;そして、その日を境に４階から７階へと、
+;６人部屋から個室へと変わった。\
+^That day, I was transferred from ４F to ７F,
+^from a 6-person room to a private room.\
+
+bg "e\byoin7_rouka.jpg",5
+
+;それと、この７階自体は他の階と少し違っていた。\
+^It was a little different from the other wards, this ７F.\
+
+;まず、床がピカピカになっていた。
+;天井も今までより、ずっと高く広々としていた。\
+^First of all, the floors were sparkling clean.
+^And second of all, the ceiling was higher than I'd ever seen it.\
+
+;病室の中もすごく綺麗で、大きな窓からは、
+;明るく日光を採り入れる仕組みなっているようだった。\
+^The rooms were very nice, and had large windows from which the warm daylight streamed in as if by design.\
+
+;きっと、ベッドも新品に近いものだろう。
+;真っ白なシーツが眩しい日射しに際立っていた。\
+
+;…だけど、窓は少ししか開かなかった。\
+^... but the windows only opened a little.\
+
+;試しに計ってみると、
+;ちょうど頭がギリギリ通らない幅だった。\
+^I tested them out,
+^and my head would just barely fit out of one.\
+
+;他にも、認識用の腕輪の色が変わった。\
+^The color of my ID bracelet had changed as well.\
+
+;入院した日から、ずっと手首に巻かれていたビニール製の腕輪。
+;俺の名前や血液型が記載されていた。\
+^The bracelet that I had worn ever since that first hospitalization,
+^the one that had my name and blood type recorded on it.\
+
+;その色が、青から白に変わった。\
+^Its color had now changed from blue to white.\
+
+bg "e\b.jpg",5
+
+;…高い天井、白いビニールの腕輪、１５ｃｍしか開かない窓。\
+^A high ceiling.  A white vinyl bracelet.
+^A window that would not open more than 15 cm.\
+
+;そんな７階に移ったのは、
+;まだ、新春のつまらない番組が流れている頃だった。\
+^The TV programs celebrating the new year were still playing when I was transferred to this ７F.\
+
+;あの子と初めて出会ったのも、
+;そんな年を明けてまもない頃だった…\
+^And it was at the dawn of that very year that I met her for the first time ...\
+
+;bg "e\w.jpg",3
+
+mp3fadeout 2500
+stop
+
+bg "e\w.jpg",3
+
+bg "e\nar01.jpg",5
+
+dwave 0,"w\n009.ogg"
+
+bg "e\nar01.jpg",5
+
+bg "e\nar01c.jpg",1
+
+bg "e\nar01d.jpg",3
+
+bg "e\w.jpg",3
+
+
+mov %flg_pro,1
+mov %flg_bplay,1
+goto *gp32_honpen2
+
+;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+*gp32_honpen2
+dwavestop 5
+
+;★チャプター２
+
+mov $sys_midasi,"^７F [g]"
+
+stop
+mp3fadeout 2500
+
+;＿＿＿＿;＿＿＿＿;＿＿
+
+dwave 0,"w\n010.ogg"
+
+bg "e\b.jpg",5
+
+bg "gp32\1\c04.jpg",3
+
+;bg "e\b.jpg",3
+
+click
+
+mp3loop "bgm\n04.mp3"
+
+;○本編　序盤
+
+bg "e\byoin7_rouka.jpg",3
+
+
+;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
+h_usewindow "main"
+!sd
+erasetextwindow 0
+
+;廊下の横、ナースステーションの向かいにある、
+;談話室のような場所。\
+^There was this place kind of like a lounge at one side of the corridor, across from the nurses' station.\
+
+;●：談話室
+
+bg "e\danwa.jpg",5
+
+;人気のないその場所に設置された、
+;いくつかのソファーやパイプ椅子、それと大きめのテレビ。\
+^This generally deserted place held a few couches and chairs, as well as a large TV.\
+
+;その２８型のブラウン管からは、
+;どうでもいい新春特番が今日も流れていた。\
+^Stupid programs commemorating the new year were still being broadcast on that 28-inch screen.\
+
+;そんなつまらないテレビを、
+;さも、つまらなさそうに見ている、どこかの女の子。\
+^And there was a girl who looked absolutely bored watching that absolutely boring TV.\
+
+;小柄な身体に、ピンクのパジャマ。
+;手首には俺と同じ、白の腕輪。\
+^Short.  In pink pajamas.
+^A white bracelet on her wrist.  Just like mine.\
+
+;腰に届くほどの長い髪が印象的だった。\
+^Impressively long hair that almost reached down to her hips.\
+
+bg "e\b.jpg",3
+
+;「なあ、お前…それ面白いか？」\
+^``Hey ... do you find that interesting?''\
+
+dwavestop 0
+
+;深い意味はない。
+;ひと気がないので、何となくその横顔に話し掛けた。\
+^There was no deep purpose in the asking.  Simply:
+^I had nothing else to do, so I started talking to her.\
+
+;●ぱじゃまーのヒロイン
+
+;dwave 0,"w\n011.ogg"
+;dwave 0,"w\nv011.ogg"
+dwave 0,"w\nv011b.ogg"
+
+;「別に…」\
+^``Not really ...''\
+
+dwavestop 0
+
+;只、それだけを返す女の子。
+;声を掛けた俺に振り向きもしなかった。\
+^... was her only reply to me.
+^She didn't turn to face me at all.\
+
+;俺のことは一切気にしていないのか、
+;ずっとつまらなそうにテレビを見続けたままだった。\
+^And she kept looking on with boredom at that TV as if I didn't even exist.\
+
+;…だったら、見なきゃいいのに…\
+^... then don't watch it ...\
+
+;そう思いながらも、
+;同じようにパイプ椅子に腰を掛ける俺。\
+^Even as I thought this,
+^I sat down in a chair next to her.\
+
+;そして、並ぶようにしてテレビを眺めた。
+;他にすることもなかった。出来ることもなかった。\
+^And side by side, we watched TV.
+^Nothing else to do.  Nothing we ~i~could~i~ do.\
+
+bg "e\w.jpg",3
+
+bg "e\b.jpg",3
+
+;…黙ってテレビを眺め続ける俺達…\
+^... so we sat there silently and watched TV ...\
+
+;ブラウン管の中からは、正月にありがちな新春番組。
+;くだらないモノマネだか隠し芸だかがやっていた。\
+^New Year celebration programs, as per usual.
+^A useless array of comedians and oddities.\
+
+;時折響く、司会者のバカみたいにカン高い笑い声。
+;真っ白くて日当たりの良いこの部屋に、乾き、響いていた。\
+^And every so often, the M.C.'s stupid, shrill laughter,
+^resounding dryly in this white, sun-drenched lounge.\
+
+;ＢＧ談話室
+bg "e\danwa.jpg",5
+
+;●：談話室
+
+;dwave 0,"w\n012.ogg"
+dwave 0,"w\nv012.ogg"
+
+;「ねえ…あなた…」\
+^``Say ... tell me ...''\
+
+dwavestop 0
+
+;突然、話し掛けてきた女の子。
+;相変わらずテレビを見つめたままだった。\
+^The girl suddenly started talking to me.
+^But her eyes were as always glued to the TV screen.\
+
+;dwave 0,"w\n013.ogg"
+dwave 0,"w\nv013.ogg"
+
+;「…あなた、何回目？」\
+^``... how many times is it for you now?''\
+
+dwavestop 0
+
+;「…何回目って、どういう意味だ？」\
+^``... what do you mean by that?''\
+
+dwavestop 0
+
+;dwave 0,"w\n014.ogg"
+dwave 0,"w\nv014.ogg"
+
+;「ここに…７階に来たの」\
+^``How many times have you come here ... to ７F?''\
+
+dwavestop 0
+
+;「悪い、質問の意味がわからない」\
+^``Sorry, I have no clue what you're talking about.''\
+
+dwavestop 0
+
+;dwave 0,"w\n015.ogg"
+
+;「………………」\
+
+dwavestop 0
+
+;dwave 0,"w\n016.ogg"
+dwave 0,"w\nv016.ogg"
+
+;「そう…初めてなんだね」\
+^``I see ... so it's your first time, then.''\
+
+dwavestop 0
+
+;何を言ってるのか理解できない俺に、
+;彼女は勝手に納得したようだった。\
+^So she'd seen my confusion about her question and come to the right conclusion.\
+
+;dwave 0,"w\n017.ogg"
+dwave 0,"w\nv017.ogg"
+
+;「じゃあ、他に誰も居ないし…わたしの役目だから…」\
+^``Then since there's no one else around ... and since it's my duty ...''\
+
+dwavestop 0
+
+;「…役目？」\
+^``... duty?''\
+
+dwavestop 0
+
+;dwave 0,"w\n018.ogg"
+dwave 0,"w\nv018.ogg"
+
+;「そういうルールなの…」\
+^``There's this rule ...''\
+
+dwavestop 0
+
+;頷きながら、初めてここ（７階）に来た人には、
+;誰かが教えてあげるルールなんだと付け足した。\
+^Nodding slightly, she explained that the rule was that someone here (７F) should tell newcomers the truth.\
+
+;いまいち何のことか分からない俺。\
+^I knew nothing.  I understood even less.\
+
+;そんな俺を、無視するかのように、
+;彼女はゆっくりと話し始めた。\
+^And as if I did not even exist,
+^she slowly started her speech.\
+
+;dwave 0,"w\n019.ogg"
+dwave 0,"w\nv019.ogg"
+
+;「それじゃあ、よく聞いてね…」\
+^``Then listen closely ...''\
+
+dwavestop 0
+
+bg "e\b.jpg",5
+
+;…………\
+^... ...\
+
+;ぽつりぽつりと語る彼女の言葉。\
+^Her words, spoken methodically, one by one ...\
+
+;それは、ここに来るまでに聞いた、
+;医者の先生の弁とは少し違っていた。\
+^... were a little different from all the ones I'd heard from the doctors about this place.\
+
+;あの事務的な医者の話しでは、
+;ここは医療の進歩を待つ場所であると言った。\
+^In their businesslike, crisp syntaxes, they'd told me:
+^this is a place where one waits for medical advances.\
+
+;心を癒す場所でもあると言った。
+;恐らく、一般的にはそれで正しいのだろう。\
+^This is a place where one heals one's heart.
+^And perhaps, they might have been correct in a general sense.\
+
+;でも、彼女の言によるとそれは建前だそうだ。\
+^But according to the girl, that was just the party line.\
+
+;この７階ってのは、病院内にあって、
+;唯一治療をする場所じゃないらしい。\
+^The truth was that this ７F was the only place in the hospital where medical treatments did not take place.\
+
+;只、命が尽きるのを待つ場所。\
+^This was just a place where you waited for your life to come to an end.\
+
+;そう彼女は言った。
+;俺もそう思えた。同じ認識だと思った。\
+^Those were her words to me.
+^I'd thought so as well.  I'd felt it even before she'd spoken.\
+
+;●談話室復帰
+bg "e\danwa.jpg",3
+
+
+;dwave 0,"w\n020.ogg"
+dwave 0,"w\nv020.ogg"
+
+;「わたし、２回目だから…」\
+^``See, this is my second time ...''\
+
+dwavestop 0
+
+;「２回目ってなにが？」\
+^``Second time doing what?''\
+
+dwavestop 0
+
+;dwave 0,"w\n021b.ogg"
+;dwave 0,"w\nv021b.ogg"
+dwave 0,"w\nv021b_a.ogg"
+
+;「…ここに来るの」\
+^``... coming here.''\
+
+dwavestop 0
+
+;そして、彼女は教えてくれた。\
+^And then she explained to me.\
+
+;この７階って場所は、
+;最初の入院でそのまま死ぬまで居ることは、まず無いらしい。\
+^That nobody on ７F stayed here from initial hospitalization all the way until death.\
+
+;治ることは有りえなくても、
+;体調がマシになると１度は家に帰してくれる。\
+^While there was zero possibility of being cured,
+^you were sent home if your condition was stable.\
+
+;でも、暫くして悪くなると、またここへ帰ってくる。\
+^But if it worsened again, you would be returned here.\
+
+;…その繰り返しで、いつか死ぬ。\
+^... that cycle ended only in death.\
+
+;尽きる場所が、家か７階かの違いだけで、
+;確実にどちらかで死ぬ。避けた奴はいないそうだ。\
+^Whether it was at home or here on ７F, always one of the two,
+^you were going to die.  No way to escape it, it seemed.\
+
+;そういう意味での、
+;彼女はここに来たのは２回目という意味だった。\
+^And with that meaning permeating her every word,
+^she informed me that this was her second time up here.\
+
+;dwave 0,"w\n021.ogg"
+dwave 0,"w\nv021.ogg"
+
+;「じゃあ、１度しか言わないから…」\
+^``I'm only going to say this once ...''\
+
+dwavestop 0
+
+;dwave 0,"w\n022.ogg"
+dwave 0,"w\nv022.ogg"
+
+;「ここからは、よく聞いて…」\
+^``... so listen closely now ...''\
+
+dwavestop 0
+
+bg "e\b.jpg",3
+
+;…………\
+
+;…乾いた画面を見つめたまま、更に言葉を続ける彼女。\
+^... she continued speaking,
+^all the while staring at the blank TV screen.\
+
+;その内容は、消灯時間が何時かって、
+;普通の入院患者が交わす内容ではなかった。\
+^This wasn't idle chit-chat about when lights-out was or where the kitchen was or anything like that.\
+
+;全然違ったことを教えてくれた。\
+^This was something completely different.\
+
+;『３回目に仮退院させてくれたら、覚悟しろ。
+;　４回目はまずない。もう家には帰れない』\
+^`The third time you are discharged home, resign yourself. There won't be a fourth time.  You will never go home again.'\
+
+;『もしも逃げたい時は、Ａ駅ではなくＢ駅に行くこと』\
+^`If you ever want to escape, head toward the B station, not the A station.'\
+
+;『何も食べるな。それが一番の近道。
+;　家族にとっても一番負担が小さくて済む』\
+^`Eat nothing.  That is the simplest shortcut. You leave the smallest burden on your family that way.'\
+
+;…そんな、身に詰まるような内容ばかりだった。\
+^... it was as if she was packed to the brim with matters like those.\
+
+;恐らく、ここに来た人間だけの…\
+^This was probably an oral tradition ...\
+
+;死ぬゆく当事者達だけで、
+;伝え続けてきたことなんだと思う。\
+^... relevant only to those who were going to die ...
+^... and kept by those who came here for that purpose.\
+
+
+;●談話室
+bg "e\danwa.jpg",3
+
+;「もしかして、さっきの役目ってのは、これのことか？」\
+^``So is ~i~this~i~ the duty that you were talking about?''\
+
+dwavestop 0
+
+;dwave 0,"w\n023.ogg"
+dwave 0,"w\nv023.ogg"
+
+;「ええ、そうよ…」\
+^``Yes, that's right ...''\
+
+dwavestop 0
+
+;dwave 0,"w\n024.ogg"
+dwave 0,"w\nv024.ogg"
+
+;「いつかあなたも、初めて来た人には伝えてね…」\
+^``So do remember to perform it for a newcomer yourself someday, okay ...?''\
+
+dwavestop 0
+
+;その言葉を最後に、ゆっくりと立ち上がる彼女。
+;ふわりと長い髪が揺れ、俺の鼻先をかすめた。\
+^With those words, she slowly stood up.
+^She casually tossed her long hair, and it grazed my nose.\
+
+;dwave 0,"w\n025.ogg"
+dwave 0,"w\nv025.ogg"
+
+;「じゃあ、検温の時間だから…」\
+^``I have to go get my temperature measured, so ...''\
+
+dwavestop 0
+
+bg "e\b.jpg",5
+
+;そして、そのまま背を向けると、
+;廊下へ向かって歩き始めてしまった。\
+^Then she turned her back,
+^and started walking down the corridor.\
+
+;一人残されたこの場所には、
+;ブラウン管からの笑い声と、窓辺に飾られた白い花。\
+^Now completely deserted save for me, the lounge held only the laughter from the TV and the white flowers by the windowsill.\
+
+;結局彼女は、一度として俺の方を見ようともしなかった。\
+^In the end, she didn't even look at me once.\
+
+bg "e\b.jpg",5
+
+mp3fadeout 2000
+stop
+
+bg "gp32\1\c042.jpg",3
+
+;＿＿
+
+;☆シーン変え　数日後あたり
+
+bg "e\sora01.jpg",5
+
+;それから何日か過ぎた頃。\
+^A few days later.\
+
+mp3loop "tui2\e01.mp3"
+
+;やっと新春特番が終わり、
+;そろそろ中学や高校では、三学期が始まろうとする頃。\
+^New year celebrations were over,
+^and the middle and high school students were beginning a new term.\
+
+;今日もこの談話室では、
+;テレビをぼ～っと眺める俺と彼女の姿があった。\
+^And just as ever, she and I sat in this lounge,
+^staring blankly at the TV.\
+
+;●談話室
+bg "e\danwa.jpg",5
+
+;「つまらねえな…」\
+^``This is boring ...''\
+
+dwavestop 0
+
+dwave 0,"w\n026.ogg"
+
+;「そうね…」\
+^``So it is ...''\
+
+dwavestop 0
+
+;言葉ではそう返すが、
+;お互いに画面を見つめ続けたままの会話だった。\
+^So we said,
+^but both of us kept our eyes on the screen.\
+
+;「なあ、ここっていつもこんななのか？」\
+^``Hey, is this place always this way?''\
+
+dwavestop 0
+
+dwave 0,"w\n027.ogg"
+
+;「…質問の意味がわからない」\
+^``... I don't understand what you're getting at.''\
+
+dwavestop 0
+
+;「ああ、ひと気がないって意味さ」\
+^``I'm getting at how it's always deserted.''\
+
+dwavestop 0
+
+;看護婦や医者、それにヘルパーの人を除けば、
+;お互いの付き添い以外に、誰の姿も見ていなかった。\
+^Other than the nurses, doctors, and helpstaff,
+^and other than ~i~her~i~, I'd not seen a single person.\
+
+;「やっぱり、正月明けだからか？」\
+^``Did everybody go home for the new year or something?''\
+
+dwavestop 0
+
+;dwave 0,"w\n033.ogg"
+
+;「…………」\
+
+dwavestop 0
+
+dwave 0,"w\n028.ogg"
+
+;「…その理由を知りたいの？」\
+^``... do you really want to know?''\
+
+dwavestop 0
+
+;「あ、いや…別にそんな意味じゃ…」\
+^``Uh, well ... I didn't mean ...''\
+
+dwavestop 0
+
+dwave 0,"w\n029.ogg"
+
+;「…じゃあ、言わない」\
+^``... then I won't tell you.''\
+
+dwavestop 0
+
+;そんな会話ともつかぬやり取りを、淡々と交わす俺達。\
+^We, who disinterestedly tossed back and forth this exchange that could not even be called a conversation.\
+
+
+;１５ｃｍしか開かない窓から入ってくる、僅かな風。\
+^The slight breeze,
+^coming from the window that would not open more than 15 cm.\
+
+;時折、彼女の長い髪を揺らし、
+;同じように揺れる、窓辺に飾られた白い花。\
+^From time to time, her hair would sway,
+^and as if in agreement the flowers at the windowsill would too.\
+
+;お互い、つまらないテレビを見つめたまま、
+;時間だけを消費する日々だった。\
+^This was how we killed time day after day,
+^staring at that boring good-for-nothing TV.\
+
+bg "e\b.jpg",3
+
+dwave 5,"se\hayaasi.ogg"
+
+;タッタッタ、\
+^ *click*click*click*\
+
+;「あら、二人共こんなところに居たの？」\
+^``Oh, here the two of you are.''\
+
+dwavestop 0
+
+;そう言って駆け寄ってきた、年配の看護婦さん。\
+^An elderly nurse said as she rushed toward us.\
+
+;たまにナースステーションを覗いた限りでは、
+;この人が７階のチーフのようだった。\
+^From what I'd seen of the nurses' station,
+^she was apparently the charge nurse of ７F.\
+
+;「どう？　セツミさん、熱出てない？」\
+^``Well?  Miss Setsumi, any fever?''\
+
+dwavestop 0
+
+dwave 0,"w\n030.ogg"
+
+;「…大丈夫、出てない…」\
+^``... I'm fine, no fever ...''\
+
+dwavestop 0
+
+;…セツミ。^@^
+;どうやらそれが彼女の名前のようだった。\
+^... Setsumi.^@^
+^So that was her name.\
+
+;「もう勝手に外をうろついたりしちゃ駄目ですからね」\
+^``You really shouldn't be moving around like this.''\
+
+dwavestop 0
+
+dwave 0,"w\n033.ogg"
+
+;「……………」\
+^``... ... ...''\
+
+dwavestop 0
+
+;「いいですか？　皆んな心配するんですからね」\
+^``Do you understand?  Everyone's worried about you.''\
+
+dwavestop 0
+
+dwave 0,"w\n032.ogg"
+
+;「…別に、いいよ…」\
+^``... well, whatever ...''\
+
+dwavestop 0
+
+;「まあ、なんて言い草なんでしょ」\
+^``Come now, what kind of answer is that?''\
+
+dwavestop 0
+
+;dwave 0,"w\n033.ogg"
+
+;「……………」\
+
+dwavestop 0
+
+;「もう、ホントに最近の子はしょうがないわね」\
+^``Oh, children these days ...''\
+
+dwavestop 0
+
+;それから暫くの間、小言を続ける看護婦さん。\
+^The nurse continued to scold and henpeck for some while longer.\
+
+;それを彼女…セツミと呼ばれたこの子は、
+;素知らぬ様子で聞き流していた。\
+^And the girl ... the girl named Setsumi ...
+^just pretended not to notice it at all.\
+
+;小うるさい看護婦を無視するように、
+;正面のつまらないテレビを見続けたままだった。\
+^She simply stared straight forward at that boring TV,
+^paying that fussy nurse as little heed as she could.\
+
+;「じゃあ、また後で採血に行きますからね」\
+^``I'll be coming later to draw some blood, okay?''\
+
+dwavestop 0
+
+;その言葉を最後に、
+;再びナースステーションへと帰って行く看護婦さん。\
+^With those words,
+^the charge nurse went back to the nurses' station.\
+
+;●談話室
+bg "e\danwa.jpg",3
+
+;「なあ、お前ってさ…」\
+^``Hey, you know ...''\
+
+dwavestop 0
+
+;「いや…セツミで、いいんだよな？」\
+^``Well ... mind if I call you Setsumi?''\
+
+dwavestop 0
+
+;彼女の手首に巻かれた、白いビニールの腕輪。
+;そこに書かれた血液型と名前を見ながら尋ねた。\
+^I asked this as I stared at her white vinyl ID bracelet,
+^and at the blood type and the name written therein.\
+
+dwave 0,"w\n055.ogg"
+
+;「……………」\
+^``... ... ...''\
+
+dwavestop 0
+
+;「どうかしたか？　セツミ？」\
+^``Is something the matter?  Setsumi?''\
+
+
+dwave 0,"w\n035.ogg"
+
+;「…どうして呼び捨てなの？」\
+^``... why are you calling me that?''\
+
+dwavestop 0
+
+;「はあ？」\
+^``Huh?''\
+
+dwavestop 0
+
+dwave 0,"w\n036.ogg"
+
+;「年下のくせに…」\
+^``You're younger than me ...''\
+
+dwavestop 0
+
+;「お、おい、なんで俺が、年下なんだよ？」\
+^``H-hey, why am I younger than you?''\
+
+dwavestop 0
+
+dwave 0,"w\n037.ogg"
+
+;「別に…そう思っただけ」\
+^``Nothing ... that's just what I thought, is all.''\
+
+dwavestop 0
+
+;”年下”という言葉に腹を立てた訳じゃない。\
+^It wasn't that I was offended that she called me ``younger'' than her.\
+
+;只、どう見ても俺の方が５～６才は上に思える。\
+^It was just that no matter how I looked at it,
+^I thought I was 5-6 years older than she was.\
+
+;だから俺は、胸ポケットに入れていた、
+;例の免許証を彼女へと差し向けた。\
+^That's why I took out my driver's license from my breast pocket and handed it directly to her.\
+
+;「どうだ、こう見えても俺、２０才だぞ？」\
+^``See?  I may not seem it, but I'm 20.''\
+
+dwavestop 0
+
+dwave 0,"w\n055.ogg"
+
+;「……………」\
+^``... ... ...''\
+
+dwavestop 0
+
+dwave 0,"w\n039.ogg"
+
+;「やっぱり年下よ…」\
+^``So you're younger after all ...''\
+
+dwavestop 0
+
+;免許証には一瞥をくれただけで、それだけを返す彼女。\
+^She only took a glance at my license before handing it back to me.\
+
+;「おい、よく分からねえぞ」\
+^``Um, I don't really get what you're saying.''\
+
+dwavestop 0
+
+dwave 0,"w\n040_1.ogg"
+
+;「どうでもいいじゃない…少し上なだけよ」\
+^``It doesn't really matter ... I'm just a little older than you are, that's all.''\
+
+dwavestop 0
+
+;相変わらず無表情のまま彼女が呟く。\
+^She murmured, as expressionlessly as ever.\
+
+;その目は、つまらないテレビを見たままにも、
+;どこか遠いところを見ているようにも思えた…\
+^Her eyes were fixed on that boring TV, all right,
+^but it also felt as if she was gazing at something far away ...\
+
+bg "e\w.jpg",5
+
+mp3fadeout 2000
+stop
+
+;＿＿＿＿;＿＿＿＿;＿＿
+
+;●とも＞とりあえず移動
+
+;＿＿＿＿
+
+bg "e\byoin7_rouka.jpg",3
+
+;朝の検温が終わった頃。\
+^After they'd taken my AM vital signs.\
+
+mp3loop "tui\sen032.mp3"
+
+;俺は看護婦に見つからないようにエレベータに乗り込む。\
+^I snuck past the nurses and boarded the elevator.\
+
+
+bg "e\byoin_rouka.jpg",3
+
+;１階に着くと、わざと外来用の出入り口を通って、
+;そのまま病院の外へと歩き始める。\
+^When I got to １F, I walked out the outpatient clinic doors and walked outside of the hospital.\
+
+;●：なんか駅前っぽいとこ
+;bg "e\ekimae.jpg",3
+
+bg "e\b.jpg",5
+
+;目指す場所は、以前に教えられた、
+;近いＡ駅ではなく、遠いＢ駅。\
+^My goal was the place that I'd been told about not long ago:
+^the faraway B station, not the nearby A station.\
+
+;別に、逃げ出すつもりじゃなかった。\
+^It wasn't that I wanted to escape or anything.\
+
+;…７階か自宅…
+;そのどちらか以外で死んだ奴はいない…\
+^... at ７F or at home ...
+^None of us died anywhere else ...\
+
+;以前にそう聞いていた。\
+^That's what I'd been told.\
+
+;そして、あのセツミとかいう彼女も、
+;何度か行ったらしいＢ駅。\
+^And this B station, which this girl named Setsumi had apparently been to many times.\
+
+;だから、なんとなく一度は、
+;その場所を見てみたかっただけだった。\
+^That's why, at least just once,
+^I wanted to see this place with my own eyes.\
+
+;「別に、監視員が居る訳じゃないだろう…」\
+^``Eh, it's not as if there's going to be a guard on duty ...''\
+
+;そう思いつつも、俺達は７階の住人。
+;他の入院患者とは違う。\
+^Even so, we were inhabitants of ７F.
+^Different from other inpatients.\
+
+;もしかしたら…とも考えながら、
+;まだ早朝の駅までの道を歩き続ける。\
+^And, thinking of ... vague maybes ... so early in the morning,
+^I headed toward that station.\
+
+;急ぎ足で進む、通勤や通学の人達を横目に、
+;ゆっくりとした足取りで進みつづけた。\
+^My legs settled into a lazy gait as I glanced sidelong at the people commuting to school or work.\
+
+
+bg "e\w.jpg",3
+bg "e\b.jpg",5
+
+;暫く歩いた頃、２５分ほどかかって到着した駅前。
+;バス停に換算すると４つ分ほどの距離だった。\
+^After about 25 minutes of this, I arrived in front of the station.\
+^Roughly 4 bus stops away when I calculated it out.\
+
+;「…それなりに人が多いな」\
+^``... wow, there are a lot of people here ...''\
+
+;それがＢ駅を見た第一印象だった。\
+^... was my first impression of the B station.\
+
+;俺の服装がパジャマの為に、少しは目立ってしまうけど…\
+^I stood out a bit because I was in pajamas ...\
+
+;しかし、このまま電車の切符を買えば、
+;何の問題もなく、どこにでも行けるようにも思えた。\
+^... but I felt that if I could just buy a subway ticket,
+^I'd be able to go anywhere, no question about it.\
+
+;どうしてＡ駅ではなく、
+;このＢ駅を勧めるのかは分からない。\
+^I still had no idea why I'd been told to go to the B station,
+^not the A station.\
+
+;でも、本当に逃げ出すつもりなら簡単に思えた。\
+^But it looked as if it would be easy to escape if I really wanted to.\
+
+;確か彼女も何度か来た筈だけど、
+;どうして彼女は、今も７階に留まっているのだろうか…\
+^She must have come here many times herself ...
+^so why did she remain on ７F right now ...?\
+
+;早朝の駅前。\
+^The station in the early morning.\
+
+;足早に通り過ぎる人達を眺めながら、
+;ふと、そんなことを思っていた。\
+^I stood there, thinking these thoughts,
+^as I watched the people rapidly passing me by.\
+
+
+
+;＿＿＿＿;＿＿＿＿;＿
+
+
+bg "e\sora_yoru01.jpg",5
+
+;その夜。消灯時間も過ぎた頃。\
+^That night.  After lights-out.\
+
+;マンガ本にも飽き、寝付けなかった俺は、
+;一人で病院内をぶらぶらとしていた。\
+^Bored of manga, and unable to sleep,
+^I wandered through the hospital alone.\
+
+;通常、消灯後にうろつくと、こうるさく言われるが、
+;俺達７階の住人は比較的自由だった。\
+^Certainly, it wasn't supposed to be allowed after lights-out,
+^but we of ７F had a peculiar kind of liberty.\
+
+
+;そして、照明を落とされ、
+;真っ暗になったいつもの談話室。\
+^So, in the presence of no light,
+^in the pitch-black stillness of the lounge.\
+
+;そこで、あいつの姿を見つけた。\
+^That was where I found her.\
+
+bg "e\danwa_yoru.jpg",3
+
+;「よう、今日は外、見てるのか？」\
+^``Hey.  Have you been looking outside today?''\
+
+dwavestop 0
+
+;dwave 0,"w\n044.ogg"
+dwave 0,"w\nv044.ogg"
+
+;「…うん」\
+^``... yeah.''\
+
+dwavestop 0
+
+;暗い室内。返事はするが、
+;その顔は窓の外に向けたままの彼女。\
+^The darkened interior.  She did answer me,
+^but she continued to stare out the window as if she had not.\
+
+;早速俺は、今日あったことを話し始める。\
+^I immediately launched into what had happened today.\
+
+;自分の目で見た感じでは、逃げる気になれば簡単に思えた。
+;なりに逃げ出すのは簡単だと思えたからだ\
+
+;「そういえばさ…昼間、駅前まで行ってきたぞ」\
+^``Oh, by the way ... I went out to the station today.''\
+
+;dwave 0,"w\n045.ogg"
+
+;「……………」\
+
+dwavestop 0
+
+;「教えられた通り、Ｂ駅の方に行ってみた」\
+^``The B station, just as you taught me.''\
+
+;dwave 0,"w\n079.ogg"
+dwave 0,"w\nv079.ogg"
+
+;「そう…」\
+^``I see ...''\
+
+dwavestop 0
+
+;でも、彼女の反応は普段と変わらなかった。\
+^But her response did not change.\
+
+;今日俺が見た限りでは、
+;本当に抜け出すつもりなら簡単だと思えた。\
+
+;以前に彼女も行った筈だから、
+;何らかの反応があると思ったのだけど…\
+^I'd thought that she'd react with ~i~something~i~ because she'd been there before too ...\
+
+;それを考えると、今も彼女がここに留まるのは、^@^
+;本当は、最初から抜け出すつもりもなかったのだろうか？\
+^But now that I thought about it, did the fact that she was here^@^ mean that she had no intention of escaping in the first place?\
+
+;dwave 0,"w\n047.ogg"
+dwave 0,"w\nv047.ogg"
+
+;「…わたし、もうすぐ帰れるの…」\
+^``... I'm going to be going home soon ...''\
+
+dwavestop 0
+
+;「えっ？」\
+^``What?''\
+
+;突然、口を開いた彼女。\
+^She opened her mouth abruptly.\
+
+;まるで、今の俺の心を、
+;見透かされたような言葉だった。\
+^And spoke as if she'd seen right through me.\
+
+;dwave 0,"w\n048.ogg"
+;dwave 0,"w\nv048.ogg"
+dwave 0,"w\nv048b.ogg"
+;「…でも、次で３回目だから…」\
+^``... but next time will be the third time ...''\
+
+dwavestop 0
+
+;dwave 0,"w\nv048_1.ogg"
+;dwave 0,"w\nv048_1b.ogg"
+dwave 0,"w\nv048_1c.ogg"
+;「…もう会えないかもね」\
+^``... so we may not see each other again.''\
+
+dwavestop 0
+
+;「ん…ああ、そうだな…」\
+^``Hmm ... yeah, I guess ...''\
+
+dwavestop 0
+
+;恐らくこいつが言うところの帰れるってのは、
+;仮退院のことを指しているのだろう。\
+^Probably, what she was talking about was a temporary discharge from the hospital.\
+
+;この７階って場所では、
+;３回以上の入退院を繰り返すことは、まず無いらしい。\
+^She'd told me that nobody was discharged from ７F more than 3 times.\
+
+;特に高齢者と違い、病状の進行速度を考えると、
+;俺達のような若い年代なら尚更のことだった。\
+^Unlike the elderly, given the progress of our diseases,
+^this meant all the more to young people like us.\
+
+;そういう意味での、もう会えないという言葉だった。\
+^Her `we may not see each other again'
+^was filled with that kind of meaning.\
+
+
+;dwave 0,"w\n049.ogg"
+dwave 0,"w\nv049.ogg"
+
+;「ねえ、あなたはどちらを選ぶの？」\
+^``Oh, which one have you decided on?''\
+
+;「…選ぶとは？」\
+^``... decided on?''\
+
+;dwave 0,"w\nv049_1.ogg"
+dwave 0,"w\nv049_1b.ogg"
+
+;「…どっちで死ぬつもりってこと」\
+^``... where you're going to die.''\
+
+;「…………」\
+^``... ...''\
+
+;突然、『死』という単語を聞かされ、
+;俺は一瞬だけ言葉に詰まってしまう。\
+^When that word, `death', came up so abruptly,
+^I was at a total loss for words.\
+
+
+;「さあな…まだ考えてない」\
+^``I don't know ... haven't thought about it yet.''\
+
+dwavestop 0
+
+;dwave 0,"w\n050.ogg"
+dwave 0,"w\nv050.ogg"
+
+;「…そう…まだ１回目だもんね」\
+^``... I see ... it's just your first time, after all.''\
+
+dwavestop 0
+
+;そう呟いて寂しそうにする彼女。\
+^She murmured, looking desolate.\
+
+;もちろん俺だって、
+;いつまでもここに居れる訳はない。\
+^Certainly, it wasn't as if
+^I was going to exist here forever.\
+
+;他の皆んなのように、
+;何回か入退院を繰り返して、徐々に弱って、いつかは…\
+^Just like everyone else, I would be admitted and discharged,
+^slowly grow weak, and someday ...\
+
+;結局最後には、この７階か、
+;薄っぺらい笑顔に囲まれた家かを選ぶことになるのだろう。\
+^I would have to choose in the end: here on ７F,
+^or at home surrounded by those fake smiles.\
+
+
+;dwave 0,"w\n051.ogg"
+dwave 0,"w\nv051.ogg"
+
+;「わたしは…家は嫌…」\
+^``I ... don't want to die at home ...''\
+
+dwavestop 0
+
+!w500
+
+;dwave 0,"w\n052.ogg"
+dwave 0,"w\nv052.ogg"
+
+;「だけど、ここも嫌…」\
+^``But I don't want to die here either ...''\
+
+dwavestop 0
+
+;「…じゃあ、どうすんだ？」\
+^``... then what will you do?''\
+
+dwavestop 0
+
+dwave 0,"w\n055.ogg"
+
+;「……………」\
+^``... ... ...''\
+
+dwavestop 0
+
+;dwave 0,"w\n053.ogg"
+dwave 0,"w\nv053.ogg"
+
+;「…別に…どうもしない…」\
+^``... I guess ... the only thing ...''\
+
+dwavestop 0
+
+!w500
+
+;dwave 0,"w\n054.ogg"
+;dwave 0,"w\nv054.ogg"
+dwave 0,"w\nv054b.ogg"
+
+;「自力で歩ける内に、どこかに行くだけ…」\
+^``... is to go somewhere ...
+^ ... while I still have the strength to ...''\
+
+dwavestop 0
+
+;「どこかって、お前…」\
+^``Somewhere?  You can't be ...''\
+
+;明らかに逃げる気になれば逃げれるのに、
+;今もこの７階に留まっている彼女。\
+^This girl, who was staying here on ７F when she could have escaped anytime she wanted ...\
+
+;それを考えると…\
+^When I thought of that ...\
+
+
+;「…もしかして、他に行くあてがあるのか？」\
+^``... do you have any other place ~i~to~i~ go?''\
+
+dwavestop 0
+
+dwave 0,"w\n055.ogg"
+
+;「……………」\
+^``... ... ...''\
+
+dwavestop 0
+
+
+;dwave 0,"w\n056.ogg"
+dwave 0,"w\nv056.ogg"
+
+;「あなた…^@^わたしを引き止めたいの？」\
+^``Do you ...^@^ want to stop me?''\
+
+dwavestop 0
+
+;「えっ…」\
+^``Wha ...''\
+
+dwavestop 0
+
+;dwave 0,"w\n057.ogg"
+dwave 0,"w\nv057.ogg"
+
+;「それとも…一緒について来たいの？」\
+^``Or ... do you want to come with me?''\
+
+dwavestop 0
+
+;「あ、いや、別にそんな意味じゃないけど…」\
+^``Well, no, that wasn't what I was thinking about ...''\
+
+dwavestop 0
+
+;dwave 0,"w\n058.ogg"
+
+;「…………」\
+
+dwavestop 0
+
+;dwave 0,"w\n059.ogg"
+dwave 0,"w\nv059.ogg"
+
+;「…じゃあ、聞かないで」\
+^``... then don't ask.''\
+
+dwavestop 0
+
+;窓の外を見つめたまま淡々と話す彼女。
+;相変わらず俺の方は見ようともしない会話だった。\
+^She was staring out the window as she spoke.  Dispassionate.
+^Not looking at me once.  The same as ever.\
+
+;でも、その時だけは…\
+^But then and just then ...\
+
+;いつもの無表情な横顔が哀しそうに見えた。\
+^Her usual expressionless face looked so very sad to me.\
+
+bg "e\sora_yoru01.jpg",5
+
+;３回目の仮退院が最後だと教えられ、
+;初めてこの７階に来た俺。\
+^I was a newcomer to ７F,
+^just recently taught that the third discharge was the last.\
+
+;そして、間もなく２回目を迎える彼女。\
+^And she was a girl who soon was to be discharged for the second time.\
+
+;まだ俺には、リアルで起こった事として実感できないけど…\
+^I still did not feel anything real about what was happening to me ...\
+
+;いつかは俺も、
+;あんな顔をするようになるのだろうか…\
+^But would I, too,
+^come to wear such a face someday ...?\
+
+bg "e\w.jpg",5
+
+stop
+mp3fadeout 2500
+
+
+;☆ＢＧ　雨空\
+
+dwave 5,"se\rain_1.ogg"
+
+bg "e\sora_ame01.jpg",3
+
+
+;未明から降り出した雨。\
+^The rain at morning twilight.\
+
+;時折、みぞれや雪に変わりながらも、
+;しとしとと降り続いていた。\
+^Sometimes sleet, sometimes snow.
+^Always coming down.\
+
+
+mp3loop "bgm\n03.mp3"
+
+
+;●：談話室(雨)
+
+bg "e\danwa_ame.jpg",3
+
+;そんな中、いつもの場所でテレビを見ている俺。
+;相変わらず、この７階はひと気がなかった。\
+^And I was sitting there watching TV in my usual place.
+^７F felt as devoid of people as it always had.\
+
+dwave 0,"w\n061.ogg"
+
+;「…おもしろい？」\
+^``... anything interesting?''\
+
+dwavestop 0
+
+;「いいや、つまらない…」\
+^``No, completely boring ...''\
+
+dwavestop 0
+
+;向こうからやってきた彼女。\
+^She walked to my side.\
+
+;それだけの言葉を交わすと、
+;黙って隣のパイプ椅子へと腰掛ける。\
+^Saying no more,
+^she sat down in a chair next to me.\
+
+;そして今日も、二人してつまらないテレビを眺め始めた。\
+^And that was how we began watching TV on this very day as well.\
+
+;…きっと彼女もそうなんだろう。\
+^... she was probably in the same boat as me.\
+
+;他にやることもなかった。やれることもなかった。\
+^Nothing else to do.  Nothing we ~i~could~i~ do.\
+
+
+bg "e\b.jpg",3
+
+dwave 0,"w\n062.ogg"
+
+;「あ……」\
+^``Oh ...''\
+
+dwavestop 0
+
+;珍しくテレビに反応した彼女。\
+^I had never seen her respond to the TV before.\
+
+;「どうかしたか？」\
+^``Is something the matter?''\
+
+dwavestop 0
+
+;dwave 0,"w\n055.ogg"
+
+;「……………」\
+
+;dwavestop 0
+
+dwave 0,"w\n063.ogg"
+
+;「…別に」\
+^``... not really.''\
+
+dwavestop 0
+
+;言葉はいつも通りの『別に』だが、
+;普段とは違う彼女の反応。\
+^Those were her usual words,
+^but her response was anything but usual.\
+
+;それが気になった俺も画面に注目した。\
+^And I looked at the screen,
+^interested in anything that could move her so.\
+
+bg "e\w.jpg",3
+
+;テレビの中にはどこかの自然風景。
+;綺麗な野山に、樹木や花が景色に溶け込んでいた。\
+^There were nature scenes being displayed on TV.
+^Beautiful hills and dales burgeoning with trees and flowers.\
+
+;そして、そこに映し出されていた、たくさんの白い花。\
+^And a vast spread of white flowers in the midst.\
+
+bg "e\tv_hana.jpg",5
+
+;…見覚えのある花だった。\
+^... I remembered those flowers from somewhere.\
+
+;今もこの部屋の窓辺に飾られている、
+;目の前の白い花と似ていた。\
+^They looked very similar to the white flowers that decorated the windowsills.\
+
+;「もしかして、同じ花か？」\
+^``Could those be the same flowers ...?''\
+
+dwavestop 0
+
+dwave 0,"w\n064.ogg"
+
+;「…………」\
+^``... ...''\
+
+dwavestop 0
+
+;「ほら、これってそっくりじゃん」\
+^``You know, the same as those over there.''\
+
+dwavestop 0
+
+;言いながら、ブラウン管と窓辺を交互に指差す俺。\
+^I pointed to the flowers by the window as I said this.\
+
+dwave 0,"w\n065.ogg"
+
+;「…ちがう」\
+^``... no.''\
+
+dwavestop 0
+
+;「へえ、そうなんだ？」\
+^``Huh, really?''\
+
+dwavestop 0
+
+dwave 0,"w\n066.ogg"
+
+;「種類は同じだけど…厳密に言えば違う…」\
+^``They're of the same variety ... but they're not strictly the same ...''\
+
+dwavestop 0
+
+;窓辺の花には一瞥をくれただけで、
+;また正面のテレビを見続けたまま答える彼女。\
+^She glanced at the flowers by the window for a second,
+^and then went back to gazing at the TV.\
+
+;正直言って、違うと否定されても、
+;俺にはその両者の区別が分からなかった。\
+^She'd told me that they were different,
+^but I couldn't see the distinction between the two.\
+
+;それに、俺にとっては花が同じであろうが、
+;違っていようが、別にどうでも良いことだった。\
+^And it meant nothing to me whether flowers were the same or different.\
+
+;それよりも、普段なら決して話しに乗ってこない彼女。\
+^But what did mean something was this girl who usually never said a word more than she needed to.\
+
+;その彼女が珍しく言葉を続けていた。
+;だから俺も、話しを合わせてみた。\
+^She was conversing in rare form today.
+^Which was why I decided to follow along.\
+
+bg "e\danwa_ame.jpg",5
+
+;「お前ってさ、もしかして詳しいのか？　こーゆーのに」\
+^``Do you happen to know a lot about them? Flowers, that is.''\
+
+dwavestop 0
+
+dwave 0,"w\n068.ogg"
+
+;「…別に」\
+^``... not really.''\
+
+dwavestop 0
+
+;「そうか？　でも俺には違いが分からねえよ」\
+^``Really?  But I don't see the difference.''\
+
+;ブラウン管の向こうに咲く白い花。
+;それと彼女の横顔の向こうに在る花瓶の花。\
+^The flowers on the screen.
+^And the flowers in the vase to her side.\
+
+;ぼんやりと、その両者を眺めながら、尚も言葉を続けた。\
+^I continued to talk as I stared vacantly at the two.\
+
+;「なあなあ、これってさ、蘭とか百合ってのか？」\
+^``Look, look, are these orchids or lilies?''\
+
+dwave 0,"w\n067.ogg"
+
+;「……………」\
+^``... ... ...''\
+
+dwavestop 0
+
+;「ほら、白っぽい色してるしさ」\
+^``See, they're pure white, right?''\
+
+dwave 0,"w\n067.ogg"
+
+;「……………」\
+^``... ... ...''\
+
+bg "e\b.jpg",3
+
+;興味もないくせに、適当に言葉を続ける俺。\
+^I had no interest,
+^yet I kept trying to make conversation.\
+
+;だけど…^@^
+;彼女は、すぐにいつもの調子で黙ってしまう。\
+^But ...^@^
+^... she resumed her silence soon enough.\
+
+;相変わらずの様子で、
+;つまらないブラウン管を見つめるだけだった。\
+^And with her usual lack of expression,
+^she continued staring at the boring TV screen.\
+
+;そして、もう会話にはのってくれないのかと諦め、
+;再び俺も、テレビに視線を戻そうとした時…\
+^And just when I turned back to the TV,
+^resigned to the fact that I'd get nothing more out of her ...\
+
+bg "e\w.jpg",5
+
+dwave 0,"w\n069.ogg"
+
+;「…ナルキッソス…」\
+^``... narcissus ...''\
+
+dwavestop 0
+
+;「えっ…」\
+^``Wha ...?''\
+
+dwavestop 0
+
+dwave 0,"w\n070.ogg"
+
+;「ナルキッソスよ…」\
+^``Those are narcissus ...''\
+
+dwavestop 0

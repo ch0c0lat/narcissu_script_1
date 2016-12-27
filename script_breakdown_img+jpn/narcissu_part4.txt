@@ -1,0 +1,2497 @@
+dwave 0,"w\n209.ogg"
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+;「あ、その、例の場所…淡路島までさ」\
+^``Ah, um, to that place... Awaji-shima.''\
+
+dwavestop 0
+
+!s90
+
+dwave 0,"w\n210.ogg"
+
+;「……悪い？」\
+^``... Problem?''\
+
+!sd
+
+dwavestop 0
+
+;「いや、そんな意味じゃねえけどさ…」\
+^``Um, no, that's not what I meant...''\
+
+dwavestop 0
+
+;何の目的も持たずに進む俺達。\
+^We had driven without any destination.\
+
+;何か目的が欲しくて彷徨っていた俺と、
+;いつも遠くを見つめてばかりで、よく分からない彼女。\
+^I, who had been wandering around wanting a goal, and the mysterious girl, always looking far away.\
+
+;その彼女の口から、出たことが俺には意外だった。\
+^What came from that girl's mouth, was unexpected.\
+
+bg "e\b.jpg",3
+
+dwave 0,"w\n211.ogg"
+
+;「…期待してる訳じゃない」\
+^``... It's not that I'm expecting anything.''\
+
+dwavestop 0
+
+;「えっ？」\
+^``Eh?''\
+
+dwavestop 0
+
+dwave 0,"w\n212.ogg"
+
+;「別に水着が欲しい訳じゃ…」\
+^``It's not like I want a swimsuit...''\
+
+dwavestop 0
+
+;「…お前、なに言ってるんだ？」\
+^``... What are you saying?''\
+
+dwavestop 0
+
+dwave 0,"w\n213.ogg"
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+dwave 0,"w\n214.ogg"
+
+;「…なんでもないわよ」\
+^``... It's nothing.''\
+
+dwavestop 0
+
+;□心情・情景＞ヒロイン様子とか\
+
+;＿＿＿＿;＿＿＿＿;＿＿;＿
+
+bg "e\w.jpg",5
+stop
+mp3fadeout 2500
+
+;bg "yobi\cat03.bmp",3
+bg "agilis\1\cat03.png",3
+
+!w800
+
+;☆ＢＧ　青空あたり
+bg "e\sora03.jpg",5
+
+mp3loop "bgm\a01.mp3"
+
+;☆ＢＧＭ＞ナルインストあたり＞００２;＿２
+
+;冬の澄んだ空の下、日射しを跳ねて進む銀のクーペ。\
+^Under the clear winter sky, while reflecting the sunlight, the silver coupe ran on.\
+
+;強い上り坂や急なカーブが多かった箱根も越え、
+;今はずいぶんと楽な道のりへと変わっていた。\
+^It passed through Hakone, with its steep inclines and sudden curves, and now the roads turned much gentler.\
+
+;「なあ、ここらってどこらへんだ？」\
+^``Hey, this place is around where?''\
+
+dwavestop 0
+
+dwave 0,"w\n215.ogg"
+
+;「愛知県よ、間もなく名古屋市街に入るわ…」\
+^``Aichi-ken, and soon, we'll entering the city of Nagoya...''\
+
+dwavestop 0
+
+;残り金額を考え、高速は使わずに下道を走る俺達。\
+^Thinking of our money, we drove on the lower roads without using the expressways.\
+
+;俺一人では、とうてい無理だろうけど、
+;彼女の指示通りに進んでいた。\
+^Myself alone, it would have been absolutely impossible, but following the girl's directions, we went on.\
+
+;ナビ以上に詳しい彼女の指示。\
+^The girl who was more knowledgeable than a navigation system pointed out the way.\
+
+;その理由はわからないけど、
+;恐らくは正しいルートなのだと思えた。\
+^I didn't know the reason why, but I felt that it was probably the right route.\
+
+dwave 0,"w\n216.ogg"
+
+;「次の交差点…２２号線に入って」\
+^``At the next intersection... enter Route 22.''\
+
+dwavestop 0
+
+;「わかった」\
+^``Got it.''\
+
+dwavestop 0
+
+;言われた通りに車線を変え、ハンドルを切る。\
+^Changing lanes as told, I turned the wheel.\
+
+;☆ＢＧ　なんか変えて\
+bg "e\soukou_machi.jpg",3
+
+;窓からの流れる景色。
+;初めて見る賑やかな市街地をどこまでも北上する。\
+^In the scenery flowing by the window, we first saw a busy city stretch far to the north.\
+
+;そして、いつしか周りの風景が、
+;少しずつ落ち着いたものへと変わる頃…\
+^Then, while all unnoticed, the scenery around us slowly turned to more calm things...\
+
+;「なあ、あそこでも寄ってくか？」\
+^``Hey, you want to go there?''\
+
+dwavestop 0
+
+bg "e\naname_machi.jpg",3
+
+;国道沿いに見える、どこかのファミレス。\
+^By the side of the national road, some family restaurant chain.\
+
+;俺は走りながら、それを指差すと言葉を続けた。\
+^As I drove, I pointed to it and continued speaking.\
+
+;「ほら、今までコンビニばっかだったろ？」\
+^``Look, up until now we've been eating only convenience store food, right?''\
+
+dwavestop 0
+
+;;dwave 0,"w\n044.ogg"
+
+;;「…うん」\
+
+;;dwavestop 0
+
+;もちろん好きでコンビニばかりだった訳じゃない。\
+^Of course, we hadn't been eating only convenience store food because we liked it.\
+
+;所持金を考えてのことだし、
+;そこまで心に余裕がなかったのも理由だった。\
+^We had to consider our money, and didn't have that sort of room for choosing.\
+
+;でも今は、少しだけ金銭的にも余裕ができた。
+;だからこその俺の提案だった。\
+^But now, we had just a little bit of room financially. That was why I made the suggestion.\
+
+;「な、たまにはファミレスもいいじゃん」\
+^``Well, once in a while, a restaurant's good too.''\
+
+dwavestop 0
+
+dwave 0,"w\n218.ogg"
+
+;「…わたしは、コンビニでいい…」\
+^``... I'm, fine with the convenience store.''\
+
+dwavestop 0
+
+;そう言うと、少しだけ俯く彼女。
+;どうやら自分の服を見つめているようだった。\
+^While saying that, just a bit, the girl looked down. It seemed like she was looking at her clothes.\
+
+;ああ…そういえばこいつって、
+;ぶかぶかの服を着たままだったな…\
+^Ah... that's right, she's been wearing those floppy clothes all this time...\
+
+;「わかった、じゃあ先にあっち寄るか？」\
+^``Got it, then want to go there first?''\
+
+dwavestop 0
+
+dwave 0,"w\n219.ogg"
+
+;「…あっちって？」\
+^``... There?''\
+
+dwavestop 0
+
+;「ほら、手前の店、どこかのジーンズショップ」\
+^``Look, the store just up front, some kind of jeans shop.''\
+
+dwavestop 0
+
+;それは、国道沿いによく見られる、
+;ジーンズやカジュアルを揃えた量販店のようだった。\
+^It was one of those places often seen along the national roads that looked like some kind of wholesale outlet dealing in jeans and casual wear.\
+
+;「きっとこの手の店なら、
+;　そんな高くないのあるだろうからさ」\
+^``I'm sure a store like that would have things that don't cost that much.''\
+
+dwavestop 0
+
+dwave 0,"w\n220.ogg"
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+;「じゃあ寄るぞ？　寄るからな」\
+^``Well, we're going. We're going in, okay?''\
+
+dwavestop 0
+
+dwave 0,"w\n055.ogg"
+
+;「………………」\
+^``......''\
+
+dwavestop 0
+
+;返事はなかった。
+;でも、反対もされなかった。\
+^There was no reply. But there was also no resistance.\
+
+;もしかしたら…\
+^Could it be...\
+
+;こいつにとって反論しないってことは、
+;肯定と考えて良いのかも知れない。\
+^That if she didn't object, I could think of it as agreement?\
+
+;＿＿＿＿;＿＿
+
+bg "e\b.jpg",3
+
+;店内に入った俺達。\
+^We entered the store.\
+
+;２階建ての大きなフロアを、あいつが物珍しそうに、
+;幾つものコーナーを見て回っていた。\
+^On the large two floors, the girl curiously went around many of the sections.\
+
+;その様子は、相変わらずの無口だし、
+;普段の姿と変わらないように見えるかも知れない。\
+^She was silent as usual, and might have looked unchanged from her usual appearance.\
+
+;だけど、無機質に何も映していなかった、
+;あのつまらないテレビを見ていた時とは少し違っていた。\
+^But, somehow it was slightly different from the times she was lifelessly staring at whatever came on boring television.\
+
+bg "e\w.jpg",3
+bg "e\b.jpg",3
+
+;何度も何度も手にとって、
+;値札を見ては考え込むようにしていた。\
+^Over and over, she would pick something up, look at the price tag, and fall into thought.\
+
+;そして、試着をする度に俺の方へと駆け寄って…\
+^And while trying things on, she would come up to me...\
+
+dwave 0,"w\n222.ogg"
+
+;「…どう？」\
+^``... How is it?''\
+
+dwavestop 0
+
+;「どうって、似合ってんじゃねえか？」\
+^``How is it? It suits you.''\
+
+dwavestop 0
+
+dwave 0,"w\n223.ogg"
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+dwave 0,"w\n224.ogg"
+
+;「…変じゃない？」\
+^``... It's not strange?''\
+
+dwavestop 0
+
+;「ああ、たぶんな」\
+^``Ah, probably.''\
+
+dwavestop 0
+
+;こんな感じで何度も何度も、
+;試着を繰り返しては見せにくる彼女。\
+^Over and over like that, the girl would change clothes and come back to show me.\
+
+;決して笑ったり、表情に出したりはしないけど、
+;その姿は、どこか嬉しそうにしているようにも思えた。\
+^She would never smile, or show any emotion, but I sensed somewhere that she was enjoying herself.\
+
+;「どうだ、決まったか？」\
+^``How about it, decided?''\
+
+dwavestop 0
+
+dwave 0,"w\n225.ogg"
+
+;「…うん、これにする」\
+^``... Un, I'll take this.''\
+
+dwavestop 0
+
+;そう言って俺に、最後に試着した、
+;可愛いシャツと短いスカートを見せる。\
+^While saying that, she showed me the last set she changed into, a cute shirt and short skirt.\
+
+;その選んだ服は、いかにも中学生か高校生あたりが、
+;好んで着ていそうな服だった。\
+^Those clothes were just exactly like a middle school or high school student's, but she happily wore them.\
+
+;確か以前に、俺よりも年上だと言っていたけど…\
+^Certainly, she had said that she was older than me...\
+
+;どう見ても、そうは見えない彼女の容姿と相まって、
+;逆にハマり過ぎてて微笑ましく見えてしまう。\
+^But however you looked at it, when put together with a figure that really didn't look older, it suited her so well it was charming.\
+
+
+;「でもさ、そのスカートは、
+;　止めた方がいいんじゃねえか？」\
+^``But, that skirt, isn't it better if you gave up on it?''\
+
+dwavestop 0
+
+dwave 0,"w\n226.ogg"
+
+;「えっ…」\
+^``Eh?''\
+
+dwavestop 0
+
+;「あ、いや、似合ってないとか、そーゆーのじゃないから」\
+^``Ah, no, it's not that it doesn't suit you or anything.''\
+
+dwave 0,"w\n227.ogg"
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+;「ほら、寒いだろ？　今の時期ってその格好じゃ」\
+^``Look, it's cold isn't it? It's not an outfit for this season.''\
+
+dwave 0,"w\n228.ogg"
+
+;「…べ、別に平気よ…わたし我慢するから」\
+^``... I-it's not particularly a problem... I'll endure it.''\
+
+dwavestop 0
+
+;＿キープ;＿普通のぼそぼそパターンも;＿
+
+;dwave 0,"w\n229.ogg"
+
+;;「別に平気よ…わたし我慢するから
+;;＿＿;＿
+
+dwavestop 0
+
+bg "e\w.jpg",3
+
+!s100
+
+;そう答えた時…\
+^When she answered...\
+
+!sd
+
+;少しだけその白い顔が赤くなったように見えた。
+;普段は絶対に感情を表さないこいつなのに…\
+^I could see just the slightest bit of red on her white face. Even though normally she would absolutely never show any emotion...\
+
+;…もしかして、照れているのだろうか？\
+^... Could it be, that she's embarrassed?\
+
+;初めて見る、こいつの表情だった。\
+^It was the first time, I saw her show emotion.\
+
+;＿
+
+;☆ＢＧ　空
+bg "e\sora03.jpg",3
+
+;尚も走り続ける俺達。\
+^We continued on driving.\
+
+;冬の高い高い空の下、
+;少し排気音のうるさい銀のクーペは走り続けていた。\
+^Under the high, high winter sky, the silver coupe with the slightly noisy exhaust continued driving.\
+
+dwave 0,"w\n230.ogg"
+
+;「次で２１号線に入って…」\
+^``Next, go onto Route 21...''\
+
+dwavestop 0
+
+;「わかった」\
+^``Alright.''\
+
+dwavestop 0
+
+bg "e\shanai_michi01.jpg",3
+
+;相変わらず彼女のナビに従って進む。
+;気づけば、既に岐阜県に入っていた。\
+^As usual, we went on following the girl's navigation. Before we knew it, we were in Gifu-ken.\
+
+;いつもなら必要な時以外は、
+;窓の外をじっと眺めているだけの彼女。\
+^Normally, except when needed, the girl would always be gazing out the window.\
+
+;なのに今は、何度も何度も、
+;サイドミラーに自分の姿を映しては嬉しそうにしていた。\
+^But now, again and again, she would happily look at her reflection in the side mirror.\
+
+;まるで、俺の目を盗むようにミラーを覗き込んでいた。\
+^As if she were trying to avoid my noticing, she peered into the mirror.\
+
+;;先ほど買ってきた服に身を包んで
+;;少しだけ嬉しそうにしているように俺には見えた。\
+
+;「…………」\
+^``......''\
+
+dwavestop 0
+
+dwave 0,"w\n231.ogg"
+
+;「…なに？」\
+^``... What?''\
+
+dwavestop 0
+
+;「いや、さっきの服、気に入ったみたいだな」\
+^``Nothing, the clothes from before, looks like you like them.''\
+
+dwavestop 0
+
+dwave 0,"w\n232.ogg"
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+dwave 0,"w\n233.ogg"
+
+;「別に…そんなことないわよ」\
+^``Not particularly... it's not that.''\
+
+dwavestop 0
+
+;そう言うとサイドミラーを見るのを止めてしまう。\
+^Saying that, she stopped looking at the side mirror.\
+
+;でも、しばらくすると、
+;また俺がよそ見している間にチェックを始める彼女。\
+^But after a while, when I was looking away, the girl once again started checking the mirror.\
+
+;…結構、かわいいところもあるんだな…\
+^... In the end, she's also got a cute side it seems...\
+
+;たったこれだけのことでも、
+;普段が普段なだけに、俺には可愛いと思えた。\
+^From just that little thing, just normally, and only normally, I thought she was cute.\
+
+bg "e\b.jpg",5
+stop
+mp3fadeout 2500
+
+;＿＿＿＿＿＿＿＿＿＿＿＿
+
+;小タイトル戻し\
+
+;mov $sys_midasi,"一号線３　ボイスＶｅｒ"
+mov $sys_midasi,"Route 1: 3 [a]"
+
+;＿＿＿＿;＿＿＿＿;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+;☆ＢＧ　夜空\
+
+bg "e\sora07.jpg",3
+
+mp3loop "bgm\n05.mp3"
+
+;すっかりと日が暮れる頃。\
+^When the sun had completely set.\
+
+;どこかの道端。
+;また今日もコンビニでの夕食を済ませた頃。\
+^By some roadside somewhere, we had once again fished our meal of convenience store food.\
+
+;☆ＢＧ　どこかの道端とか：夜
+bg "e\chusha_michi2_yoru.jpg",3
+
+;「なあ、今頃どうなってっかな…」\
+^``Say, I wonder what's become of things right now...''\
+
+dwavestop 0
+
+;今も手首に巻かれたままになっている、
+;ビニール製の白い腕輪。\
+^Even now, wrapped around my wrist, the white vinyl bracelet.\
+
+;血液型と俺の名前が記載された、
+;あの、病院のネームプレートを見ながら呟く。\
+^On it, my blood type and name was recorded. As I looked at the hospitals name plate, I murmured.\
+
+;「やっぱ、大騒ぎしてると思うか？」\
+^``You think... there's been a big uproar?''\
+
+dwavestop 0
+
+dwave 0,"w\n234.ogg"
+
+;「…たぶんね」\
+^``... Probably.''\
+
+dwavestop 0
+
+;「だよな…」\
+^``Yeah...''\
+
+dwavestop 0
+
+;両親や、友達、それに病院の先生達…\
+^Parents, friends, as well as the hospital doctors...\
+
+;例えそれが上っ面だけだったとしても、
+;心配してくれていると思うと、少し心苦しかった。\
+^When I thought that even if only on the surface, they were worried about me, it pained my heart a little.\
+
+;悪いな…親父、皆んな…^@^
+;自分勝手な、我侭やっちまって…\
+^Sorry... dad, everyone...^@^ going off and doing something selfish...\
+
+
+;☆ＢＧ　どこかの道端とか：夜
+
+bg "e\car_byoin_chusyajo_yoru.jpg",3
+
+dwave 0,"w\n235.ogg"
+
+;「ねえ、あなたって…」\
+^``Say, you...''\
+
+dwavestop 0
+
+;「ん？　どうかしたか？」\
+^``Mm? Something the matter?''\
+
+dwave 0,"w\n236.ogg"
+
+;「最初に…死ぬって聞かされた時……泣いた？」\
+^``The first time... you heard you were going to die... did you cry?''\
+
+dwavestop 0
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+;突然の彼女の問いに、一瞬だけ驚いた。
+;そして、その問いの重さに暫く考えてしまった。\
+^At the girl's sudden question, for a moment, I was taken aback. Then, I thought about the weight of the question for a time.\
+
+;「…確か…泣かなかったと思う」\
+^``... I think... I didn't cry.''\
+
+dwavestop 0
+
+dwave 0,"w\n237.ogg"
+
+;「じゃあ、どうして自分だけって…運命を呪った？」\
+^``Then, did you say `why only me?'... and curse fate?''\
+
+dwavestop 0
+
+;「それは…よく覚えていない」\
+^``That... I don't really remember.''\
+
+dwavestop 0
+
+;始めは現実に起こった事として認識できなかった。
+;リアルとして考えられなかったように思う。\
+^In the beginning, I wasn't able to realize what was happening in reality. I think it was because I couldn't conceive of it as being real.\
+
+;だけど…本当は少しはあったのかも知れない。\
+^However... in truth, there might have been a bit of that.\
+
+;一緒に教習所に通った友達が、新車を買った。
+;３６回のローンが大変だとぼやいていた。\
+^The friend I went to the training center with bought a new car, complained about how much trouble the 36 loan payments were.\
+
+;就職が決まった奴もいた。留年が確定した奴もいた。
+;子供が出来た奴もいた。また彼女にフラれたって奴もいた。\
+^There were those who got jobs. Those who got left back in school.
+^Those who had kids. Those who were dumped by their girlfriends again.\
+
+;でも俺は…^@^未来を断たれた。\
+^But I...^@^ was denied a future.\
+
+;だから本当は…
+;どうして自分だけがって気持ちはあったんだと思う。\
+^That was why, to be honest... I think there had been the feeling of ``why only me?''\
+
+;これが運命だからって自分に言い聞かせても、
+;やっぱり、諦めきれない気持ちはあったんだと思う。\
+^Even when I told myself that this was fate, still, I think there was the feeling of not wanting to give up.\
+
+;「じゃあお前は…どうだったんだ？」\
+^``Then... what about you?''\
+
+dwavestop 0
+
+dwave 0,"w\n238.ogg"
+
+;「…わたし？」\
+^``... Me?''\
+
+dwavestop 0
+
+;「ああ、哀しくて泣いて…運命を呪ったか？」\
+^``Yeah, did you cry out of sadness... or curse fate?''\
+
+dwavestop 0
+
+dwave 0,"w\n239.ogg"
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+dwave 0,"w\n240.ogg"
+
+;「…わたしは、平気だった」\
+^``... I was, fine with it.''\
+
+dwavestop 0
+
+;「…どうしてだ？」\
+^``... Why?''\
+
+dwavestop 0
+
+dwave 0,"w\n241.ogg"
+
+;「…だって、最初から何も望んでなかったから…」\
+^``... Because, from the start, I didn't wish for anything...''\
+
+dwavestop 0
+
+!w500
+
+dwave 0,"w\n242.ogg"
+
+;「…わたしは、諦めていたから」\
+^``Because I... had given up.''\
+
+dwavestop 0
+
+;「そうか…」\
+^``I see...''\
+
+dwavestop 0
+
+bg "e\b.jpg",3
+
+;最初から諦めていれば、落胆することもない。
+;後ろ向きでいれば楽しくもないけど、辛いこともない。\
+^If you gave up from the start, there would be no disappointment. If you looked into your past, there wouldn't be any happy things, but also no painful things.\
+
+;だけど、その考え方は哀しすぎるような気がする。\
+^But, I had a feeling that that way of thinking was far too sad.\
+
+;それとも、彼女の場合は…^@^
+;そうするより他に、方法がなかったのだろうか…\
+^Or perhaps, in the girl's case...^@^ maybe there was nothing else that could be done...\
+
+bg "e\car_byoin_chusyajo_yoru.jpg",3
+
+dwave 0,"w\n243.ogg"
+
+;「前に見た映画で言ってた…」\
+^``A movie that I saw before said...''\
+
+dwavestop 0
+
+dwave 0,"w\n244.ogg"
+
+;「…狼は３年しか生きないって」\
+^``... That wolves only live three years.''\
+
+dwavestop 0
+
+;「は？　狼？」\
+^``Wha? Wolves?''\
+
+;突然、よく分からないことを話し始めた彼女。\
+^Suddenly, the girl started talking about something I didn't really get.\
+
+dwavestop 0
+
+dwave 0,"w\n245.ogg"
+
+;「でも…ロバは９年も生きるんだって」\
+^``But... it said that donkeys lived nine years.''\
+
+dwavestop 0
+
+;「何のことだ？…狼が３年でロバが９年って？」\
+^``What's this?... Wolves are three years and donkeys are nine?''\
+
+dwavestop 0
+
+;;dwave 0,"w\n055.ogg"
+
+;;「…………」\
+
+dwavestop 0
+
+dwave 0,"w\n246.ogg"
+
+;「…ロバは…役に立つから長生きする」\
+^``... Donkeys are... useful, so they live long.''\
+
+dwavestop 0
+
+dwave 0,"w\n247.ogg"
+
+;「そういうことらしいの…」\
+^``That's how it is, it seems...''\
+
+dwavestop 0
+
+;□心情・情景＞いろいろと\
+
+;寂しそうに窓の外を見ながら、言葉をつむぎ出す彼女。\
+^The girl looked lonely as she gazed out the window, her words sliding out.\
+
+;これが彼女にとっての…
+;自分を納得させる為の、諦める為の言い訳なのだろうか…\
+^This was probably, to this girl... the excuse to convince herself, the excuse so that she could give up.\
+
+
+bg "e\w.jpg",3
+
+;＿＿＿＿＿＿＿＿＿＿＿
+
+;☆シーン変え
+
+;☆ＢＧ　冬空＞雪
+
+dwave 5,"se\car3.ogg"
+
+bg "e\yukizora.jpg",3
+
+;暮れかけた真冬の空。
+;２１号線をまっすぐに進む俺達。\
+^Under the evening winter sky we continued straight along Route 21.\
+
+;その暮れかけた空に舞う、チラチラと白いもの。
+;次第に降りを強くしているようだった。\
+^Dancing in that darkening sky, lightly floating specks of white. It seemed that depending on circumstances, it might snow harder.\
+
+dwave 0,"w\n248.ogg"
+
+;「…どうかした？」\
+^``... Something wrong?''\
+
+dwavestop 0
+
+;「ああ、雪が降ってきた…」\
+^``Yeah, it's snowing...''\
+
+dwavestop 0
+
+;そして、気づけば、
+;道路の脇には白い積雪が姿を現すようになっていた。\
+^Then, I noticed that the sides of the road had become white with fallen snow.\
+
+;☆ＢＧ　雪道\
+bg "e\naname_yuki.jpg",3
+
+;いつの間に積雪地帯に入ったのか分からないが、
+;どこを見渡しても白い色に染められていた。\
+^I didn't know when we had come to a snowy area, but everywhere I looked was stained with white.\
+
+;…少しやばいかもな。\
+^... This might be trouble.\
+
+;さっき見た限りでは、
+;このタイヤはスタッドレスじゃなかった。\
+^From what I had seen before, these tires weren't studless winter tires.\
+
+;もしも、これから先が、
+;更に雪が降るエリアでは厄介かも知れない。\
+^If further ahead was an even snowier area, it might be troublesome.\
+
+;「なあ、ここらって豪雪地帯なのか？」\
+^``Hey, is this place a snowy area?''\
+
+dwave 0,"w\n249.ogg"
+
+;「えっ…」\
+^``Eh?''\
+
+dwavestop 0
+
+;「いや、これ以上、雪が酷くなると辛いからさ」\
+^``Well, if the snow gets any worse, it might be difficult, you see.''\
+
+dwavestop 0
+
+dwave 0,"w\n250.ogg"
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+;仮に路面に積雪は無かったとしても、
+;それだけの場所なら道路が凍結していても不思議ではない。\
+^Even if the road surface wasn't covered in snow, in such a place, it wasn't surprising if the road froze over.\
+
+;そう考えると、教習所の教本でしか習っていなかった、
+;チェーンの装着ってのも必要になるのかも知れない。\
+^And thinking about it, I hadn't learned anything outside of the instruction center's textbook, and we might need to have chains put on.\
+
+;「どうだ、知ってるか？」\
+^``How about it, do you know?''\
+
+dwavestop 0
+
+dwave 0,"w\n251.ogg"
+
+;「この先は…関が原」\
+^``Up ahead is... Sekigahara.''\
+
+dwavestop 0
+
+;「そりゃさっき聞いたって、
+;　俺が知りたいのは雪が酷い場所かってこと」\
+^``I heard that the last time, what I want to know is whether this place gets heavy snow.''\
+
+dwavestop 0
+
+!w500
+!s90
+
+dwave 0,"w\n060.ogg"
+
+;「…わからない…」\
+^``... I don't know...''\
+
+dwavestop 0
+
+!sd
+
+;何故か寂しそうに答える彼女。^@^
+;その様子に俺は少しだけ違和感を覚えた。\
+^For some reason, the girl answered with a lonely expression.^@^ From that expression, I felt that something didn't match up.\
+
+;これだけ道に詳しくて、
+;以前にこの車のこともあんなに詳しかったのに…\
+^Even though she knew that much about the roads, and also knew so much about this car...\
+
+;それと比較すると、十分に知ってそうなことだと思えた。\
+^Compared to that, this seemed like something she would definitely know.\
+
+;「わかった、とにかく気をつけて走る」\
+^``Alright, at any rate, I'll drive carefully.''\
+
+dwavestop 0
+
+dwave 0,"w\n253.ogg"
+
+;「…うん」\
+^``... Un.''\
+
+dwavestop 0
+
+bg "e\b.jpg",3
+stop
+mp3fadeout 2500
+
+
+;＿＿＿＿;＿＿＿＿;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+;・小タイトル戻し
+
+;mov $sys_midasi,"一号線３　ボイスＶｅｒ"
+mov $sys_midasi,"Route 1: 3 [a]"
+
+;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+mp3 "bgm\o012.mp3"
+
+;ちらちらと降り続く雪。\
+
+;ＳＥ＞波の音\
+dwave 5,"se\nami3.ogg"
+
+bg "e\yukizora.jpg",3
+
+;;☆ＢＧ　雪湖っぽいの
+
+bg "e\yuki_kohan.jpg",5
+
+
+;波打ち際。
+;俺達は車を降りると、湖を眺めていた。\
+^The shoreline.
+^We got out of the car, and gazed at a lake.\
+
+;強い風に煽られては、
+;所々、凍った湖面をも染めようとする白い雪。\
+^Blown by the strong wind, here and there, white snow even stained the frozen lake surface.\
+
+;そんな中、まるで海のような波打ち際へ向かって、
+;ゆっくりと歩き始める彼女。\
+^And in that, facing what seemed like the sea's edge, the girl slowly started walking.\
+
+;…以前にもあった光景だった。\
+^... It was a scene that occurred before.\
+
+dwave 0,"w\n254.ogg"
+
+;「…ねえ、どう思う？」\
+^``... Say, what do you think?''\
+
+dwavestop 0
+
+;「このまま進むと、楽に死ねるか？ってのか」\
+^``That `if you continue into the sea like this, would you die comfortably?' thing?''\
+
+dwavestop 0
+
+dwave 0,"w\n255.ogg"
+
+;「うん、海より楽な気がする…」\
+^``Un. I have a feeling it would be more comfortable than the sea...''\
+
+dwavestop 0
+
+;「俺には、その解答の根拠がわからん…」\
+^``I don't see the basis for that answer...''\
+
+dwavestop 0
+
+dwave 0,"w\n256.ogg"
+
+;「だって、海水は塩辛いし身体も浮いちゃうでしょ…」\
+^``Well, sea water is salty, and your body would float wouldn't it?''\
+
+dwavestop 0
+
+;「…そりゃあ、名推理だな」\
+^``... That's, impressive reasoning.''\
+
+dwavestop 0
+
+;冷たい北風と降る雪の中、
+;お互いに本気とも冗談とも取れないことを言い合う。\
+^With the cold north wind and in the falling slow, the two of us exchanged words where one couldn't tell whether we were serious or joking.\
+
+;そして、一旦止まった足を、
+;再び湖へと向けると歩き出す彼女。\
+^And then, the feet that had briefly paused, once again started to move towards the lake.\
+
+dwave 0,"w\n257.ogg"
+
+;「…やっぱり止めないの？」\
+^``... I guess, you aren't going to stop me?''\
+
+dwavestop 0
+
+;「だって今日は、死ぬつもりないだろ？」\
+^``Well, today you don't plan on dying, right?''\
+
+dwavestop 0
+
+;;dwave 0,"w\n258.ogg"
+
+;;「…………」\
+
+dwavestop 0
+
+dwave 0,"w\n259.ogg"
+
+;「…うん…そうかもね」\
+^``... Un... that may be so.''\
+
+dwavestop 0
+
+;…例の場所、淡路島まで
+;あと、どのくらいの距離なのだろうか…\
+^... That place, Awaji-shima, How much further would that be I wonder...\
+
+;別にその場所に行きたかった訳でも、
+;何かのこだわりがあった訳でもない。\
+^It's not as if I wanted to go there, or that I had some sort of obsession with it.\
+
+;だけど、何の目的も持たずに彷徨う俺達だったのに、
+;今では目指す場所が生まれた。\
+^However, even though we had been wandering around with no purpose, now, we found ourselves with a place to aim for.\
+
+;俺が止めなくても、
+;波打ち際の一歩手前で足を止めたままの彼女。\
+^Even if without me stopping her, the girl's feet remained one step before the water's edge.\
+
+;…きっと、そういうことなんだと思う。\
+^... I was sure, that was how it was.\
+
+dwavestop 5
+
+;＿＿＿＿;＿＿＿＿;＿＿;＿
+
+;bg "tui2\cat05.bmp",5
+bg "agilis\1\cat05.png",5
+
+!w600
+
+bg "e\b.jpg",3
+
+dwave 5,"se\car3.ogg"
+
+bg "e\hiki_kosoku2.jpg",3
+
+dwave 0,"w\n260.ogg"
+
+;「そこから、１号に戻って…」\
+^From there, go back to Route 1...''\
+
+dwavestop 0
+
+;「わかった」\
+^``Got it.''\
+
+dwavestop 0
+
+;８号から再び１号へ。\
+^From Route 8 back to Route 1.\
+
+;彼女のナビに従い、
+;今度は草津へと向かっていた。\
+^Following the girl's navigation, this time, headed towards Kusatsu.\
+
+;●とも　ここから車内かな？＞■仕込みました
+bg "e\shanai_michi01.jpg",5
+
+dwave 0,"w\n261.ogg"
+
+;「ねえ、今って、お金は大丈夫？」\
+^``Say, right now, is our money fine?''\
+
+dwavestop 0
+
+;「ああ、まだ３万円ほどはある」\
+^``Ah, we still have bout ¥30,000.''\
+
+dwavestop 0
+
+;以前に服は買ったけど、それ以外では、
+;相変わらずコンビニで済ます程度だった。\
+^Before, we had bought clothes, but other than that, we continued on our usual convenience store fare.\
+
+;「どうかしたのか？」\
+^``Is something the matter?''\
+
+dwavestop 0
+
+dwave 0,"w\n262.ogg"
+
+;「…じゃあ、高速に乗る？」\
+^``... Then, you want to go on the expressway?''\
+
+dwavestop 0
+
+;「高速？　全部下道じゃ行けないのか？」\
+^``Expressway? We can't go all the way using the smaller roads?''\
+
+dwavestop 0
+
+;;dwave 0,"w\n263.ogg"
+
+;;「それは、無理よ」\
+
+dwavestop 0
+
+;□心情・情景
+
+dwave 0,"w\n264.ogg"
+
+;「確かにギリギリまでなら行けるけど…」\
+^``Certainly, up until very close, you can...''\
+
+dwavestop 0
+
+!w500
+
+dwave 0,"w\n265.ogg"
+
+;「でも、最終的には、必ず有料道路に乗るから…」\
+^``But in the end, you have to take a toll road, so...''\
+
+dwavestop 0
+
+;「そっか、淡路島だもんな」\
+^``I see, well, it's Awaji Island after all..''\
+
+dwavestop 0
+
+;俺も詳しくは知らないが、淡路島に行く為には、
+;瀬戸大橋だか何だかの橋を渡らないと行けなかった筈だ。\
+^I didn't know the details, but in order to get to Awaji-shima, one had to cross the Seto-Ohashi bridge or some other bridge.\
+
+;;は有料道路だったと聞いたことがあるとか
+
+dwave 0,"w\n266.ogg"
+
+;「じゃあ、草津からバイパスに入って」\
+^``Well, from Kusatsu, go onto the bypass.''\
+
+dwavestop 0
+
+;「わかった」\
+^``Alright.''\
+
+dwavestop 0
+dwavestop 5
+
+;＿＿＿＿;＿＿＿＿;＿＿;＿
+
+;☆シーン変え
+
+bg "e\b.jpg",3
+
+;彼女の指示に従い、
+;瀬田ＩＣから、名神高速へと乗り継ぐ。\
+^Following the girl's direction, we went from the Seda Interchange and connected onto the Meishin Expressway.\
+
+dwave 5,"se\car3.ogg"
+
+;☆ＢＧ　車走る：上空の\
+
+bg "e\joku_kosoku.jpg",3
+
+;今までの一般道と比べると、明らかに整備された道路。\
+^Compared to the normal roads we had been running on until now, it was obviously a better maintained road.\
+
+;信号もないし、見通しの良い道路は、
+;初めて高速を走った俺にも運転しやすいと思えた。\
+^There were no traffic lights, and with the good visibility of the road, even for a first time expressway driver like me, I felt it was easy to drive on.\
+
+;只、右の高速車線にいると、
+;後ろからスゴイ勢いでやってくる後続車が怖かった。\
+^It was just, if I were in the high speed lane on the right, the cars that came up from behind at a ferocious pace were scary.\
+
+dwave 5,"se\car3.ogg"
+
+;最初は、パッシングや右ウインカーの意味も分からなかったが、
+;慣れてくると高速道路の運転は楽しいと思えた。\
+^At the start, I didn't know what passing was, or what the right blinkers meant, but when I got used to it, I thought driving on the expressways was fun.\
+
+bg "e\shanai_michi01.jpg",3
+
+;「すげえな、あの車…」\
+^``Amazing, that car...''\
+
+;;dwave 0,"w\n044.ogg"
+
+;;「…うん」\
+
+dwavestop 0
+
+;物凄いスピードで追い抜いていく、どこかの車。
+;のんびり走る俺達は、思わず顔を見合わせてしまう。\
+^Passing us at an astounding speed, some car from somewhere. We were driving leisurely, and couldn't help but look at each other.\
+
+;そして、助手席に座ったこいつも、
+;いつもとは少し様子が違っていた。\
+^And then, the girl who sat in the passenger seat looked slightly different from usual.\
+
+;普段なら、遠い目で窓の外を眺めるだけなのに、
+;今日は物珍しそうに回りの車を見ていた。\
+^Normally, she would be looking out the window with distant eyes, but today, surprisingly, she was curiously looking around at the cars.\
+
+;…そういえばこいつって何故か車にも詳しかったな。\
+^... Speaking of which, for some reason she knew a lot about cars.\
+
+;俺は猛スピードで追い抜いていった、
+;さっきの車を指差す。\
+^I pointed at the car from before that ferociously passed us.\
+
+;「なあなあ、今のって何て車だ？」\
+^``So, so, what car was that just now?''\
+
+dwavestop 0
+
+;;dwave 0,"w\n267.ogg"
+
+;;「…それは質問？」\
+
+dwavestop 0
+
+dwave 0,"w\n268.ogg"
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+;「ほら、クイズのつもりで」\
+^``Come now, think of it like a quiz.''\
+
+dwavestop 0
+
+dwave 0,"w\n269.ogg"
+
+;「…トヨタセリカ、オーバービュー」\
+^``... Toyota Celica, Overview.''\
+
+dwavestop 0
+
+;「じゃあ、今、抜いてったのは？」\
+^``Then, the one that passed us now?''\
+
+dwavestop 0
+
+dwave 0,"w\n270.ogg"
+
+;「シトロエン、クサラ…」\
+^``Citroen, Xsara...''\
+
+dwavestop 0
+
+;「へ～、よく分かるな」\
+^``I see, you know them well, don't you?''
+
+dwavestop 0
+
+;正直なところ、
+;俺にはそれが正解かどうかも分からない。\
+^To be honest, I couldn't tell whether she was right or not.\
+
+;でも、自分からは滅多に口を開かないこいつが、
+;次々と答える様子が楽しく思えて…\
+^However, the girl that would rarely open her mouth on her own seemed to be enjoying herself as she answered again and again...\
+
+;だから俺は、休むことなく言葉を続けた。\
+^That was why, without pausing, I continued to speak.\
+
+dwave 0,"w\n271.ogg"
+
+;「青いのがユーノス、赤いのはアルファロメオ…」\
+^``The blue one is a Eunos, the red one an Alfa Romeo...''\
+
+dwavestop 0
+
+;同時に追い抜いていった２台までも答える。\
+^She even answered for two cars that passed us at the same time.\
+
+;「でもさ、あれは分からないだろう」\
+^``But, you don't know that one, right?''\
+
+dwavestop 0
+
+;言いながら今度は、普通車と違うトラックを指差す。\
+^As I spoke, this time, I pointed to a something different from a normal car, a truck.\
+
+;あまり表情を出さない彼女の、
+;困った顔も少しだけ見たくなっていた。\
+^I wanted to see that slightly troubled face from the girl who would show so little emotion.\
+
+dwave 0,"w\n272.ogg"
+
+;「…………」\
+^``......''\
+
+dwavestop 0
+
+;「やっぱ、さすがにトラックは分からないか」\
+^``So yeah, I guess you don't know trucks, eh?''\
+
+dwave 0,"w\n273.ogg"
+
+;「…日産アトラス１０」\
+^``... Nissan, Atlas 10.''\
+
+dwavestop 0
+
+;「おいおい、すげえぞ、お前っ」\
+^``Hey, hey, you're amazing.''\
+
+dwavestop 0
+
+;本当はいじわるしたつもりだったのに、
+;まさかトラックまで分かるとは思わなかった。\
+^Even though I was trying to give her a hard time... I hadn't thought she would know even trucks.\
+
+;「ここまでくればさ、自慢できるレベルじゃねえか？」\
+^``If you know this much, isn't it on the level where you can be proud of it?''\
+
+dwavestop 0
+
+dwave 0,"w\n274.ogg"
+
+;「…そう？」\
+^``... Is that so?''\
+
+dwavestop 0
+
+;「ああ、胸張っていいと思うぞ」\
+^``Ah, I think you can puff out your chest.''\
+
+
+dwave 0,"w\n055.ogg"
+
+;「……………」\
+^``......''\
+
+;俺の言葉に無言で返す彼女。
+;少しだけ照れくさそうにしているようだった。\
+^The girl returned silence at my words. She seemed just a little bit embarrassed.\
+
+;きっと車とか好きなんだろうな…\
+^I'm sure she really liked cars...\
+
+dwavestop 0
+
+;「じゃあさ、向こうに着いたら運転してみるか？」\
+^``Well then, when we get over there, you want to try driving?''\
+
+dwavestop 0
+
+;;dwave 0,"w\n276.ogg"
+
+;;「えっ…」\
+
+
+dwave 0,"w\n249.ogg"
+
+;「えっ…」\
+^``Eh?''\
+
+dwavestop 0
+
+dwave 0,"w\n277.ogg"
+
+;「でもわたし、免許持ってない…」\
+^``But, I don't have a license...''\
+
+dwavestop 0
+
+;「大丈夫だって、
+;　きっと、浜辺なんて運転すると楽しいぞ」\
+^``It'll be fine. I'm sure driving on the beach or something will be fun.''\
+
+dwavestop 0
+
+;恐らく淡路島まで行けば、
+;ひと気のない場所はいくらでもあるだろう。\
+^Most likely, if we go to Awaji-shima, there would be plenty of deserted places.\
+
+;それにこの車はミッションだから、
+;慣れると面白い筈だと思えた。\
+^Plus, this car was a manual transmission, so once she got used to it, I thought it'd be interesting.\
+
+;「なんだったらさ、俺が教えてやるよ」\
+^``Well, in that case, I'll teach you.''\
+
+dwavestop 0
+
+dwave 0,"w\n278.ogg"
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+;「あ、といっても俺も超初心者だけどさ」\
+^``Ah, well, even so, I'm just a new driver myself.''\
+
+dwavestop 0
+
+dwave 0,"w\nv319.ogg"
+
+;「…うん」\
+^``... Un.''\
+
+;;dwave 0,"w\n282.ogg"
+;;dwave 0,"w\nv282.ogg"
+
+;;「うん、ありがと…」\
+
+dwavestop 0
+
+;;dwave 0,"w\n279.ogg"
+
+;;「…うん」\
+
+dwavestop 0
+dwavestop 5
+
+
+bg "e\b.jpg",5
+stop
+mp3fadeout 2500
+
+
+;☆ＢＧＭ　フェードアウト
+;＿＿＿＿;＿＿＿＿;＿＿＿＿
+
+mov %flg_cha6,1
+mov %flg_bplay,6
+goto *agilis_mini_title
+
+;＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+;★チャプター７
+
+*agilis_honpen7
+;mov $sys_midasi,"エコー　ボイスＶｅｒ"
+mov $sys_midasi,"Echo [a]"
+dwavestop 5
+
+;setwindow 180,358,35,16,16,16,0,3,1,1,5,#ffffff,0,0,799,599
+h_usewindow "main"
+!sd
+erasetextwindow 0
+
+;☆ＢＧ　変え＞夕空
+bg "e\sora_yu.jpg",3
+
+dwave 5,"se\car3.ogg"
+
+;あんなに高かった日が、わずかだけ翳る頃。\
+^When that high sun was just misting over.\
+
+mp3loop "bgm\3_12.mp3"
+
+;☆ＢＧ　車：上空：高速\
+bg "e\joku_kosoku_yu.jpg",3
+
+;高速を走り続ける銀のクーペ。\
+^The silver coupe continued to run along the expressway.\
+
+;間もなく桂川パーキングエリア。
+;少し進んでは、小休憩というペースで走っていた。\
+^Soon, we would be at the Katsuragawa parking area. Moving slower, we drove in what could be called a slow resting pace.\
+
+bg "e\shanai_michi01b.jpg",3
+
+;「なあ、次も休憩するか」\
+^``Say, you want to take a break next?''\
+
+dwavestop 0
+
+;dwave 0,"w\n280.ogg"
+dwave 0,"w\nv280.ogg"
+
+;「あ、う、うん…」\
+^``Ah, u-un...''\
+
+dwavestop 0
+
+;「…どうした？」\
+^``... What's wrong?''\
+
+dwavestop 0
+
+;dwave 0,"w\n281.ogg"
+dwave 0,"w\nv281.ogg"
+
+;「ちょっと疲れたみたい…」\
+^``Looks like I'm a bit tired...''\
+
+dwavestop 0
+
+;「そうか…」\
+^``I see...''\
+
+dwavestop 0
+
+;無理もないことかも知れない。\
+^It wasn't too surprising.\
+
+;さっき、あれだけはしゃいでいたし、
+;元々、俺達は普通の病人以上なんだから当然だろう。\
+^Just before, she had been so excited, and originally, we were even more sick than ordinary sick people, so it was probably natural.\
+
+;「じゃあ、なんか買ってきてやるよ」\
+^``Well, I'll go buy you something.''\
+
+dwavestop 0
+
+;dwave 0,"w\n044.ogg"
+dwave 0,"w\new_324.ogg"
+
+;「…うん」\
+^``... Un.''
+
+dwavestop 0
+dwavestop 5
+
+;＿＿
+
+;☆ＢＧ　車止め＞駐車場
+bg "yobi\car_byoin_chusyajo_yu.bmp",3
+
+;ＳＥ＞車止め
+
+dwave 5,"se\open.ogg"
+
+;「じゃあ、すぐ買ってくるから」\
+^``Alright, I'll go buy them quick.''\
+
+;＞ＳＥ＞閉め
+dwave 5,"tui3\close.ogg"
+;バタン、\
+if %unvoiced_mode == 0 goto *generated_311
+^I closed the door with a slam.\
+
+goto *generated_312
+*generated_311
+^* Slam. *\
+*generated_312
+
+;☆ベタ\
+bg "e\b.jpg",3
+
+;手ごろな売店へ急ぐと、
+;普段コンビニで買うものと大差ない買い物をする。\
+^Rushing over to a nearby shop, I bought things that weren't too different from what I would buy at a convenience store.\
+
+;ＳＥ＞開け閉め\
+dwave 5,"tui3\close.ogg"
+
+;☆ＢＧ　車内
+bg "yobi\car_byoin_chusyajo_yu.bmp",3
+
+;「ほら、ポカリとおにぎり、それとポテトも」\
+^``Here, a Pocari and ~i~nigiri~i~, that and also the fries.''\
+
+dwavestop 0
+dwavestop 5
+
+;dwave 0,"w\n283.ogg"
+;dwave 0,"w\nv283.ogg"
+dwave 0,"w\nv283b.ogg"
+
+;「あ、うん…」\
+^``Ah, un...''\
+
+dwavestop 0
+
+;言葉ではそう返事をするけど、
+;受け取ったまま口をつけようとしない彼女。\
+^Those were the words of her reply, but, the girl just took them and didn't move to eat.\
+
+;いつもならポテトは先になって手にしていたのに…\
+^Even though normally, she would have started eating the fries first...\
+
+;「…大丈夫か？」\
+^``... You alright?''\
+
+dwave 0,"w\n055.ogg"
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+;「もしかしてお前…具合悪くなってきたのか…」\
+^``Is it that you're... starting to feel bad?''\
+
+dwave 0,"w\n284.ogg"
+
+;「………………」\
+^``......''\
+
+dwavestop 0
+
+;dwave 0,"w\n285.ogg"
+dwave 0,"w\nv285.ogg"
+
+;「…薬が…切れただけだから」\
+^``... My medicine... has run out is all.''\
+
+dwavestop 0
+
+;「…そうか…」\
+^``... I see...''\
+
+;…薬が切れた。
+;恐れていたことだった。\
+^... Her medicine ran out.
+^That was something I had feared.\
+
+;いや、こんなことは病院を飛び出した時から、
+;十分に予想できることだった。\
+^Well no, it was something that could easily be imagined from the moment we left the hospital.\
+
+;もちろん、故意に忘れていた訳じゃない。\
+^Of course, I hadn't forgotten about it on purpose.\
+
+;今まではそんなこと考えたことすらなくて…
+;それ以前に、考えようとする意識すらなかった。\
+^Up until now, I hadn't thought about it... I hadn't even the sense to think about it.\
+
+;「いつからだ？　薬が切れたのは？」\
+^``Since when? When did your medicine run out.''\
+
+dwavestop 0
+
+;dwave 0,"w\n286.ogg"
+dwave 0,"w\nv286.ogg"
+
+;「…昨日の夜」\
+^``... Last night.''\
+
+dwavestop 0
+
+;「じゃあ、もうすぐ丸一日だな…」\
+^``Then, it's almost been an entire day...''\
+
+dwavestop 0
+
+;俺の場合は、２日飲まずが限界だと医者から言われていた。
+;恐らく彼女の場合も似たようなもんだろう。\
+^In my case, I had been told by the doctors that two days without taking any was my limit. Most likely, the girl's case was similar.\
+
+;考えてみれば病院を出たあの日から、
+;既に８日が経っていた。\
+^Now that I thought about it, since the day that we left the hospital, eight days had already passed.\
+
+;手持ちとして、持ってきた薬の量では、
+;遅かれ早かれこうなるのは目に見えていた。\
+^The amount of medicine that we carried on hand, I could have seen that sooner or later it would wind up like this.\
+
+;…今、俺はどうするべきなんだろうか…\
+^... Right now, what should I do?\
+
+;dwave 0,"w\n287.ogg"
+;dwave 0,"w\nv287.ogg"
+dwave 0,"w\nv287b.ogg"
+
+;「ねえ…」\
+^``Say...''\
+
+dwavestop 0
+
+;dwave 0,"w\n288.ogg"
+;dwave 0,"w\nv288.ogg"
+dwave 0,"w\nv288b.ogg"
+
+;「…わたし、７階は嫌よ」\
+^``I... don't like the 7th floor.''\
+
+dwavestop 0
+
+;「ああ、分かってる、家も嫌なんだろ」\
+^``Ah, I know. And you don't want home either, right?''\
+
+dwavestop 0
+
+;dwave 0,"w\n289.ogg"
+dwave 0,"w\nv289.ogg"
+
+;「うん…」\
+^`Un...''\
+
+dwavestop 0
+
+;☆ベタ\
+bg "e\b.jpg",3
+
+;ＳＥ＞エンジン始動・走る\
+dwave 5,"se\car_start.ogg"
+
+;再び動き出した銀のクーペ。\
+^Once again, the silver coupe ran on.\
+
+;結局俺は、次の降り口で高速を降りることにした。\
+^In the end, I got off the expressway at the next exit.\
+
+;それでどうなる訳でもないが、
+;こんな場所に居たのでは何も出来ない。\
+^It wasn't that it would help anything, but I wouldn't be able to do anything while on it.\
+
+bg "e\b.jpg",3
+dwavestop 5
+stop
+mp3fadeout 2500
+
+;＿＿＿＿;＿＿
+
+;☆シーン変え　ぷち
+
+
+;☆ＢＧ　空：夕\
+bg "e\soukou_machi_yu.jpg",3
+
+mp3loop "bgm\e02.mp3"
+
+
+;殺風景な高速降り口から、
+;市街地へ向けて走り続ける。\
+^From the bleak expressway exit, I continued driving towards an urban area.\
+
+;そして小さな町医者ではなく、大きな病院を探した。
+;正しくは大きな病院の近くにある、薬局を探した。\
+^Then, I searched, not for a small town doctor, but a large hospital. More precisely, I was looking for the pharmacies that are near large hospitals.\
+
+;本当は病院に行くのが一番良いのかも知れない。^@^
+;仮にこれが、普通の病状ならば迷わずそうしただろう。\
+^To be honest, going to a hospital may have been the best thing.^@^ If it were a normal sickness, without any hesitation I would have done so.\
+
+;…でも俺達は７階の住人。
+;手首に巻いたビニールの認識腕輪は白。\
+^... However, we were residents of the 7th floor. The vinyl identification bracelets wrapped around our wrists were white.\
+
+;そして、その７階をも飛び出したのが俺達だった。\
+^And also, we were people who had fled from the 7th floor.\
+
+;そんなことを思いながら、
+;辺りをきょろきょろとしながらハンドルを握る。\
+^While thinking about that, I peered around while gripping the wheel.\
+
+;…きっと、大病院の近くの薬局なら、
+;大抵のモノはある筈だ。\
+^... I was sure that a pharmacy near a large hospital should have most things.\
+
+;「見つけたっ」\
+^``Found one.''\
+
+dwavestop 0
+
+bg "e\b.jpg",3
+
+;大きな通りに面した角に立つ、どこかの大学病院。
+;その手前に見える２～３軒の薬局の看板。\
+^Standing on the corner facing a large street was some large university hospital. Right near it were the signs of two or three of pharmacies.\
+
+;路駐できそうにないと判断すると、
+;俺は空き地を見つけ、すぐさま車を停める。\
+^Just when I decided I wouldn't be able to find parking, I found an open space and quickly stopped the car.\
+
+;ＳＥ＞止め
+dwave 5,"se\car_s3.ogg"
+
+;☆ＢＧ　車内
+bg "yobi\car_byoin_chusyajo_yu.bmp",3
+
+;「おい、薬の袋、貸してくれ」\
+^``Hey, let me borrow your medicine bag.''\
+
+dwavestop 0
+dwavestop 5
+
+;dwave 0,"w\n290.ogg"
+;dwave 0,"w\nv290.ogg"
+dwave 0,"w\nv290b.ogg"
+
+;「あ、うん…」\
+^``Ah, un...''\
+
+dwavestop 0
+
+;不思議そうな顔で、薬の入っていた袋を手渡す彼女。\
+^With a mystified expression, the girl handed the bag with medicine over.\
+
+;俺はその病棟用の薬の袋を受け取ると、
+;中に入っていた、薬の説明用紙だけを手にする。\
+^I took that bag of medicine used in hospital wards, and took out the only the paper explaining the medicine.\
+
+;…こうやっておけば大丈夫だろう。\
+^... With this, it should be fine.\
+
+;「じゃあ、すぐ帰ってくるから」\
+^``Well, I'll be back soon.''\
+
+dwavestop 0
+
+;ＳＥ＞閉め\
+dwave 5,"tui3\close.ogg"
+
+bg "e\b.jpg",3
+
+;車内にあいつだけを残し、
+;俺は少しだけ離れた薬局へと走った。\
+^Leaving her alone in the car, I ran the short distance to the pharmacy.\
+
+;＞ＳＥ＞自動ドア
+dwave 5,"se\autodoor.ogg"
+
+;ガー…\
+;Nuke
+
+;☆ＢＧ・薬局内＞ベタでも可能\
+bg "e\yakkyoku.jpg",3
+
+;やたらと開くのが遅い自動ドアを越え、やってきた店内。
+;俺は真っ直ぐにカウンターへと向かう。\
+^Passing through the stuttering, slow automatic door, I came into the store. I headed straight for the counter.\
+
+dwavestop 5
+
+;店の人「いらっしゃいませ」\
+^Shopkeeper: ``Welcome!''\
+
+dwavestop 0
+
+;俺の姿に声を掛けてくれた中年風のおじさん。
+;白衣を着た、いかにもって感じの薬剤師のようだった。\
+^The person who called out to me was a middle-aged man. Wearing white clothes, he really fit the image of a pharmacist.\
+
+;「すみません、この薬お願いします」\
+^``I need this medicine please.''\
+
+dwavestop 0
+
+;店の人「え、ああ、ちょっと待って下さいね…」\
+^Pharmacist: ``Eh, ah yes, please wait a moment...''\
+
+dwavestop 0
+
+;そう言って俺の渡した薬の説明用紙を手に、
+;奥へと引っ込んでいくおじさん。\
+^With that, the man took the medicine explanation paper I handed over, and went into the back.\
+
+;…恐らくここは、普通の薬局ってよりは、
+;病院からの薬も出しているところだと思う。\
+^... Most likely, instead of dispensing normal medicine, this place dispensed medicine from hospitals.\
+
+;外来の病院に行った時には、
+;こんな感じのところで薬だけ貰ったのを覚えている。\
+^When I went to an outpatient hospital before, I remembered going into a place like this just to get medicine.\
+
+;明らかに大病院の近くに並んで建っているし、
+;ここならば大体の薬は揃っていると思えた。\
+^Obviously, it was built right next to the hospital, and I thought that most medicines would probably be gathered here.\
+
+;店の人「お待たせしました、こちらになりますね」\
+^Pharmacist: ``Sorry for the wait, it comes out to this much.''\
+
+;しばらくして、帰ってきたおじさん。\
+^Eventually, the man returned.\
+
+;手には透明な袋に入ったカプセル状の薬。
+;その束のような塊を２つほど持っていた。\
+^In his hand, were clear bags with capsules of medicine. He was carrying two bundles of them.\
+
+;…これだけあれば当分は大丈夫だろう。
+;ざっと見ても１週間分ほどはありそうだった。\
+^... With that much, it was probably all right for a while. At a glance, there was probably one week's worth.\
+
+;そして俺が、ポケットから財布を取り出そうとすると…\
+^And then, as I was taking out my wallet...\
+
+;店の人「あ、それより薬箋も頂けますか」\
+^Pharmacist: ``Ah, before that, may I have your prescription?''\
+
+dwavestop 0
+
+;「…やくせん？」\
+^``... Prescription?''\
+
+dwavestop 0
+
+;店の人「ああ、処方箋のことですよ、
+;　　　　これは臨床用ですからね」\
+^Pharmacist: ``Ah, I'm talking about the prescription for the medicine. These are for clinical use you see.''\
+
+dwavestop 0
+
+;「…………」\
+^``......''\
+
+dwavestop 0
+
+;店の人「お医者さんから貰ってますよね？」\
+^Pharmacist: ``You received one from your doctor, right?''\
+
+dwavestop 0
+
+;…予想していなかった。\
+^... I hadn't expected this.\
+
+;いや、冷静に考えれば市販品じゃないんだし、
+;普通で買える訳がなかった。\
+^Well no, thinking about it calmly, these weren't over the counter items, and you couldn't buy these normally.\
+
+;店の人「…どうしました？」\
+^Pharmacist: ``Is something the matter?''\
+
+dwavestop 0
+
+;「あ、いや、その…」\
+^``Ah, no, um...''\
+
+dwavestop 0
+
+;言いよどむ俺に、
+;段々と怪訝な目を向ける白衣のおじさん。\
+^I faltered, and the man in white began to lay increasingly suspicious eyes on me.\
+
+;店の人「て、あれ…それは…？」\
+^Pharmacist: ``Wait, huh... that's...?''\
+
+;そして、俺の手首に巻かれた白い腕輪に気づくと、
+;そこに書かれていた文字を…\
+^Then, noticing the white bracelet wrapped around my wrist, and the words that were written on it...\
+
+;俺の名前を、血液型を…\
+^My name, blood type...\
+
+;…そして、病院の名前を読もうとしていた。\
+^... And, he was trying to read the name of the hospital.\
+
+;ＳＥ＞それっぽいの
+;dwave 5,"se\kakeasi.ogg"
+
+bg "e\w.jpg",3
+
+;だっ、\
+if %unvoiced_mode == 0 goto *generated_313
+^My hands moved.\
+
+goto *generated_314
+*generated_313
+^* Snatch! *\
+*generated_314
+
+;店の人「あっ」\
+^Pharmacist: ``Ah!''\
+
+;ガラスのカウンターの上に置かれた薬。
+;俺は反射的に、その束ごと一気に掴んだ。\
+^The medicine left on the glass counter. Reflexively, I grabbed the whole pile.\
+
+;;そして、そのまま店の外へと向かって駆け出す。\
+
+bg "e\b.jpg",3
+
+;店の人「こら、待ちなさいっ」\
+^Pharmacist: ``Hey! Wait!''\
+
+;カウンター越しに大声を張り上げる店の人。
+;その声を俺は背中で聞いた。既に駆け出していた。\
+^The man behind the counter gave a great shout. I heard that voice behind me, but I was already running.\
+
+;店の出口までのたった５ｍ。\
+^It was only five meters from the shop exit.\
+
+;足のふんばりが利かなくて、よろけそうになりながら、
+;それでも俺は無我夢中で走った。\
+^Unable to gain steady footing, I was stumbling, but even then, I ran on in a daze.\
+
+dwavestop 5
+
+;ＳＥ＞ガー＞自動ドア
+dwave 5,"se\autodoor.ogg"
+
+;そして、やたらと開くのが遅い自動ドアから、
+;店外へと出ようとした…\
+^And then, coming to the stuttering, slow automatic door, as I was making to leave the store...\
+
+;その時、\
+^At that time...\
+
+;＞ＳＥ＞ぶつかる音からガラス割れる音
+dwave 5,"se\g_crash2.ogg"
+
+bg "e\w.jpg",1
+bg "e\b.jpg",3
+
+;ガン、ガシャーン、\
+;-;Nuke
+if %unvoiced_mode == 1 goto *generated_315
+^* Gan! Gashaaaaan! *\
+*generated_315
+
+;「痛っ、くそ…」\
+^``Ow! Damn it!''\
+
+dwavestop 5
+
+;思わず、意識が一瞬白くなった。\
+^Suddenly, for a moment my awareness turned white.\
+
+;自動ドアの角に頭をぶつけて、
+;その勢いでガラスまで叩き割ったようだった。\
+^I slammed my head into the edge of the automatic door, with enough force that it seemed to have cracked.\
+
+;ふらつく頭を、ぶんぶん振ると、
+;開きかけで止まった自動ドアを手で押し開ける。\
+^While shaking my wobbly head, I reached out with my hand and opened the automatic door that had stopped partially open.\
+
+;そして、店の外へ出るとまた走り始めた。
+;手に持った薬の袋は放さなかった。\
+^Then, when I got out of the store, I began running. I hadn't let go of the bags of medicine I had been holding.\
+
+bg "e\sora06.jpg",3
+
+;「はぁはぁ、ふうっ」\
+^``Haa, haa, phew.''\
+
+;思わず息を切らして、あごが上がってしまう。
+;車までの数十メートルが、やけに長く感じた。\
+^Unable to help myself, I was out of breath, and I wound up raising my chin up. It was only a few tens of meters to the car, but it felt awfully long.\
+
+;誰も追っては来ていないようだけど、
+;それを振り返って確認する余裕すらなかった。\
+^It didn't seem like anyone was chasing after me, but I didn't even have the luxury of looking back to check.\
+
+;…もし、俺が捕まったら…\
+^... If, I were caught...\
+
+;あいつはどうなってしまうのだろうか…\
+^What would happen to her?\
+
+;車の中で一人、
+;いつまでもじっと俺の帰りを待っているのだろうか…\
+^Alone in the car, she would probably sit there forever, waiting for my return.\
+
+;何故かそんなことを思いながら、懸命に走った。\
+^As I thought about that for some reason, I ran in earnest.\
+
+;よろめきながら、息切れを起こして、
+;これで全力かと思うと我ながら哀しかった。\
+^While staggering and out of breath, and thinking that this was my full strength, in spite of myself, I felt it was sad.\
+
+;＿
+
+bg "e\b.jpg",3
+
+;ＳＥ＞
+dwave 5,"tui3\close.ogg"
+
+;バタン、\
+if %unvoiced_mode == 0 goto *generated_316
+^I slammed the car door shut behind me.\
+
+goto *generated_317
+*generated_316
+^* Slam. *\
+*generated_317
+
+dwave 5,"se\car_s4.ogg"
+
+;「はぁはぁ、ふう…」\
+^``Haa, haa, phew...''\
+
+;倒れこむようにシートに座ると、急発進させる俺。\
+^As if collapsing, I fell into the seat, and panted heavily as I tore the car onto the road.\
+
+bg "e\soukou_machi_yoru.jpg",3
+
+;明らかに先日のパチンコ屋の時よりも、
+;体力が落ちてきているのが自覚できた。\
+^Clearly, more so than the other day at the pachinko parlor, I became aware of how much my strength had slipped.\
+
+;そして、ルームミラーで確認すると、
+;やはりガラスで切ったのか、額から少しだけ血が流れていた。\
+^And then, checking the rear mirror, it looked like I really had been cut by the glass -- a bit of blood was flowing from my forehead.\
+
+;…恐らくこれくらいなら、すぐに止まるだろう。
+;俺は運転しながら、ポケットティッシュで軽く押さえる。\
+^... Probably if it's just this much, it'll stop soon. While driving, I lightly pressed some pocket tissues on it.\
+
+dwavestop 5
+
+bg "e\naname_michi_yoru.jpg",3
+
+;dwave 0,"w\n294.ogg"
+dwave 0,"w\nv294.ogg"
+
+;「…大丈夫？」\
+^``... Are you alright?''\
+
+dwavestop 0
+
+;「ああ、平気だ」\
+^``Yeah, I'm fine.''\
+
+dwavestop 0
+
+;dwave 0,"w\n295.ogg"
+;dwave 0,"w\nv295.ogg"
+dwave 0,"w\nv295b.ogg"
+
+;「でも、血が出てるし…」\
+^``But, you're bleeding...''\
+
+dwavestop 0
+
+;「…気にするな、何でもないから」\
+^``... Don't worry about it, it's nothing.''\
+
+dwavestop 0
+
+;不安そうな顔を向ける彼女に、
+;俺は、心配いらないと手を振ってみせる。\
+^To the girl directing a worried face towards me, I waved my hand telling her not to worry.\
+
+;そして、左手に握り締めたままだった、
+;薬の束を手渡した。\
+^And then, with my left hand holding the wheel, I handed her the bundle of medicine.\
+
+;「ほら、飲んでおけよ」\
+^``Here, take your medicine.''\
+
+dwavestop 0
+
+;dwave 0,"w\n296.ogg"
+dwave 0,"w\nv296.ogg"
+
+;「あ、うん…」\
+^``Ah, un...''\
+
+dwavestop 0
+
+;これで当分は大丈夫だと思えた。
+;少なくとも１週間くらいなら保つだろう。\
+^With this, I thought we'd be fine for the moment. At the least, it would probably hold out for a week.\
+
+;だけど…\
+^But...\
+
+;もしこれが無くなった時はどうなるのだろうか？\
+^When this runs out, what would happen?\
+
+;たまたま今日は成功したから良かったけど、
+;俺自身の体力も日毎に落ちてきているのは明らかだった。\
+^It was good that today had been a success by chance, but it was clear that my own strength was declining every day.\
+
+;…元々、何の目的も行き場所も無かった俺達。^@^
+;求めるものがないなら、失う恐れ自体もなかった。\
+^... Originally, we didn't have a goal or place to go.^@^ Because we had no desires, we had no fear of losing anything.\
+
+;でも今は、少しだけ違った。\
+^But now, things were slightly different.\
+
+;目的が生まれ、失う怖さも生まれていた…\
+^With the birth of purpose, the fear of loss also was born.\
+
+
+bg "e\b.jpg",3
+stop
+mp3fadeout 2500
+
+;＿＿＿＿;＿＿＿＿;＿＿＿＿
+
+;☆ヒロイン　回想　暫定　５　とか予定＞流れみて
+
+;・小タイトル　戻し\
+
+;＿＿＿＿;＿＿;＿
+
+;☆シーン変え　昼
+
+
+;bg "tui2\cat06.bmp",5
+bg "agilis\1\cat06.png",5
+
+wait 800
+
+bg "e\b.jpg",3
+
+dwave 5,"se\car3.ogg"
+
+bg "e\sora01.jpg",5
+
+;よく晴れ上がった日。
+;冬特有の高い、高い澄んだ空が広がっていた。\
+^The day cleared up and that clear, so very high sky that was characteristic of winter spread wide.\
+
+;mp3loop "bgm\n03.mp3"
+
+mp3loop "bgm\sen02.mp3"
+
+;☆ＢＧ　高速走る　上から　昼\
+
+bg "e\joku_kosoku.jpg",3
+
+;再び高速に乗った俺達。\
+^Once again, we went on the expressway.\
+
+;今は吹田ＪＣＴから中国自動車道を走っていた。\
+^Right now, we left the Suita Junction, and were running along the Chugoku Expressway.\
+
+;「なあ、次はどっちだ？」\
+^``Hey, what's the next one?''\
+
+;dwave 0,"w\n297.ogg"
+;dwave 0,"w\nv297.ogg"
+dwave 0,"w\nv297b.ogg"
+
+;「神戸ＪＣＴから…」\
+^``From the Kobe Junction...''\
+
+dwavestop 0
+
+;「わかった、山陽自動車道だな」\
+^``Got it, the Sanyo Expressway, right?''\
+
+dwavestop 0
+
+;dwave 0,"w\n298.ogg"
+;dwave 0,"w\nv298.ogg"
+;dwave 0,"w\nv298b.ogg"
+dwave 0,"w\nv298c.ogg"
+
+;「うん」\
+^``Un.''\
+
+dwavestop 0
+
+;☆ＢＧ車内　昼\
+bg "e\car_michi01.jpg",5
+
+;彼女の指示に従い、走る銀のクーペ。\
+^Following the girl's direction, the silver coupe ran.\
+
+;ここまで来ると、道すがらの標識には、
+;「淡路島」という文字も、時折見えるようになっていた。\
+^Coming all the way here, the signs along the way were occasionally showing the words ``Awaji-shima.''\
+
+;あの日、７階を飛び出してから、
+;既に９００ｋｍを超えた走行メーター。\
+^Since the day we escaped from the 7th floor, the odometer had already passed 900km.\
+
+;とても行けるとは思わなかったけど…^@^
+;そう思っていた目的地は、もう僅かの距離だった。\
+^It seemed unthinkable that we had gone so far...^@^ but considering our destination, it was just a short distance.\
+
+;やがて、目の前に現れたのは大きな橋。\
+^Then, what appeared before us was a large bridge.\
+
+bg "e\b.jpg",3
+
+;bg "e\akashi.jpg",3
+
+;「これが、明石海峡大橋ってのか…すげえ橋だな？」\
+^``This, is the Akashi-Kaikyo Bridge? It's an amazing bridge, isn't it?''\
+
+dwave 0,"w\n044.ogg"
+
+;「…うん」\
+^``... Un.''\
+
+;思わず二人で感心してみる。
+;まるで海の上をどこまでも走っているようだった。\
+^The two of us couldn't help but be impressed. It was as if it ran atop the sea forever.\
+
+bg "e\w.jpg",3
+
+bg "e\b.jpg",3
+
+;そして、しばらく走った頃。\
+^Then, after we drove for a while...\
+
+;橋の途中には、
+;ちらほらと車を停めている人の姿があった。\
+^Right in the middle of the bridge, here and there, cars were stopped and people could be seen.\
+
+;恐らくは観光客なんだろうけど、
+;車から降りて記念写真を撮る人達。\
+^Most likely those were tourists who got out of their cars to take commemorative photos.\
+
+;俺もその人達と同じように、路肩へと車を停車させた。\
+^Imitating those people, I pulled the car to a stop along the side of the road.\
+
+;☆ＢＧ　車内\
+
+bg "e\car_naname_michi01.jpg",3
+
+;dwave 0,"w\n299.ogg"
+;dwave 0,"w\nv299.ogg"
+dwave 0,"w\nv299b.ogg"
+
+;「…ここ駐停車禁止よ」\
+^``... Stopping is prohibited here.''\
+
+dwavestop 0
+
+;「まあ、少しくらいなら大丈夫だろ」\
+^``Well, if it's just for a bit, it'd probably be fine.''\
+
+dwavestop 0
+
+;それに見た限りでも、
+;数台の車も同じように車を停めていた。\
+^Besides, from what we've seen, a number of other cars had stopped in the same way.\
+
+;「なあなあ、ちょっと外に出てみようぜ」\
+^``Come now, let's go out for a bit and have a look.''\
+
+dwavestop 0
+
+dwave 0,"w\n300.ogg"
+
+;「……………」\
+^``......''\
+
+dwavestop 0
+
+;「きっと、すげえ眺めいいからさ」\
+^``I'm sure it's got an amazing view.''\
+
+dwavestop 0
+
+;dwave 0,"w\n301.ogg"
+;;dwave 0,"w\nv301.ogg"
+
+;;「…うん」\
+
+dwavestop 0
+
+;dwave 0,"w\n095.ogg"
+dwave 0,"w\new_343.ogg"
+
+;「わかった…」\
+^``Alright...''\
+
+dwavestop 0
+
+;まだちょっと渋々なんだけど、
+;俺に合わせるように車を降りる彼女。\
+^She sounded a little reluctant still, but the girl got out of the car to join me.\
+
+;ＳＥ＞ドア閉め
+dwave 5,"tui3\close.ogg"
+
+;☆ＢＧ　橋の上のとか
+bg "e\hashigeta.jpg",3
+
+;ＳＥ＞風
+dwave 5,"se\kaze3_2.ogg"
+
+;ビュウーー、\
+;-;Nuke
+if %unvoiced_mode == 1 goto *generated_318
+^* Phewwwwwwww. *\
+*generated_318
+
+;強くて冷たい風が吹く橋の上。\
+^A strong, cold wind whistled atop the bridge.\
+
+;「思ったより、ここ寒いな…」\
+^``It's colder than you'd think, isn't it?''\
+
+;dwave 0,"w\n044.ogg"
+dwave 0,"w\new_344.ogg"
+
+;「…うん」\
+^``... Un.''\
+
+;普段から車外にも出ない俺達では、
+;余計にそう感じてしまう。\
+^Since normally we wouldn't come out of the car, we felt it all the more.\
+
+;そんな俺達とは対照的に、向こうの方では
+;どこかのカップルらしき二人。\
+^In contrast to us, farther down, there were two people that seemed to be a couple.\
+
+;どうやら記念写真を撮っているのだろう。
+;それらしい声が楽しげにここまで聞こえていた。\
+^It looked like they were taking commemorative photos, and raising happy voices that even we could hear.\
+
+;よく見るとその二人以外にも、
+;同じように写真を撮る家族連れや団体客達。\
+^Looking around closer, other than those two, there were families and groups also taking pictures.\
+
+;…記念写真か。
+;確かにこんな場所では必須だよな。\
+^... A commemorative picture, eh? Certainly for a place like this, one was necessary.\
+
+;「そういえば…」\
+^``Speaking of which...''\
+
+
+dwave 0,"w\n248.ogg"
+
+;「…どうかした？」\
+^``... What's wrong?''\
+
+dwavestop 0
+
+;「ああ、ちょっと待ってろよ」\
+^``Ah, wait a sec.''\
+
+;dwave 0,"w\n303.ogg"
+dwave 0,"w\nv303.ogg"
+;dwave 0,"w\nv303b.ogg"
+
+;「あ、うん…」\
+^``Ah, un...''\
+
+dwavestop 0
+dwavestop 5
+
+;☆ＢＧ　車内\
+bg "e\car_naname_michi01.jpg",3
+
+;確かカメラがあった筈だった。\
+^I was certain that there had been a camera.\
+
+;以前、一番最初に車の中を点検した時に、
+;安っぽい使い捨てを見つけたのを思い出していた。\
+^Before, the first time I had searched through the car,  I remembered that I had found a cheap disposable camera.\
+
+;あの時、ちらっと見た限りでは、
+;まだ数枚は残っていたと思うけど…\
+^At the time, from what little I saw, I thought there were a few shots left.\
+
+;引っ張り出したカメラを手に、俺はフィルムを確認する。\
+^Pulling out the camera, I checked the film.\
+
+;「よかった、まだ２枚は残っているな…」\
+^``Wonderful, there are still two shots left...''\
+
+;☆ＢＧ橋の上の\
+bg "e\hashigeta.jpg",3
+
+;「お待たせ、ほら、撮ってやるよ」\
+^``Sorry for the wait, look, I'll take one of you.''\
+
+dwavestop 0
+
+;dwave 0,"w\n328.ogg"
+dwave 0,"w\new_347.ogg"
+
+;「えっ…」\
+^``Eh?''\
+
+dwavestop 0
+
+;「写真だよ、写真、せっかくだしさ」\
+^``A picture. Picture. Since we're here after all.''\
+
+;dwave 0,"w\n305.ogg"
+dwave 0,"w\nv305.ogg"

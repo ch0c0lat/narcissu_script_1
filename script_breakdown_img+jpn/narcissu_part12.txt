@@ -1,0 +1,1083 @@
+
+
+;あの、たまに見せてくれた、
+;拗ねたような、照れくさそうな顔。\
+^So that oh-so-rare,
+^sour, bashful expression ...\
+
+;もう、あんな顔は向けてくれなかった…\
+^... was no longer even a possibility ...\
+
+bg "e\b.jpg",5
+
+!s85
+
+;「…な、なんでそうなんだよ…」\
+^``... w-why do you have to be like that ...?''\
+
+dwavestop 0
+
+;「いつもいつも、別にばっかりで…」\
+^``You and your incessant `not really's ...''\
+
+dwave 0,"w\n055.ogg"
+
+;「………………」\
+^``... ... ... ...''\
+
+dwavestop 0
+
+!sd
+
+;「す、少しは前向きになっても、いいじゃねえかよっ」\
+^``W-wouldn't it be nice ... to look straight forward for a bit?!''\
+
+dwavestop 0
+
+bg "e\w.jpg",3
+
+;思わず声を上げてしまった。\
+^I'd started shouting before I knew it.\
+
+;何故だか…^@^哀しかった。^@^
+;リアルを実感できなかった俺の筈なのに、心が苦しかった。\
+^Strangely, it was all ...^@^ really sad.^@^
+^Nothing should have been real to me, yet my heart ached.\
+
+bg "e\naname_inaka_yoru.jpg",5
+
+;…静まり返った車内。\
+^... the car was in total silence.\
+
+;窓の外には１月の花、水仙、ナルキッソス…^@^
+;夜明け前の闇の中でぼんやりと白く揺らいでいた。\
+^Outside the window, the flowers of January, the narcissi ...^@^ were swaying in the morning twilight before dawn.\
+
+;その白い花よりも、
+;もっともっと遠くの、何かを見つめたままのあいつ。\
+^And there she was, staring at something far, far more distant than these white flowers.\
+
+;僅かに聞こえる潮騒だけが、この場を支配していた…\
+^The distant sound of the sea waves was the only thing that held dominion here ...\
+
+;dwave 0,"w\n372.ogg"
+
+;「…………」\
+
+dwavestop 0
+
+;やがて…\
+
+bg "e\b.jpg",5
+
+;dwave 0,"w\n374.ogg"
+;dwave 0,"w\nv374.ogg"
+dwave 0,"w\nv374b.ogg"
+
+;「…前向きになんて、なれる訳ないじゃないの…」\
+^``... it isn't so easy ... for me to face forward ...''\
+
+dwavestop 0
+
+;「えっ…」\
+^``Wha ...?''\
+
+;暗い車内。
+;突然、あいつが口を開いた。\
+^The darkened car.
+^Her sudden, quiet voice.\
+
+;dwave 0,"w\n375.ogg"
+dwave 0,"w\nv375.ogg"
+
+;「憧れて、懸命になって、頑張って、
+;　いつか報われるのなら良いけど…」\
+^``It might be easy if you can yearn, hope, persist ... if you can keep believing you'll be rewarded someday ...''\
+
+dwavestop 0
+
+;dwave 0,"w\n376.ogg"
+dwave 0,"w\nv376.ogg"
+
+;「でも、叶わなかった時にはどうすればいいの？」\
+^``But what can you do when your wish doesn't come true?''\
+
+dwavestop 0
+
+;dwave 0,"w\n377.ogg"
+dwave 0,"w\nv377.ogg"
+
+;「その時に、無理だったねって、
+;　笑って言えるほど、強くないわよ…」\
+^``When that time comes, I'm not so strong that I can smile and say that it wasn't for nothing ...''\
+
+dwavestop 0
+
+;いつも遠い目をしていたあいつが、
+;助手席から真っ直ぐに俺を見ていた。\
+^Her eyes, which had been focused on the far distance,
+^were now staring straight at me from the passenger's seat.\
+
+;dwave 0,"w\n378.ogg"
+dwave 0,"w\nv378.ogg"
+
+;「わ、わたしに出来ることは、
+;　最初から諦めて、何も望まずにいて…」\
+^``T-the only thing I can do ... is to give up from the beginning, wish for nothing ...''\
+
+;dwave 0,"w\n379.ogg"
+;dwave 0,"w\nv379.ogg"
+dwave 0,"w\nv379b.ogg"
+
+;「やっぱり無理だったと、
+;　冷めた目で自分を見ることしか出来ないのよ…」\
+^``... observe myself coldly ... tell myself it's all useless ... that's all I can do ...''\
+
+!s80
+
+;「…お前……」\
+^``... you ...''\
+
+;dwave 0,"w\n380.ogg"
+;dwave 0,"w\nv380.ogg"
+
+;「うぅ、ぐすっ」\
+
+bg "e\w.jpg",5
+
+;…初めて彼女が泣いた。\
+^... she was crying for the first time.\
+
+!s75
+
+;ほとんど表情を出さなかったこいつなのに…\
+^It was usually so hard to get any expression out of her ...\
+
+;小さく肩を震わせて、涙を流していた。\
+^... and yet now her shoulders were heaving a little ...
+^... and tears were falling from her eyes.\
+
+;dwave 0,"w\n381.ogg"
+dwave 0,"w\nv381.ogg"
+
+;「あ、あの時、頑張っていたら…もしかしたらって…」\
+^``W-when that time comes, even if I'm trying my hardest ... even if ...''\
+
+dwavestop 0
+
+;dwave 0,"w\n382.ogg"
+dwave 0,"w\nv382.ogg"
+
+;「自分にとっての、
+;　最後の言い訳を取っておくしかないのよ…」\
+^``For me ... there's nothing left but that last excuse ...''\
+
+dwavestop 0
+
+
+;dwave 0,"w\n383.ogg"
+dwave 0,"w\nv383.ogg"
+
+;「最初から無理だと分かっているんだから…」\
+^``Because I've known this was futile ever since the beginning ...''\
+
+dwavestop 0
+
+;dwave 0,"w\n384.ogg"
+dwave 0,"w\nv384.ogg"
+
+;「そ、それくらい…良いじゃないの…」\
+^``S-so ... c-can't you ... leave me with at least that ...?''\
+
+dwavestop 0
+
+;dwave 0,"w\n385.ogg"
+
+dwave 5,"w\nv385.ogg"
+
+
+;「うわーん」\
+
+;dwavestop 0
+
+bg "e\sora07.jpg",10,1500
+
+!s70
+
+;フロントガラス越しに見た夜空。^@^
+;夜明け前の空には月さえ顔を見せていた。\
+^The night sky, visible above the windshield.^@^
+^Nothing but the moon showing its face in the sky before dawn.\
+
+dwavestop 0
+
+;時折聞こえてくる潮騒と、
+;彼女の嗚咽の声だけが聞こえていた。\
+^The occasional roar of the sea waves,
+^and the sound of her weeping.\
+
+;…こいつにとってはエコーと同じなのかも知れない。\
+^... she may have been fundamentally similar to Echo after all.\
+
+;同じ言葉しか返せない。
+;自分からは何も言えない、何も望まない、何も見ない…\
+^Able only to say the same single thing over and over.
+^Able to say nothing, wish nothing, and see nothing for herself ...\
+
+!s85
+
+;…諦めることしかできない。\
+^... able to do nothing but give up.\
+
+;その彼女にとって、７階か家かを拒否したのは…\
+^Her veto of both ７F ~i~and~i~ her home ...
+
+
+;最初で最後の、抵抗だったのかも知れない…\
+^... was probably ... her first and last act of defiance ...\
+
+!sd
+
+bg "e\b.jpg",5
+stop
+mp3fadeout 2500
+
+;読んだフラグ(タイトル戻しのgotoの前に入れること)
+mov %flg_cha8,1
+mov %flg_bplay,8
+
+goto *gp32_mini_title
+;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+;・小タイトル戻し
+
+;★チャプター９ラスト
+*gp32_honpen9
+mov $sys_midasi,"^Shiraishi Construction [g]"
+dwavestop 5
+;＿＿＿＿;＿＿＿＿;＿＿＿＿;＿＿
+
+;・シーン　ラスト　翌朝くらい
+
+dwavestop 5
+
+bg "e\w.jpg",5
+
+;ＳＥ＞波の音とか
+dwave 5,"se\nami3.ogg"
+
+;☆ＢＧ　浜辺
+
+dwave 6,"se\umitori.ogg"
+
+;bg "e\kaigan.jpg",5
+
+;setwindow 180,358,35,16,16,16,0,3,1,1,5,#ffffff,0,0,799,599
+h_usewindow "main"
+!sd
+erasetextwindow 0
+
+;１月の澄んだ海。
+;肌を刺す冷たい風。\
+^The frosted sea of February.
+^A chilling, bone-piercing wind.\
+
+;mp3loop "bgm\e014.mp3"
+
+mp3loop "bgm\o02.mp3"
+
+;時折、強く吹いては松原を揺らし、
+;潮騒の音が静かに響いていた。\
+^The occasional rustle of the pine groves in the wind.
+^The peaceful timbre of the sea roar.\
+
+;「なあ、こんなもんしか無いぞ」\
+^``Hey, this is about all we've got.''\
+
+dwavestop 0
+
+;白石工務店と印刷されたタオルを手渡す。
+;以前にも身体を拭くのに使ったものだった。\
+^I handed her a towel that said ``Shiraishi Construction'' on it.
+^The one we'd used way earlier to sponge ourselves off.\
+
+dwave 0,"w\n386.ogg"
+
+;「……………」\
+^``... ... ...''\
+
+dwavestop 0
+
+;「こら、そんな変な顔すんなよ」\
+^``Oh, come on, don't make such a face.''\
+
+
+dwave 0,"w\n387.ogg"
+;dwave 0,"w\nv387.ogg"
+
+;「…わかった」\
+^``... okay.''\
+
+dwavestop 0
+
+;少し不満そうにタオルを受け取る彼女。\
+^She accepted the towel with slight disappointment.\
+
+;突然、水着が欲しいと言われても困ってしまう。\
+^Out of the blue, she'd said that she wanted a swimsuit,
+^but that presented another problem in and of itself.\
+
+;この時期に、この場所で、しかもビキニが欲しいと言った。\
+^Because she wanted it here and now,
+^and a bikini on top of that.\
+
+;しょうがなく、何かないかと車を漁って出てきたのが、
+;例の洗濯物の塊にあった白いタオルだった。\
+^Having no other course of action, I'd rummaged through the car,
+^but I never found anything other than that white towel.\
+
+;そして暫く待った頃…\
+^And after I'd waited a little while ...\
+
+;お気に入りだったあのスカートに、
+;先ほどのタオルを胸に巻いて彼女が現れた。\
+^She came into view, wearing her favorite skirt,
+^with that towel wrapped around her breasts.\
+
+;dwave 0,"w\n388.ogg"
+;dwave 0,"w\nv388.ogg"
+dwave 0,"w\nv388b.ogg"
+
+;「…どう？」\
+^``... how do I look?''\
+
+dwavestop 0
+
+;「いや、どうって言われてもな…」\
+^``Well, even if you ask me that ...''\
+
+dwavestop 0
+
+;dwave 0,"w\n389.ogg"
+;dwave 0,"w\nv389.ogg"
+dwave 0,"w\nv389b.ogg"
+
+;「変じゃ…ない？」\
+^``Do I look ... weird?''\
+
+dwavestop 0
+
+;「ん…まあ、たぶんな」\
+^``Hmm ... well, probably you do.''\
+
+dwave 0,"w\n055.ogg"
+
+;「………………」\
+^``... ... ... ...''\
+
+dwavestop 0
+
+;「あ、全然大丈夫だって、全然、変じゃないから」\
+^``No, I meant you look completely fine! You don't look weird at all!''\
+
+;dwave 0,"w\n076.ogg"
+;dwave 0,"w\new_447.ogg"
+dwave 0,"w\new_447b.ogg"
+
+;「うん、わかった…」\
+^``Mm, okay ...''\
+
+dwavestop 0
+
+;そして、波打ち際をゆっくりと歩き始める彼女。\
+^And then she slowly started walking about the beach.\
+
+;ＳＥ＞水辺の\
+dwave 5,"se\nami3.ogg"
+
+;寄せては返す波。
+;冷たい海風になびく長い髪。\
+^The breaking and ebbing waves.
+^Her long hair wafting in the cold sea breeze.\
+
+;空からは、まるで追い討ちをかけるように、
+;いつしか雪もちらちらと降り出していた。\
+^As if the sky wanted to spite us,
+^it was beginning to snow little by little.\
+
+;そんな中、両手に脱いだ靴を持った彼女が…\
+^And amidst all of that,
+^she was holding her shoes in her hand ...\
+
+;嬉しそうに、まるで跳ねるようにして、
+;素足で水際を歩いてみせる。\
+^... and walking at the water's edge,
+^exultantly, as if she was flying with every step.\
+
+;dwave 0,"w\n391.ogg"
+;dwave 0,"w\nv391.ogg"
+;dwave 0,"w\nv391b.ogg"
+dwave 0,"w\nv391c.ogg"
+
+;「ねえ…それっぽく見える？」\
+^``Hey ... does it look about right?''\
+
+dwavestop 0
+
+;「うーん、まあまあかな…」\
+^``Hmm, yeah, I guess ...''\
+
+dwavestop 0
+
+;真冬の寒さに、お互いの吐息が真っ白に弾む。\
+^Both of our breaths frosted white in the midwinter cold.\
+
+;そして俺は、
+;先ほど車から持ってきたカメラを取り出す。\
+^And I brought out the disposable camera that had been in the car.\
+
+;…例の安っぽい使い捨てのカメラ。
+;１枚だけのフィルムだった。\
+^... that old camera from before ...
+^... one more picture left ...\
+
+;「じゃあ、撮ってやるよ」\
+^``All right, I'm going to take your picture.''\
+
+;dwave 0,"w\n249.ogg"
+;dwave 0,"w\new_450.ogg"
+
+dwave 0,"w\new_347.ogg"
+
+;「えっ…」\
+^``Wha ...?''\
+
+dwavestop 0
+
+;「きっと…もっとそれっぽくなるからさ」\
+^``See ... it'll be even more right this way.''\
+
+;言いながら俺は、カメラを構えて見せる。\
+^Saying this, I pointed the camera toward her.\
+
+dwave 0,"w\n055.ogg"
+
+;「……………」\
+^``... ... ...''\
+
+dwavestop 0
+
+;「ほら、遠慮すんなって、な？」\
+^``C'mon, don't get shy on me now, okay?''\
+
+;dwave 0,"w\n406.ogg"
+dwave 0,"w\nv406.ogg"
+
+;「…うん」\
+^``... okay.''\
+
+dwavestop 0
+
+;波打ち際。
+;ファインダー越しに見た彼女。\
+^The beach.
+^The girl, now in the viewfinder of the camera.\
+
+;少し緊張しているのか、それとも照れくさいのか…
+;いつも以上に複雑な顔をしていた。\
+^Whether it was because she was tense or bashful ...
+^she had a facial expression that was far more complex than usual.\
+
+;「だからさ、もっとこうポーズつけてくれねえか？」\
+^``Oh, come now, won't you strike some kind of pose?''\
+
+dwavestop 0
+
+;dwave 0,"w\n393.ogg"
+dwave 0,"w\nv393.ogg"
+
+;「…でも…」\
+^``... but ...''\
+
+dwavestop 0
+
+;「でもじゃないって、ほら、
+;　そんな棒立ちしたグラビアアイドルいないぞ」\
+^``No ifs, ands, or buts now.  Come on. No bikini model stands stock still like that.''\
+
+dwavestop 0
+
+;dwave 0,"w\n405b.ogg"
+dwave 0,"w\new_454.ogg"
+
+;「わかった…」\
+^``... okay ...''\
+
+dwavestop 0
+
+;ＳＥ＞波音\
+dwave 5,"se\nami3.ogg"
+
+dwave 6,"se\umitori.ogg"
+
+!sd
+
+;少し照れながらでも…それでも彼女なりに精一杯で…\
+^Looking a little awkward ...
+^... but still trying with all her heart ...\
+
+;恥ずかしそうに腰に手をあてると、
+;もう片方の手を大きく掲げてみせる。\
+^She bashfully lowered one hand to her hip,
+^and stretched out the other one high overhead.\
+
+;…その、澄んだ冬空へ向かって伸ばされた手…\
+^... that arm, stretched forth toward the clear winter sky ...\
+
+;…まるで、何かを掴むように…^@^掴もうとするように…\
+^... as if it were grasping for something ...^@^
+^... as if it were reaching out for something ...\
+
+;真っ直ぐに空へと伸ばされていた。
+;エメラルドグリーンの海を背にしていた…\
+^Was being held straight up into the heavens.
+^With the emerald sea as its backdrop ...\
+
+!s85
+
+;「じゃあ、最後にもうひとつ…」\
+^``Okay, then one last thing ...''\
+
+;dwave 0,"w\n290.ogg"
+;dwave 0,"w\new_455.ogg"
+dwave 0,"w\new_455b.ogg"
+
+;「…うん？」\
+^``... hmm?''\
+
+dwavestop 0
+
+!s120
+
+;「……笑って……」\
+^``... smile ...''\
+
+dwavestop 0
+dwavestop 5
+
+;dwave 0,"w\n249.ogg"
+;dwave 0,"w\new_456.ogg"
+
+;dwave 0,"w\n395.ogg"
+dwave 0,"w\nv395.ogg"
+
+;「えっ…」\
+^``Wha ...''\
+
+
+;「えっ…」\
+
+dwavestop 0
+
+;「…笑ってくれよ、^@^セツミ…」\
+^``... smile for me,^@^ Setsumi ...''\
+
+dwavestop 0
+
+dwave 0,"w\n080.ogg"
+
+;「……………」\
+^``... ... ...''\
+
+dwavestop 0
+
+!w300
+
+;dwave 0,"w\n397.ogg"
+;dwave 0,"w\nv397.ogg"
+dwave 0,"w\nv397b.ogg"
+
+!s100
+
+;「…なによ…^@^…年下のくせに…」\
+^``... what's up with that ...?^@^
+^ ... you're younger than me ...''\
+
+dwavestop 0
+
+;ＳＥ＞シャッター
+dwave 5,"se\camera.ogg"
+
+;bg "e\w.jpg",1
+
+bg "e\imege93.jpg",3
+bg "e\imege92.jpg",5
+bg "e\imege09.jpg",5
+
+dwave 5,"se\nami3.ogg"
+
+;…そう言って…^@^初めて笑ってくれた。\
+^... and saying this ...^@^
+^... she smiled for me for the first time.\
+
+!s80
+
+;お気に入りのスカートと、
+;白いビキニに身を包んだ彼女が…\
+^That girl, clad in her favorite skirt and that white towel ...\
+
+!s75
+
+;使い捨てカメラの最後の一枚で笑ってくれた。
+;エメラルドグリーンの海を背に笑ってくれた。\
+^Smiled for the final shot that the camera had.
+^Smiled with the emerald sea as her backdrop.\
+
+;まるで、グラビアアイドルのような笑顔を向けてくれた…\
+^Smiled as if she were an honest-to-god bikini model ...\
+
+!sd
+
+bg "e\b.jpg",5
+
+;「よし、じゃあ次は、
+;　もっとこう動きのあるポーズやってみるか」\
+^``All right, then next, shall we try something more of an action pose?''\
+
+dwavestop 0
+
+;dwave 0,"w\n399.ogg"
+dwave 0,"w\nv399.ogg"
+
+;「うんっ」\
+^``Okay!''\
+
+dwavestop 0
+
+;嬉しそうに、楽しそうに、水辺を跳ねる彼女。\
+^Happily, exuburantly, she splashed around in the water.\
+
+;既にフィルムの尽きてしまったカメラだけど、
+;俺はその姿を撮り続けた。\
+^And even though the camera was now utterly exhausted,
+^I kept photographing her figure.\
+
+;「お、なんかお前、調子乗ってきたな」\
+^``Hey, it looks like you've really gotten into the spirit of things!''\
+
+dwavestop 0
+
+;dwave 0,"w\n401.ogg"
+dwave 0,"w\nv401.ogg"
+
+;「そ、そんなことないわよ…」\
+^``Th-that's not it at all ...''\
+
+
+;明るく話す俺達と、
+;追い討ちをかけるように更に強さを増す降る雪。\
+^Our cheerful dialog.
+^The snow falling harder and harder as if in spite.\
+
+;そんな中、フィルムの切れたカメラの、
+;ファインダー越しに嬉しそうな顔を向ける彼女。\
+^And in the midst, the girl,
+^smiling brilliantly in the viewfinder of the spent camera.\
+
+;小さな身体を風に煽られながらも、
+;覚えたての笑顔を向けてくれた…\
+^Continuing to remember to smile for me even as her little body was battered at by the winds ...\
+
+bg "e\w.jpg",5
+
+dwavestop 5
+
+mp3fadeout 2500
+stop
+
+;＿＿＿＿
+
+;*tugi99
+
+;bg "e\kaigan.jpg",5
+
+bg "e\imege072.jpg",5
+
+;ＳＥ＞波
+dwave 5,"se\nami3.ogg"
+
+
+dwave 6,"se\umitori.ogg"
+
+;ざざ……\
+^ *swish*swish* ...\
+
+;dwave 0,"w\n403.ogg"
+dwave 0,"w\nv403.ogg"
+
+;「それじゃあ…」\
+^``Well then ...''\
+
+dwavestop 0
+
+;「ん…ああ、もうそんな頃合か…」\
+^``Hmm ... yeah, so I guess it's time ...''\
+
+;dwave 0,"w\n253.ogg"
+dwave 0,"w\new_463.ogg"
+
+;「…うん」\
+^``... yeah.''\
+
+dwavestop 0
+
+;その返事と共に、
+;以前のように海に向かって歩き始める彼女。\
+^And with that word,
+^she began walking toward the sea, just like last time.\
+
+;dwave 0,"w\n404.ogg"
+dwave 0,"w\nv404.ogg"
+
+;「あ、そういえば免許証…」\
+^``Oh, right, your license ...''\
+
+dwavestop 0
+
+;「いいよ、記念に貰っといてくれよ」\
+^``No, you keep that in commemoration.''\
+
+dwavestop 0
+
+;dwave 0,"w\n076.ogg"
+dwave 0,"w\new_465.ogg"
+
+;「うん、わかった…」\
+^``Okay, got it ...''\
+
+dwavestop 0
+
+dwavestop 6
+
+
+;頷きながら、ポケットに収める彼女。\
+^With a nod, she put it in her pocket.\
+
+;それはかつて彼女に譲った免許証。
+;本来ならば、既に出番を失った筈のものだった。\
+^That was the license that I'd given her.
+^The was one that I should never have had the chance to use.\
+
+;そして彼女は、自分の手首に巻かれた、
+;あのビニールの白い腕輪を外すと…\
+^And then, she unfastened that white vinyl ID bracelet that had been wrapped around her wrist ...\
+
+;dwavestop 5
+
+!s90
+
+;…俺へと差し出してくれた。\
+^... and presented it to me.\
+
+dwave 6,"se\umitori.ogg"
+
+!sd
+
+;「もしかして…くれるのか？」\
+^``Are you ... giving this to me?''\
+
+dwavestop 0
+
+;dwave 0,"w\n044.ogg"
+;dwave 0,"w\new_467.ogg"
+dwave 0,"w\new_467b.ogg"
+
+;「うん、あげる…」\
+^``Yes, I am ...''\
+
+dwavestop 0
+
+;「そっか…じゃあ俺も、記念に貰っといてやるよ」\
+^``I see ... in that case, I'll keep it in commemoration.''\
+
+dwavestop 0
+
+;同じように受け取った腕輪。
+;俺も自分のポケットへと収める。\
+^I stuffed that bracelet, whose twin hung on my wrist,
+^into my pocket.\
+
+;そして、再び海へと歩き始める彼女の…\
+^And then, to the girl who was walking once more toward the sea ...\
+
+;その後ろ姿に向かって、俺は最後の言葉をかけた。\
+^... toward her retreating figure ...
+^... I said my last words.\
+
+!s75
+
+;「なあ…最後にもう一つだけ質問していいか？」\
+^``Hey ... can I ask you one last question?''\
+
+dwavestop 0
+
+!s90
+
+;dwave 0,"w\n406.ogg"
+dwave 0,"w\nv406.ogg"
+
+;「うん」\
+^``Sure.''\
+
+dwavestop 0
+
+;「お前、今…^@^引きとめてほしいか？」\
+^``Do you ...^@^ want to be stopped right now?''\
+
+dwavestop 0
+
+dwave 0,"w\n407.ogg"
+
+;「……………」\
+^``... ... ...''\
+
+dwavestop 0
+
+;「それとも…背中を押して欲しいか？」\
+^``Or do you want ... to be pushed toward the sea?''\
+
+dwavestop 0
+
+dwave 5,"se\nami3.ogg"
+
+dwave 6,"se\umitori.ogg"
+
+!s75
+
+;寄せる波を足に受けながら、その場に立ち止まった彼女。
+;問いを投げる俺に背中を向けたままだった。\
+^She stopped for a moment, the waves lapping at her feet.
+^Her back remained to the last turned toward me.\
+
+;強い風が波頭を飛沫に変え、
+;そんな彼女を冷たく叩いていた。\
+^A strong wind brought in a rolling wave,
+^which crashed against her with chilly fury.\
+
+;やがて、俺の方を振り返ってくれると…\
+^And when she at last turned toward me ...\
+
+!s85
+
+;dwave 0,"w\n408.ogg"
+dwave 0,"w\nv408.ogg"
+
+;「…さあ…どっちだろうね」\
+^``... hmm ... that's a good question.''\
+
+;dwave 0,"w\nv409.ogg"
+dwave 0,"w\nv409b.ogg"
+;「あはは、よくわからないね」\
+^``Ahaha, I really don't know.''\
+
+dwavestop 0
+
+!s75
+
+;そう言って、最後にもう一度だけ笑ってくれた。\
+^As she said this,
+^she smiled for me one last time.\
+
+;冷たい波の飛沫を受けながら、
+;涙を浮かべながらでも笑顔を向けてくれた。\
+^Even as the cold waves battered at her, even with tears streaming down her face, she still smiled for me.\
+
+;以前は、波打ち際で止まっていた、その足…\
+^The last time around,
+^she'd stopped at this ...\
+
+;でも今は止まることはなかった。\
+^But this time there was no turning back.\
+
+!s100
+
+;…だから、それが答えなんだと思う…\
+^... that's why I think she answered that way ...\
+
+
+bg "e\w.jpg",5
+
+!w500
+
+
+
+;dwave 0,"w\n410.ogg"
+dwave 0,"w\nv410.ogg"
+
+;「それじゃあ…^@^さよなら…」\
+^``Well then ...^@^ farewell ...''\
+
+dwavestop 0
+
+dwavestop 5
+
+dwavestop 6
+
+;*last01
+
+mp3loop "bgm\sen02_20.mp3"
+
+bg "e\st00.jpg",1
+
+
+!s75
+
+;…こうして、俺達の９６０ｋｍの旅が終わった…\
+^... in this manner did our voyage of 960-odd kilometers come to its conclusion ...\
+
+!s80
+
+;俺にとっては１５日間、
+;彼女にとっては２２年間の旅も終わった。\
+^My voyage of 15 days and her voyage of 22 years: finally at an end.\
+
+;７階でも家でもない、自らの意志で避けた彼女。^@^
+;２００５年度、推定自殺者数３万５千人の中の一人。\
+^She, who succeeded in perishing not on ７F or at home.^@^
+^She, who was one of 35000-odd people to suicide in 2005.\
+
+;血液型Ｏ、名前はセツミ、２２才、女性…
+;ビニールの認識腕輪は白。\
+^Blood type: O.  Name: Setsumi.  Age: 22.  Sex: Female ...
+^Color of ID Bracelet: White.\
+
+;これが彼女の全てだった。\
+^That was all that was recorded of her.\
+
+bg "e\w.jpg",3
+
+;…でも、俺は知っている。\
+^... but I knew better.\
+
+bg "english\1\cat09.bmp",5
+
+!s75
+
+;本当は、ビキニの水着が好きで、ナビ以上に道に詳しくて、
+;車が好きで、普免だって持っている。\
+^The truth was: she loved bikinis, was better at navigation than any computer, loved cars, even held a driver's license.\
+
+;いつもは無表情で、滅多に向けてくれないけど、\
+^She was usually expressionless,
+^and would not meet your face ...\
+;たまには、照れくさそうな、拗ねたような顔だってしてくれる…\
+^... but every so often ... she would grace you ...
+^... with a bashful, sour-seeming expression ...\
+
+!s80
+
+;エメラルドの海を背に…\
+^And with the emerald sea as her backdrop ...\
+
+;跳ねるように、嬉しそうに、
+;まるで、グラビアアイドルのように笑ってくれる…\
+^She smiled for me as if she were flying, as if she were delighted,
+^as if she were an honest-to-god bikini model ...\
+
+;なのに…\
+^Yet somehow ...\
+
+;この安っぽい使い捨てカメラに、
+;たった一枚しか残せなかった彼女の笑顔。\
+^There was only a single record of her smile captured in this cheap throwaway camera.\
+
+
+bg "english\1\imege94.jpg",5
+
+;…それでも…たった一枚だけでも…\
+^... even so ...
+^... even if it was just one picture ...\
+
+
+;　……残せた俺達の証し……\
+h_centreline ^... it was proof that we lived ...^
+^... it was proof that we lived ...\
+
+bg "e\b.jpg",5
+
+bg "english\1\st01.jpg",5
+
+!w1500
+
+bg "e\b.jpg",5
+
+
+bg "english\1\st02.jpg",5
+
+!w1500
+
+bg "e\b.jpg",5
+
+bg "english\1\st03.jpg",5
+
+!w1500
+
+bg "e\b.jpg",5
+
+bg "english\1\st04.jpg",5
+
+!w1500
+
+bg "e\b.jpg",5
+
+bg "english\1\st05.jpg",5
+
+!w1500
+
+bg "e\b.jpg",5
+
+bg "english\1\st06.jpg",5
+
+!w1500
+
+bg "e\b.jpg",5
+
+bg "english\1\st07.jpg",5
+
+!w1500
+
+bg "e\b.jpg",5
+
+bg "english\1\st08.jpg",5
+
+!w1500
+
+bg "e\b.jpg",5
+
+bg "english\1\st09.jpg",5
+
+!w1500
+
+!s85
+
+bg "e\w.jpg",3
+
+bg "e\nar01d.jpg",3
+
+bg "e\nar01c.jpg",1
+
+bg "e\nar01.jpg",5
+
+
+bg "gp32\1\imege95.jpg",5
+
+
+bg "gp32\1\imege96.jpg",10,1000
+
+
+
+bg "gp32\1\imege97.jpg",5
+
+
+
+bg "english\1\imege98.bmp",5
