@@ -30,7 +30,7 @@
 ;「…くそう、まだかよ」\
 ^``... Damn it, it's still going?''\
 
-dwavestop 0
+
 
 ;思わず言葉が漏れてしまう。\
 ^Before I knew it, the words tumbled out.\
@@ -43,19 +43,19 @@ dwave 0,"w\n138.ogg"
 ;「…大丈夫よ、もう止まるわ」\
 ^``... It's okay, it'll stop now.''\
 
-dwavestop 0
+
 
 ;「えっ？」\
 ^``Eh?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n139.ogg"
 
 ;「これ、５０リッターだから…」\
 ^``This, is a 50 liter...''\
 
-dwavestop 0
+
 
 ;その言葉通り、ちょうどメーターは、
 ;４７と４８の間くらいでピタっと止まった。\
@@ -68,12 +68,12 @@ dwavestop 0
 ;「お待たせしました、５２４０円となります」\
 ^``Sorry for the wait, it comes to ¥5240.''\
 
-dwavestop 0
+
 
 ;「あ、ああ…はい」\
 ^``A-ah... here.''\
 
-dwavestop 0
+
 
 ;俺はポケットから５千円札と、
 ;くしゃくしゃになった千円札を手渡す。\
@@ -82,14 +82,14 @@ dwavestop 0
 ;「ではこちら、お釣り７６０円とレシートとなります」\
 ^``Here is your change of ¥760 and your receipt.''\
 
-dwavestop 0
+
 
 bg "e\b.jpg",5
 
 ;「どうもありがとうござましたー」\
 ^``Thank you very much!''\
 
-dwavestop 0
+
 
 ;店員の明るい声を背に、
 ;また俺は目の前の道へと車を走らせた。\
@@ -124,31 +124,31 @@ bg "e\naname_michi.jpg",5
 ;「なあ、お前ってさあ…」\
 ^``Hey, are you....''\
 
-dwavestop 0
+
 
 ;「もしかして、車にも詳しいのか？」\
 ^``Could it be that you know a lot about cars?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n140.ogg"
 
 ;「…別に」\
 ^``... Not particularly.''\
 
-dwavestop 0
+
 
 ;「別にって、さっき５０リッターとか言ってたじゃん？」\
 ^``Not particularly, didn't you just say this was a 50 liter before?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n141.ogg"
 
 ;「……………」\
 ^``......''\
 
-dwavestop 0
+
 
 ;もちろん、これくらいのことは当てずっぽうで分かる、
 ;一般的な認識程度のことかも知れない。\
@@ -166,14 +166,14 @@ dwavestop 0
 ;「お前さあ、もちろんこの車の、車名って知ってるよな？」\
 ^``You, would of course know this car's name, right?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n142.ogg"
 
 ;「…それは質問？」\
 ^``... Is that a question?''\
 
-dwavestop 0
+
 
 ;「いや、なんだったらクイズでもいいぞ」\
 ^``Well you can think of it as a quiz.''\
@@ -183,26 +183,26 @@ dwave 0,"w\n143.ogg"
 ;「……………」\
 ^``......''\
 
-dwavestop 0
+
 
 dwave 0,"w\n144.ogg"
 
 ;「インテグラ、タイプＲ、クーペ…」\
 ^``Integra, Type R. Coupe...''\
 
-dwavestop 0
+
 
 ;「正解だ…じゃあスペックは？」\
 ^``That's correct... and the specs?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n145.ogg"
 
 ;「９９年式、５速ミッション、最高出力２００馬力…」\
 ^``99 model, 5-speed transmission, maximum output, 200 horsepower...''\
 
-dwavestop 0
+
 
 ;まさか本当に答えてくるとは思ってなかった。\
 ^I hadn't thought that she would really answer.\
@@ -216,19 +216,19 @@ dwave 0,"w\n146.ogg"
 ;「…全長４３８０、全幅１６９５、総排気量１７９７ｃｃ…」\
 ^``... Total length, 4380mm, total width, 1695mm, general displacement, 1797cc...''\
 
-dwavestop 0
+
 
 dwave 0,"w\n147.ogg"
 
 ;「…まだ言うの？」\
 ^``... Do you want me to go on?''\
 
-dwavestop 0
+
 
 ;「いや、もういい、正解だ…」\
 ^``No, that's enough. Correct...''\
 
-dwavestop 0
+
 
 ;答えながら車検証を元の場所へと戻す。\
 ^As I replied, I returned the registration to it's place.\
@@ -251,21 +251,21 @@ dwavestop 0
 ;「なあ…なんでお前ってそんな物知りなんだ？」\
 ^``Hey... why do you know so much?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n148.ogg"
 
 ;「……………」\
 ^``......''\
 
-dwavestop 0
+
 
 dwave 0,"w\n149.ogg"
 
 ;「別に…あなたより年上だからよ」\
 ^``No particular reason... it's because I'm older than you.''\
 
-dwavestop 0
+
 
 ;それだけを答えると、
 ;またいつものように黙ってしまう彼女。\
@@ -338,31 +338,31 @@ bg "e\shanai_michi01_yu.jpg",3
 ;「なあ、これからどうする？」\
 ^``Hey, what should we do from now on?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n150.ogg"
 
 ;「…質問の意味がわからない」\
 ^``... I don't understand the meaning of your question.''\
 
-dwavestop 0
+
 
 ;「もう、ほとんど金ないぞって意味だ」\
 ^``I mean, we don't have much money left.''\
 
-dwavestop 0
+
 
 dwave 0,"w\n151.ogg"
 
 ;「…だから？」\
 ^``... And so?''\
 
-dwavestop 0
+
 
 ;「だからってお前…」\
 ^``|`And so?' you...''\
 
-dwavestop 0
+
 
 ;相変わらずの様子の彼女。\
 ^The girl was as she always had been.\
@@ -400,19 +400,19 @@ dwavestop 0
 ;「なあ、お前さ…」\
 ^``Hey, you...''\
 
-dwavestop 0
+
 
 ;「例の…淡路島だっけ、行ってみたいか？」\
 ^``That place... Awaji-shima was it, you want to go there?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n169.ogg"
 
 ;「…………」\
 ^``......''\
 
-dwavestop 0
+
 
 ;返事はなかった。
 ;いつもと変わらず窓の外を眺めているだけだった。\
@@ -428,7 +428,7 @@ dwavestop 0
 ;「いや、それは…」\
 ^``Well, that's...''\
 
-dwavestop 0
+
 
 bg "e\b.jpg",3
 
@@ -483,19 +483,19 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 ;「どうだ…やってみたいか？」\
 ^``How about it... want to try?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n152.ogg"
 
 ;「…嫌」\
 ^``... No.''\
 
-dwavestop 0
+
 
 ;「そうか…わかった」\
 ^``I see... alright.''\
 
-dwavestop 0
+
 
 ;予想できたことだが、あっさり拒否された。\
 ^It was what was expected, but I was plainly refused.\
@@ -510,7 +510,7 @@ dwavestop 0
 ;「じゃあ、ちょっと待ってろよ」\
 ^``Well then, wait a bit.''\
 
-dwavestop 0
+
 
 ;ＳＥ＞ドア開け閉め\
 
@@ -671,7 +671,7 @@ if %unvoiced_mode == 1 goto *generated_300
 ^* Pant, pant. *\
 *generated_300
 
-dwavestop 0
+
 
 ;☆車内
 bg "e\car_byoin_chusyajo_yoru.jpg",3
@@ -714,12 +714,12 @@ dwave 0,"w\n153.ogg"
 ;「きゃっ」\
 ^``Kya!''\
 
-dwavestop 0
+
 
 ;「ちっ」\
 ^``Tsk.''\
 
-dwavestop 0
+
 
 ;bg "e\car_byoin_chusyajo_yoru.jpg",3
 
@@ -776,12 +776,12 @@ dwave 0,"w\n154.ogg"
 ;「…大丈夫？」\
 ^``... Is it okay?''\
 
-dwavestop 0
+
 
 ;「ああ、大したことないだろう…」\
 ^``Ah, it's probably nothing major...''\
 
-dwavestop 0
+
 
 ;助手席から少しだけ心配そうに声を掛ける彼女。
 ;俺は、ぶつけた個所を点検しながら答える。\
@@ -829,19 +829,19 @@ dwave 0,"w\n156.ogg"
 ;「…勘違いしてるわね」\
 ^``... You're being mistaken.''\
 
-dwavestop 0
+
 
 ;「えっ…」\
 ^``Eh?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n157.ogg"
 
 ;「今のあなたは、以前のあなたとは違う筈…」\
 ^``The you now, should be different from the you from before...''\
 
-dwavestop 0
+
 
 ;まるで、見透かされたような彼女の言葉だった。\
 ^The girl spoke words as if she were seeing clear through me.\
@@ -849,19 +849,19 @@ dwavestop 0
 ;「だけど、あれくらいの重さなら…」\
 ^``However, with a weight like that...''\
 
-dwavestop 0
+
 
 dwave 0,"w\n158.ogg"
 
 ;「…同じように考えない方がいい」\
 ^``... You shouldn't think of it as being the same.''\
 
-dwavestop 0
+
 
 ;「…………」\
 ^``......''\
 
-dwavestop 0
+
 
 ;恐らく、彼女の言は正しいのだろう。
 ;認めたくないが、今の俺は以前の俺とは違う。\
@@ -874,14 +874,14 @@ dwavestop 0
 ;「じゃあ…どうすりゃいいんだよ？」\
 ^``Then... what should I do?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n159.ogg"
 
 ;「………………」\
 ^``......''\
 
-dwavestop 0
+
 
 ;その問いには返事はなかった。\
 ^To that question, there came no answer.\
@@ -945,7 +945,7 @@ dwave 0,"w\n161.ogg"
 ;「時間を止め、心を止めて…」\
 ^``Stopping time, stopping my heart...''\
 
-dwavestop 0
+
 
 ;mp3loop "tui\sen032.mp3"
 
@@ -954,7 +954,7 @@ dwave 0,"w\n162.ogg"
 ;「情報だけを積み重ねる日々…」\
 ^``Days of simply gathering knowledge...''\
 
-dwavestop 0
+
 
 ;地図を眺め、目を閉じ、知らない町を旅する日々…\
 ^Days of gazing at maps, closing my eyes, travelling to unknown towns...\
@@ -1007,7 +1007,7 @@ dwave 0,"w\n006.ogg"
 ;　誰とも言葉を交わす必要もなく過ごした…」\
 ^``Numerous seasons, white overcast skies... passed without even the need to exchange words with anyone...''\
 
-dwavestop 0
+
 
 bg "e\sora_ame03.jpg",3
 
@@ -1068,14 +1068,14 @@ dwave 0,"w\n163.ogg"
 ;「だけど…」\
 ^``But...''\
 
-dwavestop 0
+
 
 dwave 0,"w\n164.ogg"
 
 ;「…胸の大きな傷跡が、諦めろと諭した」\
 ^``... The large scar on my chest, advised me to give up.''\
 
-dwavestop 0
+
 
 bg "e\chara_k01.jpg",3
 
@@ -1084,7 +1084,7 @@ dwave 0,"w\n165.ogg"
 ;「生涯の伴侶は、目を閉じた世界にしろと諭した…」\
 ^``My lifelong companion, told me to make do with the world in my closed eyes...''\
 
-dwavestop 0
+
 dwavestop 5
 
 bg "e\b.jpg",5
@@ -1134,7 +1134,7 @@ dwave 0,"w\n166.ogg"
 ;「ねえ、あなた…」\
 ^``Say... you...''\
 
-dwavestop 0
+
 
 ;そんなことを思っていると、
 ;珍しく彼女の方から声を掛けてきた。\
@@ -1145,19 +1145,19 @@ dwave 0,"w\n167.ogg"
 ;「あなた、お風呂は入れるの…？」\
 ^``You, can go take baths?''\
 
-dwavestop 0
+
 
 ;「ああ、今のところ、長湯以外は止められてない」\
 ^``Ah, right now, outside of long baths, I haven't been told to stop.''\
 
-dwavestop 0
+
 
 dwave 0,"w\n168.ogg"
 
 ;「そう…わたしも似たようなもんよ」\
 ^``I see... something similar to me then.''\
 
-dwavestop 0
+
 
 ;ここで言うところの、風呂に入れるってのは、
 ;医者に止められているかって意味だった。\
@@ -1174,26 +1174,26 @@ dwavestop 0
 ;「なんだ、もしかして風呂に入りたいのか？」\
 ^``What, did you want to go take a bath?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n169.ogg"
 
 ;「…………」\
 ^``......''\
 
-dwavestop 0
+
 
 dwave 0,"w\n170.ogg"
 
 ;「…悪い？」\
 ^``... Problem?''\
 
-dwavestop 0
+
 
 ;「いや、俺も入りたかったし」\
 ^``No, I also want to take one.''\
 
-dwavestop 0
+
 
 ;といっても、どこかの宿やホテルに泊まるには、
 ;金銭的に無理だった。\
@@ -1202,26 +1202,26 @@ dwavestop 0
 ;「じゃあさ、どっか銭湯でも探すか？」\
 ^``Well then, shall we look for a bathhouse someplace?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n171.ogg"
 
 ;「…銭湯？」\
 ^``... Bathhouse?''\
 
-dwavestop 0
+
 
 ;「ああ、それくらいなら、まだ金もあるし…」\
 ^``Ah, something like that, we still haven the money for...''\
 
-dwavestop 0
+
 
 dwave 0,"w\n172.ogg"
 
 ;「…………」\
 ^``......''\
 
-dwavestop 0
+
 
 ;□心情・情景
 
@@ -1230,12 +1230,12 @@ dwave 0,"w\n173.ogg"
 ;「…やっぱりいい」\
 ^``... On second thought, I'm fine.''\
 
-dwavestop 0
+
 
 ;「なんだ、いいのかよ？」\
 ^``What, you're fine?''\
 
-dwavestop 0
+
 
 ;あの日、７階を飛び出してから、
 ;既に３日が経とうとしていた。\
@@ -1253,21 +1253,21 @@ dwavestop 0
 ;　銭湯とかって恥ずかしいから嫌なのか？」\
 ^``Is it that you're... embarrassed about the bathhouse and so you don't want to go?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n174.ogg"
 
 ;「…………」\
 ^``......''\
 
-dwavestop 0
+
 
 dwave 0,"w\n175.ogg"
 
 ;「別に…そんな意味じゃないわよ」\
 ^``Not particularly... I didn't mean that.''\
 
-dwavestop 0
+
 ;＿＿＿＿;＿＿＿＿;＿
 
 ;☆ＢＧ　夜空
@@ -1307,7 +1307,7 @@ bg "e\shanai_michi01_yoru.jpg",3
 ;「じゃあ、ちょっと待ってろよ」\
 ^``Well, wait a bit.''\
 
-dwavestop 0
+
 
 dwave 0,"w\n089.ogg"
 
@@ -1320,7 +1320,7 @@ goto *generated_306
 ^``...?''\
 *generated_306
 
-dwavestop 0
+
 
 ;ＳＥ＞ドア開け閉め
 dwave 5,"tui3\close.ogg"
@@ -1340,7 +1340,7 @@ dwavestop 5
 ;「あ、あった」\
 ^``Ah, there it is.''\
 
-dwavestop 0
+
 
 ;しばらくして、目指していた水道を見つけた。
 ;恐らくは花壇用に設けられたものだろう。\
@@ -1383,7 +1383,7 @@ dwavestop 5
 ;「待たせたな、ほら」\
 ^``Sorry for the wait. Here.''\
 
-dwavestop 0
+
 
 ;手に持った濡れタオル。
 ;２つある内の一つを彼女にも渡す。\
@@ -1400,32 +1400,32 @@ dwavestop 0
 ;「お前も遠慮せずに、身体拭けよ」\
 ^``You don't have to hold back, wipe your body.''\
 
-dwavestop 0
+
 
 dwave 0,"w\n176.ogg"
 
 ;「…………」\
 ^``......''\
 
-dwavestop 0
+
 
 ;「冷たくて気持ちいいぞ？」\
 ^``It's cold and feels good, you know?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n095.ogg"
 
 ;「わかった…」\
 ^``Alright...''\
 
-dwavestop 0
+
 
 ;;dwave 0,"w\n177.ogg"
 
 ;;「…うん」\
 
-dwavestop 0
+
 
 ;最初は遠慮気味にじっとしていた彼女だけど、
 ;その返事と共にゆっくりと服のボタンに手をかける。\
@@ -1443,24 +1443,24 @@ dwave 0,"w\n178.ogg"
 ;「ねえ…」\
 ^``Hey...''\
 
-dwavestop 0
+
 
 ;「どうかしたか？」\
 ^``Something the matter?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n179.ogg"
 
 ;「…見ないでよ」\
 ^``... Don't look.''\
 
-dwavestop 0
+
 
 ;「ああ、悪い…そうだったな」\
 ^``Ah, sorry... that's right.''\
 
-dwavestop 0
+
 
 ;手に濡れタオルを持って、
 ;服を脱ぎかけたまま彼女が呟く。\
@@ -1479,14 +1479,14 @@ bg "e\b.jpg",3
 ;「どうだ、気持ちいいだろ」\
 ^``How about it? Feels good, doesn't it?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n180.ogg"
 
 ;「…うん」\
 ^``... Un.''\
 
-dwavestop 0
+
 
 ;真っ暗なあたりに、薄明るい車内。\
 ^It was just turning totally dark, and the interior was dimly lit.\
@@ -1517,21 +1517,21 @@ dwave 0,"w\n181.ogg"
 ;「ねえ、あなた…」\
 ^``Say, you...''\
 
-dwavestop 0
+
 
 ;;突然、背中越しに声を掛けてきた。\
 
 ;「えっ、あ、ああ…なんだ？」\
 ^``Eh, a-ah... what is it?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n182.ogg"
 
 ;「そんなに…珍しい？」\
 ^``Is it that... unusual?''\
 
-dwavestop 0
+
 
 ;背中越し。
 ;ガラスに映った俺に向かっての言葉だった。\
@@ -1597,14 +1597,14 @@ bg "e\shanai_michi01.jpg",3
 ;「ちょっと飽きたか？」\
 ^``Have you gotten a bit tired of it?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n183.ogg"
 
 ;「別に…」\
 ^``Not particularly...''\
 
-dwavestop 0
+
 
 ;お互い、コンビニのおにぎりを食べながら言葉を交わす。\
 ^The two of us, while eating convenience store ~i~nigiri,~i~ exchanged words.\
@@ -1624,24 +1624,24 @@ dwave 0,"w\n184.ogg"
 ;「…音がうるさい」\
 ^``... That sound is noisy.''\
 
-dwavestop 0
+
 
 ;「は？　どうした突然？」\
 ^``Ha? What's this all of a sudden?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n185.ogg"
 
 ;「車の音、前より大きくなってる…」\
 ^``The sound of the car, it's gotten louder than before...''\
 
-dwavestop 0
+
 
 ;「ああ、そういえば確かに…」\
 ^``Ah, now that you say, it really has...''\
 
-dwavestop 0
+
 
 ;きっと、数日前のパチンコ屋から逃げる時に、
 ;マフラーをぶつけたのが原因なんだろう。\
@@ -1689,7 +1689,7 @@ dwave 5,"se\car_s.ogg"
 ;「給油に寄る…」\
 ^``I'll get some gas...''\
 
-dwavestop 0
+
 dwavestop 5
 
 dwave 0,"w\n079.ogg"
@@ -1697,19 +1697,19 @@ dwave 0,"w\n079.ogg"
 ;「そう…」\
 ^``I see...''\
 
-dwavestop 0
+
 
 ;「だけど、車からは降りるなよ」\
 ^``But, don't get out of the car.''\
 
-dwavestop 0
+
 
 dwave 0,"w\n186.ogg"
 
 ;「…………」\
 ^``......''\
 
-dwavestop 0
+
 
 ;返事はなかった。だけどあいつも、
 ;どういう意味かは理解しているのだろう。\
@@ -1763,7 +1763,7 @@ bg "e\gs.jpg",3
 ;「いらっしゃいませ」\
 ^``Welcome!''\
 
-dwavestop 0
+
 
 ;さっきまで建物の中にいたバイトらしき店員。
 ;何故か、こちらに駆け寄って来た。\
@@ -1772,17 +1772,17 @@ dwavestop 0
 ;「灰皿、空気圧大丈夫ですか」\
 ^``Ashtray, tire pressure, are they all fine?''\
 
-dwavestop 0
+
 
 ;「え、あ…ええ、大丈夫です…」\
 ^``Eh, ah... yes, they're fine...''\
 
-dwavestop 0
+
 
 ;「そうですか、寒いですから気をつけて下さいね」\
 ^``I see. It's cold, so please be careful.''\
 
-dwavestop 0
+
 
 ;そして、サービスのつもりか窓まで拭き始めた。\
 ^And, perhaps intended to be a service, the clerk started cleaning the windows.\
@@ -1794,7 +1794,7 @@ dwavestop 0
 ;「あ、清算は向こうでお願いしますね」\
 ^``Ah, please make your payment over there.''\
 
-dwavestop 0
+
 
 ;窓を拭く手を止め、さきほどの建物を指差す店員。\
 ^Pausing from washing the windows, the clerk pointed at the building from before.\
@@ -1806,12 +1806,12 @@ dwavestop 0
 ;「どうしました、お客さん？」\
 ^``Is something the matter, sir?''\
 
-dwavestop 0
+
 
 ;「あ、いや、なんでもない…」\
 ^``A, no, nothing...''\
 
-dwavestop 0
+
 
 ;ＳＥ＞ドア閉め
 dwave 5,"tui3\close.ogg"
@@ -1864,17 +1864,17 @@ dwave 0,"w\nv187.ogg"
 ;「はい…」\
 ^``Here...''\
 
-dwavestop 0
+
 
 ;「えっ？」\
 ^``Eh?''\
 
-dwavestop 0
+
 
 ;「…使っていいわよ」\
 ^``... You can use it.''\
 
-dwavestop 0
+
 
 ;突然、彼女が封筒を取り出す。
 ;そしてその中から１万円札を俺に向けた。\
@@ -1883,7 +1883,7 @@ dwavestop 0
 ;「お、お前、金持ってたのか？」\
 ^``Y-you, had money?''\
 
-dwavestop 0
+
 
 ;てっきり持ってないと思っていた。\
 ^And I had been convinced she had none.\
@@ -1895,14 +1895,14 @@ dwavestop 0
 ;「どうして、言ってくれなかったんだよ？」\
 ^``Why, didn't you say anything?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n188.ogg"
 
 ;「…………」\
 ^``......''\
 
-dwavestop 0
+
 
 ;dwave 0,"w\n190.ogg"
 dwave 0,"w\nv190.ogg"
@@ -1910,12 +1910,12 @@ dwave 0,"w\nv190.ogg"
 ;「あなた…聞いた？」\
 ^``Did you... ask?''\
 
-dwavestop 0
+
 
 ;「え、あ、いや、それは…」\
 ^``Eh, ah, no, that's....''\
 
-dwavestop 0
+
 
 ;dwave 0,"w\n189.ogg"
 ;dwave 0,"w\nv189.ogg"
@@ -1924,7 +1924,7 @@ dwave 0,"w\nv189b.ogg"
 ;「聞かれなかったからよ…」\
 ^``Because I wasn't asked...''\
 
-dwavestop 0
+
 
 ;それだけを答えると、
 ;またいつものように窓の方を向いてしまった。\
@@ -1968,7 +1968,7 @@ bg "e\naname_michi.jpg",3
 ;「これ、使っていいのか？」\
 ^``It's okay if I use this?''\
 
-dwavestop 0
+
 
 ;dwave 0,"w\n191.ogg"
 ;dwave 0,"w\nv191.ogg"
@@ -1977,7 +1977,7 @@ dwave 0,"w\nv191b.ogg"
 ;「別に…いいわよ」\
 ^``It doesn't matter... you can.''\
 
-dwavestop 0
+
 
 ;受け取った封筒の中を覗くと、
 ;まだ１万円札が４枚も入っていた。\
@@ -2003,12 +2003,12 @@ dwavestop 0
 ;「なあ、お前ってさ…」\
 ^``Hey, you...''\
 
-dwavestop 0
+
 
 ;「以前に７階は嫌だって言ってたよな？」\
 ^``Before, you said that you didn't like the 7th floor, right?''\
 
-dwavestop 0
+
 
 ;dwave 0,"w\n192.ogg"
 ;dwave 0,"w\nv192.ogg"
@@ -2017,29 +2017,29 @@ dwave 0,"w\nv192b.ogg"
 ;「…家だって嫌よ」\
 ^``... I also didn't like home.''\
 
-dwavestop 0
+
 
 ;「ああ、俺だってそうだ…」\
 ^``Ah, I'm the same way...''\
 
-dwavestop 0
+
 
 ;「じゃあさ、どこへ行くつもりだったんだ？」\
 ^``Then, you were planning on going somewhere?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n193.ogg"
 
 ;「……………」\
 ^``......''\
 
-dwavestop 0
+
 
 ;「これは、その為の金だったんじゃねえのか？」\
 ^``This, is the money for that purpose, isn't it?''\
 
-dwavestop 0
+
 
 ;そして俺は、以前の彼女の言葉を思い出していた。\
 ^Then, I remembered the girl's words from before.\
@@ -2051,7 +2051,7 @@ dwavestop 0
 ;「やっぱり本当は、どこか行くあてがあったのか？」\
 ^``Then, you really did have someplace you wanted to go to?''\
 
-dwavestop 0
+
 
 ;dwave 0,"w\n194.ogg"
 dwave 0,"w\nv194.ogg"
@@ -2059,12 +2059,12 @@ dwave 0,"w\nv194.ogg"
 ;「別に……」\
 ^``Not particularly...''\
 
-dwavestop 0
+
 
 ;「別に、じゃ分からねえよ」\
 ^``I can't understand if you say `not particularly'...''\
 
-dwavestop 0
+
 
 
 dwave 0,"w\n195.ogg"
@@ -2072,7 +2072,7 @@ dwave 0,"w\n195.ogg"
 ;「……………」\
 ^``......''\
 
-dwavestop 0
+
 
 ;dwave 0,"w\n196.ogg"
 ;dwave 0,"w\nv196.ogg"
@@ -2082,7 +2082,7 @@ dwave 0,"w\nv196c.ogg"
 ;「…どこもないわよ…」\
 ^``... There is no place...''\
 
-dwavestop 0
+
 
 ;それだけを…寂しそうに、哀しそうに呟いた。\
 ^Just that... looking lonely, she sadly murmured.\
@@ -2109,12 +2109,12 @@ dwave 0,"w\nv197.ogg"
 ;「…じゃあ、あなたはどうなのよ？」\
 ^``... Then, what about you?''\
 
-dwavestop 0
+
 
 ;「俺だって…別に、だ…」\
 ^``Even me... not, particularly...''\
 
-dwavestop 0
+
 
 ;dwave 0,"w\n199.ogg"
 dwave 0,"w\nv199.ogg"
@@ -2122,7 +2122,7 @@ dwave 0,"w\nv199.ogg"
 ;「…真似しないでよ」\
 ^``... Don't imitate me.''\
 
-dwavestop 0
+
 
 ;「別に、真似じゃねえよ」\
 ^``I'm not imitating you.''\
@@ -2132,7 +2132,7 @@ dwave 0,"w\n055.ogg"
 ;「……………」\
 ^``......''\
 
-dwavestop 0
+
 
 
 ;…行き先も持たずに走り続ける俺達。\
@@ -2157,31 +2157,31 @@ dwave 0,"w\nv249.ogg"
 ;「えっ…」\
 ^``Eh?''\
 
-dwavestop 0
+
 
 ;少なくとも俺には、
 ;何でもいいから示すモノが欲しかった。\
 ^At the least, for me, I wanted some ~i~thing~i~ to give me direction.\
 
-dwavestop 0
+
 
 
 ;「なあ、以前に話していた淡路島なんてどうだ？」\
 ^``Well, how about that Awaji-shima that we talked about before?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n198.ogg"
 
 ;「…………」\
 ^``......''\
 
-dwavestop 0
+
 
 ;「今の所持金なら、十分に行けるぞ」\
 ^``With the money we have now, it's definitely enough to go.''\
 
-dwavestop 0
+
 
 ;きっと、どこでも良かったんだと思う。
 ;７階でも、家で無くても、動き続けてさえいられれば。\
@@ -2196,14 +2196,14 @@ dwavestop 0
 ;「…お前も行ってみたいと思わないか？」\
 ^``... Don't you think of wanting to go too?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n195.ogg"
 
 ;「……………」\
 ^``......''\
 
-dwavestop 0
+
 
 ;dwave 0,"w\n369.ogg"
 dwave 0,"w\new_237.ogg"
@@ -2211,7 +2211,7 @@ dwave 0,"w\new_237.ogg"
 ;「……別に…」\
 ^``... Not particularly...''\
 
-dwavestop 0
+
 
 ;それだけを返すと、またいつもと同じように、
 ;窓の外に視線を向けてしまう彼女。\
@@ -2265,7 +2265,7 @@ dwave 0,"w\n200.ogg"
 ;『地図を見るのは好きだった…』\
 ^``I liked looking at maps...''\
 
-dwavestop 0
+
 
 mp3loop "bgm\o02.mp3"
 
@@ -2319,7 +2319,7 @@ dwave 0,"w\n201.ogg"
 ;「だけど…」\
 ^``But...''\
 
-dwavestop 0
+
 
 ;生涯のほとんどを病院で過ごし、
 ;目を閉じた世界だけで過ごして…\
@@ -2347,7 +2347,7 @@ dwave 0,"w\n202.ogg"
 ;「一つくらい…好きにさせてよ…」\
 ^``Just once... let me do as I please...''\
 
-dwavestop 0
+
 
 !s75
 
@@ -2431,19 +2431,19 @@ dwave 0,"w\n205.ogg"
 ;「そこ、左折…」\
 ^``There, left...''\
 
-dwavestop 0
+
 
 ;「えっ？」\
 ^``Eh?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n206.ogg"
 
 ;「左に曲がって」\
 ^``Turn left.''\
 
-dwavestop 0
+
 
 ;突然、俺に指示を出した彼女。\
 ^Suddenly, the girl gave me directions.\
@@ -2461,26 +2461,26 @@ bg "e\naname_michi.jpg",3
 ;「どうしたんだよ、一体？」\
 ^``Just what was that?''\
 
-dwavestop 0
+
 
 dwave 0,"w\n207.ogg"
 
 ;「……………」\
 ^``......''\
 
-dwavestop 0
+
 
 dwave 0,"w\n208.ogg"
 
 ;「これが１号線…当分は真っ直ぐよ…」\
 ^``This is Route 1... for a while, go straight...''\
 
-dwavestop 0
+
 
 ;「当分はって…」\
 ^``For a while?''\
 
-dwavestop 0
+
 
 ;彼女の突然の指示に俺は驚いてしまう。\
 ^Her sudden directions left me surprised.\
@@ -2494,5 +2494,3 @@ dwavestop 0
 
 ;「…もしかして、行く気になったのか？」\
 ^``... Is it that, you've started wanting to go?''\
-
-dwavestop 0
