@@ -7,7 +7,6 @@
 
 bg "e\b.jpg",3
 
-
 ... Those dazzling days, those winter days...
 
 dwave 0,"w\n001.ogg"
@@ -31,11 +30,7 @@ bg "agilis\1\c003.png",3
 ;bg "e\c004.jpg",5
 bg "agilis\1\c004.png",5
 
-
-
 bg "e\b.jpg",5
-
-
 
 dwave 5,"se\rain_1.ogg"
 
@@ -48,21 +43,14 @@ bg "agilis\1\c02.png",3
 ;　■　１９９６年　春　セツミ　■\
 ;^ * 1996 Spring. Setsumi *\
 
-
 ;bg "e\c02b.jpg",3
 
 mp3loop "bgm\n04.mp3"
 
 bg "e\sora_ame01.jpg",3
 
-
-dwave 0,"w\n002.ogg"
-
 ;『…確かに、幼い頃から丈夫な方じゃなかった…』\
 ^``... Certainly, since I was a child, I wasn't on the healthy side...''\
-
-
-
 
 ;それでも小学校は普通に通えたし、
 ;夏休みには真っ黒に日焼けするほど遊んだこともあった。\
@@ -71,6 +59,7 @@ dwave 0,"w\n002.ogg"
 ;○とも＞教室夕方
 
 bg "e\byoin_heya_yu2.jpg",5
+
 S
 ;６月。中学に入ってすぐの頃。^@^
 ;来月から始まる、水泳用の水着を注文した翌日。\
@@ -84,8 +73,6 @@ S
 ^Just a little before the first semester midterms, a day where the rain that started to fall felt awfully cold.\
 
 ;○とも＞夕：空
-
-dwave 5,"se\rain_1.ogg"
 
 bg "e\sora_ame03.jpg",5
 
