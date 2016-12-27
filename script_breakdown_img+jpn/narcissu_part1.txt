@@ -9,7 +9,6 @@ bg "e\b.jpg",3
 
 ... Those dazzling days, those winter days...
 
-dwave 0,"w\n001.ogg"
 
 
 ;bg "e\c001a.jpg",1
@@ -37,10 +36,8 @@ bg "e\b.jpg",5
 
 <<<<<<< HEAD
 =======
-dwave 5,"se\rain_1.ogg"
 >>>>>>> origin/master
 =======
-dwave 5,"se\rain_1.ogg"
 >>>>>>> parent of f97280c... removed the last of the ogg
 
 bg "e\sora_ame03.jpg",3
@@ -60,7 +57,6 @@ bg "e\sora_ame01.jpg",3
 
 <<<<<<< HEAD
 
-dwave 0,"w\n002.ogg"
 
 =======
 >>>>>>> origin/master
@@ -92,7 +88,6 @@ S
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
-dwave 5,"se\rain_1.ogg"
 >>>>>>> parent of f97280c... removed the last of the ogg
 
 =======
@@ -142,7 +137,6 @@ bg "e\chara_k01.jpg",5
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
-dwave 0,"w\n003.ogg"
 >>>>>>> parent of f97280c... removed the last of the ogg
 
 =======
@@ -154,7 +148,6 @@ dwave 0,"w\n003.ogg"
 
 wait 300
 
-dwave 0,"w\n004.ogg"
 
 ;「普通に生きている人にとって、わたしの存在ってのは」\
 ^``For those who live normally, my very existence.''\
@@ -163,20 +156,17 @@ dwave 0,"w\n004.ogg"
 
 bg "e\chara_k01.jpg",3
 
-dwave 0,"w\n005.ogg"
 
 ;「だから…消されたようだった…」\
 ^``That's why... I seem to have been erased...''\
 
 
 
-dwave 5,"se\rain_1.ogg"
 
 bg "e\w.jpg",5
 
 bg "e\sora_ame03.jpg",5
 
-dwave 0,"w\n006.ogg"
 
 ;「幾つもの季節を、白い梅雨空を…
 ;　誰とも言葉を交わす必要もなく過ごした…」\
@@ -184,7 +174,6 @@ dwave 0,"w\n006.ogg"
 
 
 
-dwave 0,"w\n007.ogg"
 
 ;「わたしの英語の教科書は、
 ;　１年生の中間テスト以降、まっさらな状態だった」\
@@ -194,7 +183,6 @@ dwave 0,"w\n007.ogg"
 
 bg "e\chara_0012.jpg",5
 
-dwave 0,"w\n008.ogg"
 
 ;「…そこで…^@^わたしの時間も止まったらしい」\
 ^``... It was there...^@^ that my time seems to have stopped.''\
@@ -214,7 +202,6 @@ bg "e\c0052.jpg",3
 
 !w800
 
-dwave 5,"se\z42r.ogg"
 
 bg "e\w.jpg",1
 
@@ -258,7 +245,6 @@ bg "e\b.jpg",3
 
 ;○とも＞ＳＥとか
 
-dwave 5,"se\faan1_b.ogg"
 
 ;ガタンゴトン、\
 if %unvoiced_mode == 0 goto *generated_265
@@ -472,7 +458,6 @@ bg "e\amazora02.jpg",5
 ;終わるのかも知れないと思った。\
 ^That license, without giving rise to any practical value, might expire.\
 
-;dwave 5,"se\rain01.ogg"
 
 ;bg "e\amazora02.jpg",5
 
@@ -604,7 +589,6 @@ bg "e\w.jpg",3
 
 bg "e\nar01.jpg",5
 
-dwave 0,"w\n009.ogg"
 
 bg "e\nar01.jpg",5
 
@@ -635,7 +619,6 @@ mp3fadeout 2500
 
 ;＿＿＿＿;＿＿＿＿;＿＿
 
-dwave 0,"w\n010.ogg"
 
 bg "e\b.jpg",5
 
@@ -698,9 +681,6 @@ bg "e\b.jpg",3
 
 ;●ぱじゃまーのヒロイン
 
-;dwave 0,"w\n011.ogg"
-;dwave 0,"w\nv011.ogg"
-dwave 0,"w\nv011b.ogg"
 
 ;「別に…」\
 ^``Not particularly...''\
@@ -746,8 +726,6 @@ bg "e\danwa.jpg",5
 
 ;●：談話室
 
-;dwave 0,"w\n012.ogg"
-dwave 0,"w\nv012.ogg"
 
 ;「ねえ…あなた…」\
 ^``Say... you...''\
@@ -758,8 +736,6 @@ dwave 0,"w\nv012.ogg"
 ;相変わらずテレビを見つめたままだった。\
 ^Suddenly, the girl spoke to me while still gazing at the television.\
 
-;dwave 0,"w\n013.ogg"
-dwave 0,"w\nv013.ogg"
 
 ;「…あなた、何回目？」\
 ^``... You're, on which time?''\
@@ -771,8 +747,6 @@ dwave 0,"w\nv013.ogg"
 
 
 
-;dwave 0,"w\n014.ogg"
-dwave 0,"w\nv014.ogg"
 
 ;「ここに…７階に来たの」\
 ^``Coming here... the 7th floor.''\
@@ -784,13 +758,10 @@ dwave 0,"w\nv014.ogg"
 
 
 
-;;dwave 0,"w\n015.ogg"
 ;;「………………」\
 
 
 
-;;dwave 0,"w\n016.ogg"
-dwave 0,"w\nv016.ogg"
 
 ;「そう…初めてなんだね」\
 ^``I see... It's your first.''\
@@ -801,8 +772,6 @@ dwave 0,"w\nv016.ogg"
 ;彼女は勝手に納得したようだった。\
 ^It seemed that at my inability to understand what she was saying, she had up and gotten satisfied with that judgment.\
 
-;;dwave 0,"w\n017.ogg"
-dwave 0,"w\nv017.ogg"
 
 ;「じゃあ、他に誰も居ないし…わたしの役目だから…」\
 ^``Well, there's no one else around... so it's my duty...''\
@@ -814,8 +783,6 @@ dwave 0,"w\nv017.ogg"
 
 
 
-;dwave 0,"w\n018.ogg"
-dwave 0,"w\nv018.ogg"
 
 ;「そういうルールなの…」\
 ^``There's that kind of rule...''\
@@ -833,8 +800,6 @@ dwave 0,"w\nv018.ogg"
 ;彼女はゆっくりと話し始めた。\
 ^And as if ignoring me, the girl slowly began speaking.\
 
-;;dwave 0,"w\n019.ogg"
-dwave 0,"w\nv019.ogg"
 
 ;「それじゃあ、よく聞いてね…」\
 ^``Well, listen closely, alright?''\
@@ -880,8 +845,6 @@ bg "e\b.jpg",5
 bg "e\danwa.jpg",3
 
 
-;;dwave 0,"w\n020.ogg"
-dwave 0,"w\nv020.ogg"
 
 ;「わたし、２回目だから…」\
 ^``I'm, on my second time, you see...''\
@@ -893,9 +856,6 @@ dwave 0,"w\nv020.ogg"
 
 
 
-;;dwave 0,"w\n021b.ogg"
-;;dwave 0,"w\nv021b.ogg"
-dwave 0,"w\nv021b_a.ogg"
 
 ;「…ここに来るの」\
 ^``... Coming to this place.''\
@@ -927,16 +887,12 @@ dwave 0,"w\nv021b_a.ogg"
 ;彼女はここに来たのは２回目という意味だった。\
 ^It was with that meaning that the girl had meant by saying it was her second time.\
 
-;dwave 0,"w\n021.ogg"
-dwave 0,"w\nv021.ogg"
 
 ;「じゃあ、１度しか言わないから…」\
 ^``Well, I'll only say this once...''\
 
 
 
-;dwave 0,"w\n022.ogg"
-dwave 0,"w\nv022.ogg"
 
 ;「ここからは、よく聞いて…」\
 ^``So, from here on, listen well...''\
@@ -988,16 +944,12 @@ bg "e\danwa.jpg",3
 
 
 
-;dwave 0,"w\n023.ogg"
-dwave 0,"w\nv023.ogg"
 
 ;「ええ、そうよ…」\
 ^``Yes, that's right.''\
 
 
 
-;dwave 0,"w\n024.ogg"
-dwave 0,"w\nv024.ogg"
 
 ;「いつかあなたも、初めて来た人には伝えてね…」\
 ^``Someday, you tell it to newcomers too, okay?''\
@@ -1008,8 +960,6 @@ dwave 0,"w\nv024.ogg"
 ;ふわりと長い髪が揺れ、俺の鼻先をかすめた。\
 ^With those final words, the girl slowly stood up. Gently, her long hair swayed, and brushed the tip of my nose.\
 
-;dwave 0,"w\n025.ogg"
-dwave 0,"w\nv025.ogg"
 
 ;「じゃあ、検温の時間だから…」\
 ^``Well, it's time for taking temperature, so...''\
@@ -1064,8 +1014,6 @@ bg "e\danwa.jpg",5
 
 
 
-dwave 0,"w\n026.ogg"
-
 ;「そうね…」\
 ^``Indeed...''\
 
@@ -1080,7 +1028,6 @@ dwave 0,"w\n026.ogg"
 
 
 
-dwave 0,"w\n027.ogg"
 
 ;「…質問の意味がわからない」\
 ^``... I don't understand the meaning of your question.''\
@@ -1101,13 +1048,11 @@ dwave 0,"w\n027.ogg"
 
 
 
-;;dwave 0,"w\n033.ogg"
 
 ;;「…………」\
 
 
 
-dwave 0,"w\n028.ogg"
 
 ;「…その理由を知りたいの？」\
 ^``... You want to know the reason for that?''\
@@ -1119,7 +1064,6 @@ dwave 0,"w\n028.ogg"
 
 
 
-dwave 0,"w\n029.ogg"
 
 ;「…じゃあ、言わない」\
 ^``... Then, I won't say.''\
@@ -1142,7 +1086,6 @@ dwave 0,"w\n029.ogg"
 
 bg "e\b.jpg",3
 
-dwave 5,"se\hayaasi.ogg"
 
 ;タッタッタ、\
 if %unvoiced_mode == 0 goto *generated_267
@@ -1170,7 +1113,6 @@ goto *generated_268
 
 
 
-dwave 0,"w\n030.ogg"
 
 ;「…大丈夫、出てない…」\
 ^``... It's alright, I don't have one...''\
@@ -1187,7 +1129,6 @@ dwave 0,"w\n030.ogg"
 
 
 
-dwave 0,"w\n033.ogg"
 
 ;「……………」\
 ^``......''\
@@ -1199,7 +1140,6 @@ dwave 0,"w\n033.ogg"
 
 
 
-dwave 0,"w\n032.ogg"
 
 ;「…別に、いいよ…」\
 ^``... That, doesn't really matter...''\
@@ -1211,7 +1151,6 @@ dwave 0,"w\n032.ogg"
 
 
 
-;;dwave 0,"w\n033.ogg"
 
 ;;「……………」\
 
@@ -1259,7 +1198,6 @@ bg "e\danwa.jpg",3
 ;そこに書かれた血液型と名前を見ながら尋ねた。\
 ^Wrapped around the girl's wrist was the white vinyl bracelet. While looking at the blood type and name there, I asked.\
 
-dwave 0,"w\n055.ogg"
 
 ;「……………」\
 ^``......''\
@@ -1270,7 +1208,6 @@ dwave 0,"w\n055.ogg"
 ^``Is something wrong? Setsumi?''\
 
 
-dwave 0,"w\n035.ogg"
 
 ;「…どうして呼び捨てなの？」\
 ^``... Why is there no honorific?''\
@@ -1282,7 +1219,6 @@ dwave 0,"w\n035.ogg"
 
 
 
-dwave 0,"w\n036.ogg"
 
 ;「年下のくせに…」\
 ^``Even though you're the younger one...''\
@@ -1294,7 +1230,6 @@ dwave 0,"w\n036.ogg"
 
 
 
-dwave 0,"w\n037.ogg"
 
 ;「別に…そう思っただけ」\
 ^``No real reason... I just thought so.''\
@@ -1316,14 +1251,12 @@ dwave 0,"w\n037.ogg"
 
 
 
-dwave 0,"w\n055.ogg"
 
 ;「……………」\
 ^``......''\
 
 
 
-dwave 0,"w\n039.ogg"
 
 ;「やっぱり年下よ…」\
 ^``Like I thought, younger...''\
@@ -1338,7 +1271,6 @@ dwave 0,"w\n039.ogg"
 
 
 
-dwave 0,"w\n040_1.ogg"
 
 ;「どうでもいいじゃない…少し上なだけよ」\
 ^``It doesn't matter does it?... It's only just a bit older.''\
@@ -1493,8 +1425,6 @@ bg "e\danwa_yoru.jpg",3
 
 
 
-;dwave 0,"w\n044.ogg"
-dwave 0,"w\nv044.ogg"
 
 ;「…うん」\
 ^``... Un.''\
@@ -1514,7 +1444,6 @@ dwave 0,"w\nv044.ogg"
 ;「そういえばさ…昼間、駅前まで行ってきたぞ」\
 ^``That reminds me... this morning, I went all the way to the station.''\
 
-;;dwave 0,"w\n045.ogg"
 
 ;;「……………」\
 
@@ -1523,8 +1452,6 @@ dwave 0,"w\nv044.ogg"
 ;「教えられた通り、Ｂ駅の方に行ってみた」\
 ^``Just like you told me, I went to see station B.''\
 
-;dwave 0,"w\n079.ogg"
-dwave 0,"w\nv079.ogg"
 
 ;「そう…」\
 ^``I see...''\
@@ -1545,8 +1472,6 @@ dwave 0,"w\nv079.ogg"
 ;本当は、最初から抜け出すつもりもなかったのだろうか？\
 ^Thinking about that, as well as how she still remained here,^@^ did it mean that she really had no intention of running away?''\
 
-;dwave 0,"w\n047.ogg"
-dwave 0,"w\nv047.ogg"
 
 ;「…わたし、もうすぐ帰れるの…」\
 ^``... I, will soon be able to go home...''\
@@ -1563,17 +1488,11 @@ dwave 0,"w\nv047.ogg"
 ;見透かされたような言葉だった。\
 ^Words as if she had seen clear through to my heart just now.\
 
-;dwave 0,"w\n048.ogg"
-;dwave 0,"w\nv048.ogg"
-dwave 0,"w\nv048b.ogg"
 ;「…でも、次で３回目だから…」\
 ^``... But, next is the 3rd time after all...''\
 
 
 
-;dwave 0,"w\nv048_1.ogg"
-;dwave 0,"w\nv048_1b.ogg"
-dwave 0,"w\nv048_1c.ogg"
 ;「…もう会えないかもね」\
 ^``... So we might not be able to meet any more.''\
 
@@ -1600,8 +1519,6 @@ dwave 0,"w\nv048_1c.ogg"
 ^With that kind of meaning, came the words ``we won't meet again.''\
 
 
-;dwave 0,"w\n049.ogg"
-dwave 0,"w\nv049.ogg"
 
 ;「ねえ、あなたはどちらを選ぶの？」\
 ^``Say, which would you choose?''\
@@ -1609,8 +1526,6 @@ dwave 0,"w\nv049.ogg"
 ;「…選ぶとは？」\
 ^``... Choose what?''\
 
-;dwave 0,"w\nv049_1.ogg"
-dwave 0,"w\nv049_1b.ogg"
 
 ;「…どっちで死ぬつもりってこと」\
 ^``... Which one you plan on dying at.''\
@@ -1628,8 +1543,6 @@ dwave 0,"w\nv049_1b.ogg"
 
 
 
-;dwave 0,"w\n050.ogg"
-dwave 0,"w\nv050.ogg"
 
 ;「…そう…まだ１回目だもんね」\
 ^``... I see... well, you're still on your first time.''\
@@ -1652,8 +1565,6 @@ dwave 0,"w\nv050.ogg"
 ^In the end, either this 7th floor, or surrounded by thin smiles, it would come to a choice between those two probably.\
 
 
-;dwave 0,"w\n051.ogg"
-dwave 0,"w\nv051.ogg"
 
 ;「わたしは…家は嫌…」\
 ^``I... don't want home.''\
@@ -1662,8 +1573,6 @@ dwave 0,"w\nv051.ogg"
 
 !w500
 
-;dwave 0,"w\n052.ogg"
-dwave 0,"w\nv052.ogg"
 
 ;「だけど、ここも嫌…」\
 ^``But, I don't want here either...''\
@@ -1675,15 +1584,12 @@ dwave 0,"w\nv052.ogg"
 
 
 
-dwave 0,"w\n055.ogg"
 
 ;「……………」\
 ^``......''\
 
 
 
-;dwave 0,"w\n053.ogg"
-dwave 0,"w\nv053.ogg"
 
 ;「…別に…どうもしない…」\
 ^``... Nothing in particular... I won't do anything...''\
@@ -1692,9 +1598,6 @@ dwave 0,"w\nv053.ogg"
 
 !w500
 
-;dwave 0,"w\n054.ogg"
-;dwave 0,"w\nv054.ogg"
-dwave 0,"w\nv054b.ogg"
 
 ;「自力で歩ける内に、どこかに行くだけ…」\
 ^``While I'm still able to walk on my own, I'll just go somewhere...''\
@@ -1717,7 +1620,6 @@ dwave 0,"w\nv054b.ogg"
 
 
 
-dwave 0,"w\n055.ogg"
 
 ;「……………」\
 ^``......''\
@@ -1725,8 +1627,6 @@ dwave 0,"w\n055.ogg"
 
 
 
-;dwave 0,"w\n056.ogg"
-dwave 0,"w\nv056.ogg"
 
 ;「あなた…^@^わたしを引き止めたいの？」\
 ^``You...^@^ want to pull me back?''\
@@ -1738,8 +1638,6 @@ dwave 0,"w\nv056.ogg"
 
 
 
-;dwave 0,"w\n057.ogg"
-dwave 0,"w\nv057.ogg"
 
 ;「それとも…一緒について来たいの？」\
 ^``Or perhaps... you want to come with me?''\
@@ -1751,14 +1649,10 @@ dwave 0,"w\nv057.ogg"
 
 
 
-;dwave 0,"w\n058.ogg"
-
 ;;「…………」\
 
 
 
-;dwave 0,"w\n059.ogg"
-dwave 0,"w\nv059.ogg"
 
 ;「…じゃあ、聞かないで」\
 ^``... Then, don't ask.''\
@@ -1799,8 +1693,6 @@ mp3fadeout 2500
 
 ;☆ＢＧ　雨空\
 
-dwave 5,"se\rain_1.ogg"
-
 bg "e\sora_ame01.jpg",3
 
 
@@ -1823,7 +1715,6 @@ bg "e\danwa_ame.jpg",3
 ;相変わらず、この７階はひと気がなかった。\
 ^Within that, I was in the usual place watching the television. As always, this 7th floor was devoid of people.\
 
-dwave 0,"w\n061.ogg"
 
 ;「…おもしろい？」\
 ^``... Is it interesting?''\
@@ -1854,7 +1745,6 @@ dwave 0,"w\n061.ogg"
 
 bg "e\b.jpg",3
 
-dwave 0,"w\n062.ogg"
 
 ;「あ……」\
 ^``Ah...''\
@@ -1869,13 +1759,11 @@ dwave 0,"w\n062.ogg"
 
 
 
-;;dwave 0,"w\n055.ogg"
 
 ;;「……………」\
 
 ;
 
-dwave 0,"w\n063.ogg"
 
 ;「…別に」\
 ^``... Not particularly.''\
@@ -1912,7 +1800,6 @@ bg "e\tv_hana.jpg",5
 
 
 
-dwave 0,"w\n064.ogg"
 
 ;「…………」\
 ^``......''\
@@ -1927,7 +1814,6 @@ dwave 0,"w\n064.ogg"
 ;言いながら、ブラウン管と窓辺を交互に指差す俺。\
 ^While speaking, I pointed first at the screen and then towards the window.\
 
-dwave 0,"w\n066.ogg"
 
 ;「種類は同じだけど…厳密に言えば違う…」\
 ^``They're the same kind, but... strictly speaking, they're different...''\
@@ -1960,7 +1846,6 @@ bg "e\danwa_ame.jpg",5
 
 
 
-dwave 0,"w\n068.ogg"
 
 ;「…別に」\
 ^``... Not particularly.''\
@@ -1981,7 +1866,6 @@ dwave 0,"w\n068.ogg"
 ;「なあなあ、これってさ、蘭とか百合ってのか？」\
 ^``So, so, these are, orchids or lilies?''\
 
-dwave 0,"w\n067.ogg"
 
 ;「……………」\
 ^``......''\
@@ -1991,7 +1875,6 @@ dwave 0,"w\n067.ogg"
 ;「ほら、白っぽい色してるしさ」\
 ^``Look, they've got a whitish color, right?''\
 
-dwave 0,"w\n067.ogg"
 
 ;「……………」\
 ^``......''\
@@ -2016,7 +1899,6 @@ bg "e\b.jpg",3
 
 bg "e\w.jpg",5
 
-dwave 0,"w\n069.ogg"
 
 ;「…ナルキッソス…」\
 ^``... Narcissus...''\
@@ -2028,7 +1910,6 @@ dwave 0,"w\n069.ogg"
 
 
 
-dwave 0,"w\n070.ogg"
 
 ;「ナルキッソスよ…」\
 ^``They're Narcissus...''\
@@ -2121,7 +2002,6 @@ bg "e\danwa.jpg",3
 ;「つまらねえな…」\
 ^``It's boring, isn't it...''\
 
-dwave 0,"w\new_076.ogg"
 ;「…そうね」\
 ^``... Indeed.''\
 
@@ -2136,7 +2016,6 @@ dwave 0,"w\new_076.ogg"
 ;「そういえばお前って…いつだっけ？」\
 ^``Speaking of which, for you... when was it?''\
 
-dwave 0,"w\new_077.ogg"
 ;「…今日よ」\
 ^``... Today.''\
 
@@ -2149,7 +2028,6 @@ dwave 0,"w\new_077.ogg"
 ;以前に話してくれた、彼女の仮退院のことを指していた。\
 ^Here, the ``today'' that we spoke about was what she had told me before, her temporary discharge.\
 
-dwave 0,"w\new_078.ogg"
 ;「もう…会えないかもね」\
 ^``We might... not meet any more.''\
 
@@ -2169,7 +2047,6 @@ dwave 0,"w\new_078.ogg"
 ;タイミングがあるとは思えなかった。\
 ^For the two of us, that a timing existed for us to meet again was quite unthinkable.\
 
-dwave 0,"w\new_079.ogg"
 ;「…あなた、決まった？」\
 ^``... Did you, decide?''\
 
@@ -2178,7 +2055,6 @@ dwave 0,"w\new_079.ogg"
 ;「例の、どっちで死ぬかってのか？」\
 ^``That, 'which do you want to die at,' thing?''\
 
-dwave 0,"w\new_080.ogg"
 ;「うん」\
 ^``Un.''\
 
@@ -2187,7 +2063,6 @@ dwave 0,"w\new_080.ogg"
 ;「いや、まだだ…」\
 ^``No, not yet...''\
 
-dwave 0,"w\new_081.ogg"
 ;「…そう…」\
 ^``... I see...''\
 
@@ -2209,7 +2084,6 @@ dwave 0,"w\new_081.ogg"
 ^In the end, did she decide on her own answer for herself?\
 
 
-dwave 5,"se\hayaasi.ogg"
 
 bg "e\b.jpg",3
 
@@ -2243,7 +2117,6 @@ dwave 4,"tuiz\mom_a022.wav"
 
 dwavestop 4
 
-dwave 0,"w\new_082.ogg"
 ;「…うん」\
 ^``... Un.''\
 
@@ -2262,7 +2135,6 @@ dwavestop 4
 ;そして、娘である彼女へと手を伸ばすのだけど…\
 ^And then, she stretched out her hand to the girl that was her daughter...\
 
-dwave 0,"w\new_083.ogg"
 ;「…………」\
 ^``......''\
 
@@ -2281,7 +2153,6 @@ dwave 4,"tuiz\mom_a042.wav"
 
 dwavestop 4
 
-dwave 0,"w\new_084b.ogg"
 ;「少し…苦しい…」\
 ^``It... hurts a bit...''\
 
@@ -2293,7 +2164,6 @@ dwave 4,"tuiz\mom_a052.wav"
 
 dwavestop 4
 
-dwave 0,"w\new_085b.ogg"
 ;「…胸…」\
 ^``... Chest...''\
 
@@ -2305,7 +2175,6 @@ dwave 4,"tuiz\mom_a062.wav"
 
 dwavestop 4
 
-dwave 5,"se\hayaasi.ogg"
 
 ;タッタッタ、\
 ;-;Nuke
@@ -2344,13 +2213,11 @@ bg "e\danwa.jpg",3
 ;「ほら、背中支えてやるから」\
 ^``Look, I'll support your back.''\
 
-dwave 0,"w\new_083.ogg"
 ;「…………」\
 ^``......''\
 
 
 
-dwave 0,"w\new_087.ogg"
 ;「別に…もう平気よ」\
 ^``It's nothing... I'm already fine.''\
 
@@ -2409,7 +2276,6 @@ bg "e\danwa_yoru.jpg",3
 ;「よう、またここに居たのか…」\
 ^``Yo, you're here again?''\
 
-dwave 0,"w\new_086.ogg"
 ;「…うん」\
 ^``... Un.''\
 
@@ -2418,7 +2284,6 @@ dwave 0,"w\new_086.ogg"
 ;「どうした？　また調子悪いのか？」\
 ^``What's wrong? Feeling bad again?''\
 
-dwave 0,"w\n068.ogg"
 ;「…別に」\
 ^``... Not particularly.''\
 
@@ -2440,8 +2305,6 @@ dwave 0,"w\n068.ogg"
 ;「今日のって…仮病か？」\
 ^``But today... were you faking sickness?''\
 
-;dwave 0,"w\n033.ogg"
-dwave 0,"w\n055.ogg"
 ;「……………」\
 ^``......''\
 
@@ -2454,7 +2317,6 @@ dwave 0,"w\n055.ogg"
 ;「要はお前…仮退院したくなかったからなのか？」\
 ^``The important thing is... you didn't want to go on temporary leave?''\
 
-dwave 0,"w\new_089.ogg"
 ;「…意味がわからないわよ」\
 ^``... I don't understand your meaning.''\
 
@@ -2463,8 +2325,6 @@ dwave 0,"w\new_089.ogg"
 ;「だってお前、もう後が無いだろ…」\
 ^``Well, you won't have any more after, right?''\
 
-;dwave 0,"w\n141.ogg"
-dwave 0,"w\n143.ogg"
 
 ;「……………」\
 ^``......''\
@@ -2488,7 +2348,6 @@ dwave 0,"w\n143.ogg"
 ;「他に、行くあてがある訳じゃないんだな…」\
 ^``Don't have another place to go, do you?''\
 
-dwave 0,"w\new_090.ogg"
 ;「…だったら…どうなのよ？」\
 ^``... If so... what about it?''\
 
