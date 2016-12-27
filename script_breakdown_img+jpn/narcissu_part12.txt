@@ -1,12 +1,8 @@
+あの、たまに見せてくれた、拗ねたような、照れくさそうな顔。
+So that oh-so-rare, sour, bashful expression ...
 
-
-;あの、たまに見せてくれた、
-;拗ねたような、照れくさそうな顔。\
-^So that oh-so-rare,
-^sour, bashful expression ...\
-
-;もう、あんな顔は向けてくれなかった…\
-^... was no longer even a possibility ...\
+もう、あんな顔は向けてくれなかった…
+... was no longer even a possibility ...
 
 bg "e\b.jpg",5
 
@@ -20,7 +16,6 @@ bg "e\b.jpg",5
 ;「いつもいつも、別にばっかりで…」\
 ^``You and your incessant `not really's ...''\
 
-dwave 0,"w\n055.ogg"
 
 ;「………………」\
 ^``... ... ... ...''\
@@ -60,7 +55,6 @@ bg "e\naname_inaka_yoru.jpg",5
 ;僅かに聞こえる潮騒だけが、この場を支配していた…\
 ^The distant sound of the sea waves was the only thing that held dominion here ...\
 
-;dwave 0,"w\n372.ogg"
 
 ;「…………」\
 
@@ -69,10 +63,6 @@ bg "e\naname_inaka_yoru.jpg",5
 ;やがて…\
 
 bg "e\b.jpg",5
-
-;dwave 0,"w\n374.ogg"
-;dwave 0,"w\nv374.ogg"
-dwave 0,"w\nv374b.ogg"
 
 ;「…前向きになんて、なれる訳ないじゃないの…」\
 ^``... it isn't so easy ... for me to face forward ...''\
@@ -87,8 +77,6 @@ dwave 0,"w\nv374b.ogg"
 ^The darkened car.
 ^Her sudden, quiet voice.\
 
-;dwave 0,"w\n375.ogg"
-dwave 0,"w\nv375.ogg"
 
 ;「憧れて、懸命になって、頑張って、
 ;　いつか報われるのなら良いけど…」\
@@ -96,16 +84,12 @@ dwave 0,"w\nv375.ogg"
 
 
 
-;dwave 0,"w\n376.ogg"
-dwave 0,"w\nv376.ogg"
 
 ;「でも、叶わなかった時にはどうすればいいの？」\
 ^``But what can you do when your wish doesn't come true?''\
 
 
 
-;dwave 0,"w\n377.ogg"
-dwave 0,"w\nv377.ogg"
 
 ;「その時に、無理だったねって、
 ;　笑って言えるほど、強くないわよ…」\
@@ -118,16 +102,11 @@ dwave 0,"w\nv377.ogg"
 ^Her eyes, which had been focused on the far distance,
 ^were now staring straight at me from the passenger's seat.\
 
-;dwave 0,"w\n378.ogg"
-dwave 0,"w\nv378.ogg"
 
 ;「わ、わたしに出来ることは、
 ;　最初から諦めて、何も望まずにいて…」\
 ^``T-the only thing I can do ... is to give up from the beginning, wish for nothing ...''\
 
-;dwave 0,"w\n379.ogg"
-;dwave 0,"w\nv379.ogg"
-dwave 0,"w\nv379b.ogg"
 
 ;「やっぱり無理だったと、
 ;　冷めた目で自分を見ることしか出来ないのよ…」\
@@ -138,8 +117,6 @@ dwave 0,"w\nv379b.ogg"
 ;「…お前……」\
 ^``... you ...''\
 
-;dwave 0,"w\n380.ogg"
-;dwave 0,"w\nv380.ogg"
 
 ;「うぅ、ぐすっ」\
 
@@ -157,16 +134,12 @@ bg "e\w.jpg",5
 ^... and yet now her shoulders were heaving a little ...
 ^... and tears were falling from her eyes.\
 
-;dwave 0,"w\n381.ogg"
-dwave 0,"w\nv381.ogg"
 
 ;「あ、あの時、頑張っていたら…もしかしたらって…」\
 ^``W-when that time comes, even if I'm trying my hardest ... even if ...''\
 
 
 
-;dwave 0,"w\n382.ogg"
-dwave 0,"w\nv382.ogg"
 
 ;「自分にとっての、
 ;　最後の言い訳を取っておくしかないのよ…」\
@@ -175,25 +148,18 @@ dwave 0,"w\nv382.ogg"
 
 
 
-;dwave 0,"w\n383.ogg"
-dwave 0,"w\nv383.ogg"
 
 ;「最初から無理だと分かっているんだから…」\
 ^``Because I've known this was futile ever since the beginning ...''\
 
 
 
-;dwave 0,"w\n384.ogg"
-dwave 0,"w\nv384.ogg"
 
 ;「そ、それくらい…良いじゃないの…」\
 ^``S-so ... c-can't you ... leave me with at least that ...?''\
 
 
 
-;dwave 0,"w\n385.ogg"
-
-dwave 5,"w\nv385.ogg"
 
 
 ;「うわーん」\
@@ -264,11 +230,9 @@ dwavestop 5
 bg "e\w.jpg",5
 
 ;ＳＥ＞波の音とか
-dwave 5,"se\nami3.ogg"
 
 ;☆ＢＧ　浜辺
 
-dwave 6,"se\umitori.ogg"
 
 ;bg "e\kaigan.jpg",5
 
@@ -301,7 +265,6 @@ mp3loop "bgm\o02.mp3"
 ^I handed her a towel that said ``Shiraishi Construction'' on it.
 ^The one we'd used way earlier to sponge ourselves off.\
 
-dwave 0,"w\n386.ogg"
 
 ;「……………」\
 ^``... ... ...''\
@@ -312,8 +275,6 @@ dwave 0,"w\n386.ogg"
 ^``Oh, come on, don't make such a face.''\
 
 
-dwave 0,"w\n387.ogg"
-;dwave 0,"w\nv387.ogg"
 
 ;「…わかった」\
 ^``... okay.''\
@@ -344,9 +305,6 @@ dwave 0,"w\n387.ogg"
 ^She came into view, wearing her favorite skirt,
 ^with that towel wrapped around her breasts.\
 
-;dwave 0,"w\n388.ogg"
-;dwave 0,"w\nv388.ogg"
-dwave 0,"w\nv388b.ogg"
 
 ;「…どう？」\
 ^``... how do I look?''\
@@ -358,10 +316,6 @@ dwave 0,"w\nv388b.ogg"
 
 
 
-;dwave 0,"w\n389.ogg"
-;dwave 0,"w\nv389.ogg"
-dwave 0,"w\nv389b.ogg"
-
 ;「変じゃ…ない？」\
 ^``Do I look ... weird?''\
 
@@ -370,7 +324,6 @@ dwave 0,"w\nv389b.ogg"
 ;「ん…まあ、たぶんな」\
 ^``Hmm ... well, probably you do.''\
 
-dwave 0,"w\n055.ogg"
 
 ;「………………」\
 ^``... ... ... ...''\
@@ -380,9 +333,6 @@ dwave 0,"w\n055.ogg"
 ;「あ、全然大丈夫だって、全然、変じゃないから」\
 ^``No, I meant you look completely fine! You don't look weird at all!''\
 
-;dwave 0,"w\n076.ogg"
-;dwave 0,"w\new_447.ogg"
-dwave 0,"w\new_447b.ogg"
 
 ;「うん、わかった…」\
 ^``Mm, okay ...''\
@@ -393,7 +343,6 @@ dwave 0,"w\new_447b.ogg"
 ^And then she slowly started walking about the beach.\
 
 ;ＳＥ＞水辺の\
-dwave 5,"se\nami3.ogg"
 
 ;寄せては返す波。
 ;冷たい海風になびく長い髪。\
@@ -414,10 +363,6 @@ dwave 5,"se\nami3.ogg"
 ^... and walking at the water's edge,
 ^exultantly, as if she was flying with every step.\
 
-;dwave 0,"w\n391.ogg"
-;dwave 0,"w\nv391.ogg"
-;dwave 0,"w\nv391b.ogg"
-dwave 0,"w\nv391c.ogg"
 
 ;「ねえ…それっぽく見える？」\
 ^``Hey ... does it look about right?''\
@@ -444,10 +389,6 @@ dwave 0,"w\nv391c.ogg"
 ;「じゃあ、撮ってやるよ」\
 ^``All right, I'm going to take your picture.''\
 
-;dwave 0,"w\n249.ogg"
-;dwave 0,"w\new_450.ogg"
-
-dwave 0,"w\new_347.ogg"
 
 ;「えっ…」\
 ^``Wha ...?''\
@@ -460,7 +401,6 @@ dwave 0,"w\new_347.ogg"
 ;言いながら俺は、カメラを構えて見せる。\
 ^Saying this, I pointed the camera toward her.\
 
-dwave 0,"w\n055.ogg"
 
 ;「……………」\
 ^``... ... ...''\
@@ -470,8 +410,6 @@ dwave 0,"w\n055.ogg"
 ;「ほら、遠慮すんなって、な？」\
 ^``C'mon, don't get shy on me now, okay?''\
 
-;dwave 0,"w\n406.ogg"
-dwave 0,"w\nv406.ogg"
 
 ;「…うん」\
 ^``... okay.''\
@@ -493,8 +431,6 @@ dwave 0,"w\nv406.ogg"
 
 
 
-;dwave 0,"w\n393.ogg"
-dwave 0,"w\nv393.ogg"
 
 ;「…でも…」\
 ^``... but ...''\
@@ -507,8 +443,6 @@ dwave 0,"w\nv393.ogg"
 
 
 
-;dwave 0,"w\n405b.ogg"
-dwave 0,"w\new_454.ogg"
 
 ;「わかった…」\
 ^``... okay ...''\
@@ -516,9 +450,6 @@ dwave 0,"w\new_454.ogg"
 
 
 ;ＳＥ＞波音\
-dwave 5,"se\nami3.ogg"
-
-dwave 6,"se\umitori.ogg"
 
 !sd
 
@@ -548,9 +479,6 @@ dwave 6,"se\umitori.ogg"
 ;「じゃあ、最後にもうひとつ…」\
 ^``Okay, then one last thing ...''\
 
-;dwave 0,"w\n290.ogg"
-;dwave 0,"w\new_455.ogg"
-dwave 0,"w\new_455b.ogg"
 
 ;「…うん？」\
 ^``... hmm?''\
@@ -565,11 +493,6 @@ dwave 0,"w\new_455b.ogg"
 
 dwavestop 5
 
-;dwave 0,"w\n249.ogg"
-;dwave 0,"w\new_456.ogg"
-
-;dwave 0,"w\n395.ogg"
-dwave 0,"w\nv395.ogg"
 
 ;「えっ…」\
 ^``Wha ...''\
@@ -584,7 +507,6 @@ dwave 0,"w\nv395.ogg"
 
 
 
-dwave 0,"w\n080.ogg"
 
 ;「……………」\
 ^``... ... ...''\
@@ -593,9 +515,6 @@ dwave 0,"w\n080.ogg"
 
 !w300
 
-;dwave 0,"w\n397.ogg"
-;dwave 0,"w\nv397.ogg"
-dwave 0,"w\nv397b.ogg"
 
 !s100
 
@@ -606,7 +525,6 @@ dwave 0,"w\nv397b.ogg"
 
 
 ;ＳＥ＞シャッター
-dwave 5,"se\camera.ogg"
 
 ;bg "e\w.jpg",1
 
@@ -614,7 +532,6 @@ bg "e\imege93.jpg",3
 bg "e\imege92.jpg",5
 bg "e\imege09.jpg",5
 
-dwave 5,"se\nami3.ogg"
 
 ;…そう言って…^@^初めて笑ってくれた。\
 ^... and saying this ...^@^
@@ -646,8 +563,6 @@ bg "e\b.jpg",5
 
 
 
-;dwave 0,"w\n399.ogg"
-dwave 0,"w\nv399.ogg"
 
 ;「うんっ」\
 ^``Okay!''\
@@ -667,8 +582,6 @@ dwave 0,"w\nv399.ogg"
 
 
 
-;dwave 0,"w\n401.ogg"
-dwave 0,"w\nv401.ogg"
 
 ;「そ、そんなことないわよ…」\
 ^``Th-that's not it at all ...''\
@@ -704,16 +617,9 @@ stop
 bg "e\imege072.jpg",5
 
 ;ＳＥ＞波
-dwave 5,"se\nami3.ogg"
-
-
-dwave 6,"se\umitori.ogg"
 
 ;ざざ……\
 ^ *swish*swish* ...\
-
-;dwave 0,"w\n403.ogg"
-dwave 0,"w\nv403.ogg"
 
 ;「それじゃあ…」\
 ^``Well then ...''\
@@ -723,8 +629,6 @@ dwave 0,"w\nv403.ogg"
 ;「ん…ああ、もうそんな頃合か…」\
 ^``Hmm ... yeah, so I guess it's time ...''\
 
-;dwave 0,"w\n253.ogg"
-dwave 0,"w\new_463.ogg"
 
 ;「…うん」\
 ^``... yeah.''\
@@ -736,8 +640,6 @@ dwave 0,"w\new_463.ogg"
 ^And with that word,
 ^she began walking toward the sea, just like last time.\
 
-;dwave 0,"w\n404.ogg"
-dwave 0,"w\nv404.ogg"
 
 ;「あ、そういえば免許証…」\
 ^``Oh, right, your license ...''\
@@ -748,9 +650,6 @@ dwave 0,"w\nv404.ogg"
 ^``No, you keep that in commemoration.''\
 
 
-
-;dwave 0,"w\n076.ogg"
-dwave 0,"w\new_465.ogg"
 
 ;「うん、わかった…」\
 ^``Okay, got it ...''\
@@ -779,7 +678,6 @@ dwavestop 6
 ;…俺へと差し出してくれた。\
 ^... and presented it to me.\
 
-dwave 6,"se\umitori.ogg"
 
 !sd
 
@@ -788,9 +686,6 @@ dwave 6,"se\umitori.ogg"
 
 
 
-;dwave 0,"w\n044.ogg"
-;dwave 0,"w\new_467.ogg"
-dwave 0,"w\new_467b.ogg"
 
 ;「うん、あげる…」\
 ^``Yes, I am ...''\
@@ -823,8 +718,6 @@ dwave 0,"w\new_467b.ogg"
 
 !s90
 
-;dwave 0,"w\n406.ogg"
-dwave 0,"w\nv406.ogg"
 
 ;「うん」\
 ^``Sure.''\
@@ -836,7 +729,6 @@ dwave 0,"w\nv406.ogg"
 
 
 
-dwave 0,"w\n407.ogg"
 
 ;「……………」\
 ^``... ... ...''\
@@ -848,9 +740,6 @@ dwave 0,"w\n407.ogg"
 
 
 
-dwave 5,"se\nami3.ogg"
-
-dwave 6,"se\umitori.ogg"
 
 !s75
 
@@ -869,14 +758,10 @@ dwave 6,"se\umitori.ogg"
 
 !s85
 
-;dwave 0,"w\n408.ogg"
-dwave 0,"w\nv408.ogg"
 
 ;「…さあ…どっちだろうね」\
 ^``... hmm ... that's a good question.''\
 
-;dwave 0,"w\nv409.ogg"
-dwave 0,"w\nv409b.ogg"
 ;「あはは、よくわからないね」\
 ^``Ahaha, I really don't know.''\
 
@@ -911,8 +796,6 @@ bg "e\w.jpg",5
 
 
 
-;dwave 0,"w\n410.ogg"
-dwave 0,"w\nv410.ogg"
 
 ;「それじゃあ…^@^さよなら…」\
 ^``Well then ...^@^ farewell ...''\
