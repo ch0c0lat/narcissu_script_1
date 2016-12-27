@@ -1,16 +1,7 @@
 
-dwave 6,"se\umitori.ogg"
-
-!sd
-
 ;「もしかして…くれるのか？」\
 ^``Are you... giving this to me?''\
 
-
-
-;dwave 0,"w\n044.ogg"
-;dwave 0,"w\new_467.ogg"
-dwave 0,"w\new_467b.ogg"
 
 ;「うん、あげる…」\
 ^``Un. I am...''\
