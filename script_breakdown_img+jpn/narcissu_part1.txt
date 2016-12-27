@@ -11,15 +11,11 @@ bg "e\b.jpg",3
 
 
 
-;addition here to cover that hanging voiced line we neer knew how to deal with
-;-;unvoiced nuke
-if %unvoiced_mode == 1 goto *generated_263
+
 lsph 5,":s;#999999^~i =19~... Those dazzling days, those winter days...~i =19~",230,358
-*generated_263
 
 dwave 0,"w\n001.ogg"
 
-vsp 5,1
 
 ;bg "e\c001a.jpg",1
 bg "agilis\1\c001a.png",1
