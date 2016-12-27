@@ -38,7 +38,6 @@
 ;●とも　ここから車内に
 bg "e\car_byoin_chusyajo.jpg",3
 
-dwave 0,"w\n138.ogg"
 
 ;「…大丈夫よ、もう止まるわ」\
 ^``... It's okay, it'll stop now.''\
@@ -50,7 +49,6 @@ dwave 0,"w\n138.ogg"
 
 
 
-dwave 0,"w\n139.ogg"
 
 ;「これ、５０リッターだから…」\
 ^``This, is a 50 liter...''\
@@ -98,7 +96,6 @@ bg "e\b.jpg",5
 ;＿＿＿＿
 
 ;ＳＥ＞車\
-dwave 5,"se\car1.ogg"
 
 ;●とも　車外：走る
 ;＞■仕込みました
@@ -131,7 +128,6 @@ bg "e\naname_michi.jpg",5
 
 
 
-dwave 0,"w\n140.ogg"
 
 ;「…別に」\
 ^``... Not particularly.''\
@@ -143,7 +139,6 @@ dwave 0,"w\n140.ogg"
 
 
 
-dwave 0,"w\n141.ogg"
 
 ;「……………」\
 ^``......''\
@@ -168,7 +163,6 @@ dwave 0,"w\n141.ogg"
 
 
 
-dwave 0,"w\n142.ogg"
 
 ;「…それは質問？」\
 ^``... Is that a question?''\
@@ -178,14 +172,12 @@ dwave 0,"w\n142.ogg"
 ;「いや、なんだったらクイズでもいいぞ」\
 ^``Well you can think of it as a quiz.''\
 
-dwave 0,"w\n143.ogg"
 
 ;「……………」\
 ^``......''\
 
 
 
-dwave 0,"w\n144.ogg"
 
 ;「インテグラ、タイプＲ、クーペ…」\
 ^``Integra, Type R. Coupe...''\
@@ -197,7 +189,6 @@ dwave 0,"w\n144.ogg"
 
 
 
-dwave 0,"w\n145.ogg"
 
 ;「９９年式、５速ミッション、最高出力２００馬力…」\
 ^``99 model, 5-speed transmission, maximum output, 200 horsepower...''\
@@ -211,14 +202,12 @@ dwave 0,"w\n145.ogg"
 ;思わず俺は、手元の車検証の文字を目で追う。\
 ^My eyes couldn't help but follow the words on the registration in my hand as the girl flatly continued speaking.\
 
-dwave 0,"w\n146.ogg"
 
 ;「…全長４３８０、全幅１６９５、総排気量１７９７ｃｃ…」\
 ^``... Total length, 4380mm, total width, 1695mm, general displacement, 1797cc...''\
 
 
 
-dwave 0,"w\n147.ogg"
 
 ;「…まだ言うの？」\
 ^``... Do you want me to go on?''\
@@ -253,14 +242,12 @@ dwave 0,"w\n147.ogg"
 
 
 
-dwave 0,"w\n148.ogg"
 
 ;「……………」\
 ^``......''\
 
 
 
-dwave 0,"w\n149.ogg"
 
 ;「別に…あなたより年上だからよ」\
 ^``No particular reason... it's because I'm older than you.''\
@@ -340,7 +327,6 @@ bg "e\shanai_michi01_yu.jpg",3
 
 
 
-dwave 0,"w\n150.ogg"
 
 ;「…質問の意味がわからない」\
 ^``... I don't understand the meaning of your question.''\
@@ -352,7 +338,6 @@ dwave 0,"w\n150.ogg"
 
 
 
-dwave 0,"w\n151.ogg"
 
 ;「…だから？」\
 ^``... And so?''\
@@ -407,7 +392,6 @@ dwave 0,"w\n151.ogg"
 
 
 
-dwave 0,"w\n169.ogg"
 
 ;「…………」\
 ^``......''\
@@ -485,7 +469,6 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 
 
 
-dwave 0,"w\n152.ogg"
 
 ;「…嫌」\
 ^``... No.''\
@@ -514,7 +497,6 @@ dwave 0,"w\n152.ogg"
 
 ;ＳＥ＞ドア開け閉め\
 
-dwave 5,"tui3\close.ogg"
 
 bg "e\b.jpg",3
 
@@ -526,7 +508,6 @@ bg "e\b.jpg",3
 bg "e\pachi.jpg",3
 
 ;ＳＥ＞パチ店内
-dwave 5,"se\pachinko1.ogg"
 
 ;思ったよりも賑わっていた店内。\
 ^Inside the unexpectedly crowded shop.\
@@ -614,7 +595,6 @@ bg "e\w.jpg",3
 
 ;＞ＳＥ＞ぶっちゃける音
 
-dwave 5,"se\coin_d.ogg"
 
 ;ガシャーーン、\
 ;-;Nuke
@@ -655,7 +635,6 @@ bg "e\b.jpg",3
 ^Already, by that time, I was two meters in front of the shop exit.\
 
 ;ＳＥ＞
-dwave 5,"tui3\close.ogg"
 ;バタンっ、\
 if %unvoiced_mode == 0 goto *generated_298
 ^I slammed the car door behind me.\
@@ -677,8 +656,6 @@ if %unvoiced_mode == 1 goto *generated_300
 bg "e\car_byoin_chusyajo_yoru.jpg",3
 
 ;ＳＥ＞エンジンスターター
-dwave 5,"se\engine_start.ogg"
-;dwave 5,"se\car_s2.ogg"
 
 ;大急ぎでエンジンをかけると、
 ;思いっきりアクセルを踏み込む。\
@@ -709,7 +686,6 @@ goto *generated_304
 ^* Gan! Garigarigari... *\
 *generated_304
 
-dwave 0,"w\n153.ogg"
 
 ;「きゃっ」\
 ^``Kya!''\
@@ -736,7 +712,6 @@ bg "e\naname_machi2_yoru.jpg",3
 ;目の前の道へと車を走らせた。\
 ^However, there wasn't time to worry about that. I drove out onto the road in front of us.\
 
-dwave 5,"se\car2.ogg"
 
 ;☆ＢＧ＞走る車
 ;●：車内正面・移動中０６（車道２）夜
@@ -771,7 +746,6 @@ bg "e\b.jpg",3
 ;●：車外・停車０２（夜）
 bg "e\chusha_michi2_yoru.jpg",5
 
-dwave 0,"w\n154.ogg"
 
 ;「…大丈夫？」\
 ^``... Is it okay?''\
@@ -795,7 +769,6 @@ dwave 0,"w\n154.ogg"
 ^... With just this, there probably wouldn't be a problem driving.\
 
 ;ＳＥ＞ドア開け閉め
-dwave 5,"tui3\close.ogg"
 
 ;☆ＢＧ＞車内：夜\
 ;●：車内正面・停車０５（車道・夜）
@@ -824,7 +797,6 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 ;最初から覚悟して持てば何とかなるだろうし…\
 ^If I were prepared from the start, I could probably manage.\
 
-dwave 0,"w\n156.ogg"
 
 ;「…勘違いしてるわね」\
 ^``... You're being mistaken.''\
@@ -836,7 +808,6 @@ dwave 0,"w\n156.ogg"
 
 
 
-dwave 0,"w\n157.ogg"
 
 ;「今のあなたは、以前のあなたとは違う筈…」\
 ^``The you now, should be different from the you from before...''\
@@ -851,7 +822,6 @@ dwave 0,"w\n157.ogg"
 
 
 
-dwave 0,"w\n158.ogg"
 
 ;「…同じように考えない方がいい」\
 ^``... You shouldn't think of it as being the same.''\
@@ -876,7 +846,6 @@ dwave 0,"w\n158.ogg"
 
 
 
-dwave 0,"w\n159.ogg"
 
 ;「………………」\
 ^``......''\
@@ -940,7 +909,6 @@ bg "e\sora_ame03.jpg",5
 
 mp3loop "bgm\3_12.mp3"
 
-dwave 0,"w\n161.ogg"
 
 ;「時間を止め、心を止めて…」\
 ^``Stopping time, stopping my heart...''\
@@ -949,7 +917,6 @@ dwave 0,"w\n161.ogg"
 
 ;mp3loop "tui\sen032.mp3"
 
-dwave 0,"w\n162.ogg"
 
 ;「情報だけを積み重ねる日々…」\
 ^``Days of simply gathering knowledge...''\
@@ -997,11 +964,9 @@ bg "e\image01.jpg",5
 ;…わたしには、パジャマがあれば十分だった。\
 ^... For me, if I had pajamas, that was enough.\
 
-dwave 5,"se\rain_1.ogg"
 
 bg "e\w.jpg",3
 
-dwave 0,"w\n006.ogg"
 
 ;「幾つもの季節を、白い梅雨空を、
 ;　誰とも言葉を交わす必要もなく過ごした…」\
@@ -1063,14 +1028,12 @@ bg "e\b.jpg",5
 
 bg "e\chara_k01.jpg",3
 
-dwave 0,"w\n163.ogg"
 
 ;「だけど…」\
 ^``But...''\
 
 
 
-dwave 0,"w\n164.ogg"
 
 ;「…胸の大きな傷跡が、諦めろと諭した」\
 ^``... The large scar on my chest, advised me to give up.''\
@@ -1079,7 +1042,6 @@ dwave 0,"w\n164.ogg"
 
 bg "e\chara_k01.jpg",3
 
-dwave 0,"w\n165.ogg"
 
 ;「生涯の伴侶は、目を閉じた世界にしろと諭した…」\
 ^``My lifelong companion, told me to make do with the world in my closed eyes...''\
@@ -1110,7 +1072,6 @@ bg "e\sora_yu.jpg",3
 
 ;mp3loop "tui2\e01.mp3"
 
-dwave 5,"se\car3.ogg"
 
 ;日がゆっくりと傾き、西の空がオレンジに染まる頃。^@^
 ^When the sun slowly slanted, staining the western sky orange.^@^
@@ -1129,7 +1090,6 @@ mp3loop "bgm\n03.mp3"
 ;●とも　ＢＧ＞車内＞■仕込みました
 bg "e\shanai_michi01_yu.jpg",3
 
-dwave 0,"w\n166.ogg"
 
 ;「ねえ、あなた…」\
 ^``Say... you...''\
@@ -1140,7 +1100,6 @@ dwave 0,"w\n166.ogg"
 ;珍しく彼女の方から声を掛けてきた。\
 ^When I was thinking about that, surprisingly, the girl spoke to me.\
 
-dwave 0,"w\n167.ogg"
 
 ;「あなた、お風呂は入れるの…？」\
 ^``You, can go take baths?''\
@@ -1152,7 +1111,6 @@ dwave 0,"w\n167.ogg"
 
 
 
-dwave 0,"w\n168.ogg"
 
 ;「そう…わたしも似たようなもんよ」\
 ^``I see... something similar to me then.''\
@@ -1176,14 +1134,12 @@ dwave 0,"w\n168.ogg"
 
 
 
-dwave 0,"w\n169.ogg"
 
 ;「…………」\
 ^``......''\
 
 
 
-dwave 0,"w\n170.ogg"
 
 ;「…悪い？」\
 ^``... Problem?''\
@@ -1204,7 +1160,6 @@ dwave 0,"w\n170.ogg"
 
 
 
-dwave 0,"w\n171.ogg"
 
 ;「…銭湯？」\
 ^``... Bathhouse?''\
@@ -1216,7 +1171,6 @@ dwave 0,"w\n171.ogg"
 
 
 
-dwave 0,"w\n172.ogg"
 
 ;「…………」\
 ^``......''\
@@ -1225,7 +1179,6 @@ dwave 0,"w\n172.ogg"
 
 ;□心情・情景
 
-dwave 0,"w\n173.ogg"
 
 ;「…やっぱりいい」\
 ^``... On second thought, I'm fine.''\
@@ -1255,14 +1208,12 @@ dwave 0,"w\n173.ogg"
 
 
 
-dwave 0,"w\n174.ogg"
 
 ;「…………」\
 ^``......''\
 
 
 
-dwave 0,"w\n175.ogg"
 
 ;「別に…そんな意味じゃないわよ」\
 ^``Not particularly... I didn't mean that.''\
@@ -1309,7 +1260,6 @@ bg "e\shanai_michi01_yoru.jpg",3
 
 
 
-dwave 0,"w\n089.ogg"
 
 ;「…？」\
 if %unvoiced_mode == 0 goto *generated_305
@@ -1323,7 +1273,6 @@ goto *generated_306
 
 
 ;ＳＥ＞ドア開け閉め
-dwave 5,"tui3\close.ogg"
 
 bg "e\b.jpg",3
 
@@ -1346,7 +1295,6 @@ dwavestop 5
 ;恐らくは花壇用に設けられたものだろう。\
 ^After a while, I found the faucet that I was looking for. It was probably there for the gardens.\
 
-dwave 5,"se\water_x2.ogg"
 
 ;キュッキュ、シャーーーっ\
 if %unvoiced_mode == 0 goto *generated_307
@@ -1365,7 +1313,6 @@ goto *generated_308
 ^Then, I wet the towels and firmly wrung them out.\
 
 ;ＳＥ＞
-dwave 5,"tui3\close.ogg"
 ;バタン\
 if %unvoiced_mode == 0 goto *generated_309
 ^I returned to the car, slamming the door closed.\
@@ -1402,7 +1349,6 @@ dwavestop 5
 
 
 
-dwave 0,"w\n176.ogg"
 
 ;「…………」\
 ^``......''\
@@ -1414,14 +1360,12 @@ dwave 0,"w\n176.ogg"
 
 
 
-dwave 0,"w\n095.ogg"
 
 ;「わかった…」\
 ^``Alright...''\
 
 
 
-;;dwave 0,"w\n177.ogg"
 
 ;;「…うん」\
 
@@ -1438,7 +1382,6 @@ dwave 0,"w\n095.ogg"
 ;身体を拭こうとしていた。\
 ^Unlike me, she placed her hand within her clothes and wiped her body that way.\
 
-dwave 0,"w\n178.ogg"
 
 ;「ねえ…」\
 ^``Hey...''\
@@ -1450,7 +1393,6 @@ dwave 0,"w\n178.ogg"
 
 
 
-dwave 0,"w\n179.ogg"
 
 ;「…見ないでよ」\
 ^``... Don't look.''\
@@ -1481,7 +1423,6 @@ bg "e\b.jpg",3
 
 
 
-dwave 0,"w\n180.ogg"
 
 ;「…うん」\
 ^``... Un.''\
@@ -1512,7 +1453,6 @@ dwave 0,"w\n180.ogg"
 
 bg "e\sora_yoru01.jpg",5
 
-dwave 0,"w\n181.ogg"
 
 ;「ねえ、あなた…」\
 ^``Say, you...''\
@@ -1526,7 +1466,6 @@ dwave 0,"w\n181.ogg"
 
 
 
-dwave 0,"w\n182.ogg"
 
 ;「そんなに…珍しい？」\
 ^``Is it that... unusual?''\
@@ -1599,7 +1538,6 @@ bg "e\shanai_michi01.jpg",3
 
 
 
-dwave 0,"w\n183.ogg"
 
 ;「別に…」\
 ^``Not particularly...''\
@@ -1619,7 +1557,6 @@ dwave 0,"w\n183.ogg"
 
 ;●とも＞排気音
 
-dwave 0,"w\n184.ogg"
 
 ;「…音がうるさい」\
 ^``... That sound is noisy.''\
@@ -1631,7 +1568,6 @@ dwave 0,"w\n184.ogg"
 
 
 
-dwave 0,"w\n185.ogg"
 
 ;「車の音、前より大きくなってる…」\
 ^``The sound of the car, it's gotten louder than before...''\
@@ -1677,14 +1613,12 @@ dwave 0,"w\n185.ogg"
 bg "e\gs.jpg",3
 
 ;ＳＥ＞車止める音\
-dwave 5,"se\car_s.ogg"
 
 ;ほどなくして見つけた無人スタンド。
 ;何台か並んだ給油機の一番手前に車を停める。\
 ^Soon, I found one, and pulled the car to a stop at the closest pump out of the many lined up.\
 
 ;ＳＥ＞ドア開け
-;dwave 5,"se\open.ogg"
 
 ;「給油に寄る…」\
 ^``I'll get some gas...''\
@@ -1692,7 +1626,6 @@ dwave 5,"se\car_s.ogg"
 
 dwavestop 5
 
-dwave 0,"w\n079.ogg"
 
 ;「そう…」\
 ^``I see...''\
@@ -1704,7 +1637,6 @@ dwave 0,"w\n079.ogg"
 
 
 
-dwave 0,"w\n186.ogg"
 
 ;「…………」\
 ^``......''\
@@ -1716,7 +1648,6 @@ dwave 0,"w\n186.ogg"
 ^There was no reply. However, she probably also understood what that meant.\
 
 ;ＳＥ＞ドア閉め\
-dwave 5,"tui3\close.ogg"
 
 bg "e\b.jpg",3
 
@@ -1814,7 +1745,6 @@ bg "e\gs.jpg",3
 
 
 ;ＳＥ＞ドア閉め
-dwave 5,"tui3\close.ogg"
 
 bg "e\car_byoin_chusyajo.jpg",3
 
@@ -1823,7 +1753,6 @@ bg "e\car_byoin_chusyajo.jpg",3
 
 ;ＳＥ＞エンジン始動\
 
-dwave 5,"se\engin_s.ogg"
 
 ;そして、エンジンだけは始動させた。\
 ^And then, I only started up the engine.\
@@ -1858,8 +1787,6 @@ dwavestop 5
 
 bg "e\b.jpg",3
 
-;dwave 0,"w\n187.ogg"
-dwave 0,"w\nv187.ogg"
 
 ;「はい…」\
 ^``Here...''\
@@ -1897,15 +1824,12 @@ dwave 0,"w\nv187.ogg"
 
 
 
-dwave 0,"w\n188.ogg"
 
 ;「…………」\
 ^``......''\
 
 
 
-;dwave 0,"w\n190.ogg"
-dwave 0,"w\nv190.ogg"
 
 ;「あなた…聞いた？」\
 ^``Did you... ask?''\
@@ -1917,9 +1841,6 @@ dwave 0,"w\nv190.ogg"
 
 
 
-;dwave 0,"w\n189.ogg"
-;dwave 0,"w\nv189.ogg"
-dwave 0,"w\nv189b.ogg"
 
 ;「聞かれなかったからよ…」\
 ^``Because I wasn't asked...''\
@@ -1933,7 +1854,6 @@ dwave 0,"w\nv189b.ogg"
 
 bg "e\soukou.jpg",5
 
-dwave 5,"se\car3.ogg"
 
 ;■心情・情景＞情景とか\
 
@@ -1970,9 +1890,6 @@ bg "e\naname_michi.jpg",3
 
 
 
-;dwave 0,"w\n191.ogg"
-;dwave 0,"w\nv191.ogg"
-dwave 0,"w\nv191b.ogg"
 
 ;「別に…いいわよ」\
 ^``It doesn't matter... you can.''\
@@ -2010,9 +1927,6 @@ dwave 0,"w\nv191b.ogg"
 
 
 
-;dwave 0,"w\n192.ogg"
-;dwave 0,"w\nv192.ogg"
-dwave 0,"w\nv192b.ogg"
 
 ;「…家だって嫌よ」\
 ^``... I also didn't like home.''\
@@ -2029,7 +1943,6 @@ dwave 0,"w\nv192b.ogg"
 
 
 
-dwave 0,"w\n193.ogg"
 
 ;「……………」\
 ^``......''\
@@ -2053,8 +1966,6 @@ dwave 0,"w\n193.ogg"
 
 
 
-;dwave 0,"w\n194.ogg"
-dwave 0,"w\nv194.ogg"
 
 ;「別に……」\
 ^``Not particularly...''\
@@ -2067,17 +1978,12 @@ dwave 0,"w\nv194.ogg"
 
 
 
-dwave 0,"w\n195.ogg"
 
 ;「……………」\
 ^``......''\
 
 
 
-;dwave 0,"w\n196.ogg"
-;dwave 0,"w\nv196.ogg"
-;dwave 0,"w\nv196b.ogg"
-dwave 0,"w\nv196c.ogg"
 
 ;「…どこもないわよ…」\
 ^``... There is no place...''\
@@ -2103,8 +2009,6 @@ bg "e\b.jpg",3
 ;それを肯定しているようにも思えた。\
 ^I sensed the girl's lonely profile was confirming that.\
 
-;dwave 0,"w\n197.ogg"
-dwave 0,"w\nv197.ogg"
 
 ;「…じゃあ、あなたはどうなのよ？」\
 ^``... Then, what about you?''\
@@ -2116,8 +2020,6 @@ dwave 0,"w\nv197.ogg"
 
 
 
-;dwave 0,"w\n199.ogg"
-dwave 0,"w\nv199.ogg"
 
 ;「…真似しないでよ」\
 ^``... Don't imitate me.''\
@@ -2127,7 +2029,6 @@ dwave 0,"w\nv199.ogg"
 ;「別に、真似じゃねえよ」\
 ^``I'm not imitating you.''\
 
-dwave 0,"w\n055.ogg"
 
 ;「……………」\
 ^``......''\
@@ -2152,8 +2053,6 @@ bg "e\naname_michi.jpg",3
 
 ;●とも　ボイス大きい
 
-;dwave 0,"w\n249.ogg"
-dwave 0,"w\nv249.ogg"
 ;「えっ…」\
 ^``Eh?''\
 
@@ -2170,8 +2069,6 @@ dwave 0,"w\nv249.ogg"
 ^``Well, how about that Awaji-shima that we talked about before?''\
 
 
-
-dwave 0,"w\n198.ogg"
 
 ;「…………」\
 ^``......''\
@@ -2198,15 +2095,11 @@ dwave 0,"w\n198.ogg"
 
 
 
-dwave 0,"w\n195.ogg"
-
 ;「……………」\
 ^``......''\
 
 
 
-;dwave 0,"w\n369.ogg"
-dwave 0,"w\new_237.ogg"
 
 ;「……別に…」\
 ^``... Not particularly...''\
@@ -2260,7 +2153,6 @@ h_usewindow "main"
 !sd
 erasetextwindow 0
 
-dwave 0,"w\n200.ogg"
 
 ;『地図を見るのは好きだった…』\
 ^``I liked looking at maps...''\
@@ -2314,7 +2206,6 @@ bg "e\image01.jpg",5
 ;☆ＢＧ：窓に顔のかな\
 bg "e\setsumi_kaisou.jpg",5
 
-dwave 0,"w\n201.ogg"
 
 ;「だけど…」\
 ^``But...''\
@@ -2342,7 +2233,6 @@ dwave 0,"w\n201.ogg"
 
 bg "e\b.jpg",3
 
-dwave 0,"w\n202.ogg"
 
 ;「一つくらい…好きにさせてよ…」\
 ^``Just once... let me do as I please...''\
@@ -2371,7 +2261,6 @@ bg "agilis\1\cat02.png",5
 
 click
 
-dwave 5,"se\car3.ogg"
 
 bg "e\b.jpg",3
 
@@ -2394,13 +2283,11 @@ bg "e\shanai_michi04.jpg",3
 ;;そしてハンドルを握る俺の隣では、
 ;;軽く寝息を立てる彼女。\
 
-;dwave 0,"w\n203.ogg"
 
 ;;「んぅ…
 
 ;;「起きたか？
 
-;dwave 0,"w\n204.ogg"
 
 ;;「…うん
 
@@ -2426,7 +2313,6 @@ bg "e\shanai_michi04.jpg",3
 
 bg "e\b.jpg",3
 
-dwave 0,"w\n205.ogg"
 
 ;「そこ、左折…」\
 ^``There, left...''\
@@ -2438,7 +2324,6 @@ dwave 0,"w\n205.ogg"
 
 
 
-dwave 0,"w\n206.ogg"
 
 ;「左に曲がって」\
 ^``Turn left.''\
@@ -2463,14 +2348,12 @@ bg "e\naname_michi.jpg",3
 
 
 
-dwave 0,"w\n207.ogg"
 
 ;「……………」\
 ^``......''\
 
 
 
-dwave 0,"w\n208.ogg"
 
 ;「これが１号線…当分は真っ直ぐよ…」\
 ^``This is Route 1... for a while, go straight...''\
