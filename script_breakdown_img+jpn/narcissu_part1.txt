@@ -210,7 +210,6 @@ bg "e\b.jpg",3
 
 ;○とも＞ＳＥとか
 
-
 ;ガタンゴトン、\
 ^* Kathunk-gathunk. *\
 
@@ -906,7 +905,6 @@ bg "e\danwa.jpg",5
 ^The two of us, while watching the boring television, were only spending days passing time.\
 
 bg "e\b.jpg",3
-
 
 ;タッタッタ、\
 ^There came the sound of slippers.\
