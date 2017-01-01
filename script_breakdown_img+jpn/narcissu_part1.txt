@@ -1587,11 +1587,6 @@ bg "e\b.jpg",3
 
 ;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-
-mp3loop "tui2\e01.mp3"
-
-;mp3loop "bgm\n04.mp3"
-
 ;数日が過ぎ、冬が更に本格的になった頃。\
 ^A few days passed and the winter became even more serious.\
 
@@ -1607,8 +1602,6 @@ bg "e\danwa.jpg",3
 ;「…そうね」\
 ^``... Indeed.''\
 
-
-
 ;会話とも呼べないやり取り。\
 ^An exchange that couldn't even be called a conversation.\
 
@@ -1621,8 +1614,6 @@ bg "e\danwa.jpg",3
 ;「…今日よ」\
 ^``... Today.''\
 
-
-
 ;「そうか、今日だったか…」\
 ^``I see, it's today, eh...''\
 
@@ -1632,8 +1623,6 @@ bg "e\danwa.jpg",3
 
 ;「もう…会えないかもね」\
 ^``We might... not meet any more.''\
-
-
 
 ;「ん？　ああ、そうだな…」\
 ^``Mm? Ah, that's right...''\
@@ -1652,23 +1641,17 @@ bg "e\danwa.jpg",3
 ;「…あなた、決まった？」\
 ^``... Did you, decide?''\
 
-
-
 ;「例の、どっちで死ぬかってのか？」\
 ^``That, 'which do you want to die at,' thing?''\
 
 ;「うん」\
 ^``Un.''\
 
-
-
 ;「いや、まだだ…」\
 ^``No, not yet...''\
 
 ;「…そう…」\
 ^``... I see...''\
-
-
 
 ;少しだけ寂しそうに頷く彼女。
 ;その表情は、２回目に仮退院する者、故なのだろう。\
@@ -1685,26 +1668,14 @@ bg "e\danwa.jpg",3
 ;自分自身の答えは決まっているのだろうか…\
 ^In the end, did she decide on her own answer for herself?\
 
-
-
 bg "e\b.jpg",3
 
 ;タッタッタ、\
-if %unvoiced_mode == 0 goto *generated_269
 ^The patter of slippers came from the hall.\
-
-goto *generated_270
-*generated_269
 ^* Pitter-patter. *\
-*generated_270
 
-dwavestop 5
-
-dwave 4,"tuiz\mom_a013.wav"
 ;「セツミ、仕度できたわよ」\
 ^``Setsumi, the arrangements are done.''\
-
-dwavestop 4
 
 ;そう言ってやって来た、どこかのおばさん。\
 ^Coming here and speaking was some older lady.\
@@ -1713,22 +1684,14 @@ dwavestop 4
 ;隣に座っていた俺にも、小さく頭を下げてくれた。\
 ^Most likely, it was the girl's mother. To me, since I was sitting next to her, the mother bowed her head slightly.\
 
-dwave 4,"tuiz\mom_a022.wav"
 ;「じゃあ、そろそろ、行くけど用意はいい？」\
 ^``Well, it's about time we'll be going, are you ready?''\
-
-dwavestop 4
 
 ;「…うん」\
 ^``... Un.''\
 
-
-
-dwave 4,"tuiz\mom_a032.wav"
 ;「それでは、失礼します」\
 ^``Well then, excuse us.''\
-
-dwavestop 4
 
 ;もう一度、俺に小さくお辞儀をすると、
 ;その場を立ち去ろうとするおばさん。\
@@ -1740,8 +1703,6 @@ dwavestop 4
 ;「…………」\
 ^``......''\
 
-
-
 ;でも…彼女はその場を離れようとしなかった。\
 ^But... the girl didn't make to leave the place.\
 
@@ -1749,40 +1710,24 @@ dwavestop 4
 ;何故かパイプ椅子から立ち上がろうとしなかった。\
 ^Even when her mother tugged on her hand, for some reason, she didn't make to stand from the folding chair.\
 
-dwave 4,"tuiz\mom_a042.wav"
 ;「どうかしたの、セツミ？」\
 ^``What's wrong, Setsumi?''\
-
-dwavestop 4
 
 ;「少し…苦しい…」\
 ^``It... hurts a bit...''\
 
-
-
-dwave 4,"tuiz\mom_a052.wav"
 ;「えっ、苦しいって、どこが？　胸？お腹？」\
 ^``Eh? Hurts? Where? Your chest? Stomach?''\
-
-dwavestop 4
 
 ;「…胸…」\
 ^``... Chest...''\
 
-
-
-dwave 4,"tuiz\mom_a062.wav"
 ;「ちょ、ちょっと待ってなさい、すぐに先生呼んでくるから」\
 ^``W-wait here, I'll go call the doctor now.''\
 
-dwavestop 4
-
-
 ;タッタッタ、\
 ;-;Nuke
-if %unvoiced_mode == 1 goto *generated_271
 ^* Pitter-patter. *\
-*generated_271
 
 ;慌しく、来客用のスリッパを鳴らして、
 ;ナースステーションへと駆け出すおばさん。\
