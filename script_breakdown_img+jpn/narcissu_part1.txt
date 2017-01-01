@@ -670,8 +670,6 @@ bg "e\danwa.jpg",5
 ;「そういうルールなの…」\
 ^``There's that kind of rule...''\
 
-
-
 ;頷きながら、初めてここ（７階）に来た人には、
 ;誰かが教えてあげるルールなんだと付け足した。\
 ^While nodding, she added that there is a rule for someone to teach people who first come here to the 7th floor.\
@@ -683,11 +681,8 @@ bg "e\danwa.jpg",5
 ;彼女はゆっくりと話し始めた。\
 ^And as if ignoring me, the girl slowly began speaking.\
 
-
 ;「それじゃあ、よく聞いてね…」\
 ^``Well, listen closely, alright?''\
-
-
 
 bg "e\b.jpg",5
 
@@ -727,23 +722,14 @@ bg "e\b.jpg",5
 ;●談話室復帰
 bg "e\danwa.jpg",3
 
-
-
 ;「わたし、２回目だから…」\
 ^``I'm, on my second time, you see...''\
-
-
 
 ;「２回目ってなにが？」\
 ^``Second time, what's that?''\
 
-
-
-
 ;「…ここに来るの」\
 ^``... Coming to this place.''\
-
-
 
 ;そして、彼女は教えてくれた。\
 ^And the girl taught me.\
@@ -770,17 +756,11 @@ bg "e\danwa.jpg",3
 ;彼女はここに来たのは２回目という意味だった。\
 ^It was with that meaning that the girl had meant by saying it was her second time.\
 
-
 ;「じゃあ、１度しか言わないから…」\
 ^``Well, I'll only say this once...''\
 
-
-
-
 ;「ここからは、よく聞いて…」\
 ^``So, from here on, listen well...''\
-
-
 
 bg "e\b.jpg",3
 
@@ -818,36 +798,24 @@ bg "e\b.jpg",3
 ^Through just those who participated in moving towards death...
 ^These were the things that have continued to be passed down.\
 
-
 ;●談話室
 bg "e\danwa.jpg",3
 
 ;「もしかして、さっきの役目ってのは、これのことか？」\
 ^``Was... the duty you mentioned earlier this?''\
 
-
-
-
 ;「ええ、そうよ…」\
 ^``Yes, that's right.''\
 
-
-
-
 ;「いつかあなたも、初めて来た人には伝えてね…」\
 ^``Someday, you tell it to newcomers too, okay?''\
-
-
 
 ;その言葉を最後に、ゆっくりと立ち上がる彼女。
 ;ふわりと長い髪が揺れ、俺の鼻先をかすめた。\
 ^With those final words, the girl slowly stood up. Gently, her long hair swayed, and brushed the tip of my nose.\
 
-
 ;「じゃあ、検温の時間だから…」\
 ^``Well, it's time for taking temperature, so...''\
-
-
 
 bg "e\b.jpg",5
 
@@ -864,13 +832,9 @@ bg "e\b.jpg",5
 
 bg "e\b.jpg",5
 
-mp3fadeout 2000
-stop
-
 ;bg "e\c042.jpg",5
-bg "agilis\1\c042.png",5
 
-;＿＿
+bg "agilis\1\c042.png",5
 
 ;☆シーン変え　数日後あたり
 
@@ -878,8 +842,6 @@ bg "e\sora01.jpg",5
 
 ;それから何日か過ぎた頃。\
 ^From then, when a few days have passed.\
-
-mp3loop "tui2\e01.mp3"
 
 ;やっと新春特番が終わり、
 ;そろそろ中学や高校では、三学期が始まろうとする頃。\
@@ -895,12 +857,8 @@ bg "e\danwa.jpg",5
 ;「つまらねえな…」\
 ^``It's boring, isn't it...''\
 
-
-
 ;「そうね…」\
 ^``Indeed...''\
-
-
 
 ;言葉ではそう返すが、
 ;お互いに画面を見つめ続けたままの会話だった。\
@@ -909,18 +867,11 @@ bg "e\danwa.jpg",5
 ;「なあ、ここっていつもこんななのか？」\
 ^``Hey. is this place always like this?''\
 
-
-
-
 ;「…質問の意味がわからない」\
 ^``... I don't understand the meaning of your question.''\
 
-
-
 ;「ああ、ひと気がないって意味さ」\
 ^``Ah, I meant how there's no one around.''\
-
-
 
 ;看護婦や医者、それにヘルパーの人を除けば、
 ;お互いの付き添い以外に、誰の姿も見ていなかった。\
@@ -929,29 +880,16 @@ bg "e\danwa.jpg",5
 ;「やっぱり、正月明けだからか？」\
 ^``I guess, it's because it's the New Years?''\
 
-
-
-
 ;;「…………」\
-
-
-
 
 ;「…その理由を知りたいの？」\
 ^``... You want to know the reason for that?''\
 
-
-
 ;「あ、いや…別にそんな意味じゃ…」\
 ^``Ah, no... it's not like I meant that...''\
 
-
-
-
 ;「…じゃあ、言わない」\
 ^``... Then, I won't say.''\
-
-
 
 ;そんな会話ともつかぬやり取りを、淡々と交わす俺達。\
 ^An exchange that wasn't even a conversation, we indifferently exchanged back and forth.\
@@ -971,18 +909,11 @@ bg "e\b.jpg",3
 
 
 ;タッタッタ、\
-if %unvoiced_mode == 0 goto *generated_267
 ^There came the sound of slippers.\
-
-goto *generated_268
-*generated_267
 ^* Pitter-patter. *\
-*generated_268
 
 ;「あら、二人共こんなところに居たの？」\
 ^``Oh, the two of you were in a place like this?''\
-
-
 
 ;そう言って駆け寄ってきた、年配の看護婦さん。\
 ^Saying that while rushing up was an elderly nurse.\
@@ -994,13 +925,8 @@ goto *generated_268
 ;「どう？　セツミさん、熱出てない？」\
 ^``So? Setsumi-san, you don't have a fever?''\
 
-
-
-
 ;「…大丈夫、出てない…」\
 ^``... It's alright, I don't have one...''\
-
-
 
 ;…セツミ。^@^
 ;どうやらそれが彼女の名前のようだった。\
@@ -1010,39 +936,22 @@ goto *generated_268
 ;「もう勝手に外をうろついたりしちゃ駄目ですからね」\
 ^``You can't be roaming about outside without permission any more, okay?''\
 
-
-
-
 ;「……………」\
 ^``......''\
-
-
 
 ;「いいですか？　皆んな心配するんですからね」\
 ^``Alright? Everyone gets worried.''\
 
-
-
-
 ;「…別に、いいよ…」\
 ^``... That, doesn't really matter...''\
-
-
 
 ;「まあ、なんて言い草なんでしょ」\
 ^``My, what kind of statement is that?''\
 
-
-
-
 ;;「……………」\
-
-
 
 ;「もう、ホントに最近の子はしょうがないわね」\
 ^``Really, girls these days, there's just no helping them.''\
-
-
 
 ;それから暫くの間、小言を続ける看護婦さん。\
 ^And for a while more, the nurse continued scolding.\
@@ -1058,8 +967,6 @@ goto *generated_268
 ;「じゃあ、また後で採血に行きますからね」\
 ^``Well, later, I'll be coming to take a blood sample, alright?''\
 
-
-
 ;その言葉を最後に、
 ;再びナースステーションへと帰って行く看護婦さん。\
 ^With those final words, once again the nurse returned back to the nurses station.\
@@ -1070,54 +977,33 @@ bg "e\danwa.jpg",3
 ;「なあ、お前ってさ…」\
 ^``Hey, you...''\
 
-
-
 ;「いや…セツミで、いいんだよな？」\
 ^``I mean... I can call you Setsumi, right?''\
-
-
 
 ;彼女の手首に巻かれた、白いビニールの腕輪。
 ;そこに書かれた血液型と名前を見ながら尋ねた。\
 ^Wrapped around the girl's wrist was the white vinyl bracelet. While looking at the blood type and name there, I asked.\
 
-
 ;「……………」\
 ^``......''\
-
-
 
 ;「どうかしたか？　セツミ？」\
 ^``Is something wrong? Setsumi?''\
 
-
-
 ;「…どうして呼び捨てなの？」\
 ^``... Why is there no honorific?''\
-
-
 
 ;「はあ？」\
 ^``Wha?''\
 
-
-
-
 ;「年下のくせに…」\
 ^``Even though you're the younger one...''\
-
-
 
 ;「お、おい、なんで俺が、年下なんだよ？」\
 ^``H-hey, why is it that I'm the younger one?''\
 
-
-
-
 ;「別に…そう思っただけ」\
 ^``No real reason... I just thought so.''\
-
-
 
 ;”年下”という言葉に腹を立てた訳じゃない。\
 ^It wasn't that I was upset at the word ``younger.''\
@@ -1132,19 +1018,11 @@ bg "e\danwa.jpg",3
 ;「どうだ、こう見えても俺、２０才だぞ？」\
 ^``How about it? Even though I look like this, I'm 20 you know?''\
 
-
-
-
 ;「……………」\
 ^``......''\
 
-
-
-
 ;「やっぱり年下よ…」\
 ^``Like I thought, younger...''\
-
-
 
 ;免許証には一瞥をくれただけで、それだけを返す彼女。\
 ^With just a glance at the license, the girl gave only that reply.\
@@ -1152,13 +1030,8 @@ bg "e\danwa.jpg",3
 ;「おい、よく分からねえぞ」\
 ^``Hey, I don't really get it.''\
 
-
-
-
 ;「どうでもいいじゃない…少し上なだけよ」\
 ^``It doesn't matter does it?... It's only just a bit older.''\
-
-
 
 ;相変わらず無表情のまま彼女が呟く。\
 ^As always, the girl spoke softly with no expression.\
@@ -1168,11 +1041,6 @@ bg "e\danwa.jpg",3
 ^Those eyes, while looking at the boring television, I felt that they were also looking at a some place far away...\
 
 bg "e\w.jpg",5
-
-mp3fadeout 2000
-stop
-
-;＿＿＿＿;＿＿＿＿;＿＿
 
 ;●とも＞とりあえず移動
 
