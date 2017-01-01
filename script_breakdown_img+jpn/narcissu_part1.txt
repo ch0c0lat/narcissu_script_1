@@ -1051,8 +1051,6 @@ bg "e\byoin7_rouka.jpg",3
 ;朝の検温が終わった頃。\
 ^When the morning temperature taking ended.\
 
-mp3loop "tui\sen032.mp3"
-
 ;俺は看護婦に見つからないようにエレベータに乗り込む。\
 ^I got onto the elevator, trying not to be seen by the nurses.\
 
@@ -1105,8 +1103,8 @@ bg "e\b.jpg",5
 ;ゆっくりとした足取りで進みつづけた。\
 ^Glancing at hurrying commuters and people going to school, I slowly moved on at a measured pace.\
 
-
 bg "e\w.jpg",3
+
 bg "e\b.jpg",5
 
 ;暫く歩いた頃、２５分ほどかかって到着した駅前。
@@ -1144,10 +1142,7 @@ bg "e\b.jpg",5
 ;ふと、そんなことを思っていた。\
 ^While watching the people hurrying by, suddenly, that thought occurred to me.\
 
-
-
 ;＿＿＿＿;＿＿＿＿;＿
-
 
 bg "e\sora_yoru01.jpg",5
 
@@ -1174,13 +1169,8 @@ bg "e\danwa_yoru.jpg",3
 ;「よう、今日は外、見てるのか？」\
 ^``Hey, today you're looking outside?''\
 
-
-
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;暗い室内。返事はするが、
 ;その顔は窓の外に向けたままの彼女。\
@@ -1195,19 +1185,13 @@ bg "e\danwa_yoru.jpg",3
 ;「そういえばさ…昼間、駅前まで行ってきたぞ」\
 ^``That reminds me... this morning, I went all the way to the station.''\
 
-
 ;;「……………」\
-
-
 
 ;「教えられた通り、Ｂ駅の方に行ってみた」\
 ^``Just like you told me, I went to see station B.''\
 
-
 ;「そう…」\
 ^``I see...''\
-
-
 
 ;でも、彼女の反応は普段と変わらなかった。\
 ^But, the girl's response was no different from the usual.\
@@ -1223,11 +1207,8 @@ bg "e\danwa_yoru.jpg",3
 ;本当は、最初から抜け出すつもりもなかったのだろうか？\
 ^Thinking about that, as well as how she still remained here,^@^ did it mean that she really had no intention of running away?''\
 
-
 ;「…わたし、もうすぐ帰れるの…」\
 ^``... I, will soon be able to go home...''\
-
-
 
 ;「えっ？」\
 ^``Eh?''\
@@ -1242,17 +1223,11 @@ bg "e\danwa_yoru.jpg",3
 ;「…でも、次で３回目だから…」\
 ^``... But, next is the 3rd time after all...''\
 
-
-
 ;「…もう会えないかもね」\
 ^``... So we might not be able to meet any more.''\
 
-
-
 ;「ん…ああ、そうだな…」\
 ^``Mm... ah, that's right...''\
-
-
 
 ;恐らくこいつが言うところの帰れるってのは、
 ;仮退院のことを指しているのだろう。\
@@ -1269,14 +1244,11 @@ bg "e\danwa_yoru.jpg",3
 ;そういう意味での、もう会えないという言葉だった。\
 ^With that kind of meaning, came the words ``we won't meet again.''\
 
-
-
 ;「ねえ、あなたはどちらを選ぶの？」\
 ^``Say, which would you choose?''\
 
 ;「…選ぶとは？」\
 ^``... Choose what?''\
-
 
 ;「…どっちで死ぬつもりってこと」\
 ^``... Which one you plan on dying at.''\
@@ -1288,17 +1260,11 @@ bg "e\danwa_yoru.jpg",3
 ;俺は一瞬だけ言葉に詰まってしまう。\
 ^Suddenly hearing the word ``death,'' my words caught for just a moment.\
 
-
 ;「さあな…まだ考えてない」\
 ^``Well... I haven't thought about it yet.''\
 
-
-
-
 ;「…そう…まだ１回目だもんね」\
 ^``... I see... well, you're still on your first time.''\
-
-
 
 ;そう呟いて寂しそうにする彼女。\
 ^The girl spoke in a lonely murmur.\
@@ -1315,45 +1281,23 @@ bg "e\danwa_yoru.jpg",3
 ;薄っぺらい笑顔に囲まれた家かを選ぶことになるのだろう。\
 ^In the end, either this 7th floor, or surrounded by thin smiles, it would come to a choice between those two probably.\
 
-
-
 ;「わたしは…家は嫌…」\
 ^``I... don't want home.''\
-
-
-
-!w500
-
 
 ;「だけど、ここも嫌…」\
 ^``But, I don't want here either...''\
 
-
-
 ;「…じゃあ、どうすんだ？」\
 ^``... Then, what will you do?''\
-
-
-
 
 ;「……………」\
 ^``......''\
 
-
-
-
 ;「…別に…どうもしない…」\
 ^``... Nothing in particular... I won't do anything...''\
 
-
-
-!w500
-
-
 ;「自力で歩ける内に、どこかに行くだけ…」\
 ^``While I'm still able to walk on my own, I'll just go somewhere...''\
-
-
 
 ;「どこかって、お前…」\
 ^``Somewhere? You...''\
@@ -1365,50 +1309,28 @@ bg "e\danwa_yoru.jpg",3
 ;それを考えると…\
 ^When I thought about that...\
 
-
 ;「…もしかして、他に行くあてがあるのか？」\
 ^``... Do you, have some other place to go to?''\
-
-
-
 
 ;「……………」\
 ^``......''\
 
-
-
-
-
 ;「あなた…^@^わたしを引き止めたいの？」\
 ^``You...^@^ want to pull me back?''\
-
-
 
 ;「えっ…」\
 ^``Eh?''\
 
-
-
-
 ;「それとも…一緒について来たいの？」\
 ^``Or perhaps... you want to come with me?''\
-
-
 
 ;「あ、いや、別にそんな意味じゃないけど…」\
 ^``Ah, no, I didn't mean it like that...''\
 
-
-
 ;;「…………」\
-
-
-
 
 ;「…じゃあ、聞かないで」\
 ^``... Then, don't ask.''\
-
-
 
 ;窓の外を見つめたまま淡々と話す彼女。
 ;相変わらず俺の方は見ようともしない会話だった。\
@@ -1438,14 +1360,9 @@ bg "e\sora_yoru01.jpg",5
 
 bg "e\w.jpg",5
 
-stop
-mp3fadeout 2500
-
-
 ;☆ＢＧ　雨空\
 
 bg "e\sora_ame01.jpg",3
-
 
 ;未明から降り出した雨。\
 ^From before dawn, rain fell.\
@@ -1454,9 +1371,7 @@ bg "e\sora_ame01.jpg",3
 ;しとしとと降り続いていた。\
 ^Occasionally also changing to either sleet or snow, it lightly continued coming down.\
 
-
 mp3loop "bgm\n03.mp3"
-
 
 ;●：談話室(雨)
 
@@ -1466,16 +1381,11 @@ bg "e\danwa_ame.jpg",3
 ;相変わらず、この７階はひと気がなかった。\
 ^Within that, I was in the usual place watching the television. As always, this 7th floor was devoid of people.\
 
-
 ;「…おもしろい？」\
 ^``... Is it interesting?''\
 
-
-
 ;「いいや、つまらない…」\
 ^``Nope, boring...''\
-
-
 
 ;向こうからやってきた彼女。\
 ^The girl came from the other side.\
@@ -1493,14 +1403,10 @@ bg "e\danwa_ame.jpg",3
 ;他にやることもなかった。やれることもなかった。\
 ^There was nothing else to do, nothing else she could do.\
 
-
 bg "e\b.jpg",3
-
 
 ;「あ……」\
 ^``Ah...''\
-
-
 
 ;珍しくテレビに反応した彼女。\
 ^Surprisingly, she responded to something on the television.\
@@ -1508,18 +1414,10 @@ bg "e\b.jpg",3
 ;「どうかしたか？」\
 ^``Something the matter?''\
 
-
-
-
 ;;「……………」\
-
-;
-
 
 ;「…別に」\
 ^``... Not particularly.''\
-
-
 
 ;言葉はいつも通りの『別に』だが、
 ;普段とは違う彼女の反応。\
@@ -1549,27 +1447,17 @@ bg "e\tv_hana.jpg",5
 ;「もしかして、同じ花か？」\
 ^``Are those, the same flower?''\
 
-
-
-
 ;「…………」\
 ^``......''\
-
-
 
 ;「ほら、これってそっくりじゃん」\
 ^``Look, aren't they exactly like these?''\
 
-
-
 ;言いながら、ブラウン管と窓辺を交互に指差す俺。\
 ^While speaking, I pointed first at the screen and then towards the window.\
 
-
 ;「種類は同じだけど…厳密に言えば違う…」\
 ^``They're the same kind, but... strictly speaking, they're different...''\
-
-
 
 ;窓辺の花には一瞥をくれただけで、
 ;また正面のテレビを見続けたまま答える彼女。\
@@ -1595,13 +1483,8 @@ bg "e\danwa_ame.jpg",5
 ;「お前ってさ、もしかして詳しいのか？　こーゆーのに」\
 ^``Are you, maybe, knowledgeable? About this sort of thing?''\
 
-
-
-
 ;「…別に」\
 ^``... Not particularly.''\
-
-
 
 ;「そうか？　でも俺には違いが分からねえよ」\
 ^``Really? But I can't tell the difference.''\
@@ -1617,15 +1500,11 @@ bg "e\danwa_ame.jpg",5
 ;「なあなあ、これってさ、蘭とか百合ってのか？」\
 ^``So, so, these are, orchids or lilies?''\
 
-
 ;「……………」\
 ^``......''\
 
-
-
 ;「ほら、白っぽい色してるしさ」\
 ^``Look, they've got a whitish color, right?''\
-
 
 ;「……………」\
 ^``......''\
@@ -1650,22 +1529,14 @@ bg "e\b.jpg",3
 
 bg "e\w.jpg",5
 
-
 ;「…ナルキッソス…」\
 ^``... Narcissus...''\
-
-
 
 ;「えっ…」\
 ^``Eh?''\
 
-
-
-
 ;「ナルキッソスよ…」\
 ^``They're Narcissus...''\
-
-
 
 ;bg "e\w.jpg",5
 
@@ -1693,16 +1564,7 @@ bg "e\chara_001.jpg",5
 ;僅かだけ微笑んでくれたようにも思えた。\
 ^I thought I saw the briefest of smiles.\
 
-
 bg "e\w.jpg",5
-
-stop
-mp3fadeout 2500
-
-mov %flg_cha2,1
-mov %flg_bplay,2
-
-goto *agilis_mini_title
 
 ;＿＿＿＿;＿＿＿＿;＿＿＿＿
 
@@ -1711,25 +1573,14 @@ goto *agilis_mini_title
 ;★チャプター３
 *agilis_honpen3
 
-dwavestop 5
-
-;mov $sys_midasi,"銀のクーペ　ボイスＶｅｒ"
-mov $sys_midasi,"Silver Coupe [a]"
-
 ;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
 
 ;・翌日あたり\
 
 ;●：病院廊下７階
 
-
-;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
-h_usewindow "main"
-!sd
-erasetextwindow 0
-
 ;bg "tui2\c0432.bmp",5
+
 bg "agilis\1\c0432.png",5
 
 bg "e\b.jpg",3
