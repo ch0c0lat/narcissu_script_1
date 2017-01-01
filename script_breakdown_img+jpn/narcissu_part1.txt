@@ -293,27 +293,14 @@ bg "e\byoin_rouka.jpg",3
 
 bg "e\b.jpg",5
 
-mp3fadeout 2000
-stop
-
 bg "e\sora07.jpg",5
 
-;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
-h_usewindow "main"
-!sd
-erasetextwindow 0
-
-dwavestop 5
-
 ;bg "e\c03.jpg",3
+
 bg "agilis\1\c03.png",3
 
 ;　■　主人公　２００４年　秋　■\
 ^* Protagonist: 2004, Autumn. *\
-
-mp3loop "tui2\e01.mp3"
-
-;mp3loop "tui\sen032.mp3"
 
 bg "e\sora07.jpg",3
 
@@ -366,8 +353,8 @@ bg "e\sora07.jpg",3
 ;どこか遠い場所から冷めた目でしか見れなかった。\
 ^And so, even though it was supposed to be my own body, I could only watch myself from afar with cold eyes.\
 
-
 ;bg "e\c033.jpg",5
+
 bg "agilis\1\c033.png",5
 
 bg "e\b.jpg",5
@@ -415,7 +402,6 @@ bg "e\amazora02.jpg",5
 ;終わるのかも知れないと思った。\
 ^That license, without giving rise to any practical value, might expire.\
 
-
 ;bg "e\amazora02.jpg",5
 
 bg "e\w.jpg",5
@@ -428,6 +414,7 @@ bg "e\w.jpg",5
 ^Calmly, vaguely, rather simply, I thought of that --- as if thinking of someone else.\
 
 bg "e\w.jpg",5
+
 ;bg "e\b.jpg",5
 
 ;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
@@ -462,8 +449,6 @@ bg "e\byoin_rouka.jpg",5
 
 ;「そうですか…」\
 ^``I see...''\
-
-
 
 ;だから、それだけを返した。他に言葉は見つからなかった。
 ;入室してから出るまでに、口にしたのはこれだけだった。\
