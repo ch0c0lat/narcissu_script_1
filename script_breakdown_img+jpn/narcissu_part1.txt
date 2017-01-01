@@ -187,11 +187,6 @@ bg "agilis\1\c00.png",5
 
 bg "e\sora01.jpg",3
 
-;mp3loop "tui\sen032.mp3"
-
-;mp3loop "tui2\e01.mp3"
-
-
 ;夏。流れる汗。\
 ^Summer. Flowing sweat.\
 
@@ -207,8 +202,6 @@ bg "e\sora01.jpg",3
 ;「２３７、２３７…」\
 ^``237... 237...''\
 
-
-
 ;チカチカと約８割ほどのライトが点灯する中、
 ;無事に自分の受験番号が光ったことを確認した。\
 ^Scanning among the mostly lit light panel, I found my own examination number.\
@@ -219,13 +212,7 @@ bg "e\b.jpg",3
 
 
 ;ガタンゴトン、\
-if %unvoiced_mode == 0 goto *generated_265
-^The tracks beneath the train thudded rhythmically.\
-
-goto *generated_266
-*generated_265
 ^* Kathunk-gathunk. *\
-*generated_266
 
 ;ちょうど昼過ぎの為か、よく空いていた車内。\
 ^Because it was just past midday, the train car was quite empty.\
@@ -240,8 +227,6 @@ goto *generated_266
 
 ;「これで俺も、普免持ちか…」\
 ^``With this, I'm also normally licensed, eh?''\
-
-
 
 ;しみじみ呟くが、特に感慨はなかった。\
 ^I murmured somewhat seriously, but didn't feel any particular strong emotion.\
