@@ -524,13 +524,9 @@ bg "e\b.jpg",5
 
 ;bg "e\w.jpg",3
 
-mp3fadeout 2500
-stop
-
 bg "e\w.jpg",3
 
 bg "e\nar01.jpg",5
-
 
 bg "e\nar01.jpg",5
 
@@ -540,48 +536,22 @@ bg "e\nar01d.jpg",3
 
 bg "e\w.jpg",3
 
-
-mov %flg_pro,1
-mov %flg_bplay,1
-goto *agilis_honpen2
-
-;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-
-*agilis_honpen2
-dwavestop 5
-
 ;★チャプター２
 
 ;mov $sys_midasi,"７階　ボイスＶｅｒ"
 mov $sys_midasi,"7th Floor [a]"
 
-stop
-mp3fadeout 2500
-
-;＿＿＿＿;＿＿＿＿;＿＿
-
-
 bg "e\b.jpg",5
 
 ;bg "e\c04.jpg",3
+
 bg "agilis\1\c04.png",3
 
 ;bg "e\b.jpg",3
 
-click
-
-mp3loop "bgm\n04.mp3"
-
 ;○本編　序盤
 
 bg "e\byoin7_rouka.jpg",3
-
-
-;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
-h_usewindow "main"
-!sd
-erasetextwindow 0
 
 ;廊下の横、ナースステーションの向かいにある、
 ;談話室のような場所。\
@@ -615,19 +585,14 @@ bg "e\b.jpg",3
 ;「なあ、お前…それ面白いか？」\
 ^``Hey, you... is that interesting?''\
 
-
-
 ;深い意味はない。
 ;ひと気がないので、何となくその横顔に話し掛けた。\
 ^There wasn't with any particular deep meaning. Since there was no one around, I tried speaking to her profile.\
 
 ;●ぱじゃまーのヒロイン
 
-
 ;「別に…」\
 ^``Not particularly...''\
-
-
 
 ;只、それだけを返す女の子。
 ;声を掛けた俺に振り向きもしなかった。\
@@ -668,63 +633,39 @@ bg "e\danwa.jpg",5
 
 ;●：談話室
 
-
 ;「ねえ…あなた…」\
 ^``Say... you...''\
-
-
 
 ;突然、話し掛けてきた女の子。
 ;相変わらずテレビを見つめたままだった。\
 ^Suddenly, the girl spoke to me while still gazing at the television.\
 
-
 ;「…あなた、何回目？」\
 ^``... You're, on which time?''\
-
-
 
 ;「…何回目って、どういう意味だ？」\
 ^``... Which time? What does that mean?''\
 
-
-
-
 ;「ここに…７階に来たの」\
 ^``Coming here... the 7th floor.''\
-
-
 
 ;「悪い、質問の意味がわからない」\
 ^``Sorry, I don't understand the meaning of the question.''\
 
-
-
 ;;「………………」\
-
-
-
 
 ;「そう…初めてなんだね」\
 ^``I see... It's your first.''\
-
-
 
 ;何を言ってるのか理解できない俺に、
 ;彼女は勝手に納得したようだった。\
 ^It seemed that at my inability to understand what she was saying, she had up and gotten satisfied with that judgment.\
 
-
 ;「じゃあ、他に誰も居ないし…わたしの役目だから…」\
 ^``Well, there's no one else around... so it's my duty...''\
 
-
-
 ;「…役目？」\
 ^``... Duty.''\
-
-
-
 
 ;「そういうルールなの…」\
 ^``There's that kind of rule...''\
