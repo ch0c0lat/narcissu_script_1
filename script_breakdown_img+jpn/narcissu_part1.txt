@@ -1763,12 +1763,8 @@ bg "e\danwa.jpg",3
 ;「…………」\
 ^``......''\
 
-
-
 ;「別に…もう平気よ」\
 ^``It's nothing... I'm already fine.''\
-
-
 
 ;それだけを告げると、
 ;さっと、自分から立ち上がる彼女。\
@@ -1786,20 +1782,13 @@ bg "e\danwa.jpg",3
 
 bg "e\b.jpg",5
 
-mp3fadeout 2000
-stop
-
 ;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
 
 ;●＞７階の廊下
 
 ;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-
 bg "e\sora_yoru01.jpg",5
-
-;mp3loop "bgm\3_12.mp3"
 
 ;夜。消灯時間も過ぎた頃。\
 ^Night, after the lights were put out.\
@@ -1815,9 +1804,6 @@ bg "e\sora_yoru01.jpg",5
 ;そこで、あいつの姿を見つけた。\
 ^There, I found her figure.\
 
-
-mp3loop "tui\sen032.mp3"
-
 bg "e\danwa_yoru.jpg",3
 
 ;「よう、またここに居たのか…」\
@@ -1826,15 +1812,11 @@ bg "e\danwa_yoru.jpg",3
 ;「…うん」\
 ^``... Un.''\
 
-
-
 ;「どうした？　また調子悪いのか？」\
 ^``What's wrong? Feeling bad again?''\
 
 ;「…別に」\
 ^``... Not particularly.''\
-
-
 
 ;窓の外を見つめたまま、それだけを返す彼女。\
 ^While looking out the window, that was all the girl replied with.\
@@ -1855,8 +1837,6 @@ bg "e\danwa_yoru.jpg",3
 ;「……………」\
 ^``......''\
 
-
-
 ;いや、仮病って言い方も変かも知れない。
 ;元々、俺達は普通の状態とは呼べない。\
 ^Well, the term ``faking sickness'' itself might have been a bit strange, since after all, we couldn't really be said to be in a normal condition.\
@@ -1867,16 +1847,11 @@ bg "e\danwa_yoru.jpg",3
 ;「…意味がわからないわよ」\
 ^``... I don't understand your meaning.''\
 
-
-
 ;「だってお前、もう後が無いだろ…」\
 ^``Well, you won't have any more after, right?''\
 
-
 ;「……………」\
 ^``......''\
-
-
 
 ;その問いには、黙ったまま何も返してくれなかった。\
 ^To that question, she remained silent and gave no reply.\
@@ -1897,8 +1872,6 @@ bg "e\danwa_yoru.jpg",3
 
 ;「…だったら…どうなのよ？」\
 ^``... If so... what about it?''\
-
-
 
 ;「いや、別に…」\
 ^``Ah no, nothing...''\
