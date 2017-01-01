@@ -144,64 +144,36 @@ bg "e\chara_k01.jpg",5
 ;「…どうやら、”良い気がしない”らしい」\
 ^``... It looks like, it makes them uncomfortable.''\
 
-
-
-wait 300
-
-
 ;「普通に生きている人にとって、わたしの存在ってのは」\
 ^``For those who live normally, my very existence.''\
 
-
-
 bg "e\chara_k01.jpg",3
-
 
 ;「だから…消されたようだった…」\
 ^``That's why... I seem to have been erased...''\
-
-
-
 
 bg "e\w.jpg",5
 
 bg "e\sora_ame03.jpg",5
 
-
 ;「幾つもの季節を、白い梅雨空を…
 ;　誰とも言葉を交わす必要もなく過ごした…」\
 ^``Numerous seasons, white overcast skies... passed without even the need to exchange words with anyone...''\
-
-
-
 
 ;「わたしの英語の教科書は、
 ;　１年生の中間テスト以降、まっさらな状態だった」\
 ^``My English textbook, from my first year midterms onwards, remained brand new.''\
 
-
-
 bg "e\chara_0012.jpg",5
-
 
 ;「…そこで…^@^わたしの時間も止まったらしい」\
 ^``... It was there...^@^ that my time seems to have stopped.''\
-
-
 
 bg "e\chara_0013b.jpg",3
 
 bg "e\c005.jpg",5
 
 bg "e\c0052.jpg",3
-
-;mp3fadeout 2000
-;stop
-
-;click
-
-!w800
-
 
 bg "e\w.jpg",1
 
