@@ -1,4 +1,4 @@
-
+﻿
 ;相変わらず、俺の方は見ようともせず、
 ;彼女は窓の外を見つめたままだった。\
 ^As always, without even looking my way, the girl sat looking out the window.\
@@ -33,19 +33,12 @@ bg "e\sora_yoru01.jpg",5
 ;もうあの世界へ、帰れることはないだろう…\
 ^Probably, I was already unable to return to that other world...\
 
-
 bg "e\w.jpg",5
-
 
 bg "e\sora_ame02.jpg",5
 
-
 ;『…時間の止まったわたし…』\
 ^``... The me whose time has stopped...''\
-
-;mp3loop "bgm\n04.mp3"
-
-;mp3loop "bgm\3_12.mp3"
 
 ;●ヒロイン回想ｏｒ雨空とか
 
@@ -71,7 +64,6 @@ bg "e\b.jpg",3
 
 ;…仮想に安楽を求め…\
 ^... I sought peace in imaginations...\
-
 
 ;膨大な知識だけを増やし…^@^
 ;無意味な価値観だけを築いて、築いて、積み上げて…\
@@ -110,33 +102,21 @@ bg "e\b.jpg",3
 
 bg "e\chara_k01.jpg",5
 
-
 ;「時間を止め、心を止め、胸に大きな傷跡を作り…」\
 ^``Stopping time, stopping my heart, making a large scar on my chest...''\
 
-
-
 bg "e\chara_k01.jpg",3
-
 
 ;「それでも、２２年も生きたのに哀れだと思った…」\
 ^``And even so, even though I had lived 22 years, I thought it was pathetic...''\
 
-
-
 bg "e\b.jpg",5
-
-stop
-mp3fadeout 2500
-
 
 ;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 ;bg "tui2\c044.bmp",3
+
 bg "agilis\1\c044.png",3
-
-click
-
 
 bg "e\sora03.jpg",5
 
@@ -169,8 +149,6 @@ bg "e\byoin7_rouka.jpg",3
 ;あの薄暗い談話室へ向かったようだった。\
 ^He seemed to be heading to that place from before, the gloomy conference room.\
 
-
-
 bg "e\b.jpg",5
 
 ;また、一人となった病室。\
@@ -192,12 +170,8 @@ bg "e\b.jpg",5
 
 bg "e\w.jpg",5
 
-
 ;☆ＢＧ　車のキーＵＰ\
 ;●：車のキーＵＰ
-
-stop
-mp3fadeout 2000
 
 bg "e\carkey.jpg",5
 
@@ -206,8 +180,6 @@ bg "e\carkey.jpg",5
 
 ;「……………」\
 ^``......''\
-
-
 
 ;■心情・情景＞もうちょい\
 
@@ -232,10 +204,7 @@ bg "e\b.jpg",5
 
 ;ＳＥ＞
 ;カチャ、\
-;-;Nuke
-if %unvoiced_mode == 1 goto *generated_272
 ^* Clack. *\
-*generated_272
 
 ;俺は黙って、キーを掴んだ。\
 ^Silently, I grasped the keys.\
@@ -257,9 +226,6 @@ if %unvoiced_mode == 1 goto *generated_272
 ^And headed down the hall.\
 
 ;☆ＢＧ変え
-
-mp3loop "bgm\o02.mp3"
-
 bg "e\w.jpg",5
 
 ;…ナースステーションの横をすり抜け…\
@@ -293,26 +259,17 @@ bg "e\b.jpg",3
 ;「なあお前…それ面白いか？」\
 ^``Hey, you... is that interesting?''\
 
-
-
-
 ;「…そう見える？」\
 ^``... Does it look like it?''\
 
-
-
 ;「いや、全然…」\
 ^``Nope, not at all...''\
-
-
 
 ;相変わらずのやり取り。\
 ^The usual exchange.\
 
 ;いつもの遠くを見るような目をしていた。\
 ^Her eyes were, as usual, seemingly looking far away.\
-
-!s85
 
 ;「それじゃあ…^@^いっしょに行くか？」\
 ^``Well then...^@^ shall we go together?''\
