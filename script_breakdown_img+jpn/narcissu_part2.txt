@@ -1577,7 +1577,7 @@ bg "e\umibe_yoru.jpg",5
 ;７階か家かのどちらかを選ぶことになるだろう。
 ;避けた奴はいないらしい。\
 ^Probably, it would come to picking between the 7th floor and home. It seems no one has escaped that.\
-;;bookmark
+
 ;かつて彼女から伝え聞いた言葉だった。\
 ^Those were words the girl had once passed to me.\
 
@@ -1593,20 +1593,12 @@ bg "e\umibe_yoru.jpg",5
 ;「さあな、俺は溺れたことねえから」\
 ^``Who knows, I've never drowned before.''\
 
-
-
-
 ;「じゃあもしも…
 ;　今、わたしが海に入っていったなら…」\
 ^``Then, if... right now, I were to go into the sea...''\
 
-
-
-
 ;「あなた…止める？」\
 ^``Would you... stop me?''\
-
-
 
 ;言いながら、振り返ると俺の顔を見た。
 ;真っ暗な空に浮かぶ月を背にしていた。\
@@ -1619,18 +1611,10 @@ bg "e\umibe_yoru.jpg",5
 ;「分からん…その時になってみないと」\
 ^``I don't know... not until that time.''\
 
-
-
-
 ;;「…………」\
-
-;
-
 
 ;「そうよね…」\
 ^``Indeed...''\
-
-
 
 ;そして、俺に背を向けると
 ;また海へと向かって、ゆっくりと一歩を踏み出す。\
@@ -1641,25 +1625,14 @@ bg "e\umibe_yoru.jpg",5
 ;「なあ、お前さ…」\
 ^``Hey, you...''\
 
-
-
-
 ;「…なに？」\
 ^``... What?''\
-
-
 
 ;「…もしかして、止めて欲しいのか？」\
 ^``... Is it that, you want me to stop you?''\
 
-
-
-
 ;「……………」\
 ^``......''\
-
-
-
 
 ;俺の言葉に、寄せる波の数歩手前で止まった彼女。
 ;強い風が波のしぶきを霧状にして足を叩いていた。\
@@ -1668,19 +1641,14 @@ bg "e\umibe_yoru.jpg",5
 ;「止めて欲しいんだったら、止めるぞ」\
 ^``If you want me to stop you, I'll stop you.''\
 
-
-
-
 ;「別に…そんなんじゃないわよ」\
 ^``Not particularly... it's not that.''\
 
 ;「じゃあ、止めなくていいんだな？」\
 ^``Then, I don't have to stop you, right?''\
 
-
 ;「………………」\
 ^``......''\
-
 
 ;その問いにも、返事はなかった。\
 ^For that question also, there was no reply.\
@@ -1691,23 +1659,14 @@ bg "e\umibe_yoru.jpg",5
 ;…だから、それが返事なんだと思う。\
 ^... That was why, I thought that was her reply.\
 
-dwavestop 5
-
-;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-
 ;・タイトル戻し候補：３日目とか\
 
 ;＿＿＿＿;＿＿＿＿
 
-
 bg "e\b.jpg",5
-stop
-mp3fadeout 2500
 
 ;☆ＢＧ　空：昼
 ;●：＞ある
-
 
 bg "e\sora01.jpg",5
 
@@ -1716,12 +1675,9 @@ bg "e\sora01.jpg",5
 ;冬特有の高い高い空。\
 ^A high, high sky that could only be found in winter.\
 
-mp3loop "bgm\o01.mp3"
-
 ;哀しいくらいに蒼く澄んで、
 ;強い北風が高架線をびゅんびゅんと鳴らしていた。\
 ^Stained heart-wrenchingly blue, with a strong wind that whistled across the elevated rail line.\
-
 
 ;☆ＢＧ　走行中\
 ;●：車外・移動中０２（車道・昼・晴）
@@ -1763,11 +1719,8 @@ bg "e\shanai_michi01.jpg",5
 ;「ちょっと給油する…」\
 ^``I'll go get some gas...''\
 
-
 ;「…そう」\
 ^``... I see.''\
-
-
 
 ;言いながら俺は、ハンドルを切ると、
 ;目の前のガソリンスタンドへと向かった。\
@@ -1776,7 +1729,6 @@ bg "e\shanai_michi01.jpg",5
 bg "e\b.jpg",3
 
 ;ＳＥ＞車停めるとか\
-
 
 ;☆ガソスタ
 ;●：ガソリンスタンド店内
@@ -1811,8 +1763,6 @@ bg "e\gs.jpg",2
 ;「あ、えーと…」\
 ^``Ah, um...''\
 
-
-
 ;言いよどむ俺と、
 ;窓の向こうから俺の回答を待つバイトらしき店員。\
 ^I hesitated to speak while the part-time clerk waited for my answer from the other side of the window.\
@@ -1824,16 +1774,11 @@ bg "e\gs.jpg",2
 ;助手席の彼女が口を開いた。\
 ^The girl in the passenger seat spoke.\
 
-
 ;「…レギュラーよ」\
 ^``... Regular.''\
 
-
-
 ;「え？　あ、ああ…それじゃあレギュラーで」\
 ^``Eh? A-ah... yes, Regular.''\
-
-
 
 ;「はい、それでは、
 ;　レギュラー、現金、満タンでよろしいですか？」\
@@ -1842,16 +1787,12 @@ bg "e\gs.jpg",2
 ;「あ、ええ、それでお願いします」\
 ^``Ah, yes, please.''\
 
-
-
 ;「はい、かしこまりました」\
 ^``Yes, certainly.''\
 
 ;●とも　ここから車内に
 ;＞■仕込みました
 bg "e\car_byoin_chusyajo.jpg",3
-
-
 
 ;明るい返事と共に、
 ;手際よくガソリンを入れ始めるスタンドの店員。\
@@ -1864,13 +1805,8 @@ bg "e\car_byoin_chusyajo.jpg",3
 ;「なあお前さ、これってレギュラーで良かったのか？」\
 ^``Say, regular is fine for this?''\
 
-
-
-
 ;「……………」\
 ^``......''\
-
-
 
 ;その問いには無言の彼女。
 ;只、黙ってスタンドにある料金表を指差した。\
