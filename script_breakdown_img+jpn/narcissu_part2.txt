@@ -274,13 +274,8 @@ bg "e\b.jpg",3
 ;「それじゃあ…^@^いっしょに行くか？」\
 ^``Well then...^@^ shall we go together?''\
 
-
-
-
 ;「えっ…」\
 ^``Eh...''\
-
-
 
 ;手に持った車のキーを見せながら、言葉を続けた。\
 ^While showing her the car key in my hand, I continued speaking.\
@@ -288,36 +283,19 @@ bg "e\b.jpg",3
 ;「俺も…家は嫌だ」\
 ^``I also... don't like home.''\
 
-
-
-
 ;「……………」\
 ^``......''\
-
-
-
 
 ;「わたしは…７階も嫌…」\
 ^``I... also don't like the 7th floor...''\
 
-
-
 ;「それじゃあ…^@^いっしょに行くか？」\
 ^``So...^@^ shall we go together?''\
-
-
-
-!s100
-
 
 ;「…うん」\
 ^``... Un.''\
 
-
-
 bg "e\w.jpg",5
-
-!sd
 
 ;その言葉と共に、パイプ椅子から立ち上がる彼女。^@^
 ^With that word, the girl stood up from the folding chair.^@^
@@ -352,13 +330,8 @@ bg "e\b.jpg",5
 ;●：冬空
 bg "e\sora03.jpg",3
 
-;ＳＥ＞
-
 ;ビュウーー、\
-;-;Nuke
-if %unvoiced_mode == 1 goto *generated_273
 ^* Whoooosh *.\
-*generated_273
 
 ;屋外に出た途端に、冷たい木枯らしが顔を叩く。^@^
 ;障害物の少ない駐車場は、尚更、風が強いように感じた。\
@@ -384,39 +357,21 @@ bg "e\byoin_chusyajo.jpg",5
 ;早速俺は、キーをさし込むとドアを開ける。\
 ^Quickly, I inserted the key and opened the door.\
 
-;ＳＥ
 ;カチャ、\
-if %unvoiced_mode == 0 goto *generated_274
 ^All the door locks popped open.\
-
-goto *generated_275
-*generated_274
 ^* Click. *\
-*generated_275
 
 ;「ほら、乗っていいぞ」\
 ^``Hey, you can get in.''\
 
-
-
-
 ;「うん、わかった…」\
 ^``Un, alright...''\
 
-
-
 bg "e\b.jpg",3
 
-;ＳＥ
-
 ;バタン、\
-if %unvoiced_mode == 0 goto *generated_276
 ^I slammed the door shut.\
-
-goto *generated_277
-*generated_276
 ^* Slam. *\
-*generated_277
 
 ;深々とドライバーズシートに身を沈める俺。\
 ^I sank myself into the deep driver's seat.\
@@ -435,13 +390,9 @@ bg "e\car_byoin_chusyajo.jpg",3
 ;全て、教習所で習った通りだった。\
 ^It was all exactly like what the training center had taught.\
 
-
 ;キュルキュル、
 ;ウォンブオン……\
-;-;Nuke
-if %unvoiced_mode == 1 goto *generated_278
 ^* Vroom, vroom. *\
-*generated_278
 
 ;たちまち、車内に響く軽いエンジン音。\
 ^In moments, the sound of the engine reverberated in the interior.\
