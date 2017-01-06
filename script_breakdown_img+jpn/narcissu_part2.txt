@@ -1404,40 +1404,23 @@ bg "e\shanai_michi01.jpg",3
 ;「入間よ…埼玉県の」\
 ^``Iruma... of Saitama-ken.''\
 
-
-
 ;「えっ…」\
 ^``Eh?''\
-
-
-
 
 ;「次の交差点を右に行けば１６号線…八王子へ出るわ」\
 ^``At the next intersection, if you go right, Route 16... you'll go out to Hachioji.''\
 
-
-
 ;「…お前、分かるのか？」\
 ^``... You... know?''\
-
-
-
 
 ;「……………」\
 ^``......''\
 
-
-
 ;「もしかして、ここらに住んでたのか？」\
 ^``Did you, live here before?''\
 
-
-
-
 ;「別に…そんなんじゃないわよ」\
 ^``Not particularly... it's not that.''\
-
-
 
 ;意外だった。\
 ^That was a surprise.\
@@ -1453,52 +1436,30 @@ bg "e\shanai_michi01.jpg",3
 ;「じゃあさ、もしかして…」\
 ^``Then, maybe...''\
 
-
-
 ;「ここから例の場所…淡路島まで分かるか？」\
 ^``From here to that place... Awaji-shima, you know the way?''\
 
-
-
-
 ;「…質問の意味がわからない」\
 ^``... I don't understand what your question means.''\
-
-
 
 ;「いや、だからさ、高速乗らずに
 ;　下道だけなら行けるかも知れないじゃん」\
 ^``Um, well you see, without getting on the expressway, we might be able to get there using only the smaller roads, right?''\
 
-
-
 ;「ほら、ガソ代くらいなら、金も足るかも知れないし」\
 ^``Look, the gasoline costs, our money might be enough after all.''\
-
-
-
 
 ;「……………」\
 ^``......''\
 
-
-
-
 ;「あなた…^@^行きたいの？」\
 ^``Do you...^@^ want to go?''\
-
-
 
 ;「え、あ、いや…別にそういう訳じゃないけど…」\
 ^``Eh? Ah, no... it's not like I meant that, but...''\
 
-
-
-
 ;「…じゃあ、聞かないで」\
 ^``... Then, don't ask.''\
-
-
 
 ;その言葉を最後に、また黙ってしまった彼女。\
 ^With those final words, the girl once again fell silent.\
@@ -1543,49 +1504,25 @@ bg "e\sora01.jpg",3
 
 ;＞んで、またゆっくりと車を走らせたとか\
 
-
 bg "e\b.jpg",5
-stop
-mp3fadeout 2500
 
 ;＿＿＿＿;＿
 
-
 ;bg "tui2\c046.bmp",3
 bg "agilis\1\c046.png",3
-
-click
 
 bg "e\umibe_yoru.jpg",5
 
 
 ;ざざ…\
-if %unvoiced_mode == 0 goto *generated_293
 ^The roaring and crashing of waves.\
-
-goto *generated_294
-*generated_293
 ^* Splash, crash. *\
-*generated_294
-;＞波＞ＳＥ\
-
-
-mp3loop "bgm\3_12.mp3"
-
-;mp3loop "bgm\3_1.mp3"
-
-;mp3loop "tui\sen032.mp3"
 
 ;「さむいな…」\
 ^``It's cold, isn't it...''\
 
-
-
-
 ;「…そうね」\
 ^``... Indeed.''\
-
-
 
 ;名も知らぬ、どこかの浜辺。
 ;気づけば、海へと出ていた俺達。\
@@ -1596,16 +1533,9 @@ mp3loop "bgm\3_12.mp3"
 ^I had intended to head west, but it seemed at some point I wound up heading south.\
 
 ;＞ＳＥ
-
-
 ;ビュウウーーーっ\
-if %unvoiced_mode == 0 goto *generated_295
 ^The wind whistled.\
-
-goto *generated_296
-*generated_295
 ^* Pheewwww. *\
-*generated_296
 
 ;真っ暗な空と、強くて冷たい風が吹く浜辺。
 ;お互いに車から出て、暗い海を見つめていた。\
@@ -1621,28 +1551,17 @@ goto *generated_296
 ;ゆっくりと、波打ち際に向かって歩き始めた。\
 ^Slowly, she began walking to the water's edge.\
 
-
 ;「ねえ…どうなると思う？」\
 ^``Say... what do you think would happen?''\
-
-
 
 ;「…お前だって質問の意味が分かんねえよ」\
 ^``... I don't understand the meaning of ~i~your~i~ question.''\
 
-
-
-
 ;「…………………」\
 ^``......''\
 
-
-
-
 ;「…楽に死ねると思う？…このまま海に入っていくと」\
 ^``... Do you think I would die comfortably?... If I went out into the sea like this.''\
-
-
 
 ;＞波＞ＳＥ\
 
