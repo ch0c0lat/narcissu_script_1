@@ -994,13 +994,8 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 ;「まあ、なんとか着れて良かったな」\
 ^``Well, it's good that you managed to put something on.''\
 
-
-
-
 ;「……………」\
 ^``......''\
-
-
 
 ;返事はなかった。予想できたことだが、
 ;サイズ的に無理があって、かなりぶかぶかのようだった。\
@@ -1010,23 +1005,15 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 ;上に着たトレーナーも同じように袖を幾重にも捲くっていた。\
 ^Since the jeans were too long, the legs were rolled up a number of times, while the top sweat shirt was in the same way folded over.\
 
-
 ;「…パジャマのままの方がよかった」\
 ^``... The pajamas were better.''\
-
-
 
 ;「まあ、そう言うなよ、
 ;　少しはこっちの方が温かいし」\
 ^``Well, don't say that. It's a bit warmer this way.''\
 
-
-
-
 ;「……………」\
 ^``......''\
-
-
 
 ;俺の言葉に、少しだけ不服そうな顔を向ける。\
 ^At my words, she gave me just the slightest dissatisfied look.\
@@ -1034,14 +1021,8 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 ;「やっぱあれか、もっと女の子っぽいのが良かったか？」\
 ^``I guess, something more feminine would have been better?''\
 
-
-
-
-
 ;「別に…」\
 ^``Not particularly...''\
-
-
 
 ;相変わらずの彼女の反応。\
 ^The girl's usual response.\
@@ -1052,9 +1033,6 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 
 bg "e\b.jpg",5
 
-stop
-mp3fadeout 2500
-
 ;＿＿＿＿;＿＿;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 ;タイトル戻し予定地
@@ -1062,21 +1040,15 @@ mp3fadeout 2500
 ;☆雨空：夜\
 ;●：空・夜・雨
 
-
 bg "e\amazora03.jpg",5
 
 ;ざーーーっ\
-;-;Nuke
-if %unvoiced_mode == 1 goto *generated_292
 ^* Zaaaaaaa. *\
-*generated_292
 
 ;いつのまにか降り出した雨。\
 ^Suddenly, it started raining.\
 
 bg "e\chusha_michi_ame_yoru.jpg",5
-
-mp3loop "bgm\n03.mp3"
 
 ;まるで止むことを忘れたように、
 ;一月の冷たい空からこぼれ落ちていた。\
@@ -1115,13 +1087,8 @@ bg "e\car_byoin_chusyajo_yoru_ame.jpg",5
 ;「こーゆーの、久しぶりだよな…」\
 ^``It's been a while since having this stuff, eh...''\
 
-
-
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;片手にコンビニおにぎりを持ったまま、彼女が呟く。\
 ^With one hand holding the convenience store ~i~nigiri~i~, the girl murmured.\
@@ -1137,13 +1104,8 @@ bg "e\car_byoin_chusyajo_yoru_ame.jpg",5
 ;「…どうかしたか？」\
 ^``... Is something wrong?''\
 
-
-
-
 ;「別に…」\
 ^``Not particularly...''\
-
-
 
 ;そう答える視線の先、
 ;真っ白に煙ったフロントガラスの向こう…\
@@ -1166,20 +1128,11 @@ bg "e\narcissu_yoru_ame.jpg",5
 ;「確か、ナルキ…ナルキスだっけ？」\
 ^``Those were, Narci... Narcis?''\
 
-
-
-
 ;「ナルキッソス…水仙のことよ」\
 ^``Narcissus... they're also called daffodils.''\
 
-
-
-!sd
-
 ;「ああ、水仙のことだったのか…」\
 ^``Ah, those were daffodils...''\
-
-
 
 ;特に草花に詳しい訳ではないけど、
 ;水仙ならば、名前くらい聞いたことがあった。\
@@ -1197,35 +1150,20 @@ bg "e\car_byoin_chusyajo_yoru_ame.jpg",5
 ;「それで、やっぱあれか…ここのも違うのか？」\
 ^``And, I guess these are... also different from those too?''\
 
-
-
-
 ;「…うん、厳密には違う」\
 ^``... Un, strictly speaking they're different.''\
-
-
 
 ;「ふーん、結構珍しいものなんだな…」\
 ^``Hrmm, they're quite rare things then aren't they...''\
 
-
-
-
 ;「別に…どこにでもあるわよ」\
 ^``Not particularly... they're everywhere.''\
-
-
 
 ;「どこにでもって、どこ？」\
 ^``Everywhere, like where?''\
 
-
-
-
 ;「……………」\
 ^``......''\
-
-
 
 ;俺としては、それほど深い意味があった訳じゃない。
 ;只、話しの流れからの自然な問いのつもりだった。\
@@ -1236,31 +1174,17 @@ bg "e\car_byoin_chusyajo_yoru_ame.jpg",5
 ^And yet, she thought for a moment...^@^
 ^Then slowly opened her mouth.\
 
-!s85
-
-
 ;「…西……」\
 ^``... West...''\
-
-
 
 ;「…西？」\
 ^``... West?''\
 
-
-
-
 ;「淡路島が…有名…」\
 ^``Awaji-shima... is famous...''\
 
-
-
-!sd
-
 ;「おいおい、淡路島ってお前…」\
 ^``Hey, wait, Awaji-shima, you mean...''\
-
-
 
 ;…ここからどれだけ離れていると思ってんだ？\
 ^... Just how far away do you think that is from here?\
@@ -1284,30 +1208,17 @@ bg "e\car_byoin_chusyajo_yoru_ame.jpg",5
 ;　そんなところまで行ける訳ねえだろ？」\
 ^``Look, don't say unreasonable things now... there's no way we could go to such a place, right?''\
 
-
-
-
 ;「…………」\
 ^``......''\
-
-
-
 
 ;「…誰が行きたいなんて言ったの？」\
 ^``... Who said anything about wanting to go?''\
 
-
-
 ;「えっ…」\
 ^``Eh?''\
 
-
-
-
 ;「問われたから答えただけ…」\\
 ^``I was asked, so I simply answered...''\
-
-
 
 ;それだけを告げると、
 ;またフロントガラス越しに例の花を見つめる彼女。\
@@ -1327,43 +1238,17 @@ bg "e\b.jpg",3
 
 bg "e\b.jpg",3
 
-stop
-mp3fadeout 2500
-
-mov %flg_cha3,1
-mov %flg_bplay,3
-
-goto *agilis_mini_title
-
 ;＿＿＿＿;＿＿＿＿;＿
 
 ;★チャプター４
 *agilis_honpen4
 
-dwavestop 5
-
-;mov $sys_midasi,"地図　ボイスＶｅｒ"
-mov $sys_midasi,"Maps [a]"
-
 ;・ヒロイン　シーン回想　１　予定地
 
 bg "e\w.jpg",5
 
-;mp3loop "bgm\3_1.mp3"
-
-
-;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
-h_usewindow "main"
-!sd
-erasetextwindow 0
-
-
 ;『…時間の止まったわたし…』\
 ^``... The me whose time has stopped...''\
-
-
-
-mp3loop "bgm\n04.mp3"
 
 ;知識だけを増やし、無意味な価値観だけを増やし、
 ;ブラウン管からの情報だけを求めて…\
@@ -1378,11 +1263,8 @@ mp3loop "bgm\n04.mp3"
 
 bg "e\b.jpg",5
 
-
 ;『でも、地図を見るのは好きだった…』\
 ^``But, I liked looking at maps...''\
-
-
 
 ;車や列車、どこかへ運んでくれるモノも好きだった。\
 ^Cars, trains, things that would take me places, I liked them.\
@@ -1399,7 +1281,6 @@ bg "e\b.jpg",5
 ;…どこまでも続く１号線。
 ;その、ずっとずっと先まで走った。\
 ^... That ever-continuing Route 1, I ran on and on upon it.\
-
 
 bg "e\image01.jpg",5
 
@@ -1422,27 +1303,15 @@ bg "e\image01.jpg",5
 
 bg "e\chara_k01.jpg",5
 
-
 ;「無意味に、只、知識だけを増やした…」\
 ^``Without any meaning, I simply increased my knowledge...''\
 
-
-
 bg "e\chara_k01.jpg",3
-
 
 ;「…虚しく、憧れだけを募らせた…」\
 ^``... Hollowly, I accumulated only yearning.''\
 
-
-
-dwavestop 5
-
-
 bg "e\w.jpg",5
-
-mp3fadeout 2500
-stop
 
 ;＿＿＿＿;＿＿＿＿;＿
 
@@ -1454,7 +1323,6 @@ stop
 ;＿＿＿＿;＿＿＿＿;＿
 
 ;・シーン変え　翌昼あたり
-
 
 ;☆ＢＧ青空\
 ;●：＞ある
@@ -1474,9 +1342,6 @@ bg "e\sora01.jpg",5
 ;路面からは、まだ湿ったアスファルトが、
 ;シャーっという独特の音を立てていた。\
 ^From the ground, the still damp asphalt gave a unique ``shaa!'' noise.\
-
-mp3loop "bgm\sen02.mp3"
-
 
 bg "e\joku_shigaichi.jpg",5
 
@@ -1522,18 +1387,11 @@ bg "e\shanai_michi01.jpg",3
 ;「うーん、よく分からないな…」\
 ^``Mmm, I don't really know...''\
 
-
-
-
 ;「…なに？」\
 ^``... What?''\
 
-
-
 ;「ん、いや…ここってどこかなってな」\
 ^``Mm? No... just wondering where this is.''\
-
-
 
 ;俺の様子に声を掛けた彼女。
 ;軽く相槌を返した。\
@@ -1542,7 +1400,6 @@ bg "e\shanai_michi01.jpg",3
 ;まあ、恐らくこんなことを、
 ;こいつに聞いても分からないだろうが…\
 ^Well, most likely, even if I asked her, she wouldn't have known probably...\
-
 
 ;「入間よ…埼玉県の」\
 ^``Iruma... of Saitama-ken.''\
