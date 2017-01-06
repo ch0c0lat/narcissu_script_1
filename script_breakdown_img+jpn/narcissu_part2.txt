@@ -511,28 +511,20 @@ bg "e\sora03.jpg",5
 ;…そんな冬の日のこと…\
 ^... That winter day...\
 
-;;＿＿＿＿
-
 ;・タイトルへ：ＢＧＭそのままかな？\
 ;＿＿＿＿;＿＿;＿
 
 bg "e\b.jpg",3
 stop
-mp3fadeout 2000
-
 
 ;bg "tui2\c0442.bmp",3
 bg "agilis\1\c0442.png",3
-
-click
 
 ;あんなに高かった日が
 ;オレンジへと変わろうとする頃。\
 ^Around when that so very high sun was turning orange.\
 
 bg "e\sora_yu.jpg",3
-
-mp3loop "bgm\e02.mp3"
 
 ;走り続ける俺たち。
 ;只、やみくもに車を走り続けていた。\
@@ -545,13 +537,8 @@ mp3loop "bgm\e02.mp3"
 ;「…少し停めるぞ」\
 ^``... I'm stopping for a bit.''\
 
-
-
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;☆ＢＧ　車ｏｒ道
 ;●：車外・停車０１（市街地から外れた道ばた・交通量少）
@@ -591,8 +578,6 @@ bg "e\b.jpg",5
 ;「ほんと、何もねえな…」\
 ^``There really isn't much is there...''\
 
-
-
 ;高速のつり銭らしき小銭が数百円ほど。
 ;他にはマンガ本が数冊と、使い捨てカメラがあるだけ。\
 ^Just a few hundred yen worth of what appeared to be change from the expressways. The rest were just a few books of manga and a disposable camera.\
@@ -622,16 +607,11 @@ bg "yobi\car_byoin_chusyajo_yu.bmp",3
 ;といっても、こいつが金を持ってるとは思えないし…\
 ^Even saying that, I doubt that the girl had any money...\
 
-
 ;「…どうかした？」\
 ^``... Is something wrong?''\
 
-
-
 ;「いや、なんでもない…」\
 ^``No, it's nothing...''\
-
-
 
 ;…まあいい。
 ;こんなことは最初から分かっていた筈だ。\
@@ -644,8 +624,7 @@ bg "yobi\car_byoin_chusyajo_yu.bmp",3
 ;それよりも今は動きたかった。じっとしていたくなかった。\
 ^Instead of that, right now I wanted to move. I didn't want to sit still.\
 
-;;だから俺は、再び車を走らせた。\
-
+;;だから俺は、再び車を走らせた。\ **-------> No translation?**
 
 ;●とも　ＳＥ＞走る音
 
