@@ -406,13 +406,8 @@ bg "e\car_byoin_chusyajo.jpg",3
 ;「じゃあ、行くぞ…」\
 ^``Well, here we go...''\
 
-
-
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;小さく頷く彼女。
 ;俺は返事をする代わりにギアをセカンドに入れる。\
@@ -421,40 +416,26 @@ bg "e\car_byoin_chusyajo.jpg",3
 ;そして、静かに車を発進させた。\
 ^And quietly, the car set off.\
 
-;ＳＥ＞\
-
-
 bg "e\naname_machi2.jpg",5
 
 ;慣れないクラッチに、
 ;ガタガタと車体を揺らしながらも、ゆっくりと進む。\
 ^As the chassis rattled from the unfamiliar clutch, slowly it went on.\
 
-
 ;「…揺れるわね」\
 ^``... It's shaky isn't it.''\
-
-
 
 ;「ああ、初めて乗る車だからな…」\
 ^``Ah, it's the first time in this car after all...''\
 
-
-
 ;「ついでに言うと、免許取って初めての運転だ」\
 ^``And while we're on the subject, it's the first time driving since getting my license.''\
-
-
-
 
 ;;「……………」\
 
 
 ;「そう…」\
 ^``I see...''\
-
-
-
 
 bg "e\b.jpg",3
 
@@ -468,16 +449,9 @@ bg "e\b.jpg",3
 ;●：車内・移動中０３（車道）
 bg "e\shanai_inaka.jpg",5
 
-
 ;＞ＳＥ＞クラクション
 ;パァーン、パーン、\
-if %unvoiced_mode == 0 goto *generated_279
-^;Nuke
-
-goto *generated_280
-*generated_279
 ^* Honk Honk!. *\
-*generated_280
 
 ;クラクションを浴びせる後続の車。
 ;いきなり車線に入ってきた俺に対してのものだった。\
@@ -497,54 +471,27 @@ goto *generated_280
 ;どこかリアルとしての感覚が薄かった。\
 ^Even so, without paying them any particular mind, I drove. The feeling of reality was somehow thin.\
 
-!s85
-
 ;「なあ、お前…」\
 ^``Hey, you...''\
-
-
-
 
 ;「…なに？」\
 ^``... What?''\
 
-
-
-!w200
-
 ;「…怖いか？」\
 ^``... Are you afraid?''\
-
-
-
 
 ;「……………」\
 ^``......''\
 
-!w300
-
-
 ;「…怖がった方が…^@^いい？」\
 ^``... Being afraid...^@^ would be better?''\
-
-
-
-!w100
-
 
 ;「いや…別に…」\
 ^``No... not really...''\
 
-
-
-dwavestop 5
-
-
 ;☆ＢＧ空
 ;●：冬空＞ある
 bg "e\sora03.jpg",5
-
-!s75
 
 ;まだ昼前。高い日。\
 ^Still morning, the sun was high.\
@@ -561,12 +508,8 @@ bg "e\sora03.jpg",5
 ^That day under the winter sky, the car swayed with the unfamiliar clutch.^@^
 ^That day in our pajamas, the two of us aimed for the national road.\
 
-!s85
-
 ;…そんな冬の日のこと…\
 ^... That winter day...\
-
-!sd
 
 ;;＿＿＿＿
 
