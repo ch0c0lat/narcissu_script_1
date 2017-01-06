@@ -637,8 +637,6 @@ bg "e\naname_inaka_yu.jpg",5
 ;「ところでお前、腹へってねえか？」\
 ^``By the way, are you hungry?''\
 
-
-
 ;走りながら、隣のこいつに声を掛ける。
 ;考えてみれば朝から何も食べてなかった。\
 ^As I drove, I spoke to the one sitting next to me. Thinking about it, we hadn't eaten since this morning.\
@@ -646,30 +644,20 @@ bg "e\naname_inaka_yu.jpg",5
 ;;もちろん、所持金を考えると贅沢は出来ない。\
 
 ;;だけど、ファーストフードや、
-;;コンビニのおにぎり程度なら大丈夫だと思える。\
+;;コンビニのおにぎり程度なら大丈夫だと思える。\ **-------> No translation?**
 
 ;「とりあえず、コンビニでも寄るか？」\
 ^``For now, let's go to a convenience store?''\
 
-
-
-
 ;「…嫌」\
 ^``... No.''\
-
-
 
 ;「おいおい、贅沢言うなよ、
 ;　それに７階の食事と比べれば絶対にマシだぞ」\
 ^``Hey, hey. Don't be so picky. And compared to the 7th floor's food, it absolutely has to be better.''\
 
-
-
-
 ;「………………」\
 ^``......''\
-
-
 
 ;俺の言葉には、無言で返す彼女。\
 ^At my words, the girl returned silence.\
@@ -680,8 +668,6 @@ bg "e\naname_inaka_yu.jpg",5
 
 ;「ああ、そういえば、そうだったな…」\
 ^``Ah, now that you say, that's right...''\
-
-
 
 ;言いながら俺も自分の服を見つめる。\
 ^As I spoke, I looked down at my own clothes.\
@@ -712,16 +698,12 @@ bg "e\shanai_michi03_yu.jpg",5
 ;「このへんなら、ありそうなもんだけど…」\
 ^``In a place like this, you'd think there'd be one...''\
 
-
-
 ;辺りをキョロキョロと探りながら、車を進ませる俺。
 ;シートから少し身体を乗り出すようにして運転していた。\
 ^While glancing around the area searching, I moved the car on, slightly raising my body in the seat while driving.\
 
 ;「あ…見つけた…」\
 ^``Ah... found one...''\
-
-
 
 bg "e\b.jpg",3
 
@@ -742,23 +724,12 @@ bg "e\b.jpg",3
 ;「じゃあ、ちょっと待ってろよ…」\
 ^``Alright, just wait a bit...''\
 
-
-
-
 ;「…？」\
 ^``...?''\
 
-
-
-
 ;バタン、\
-if %unvoiced_mode == 0 goto *generated_281
 ^I shut the door with a slam.\
-
-goto *generated_282
-*generated_281
 ^* Slam. *.\
-*generated_282
 
 ;不思議そうな顔をする彼女を車内に残し、
 ;俺はコインランドリーへと足を向ける。\
@@ -768,7 +739,6 @@ goto *generated_282
 
 ;●：コインランドリー店内＞素材写真加工レベルで
 bg "e\coin_tennai.jpg",5
-
 
 ;自動ドアをくぐった途端、
 ;鼻をつく漂白剤や洗剤の匂い。\
@@ -781,17 +751,11 @@ bg "e\coin_tennai.jpg",5
 ;「…誰もいないな」\
 ^``... There's no one around...''\
 
-
-
 ;そんな呟きを落とした無人の店内。\
 ^I muttered those words in the empty shop.\
 
-
 ;ゴ………\
-;-;Nuke
-if %unvoiced_mode == 1 goto *generated_283
 ^* Rumble. *\
-*generated_283
 
 ;そこには低い音を上げて回転する乾燥機が、
 ;１台だけ使用中だった。\
@@ -826,15 +790,9 @@ bg "e\b.jpg",3
 
 ;ＳＥ＞止めｏｒそれっぽい音
 
-
 ;ガチャンっ、\
-if %unvoiced_mode == 0 goto *generated_284
 ^The machine rumbled to a sudden stop.\
-
-goto *generated_285
-*generated_284
 ^* Ka-chang. *\
-*generated_285
 
 ;乾燥途中にドアを開けられ、
 ;強制的に一旦停止された乾燥機。\
@@ -848,27 +806,19 @@ goto *generated_285
 ;もう一度辺りを見回してから店を後にした。\
 ^Then, carrying it just like that in both hands, I looked around once more before I put the shop behind me.\
 
-
 ;ＳＥ＞
 
 ;カチャ、バタン\
-if %unvoiced_mode == 0 goto *generated_286
 ^I opened the car door and got in.\
-
-goto *generated_287
-*generated_286
 ^* Click, Slam. *\
-*generated_287
 
 ;●車内
 bg "e\shanai_michi03_yu.jpg",5
 
 ;●とも↓ボリューム小さく
 
-
 ;「あ……」\
 ^``Ah...''\
-
 
 ;両手一杯に抱えた洗濯物を見て、
 ;少しだけ驚いた声を上げる彼女。\
@@ -880,25 +830,15 @@ bg "e\shanai_michi03_yu.jpg",5
 ;「じゃあ、行くぞ…」\
 ^``Well, we're going...''\
 
-
-
-
 ;「……………」\
 ^``......''\
-
-
 
 ;ＳＥ
 
 ;キュルキュル、
 ;ウォンブオン……\
-if %unvoiced_mode == 0 goto *generated_288
 ^I started up the engine again.\
-
-goto *generated_289
-*generated_288
 ^ Vrooom Vroom. *\
-*generated_289
 
 ;bg "e\sora_yoru01.jpg",5
 
@@ -925,13 +865,8 @@ bg "e\shanai_michi02_yoru.jpg",5
 ;「後で好きなのに着替えろよ…」\
 ^``Later, change into something you like....''\
 
-
-
-
 ;「…………」\
 ^``......''\
-
-
 
 ;その言葉にも、特に返事はなかった。
 ;放り込んだままの洗濯物に目をやるだけだった。\
@@ -940,13 +875,8 @@ bg "e\shanai_michi02_yoru.jpg",5
 ;「しょうがねえだろ…」\
 ^``Well, what else could we do?''\
 
-
-
-
 ;「…わかってるわよ」\
 ^``... I know.''\
-
-
 
 ;そりゃあ俺だって、
 ;こんなこと好きでやってる訳じゃない。\
@@ -961,7 +891,6 @@ bg "e\shanai_michi02_yoru.jpg",5
 ^However, with what we had on hand now, buying new clothes would have been a tight situation.\
 
 ;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
 
 ;●とも＞月もあるので↓
 
@@ -991,8 +920,6 @@ bg "e\car_byoin_chusyajo_yoru.jpg",5
 ;「やっぱり、男ものばかりだったな…」\
 ^``Looks like it really is all guy stuff...''\
 
-
-
 ;さっきもちらっと見た通り、
 ;派手な感じのジーパンやスウェットばかりだった。\
 ^Exactly as when I had glanced at them, it was all gaudy jeans and sweats.\
@@ -1008,36 +935,20 @@ bg "e\car_byoin_chusyajo_yoru.jpg",5
 ;「ほら、お前も適当なのに着替えろよ」\
 ^``Hey, you should change into something too.''\
 
-
-
-
 ;「…………」\
 ^``......''\
-
-
-
 
 ;「どれも、大き過ぎる…」\
 ^``They're all... too big...''\
 
-
-
 ;「じゃあ、ずっとパジャマでいるのか？」\
 ^``Then, you're going to always be in pajamas?''\
-
-
-
 
 ;「……………」\
 ^``......''\
 
-
-
-
 ;「わかった…」\
 ^``Alright...''\
-
-
 
 ;しぶしぶ答えると、
 ;適当なジーンズと服を手に持ってドアを開ける彼女。\
@@ -1048,16 +959,10 @@ bg "e\car_byoin_chusyajo_yoru.jpg",5
 ;「おい、どこ行くんだ？」\
 ^``Hey, where are you going?''\
 
-
-
-
 ;「…着替えてくる」\
 ^``... To change.''\
 
-
-
 ;ＳＥ＞ドア閉め
-
 
 ;それだけを告げると、
 ;目の前に見える公園のトイレへと歩き始めた。\
@@ -1069,13 +974,8 @@ bg "e\b.jpg",3
 ^......\
 
 ;カチャ、\
-if %unvoiced_mode == 0 goto *generated_290
 ^The door opened again with a click.\
-
-goto *generated_291
-*generated_290
 ^* Click. *\
-*generated_291
 
 ;ＳＥ＞ドア開け閉め
 
