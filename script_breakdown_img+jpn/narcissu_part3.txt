@@ -394,10 +394,7 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 ;「じゃあ、ちょっと待ってろよ」\
 ^``Well then, wait a bit.''\
 
-
-
 ;ＳＥ＞ドア開け閉め\
-
 
 bg "e\b.jpg",3
 
@@ -495,13 +492,8 @@ bg "e\pachi.jpg",3
 bg "e\w.jpg",3
 
 ;＞ＳＥ＞ぶっちゃける音
-
-
 ;ガシャーーン、\
-;-;Nuke
-if %unvoiced_mode == 1 goto *generated_297
 ^* Craaaash! *\
-*generated_297
 
 ;その瞬間、物凄い音を上げて、
 ;床に散らばるスロットのコイン。\
@@ -537,19 +529,12 @@ bg "e\b.jpg",3
 
 ;ＳＥ＞
 ;バタンっ、\
-if %unvoiced_mode == 0 goto *generated_298
 ^I slammed the car door behind me.\
-
-goto *generated_299
-*generated_298
 ^* Slam. *\
-*generated_299
 
 ;「はぁはぁ、」\
-;-;Nuke
-if %unvoiced_mode == 1 goto *generated_300
 ^* Pant, pant. *\
-*generated_300
+
 
 
 
