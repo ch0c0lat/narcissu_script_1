@@ -535,9 +535,6 @@ bg "e\b.jpg",3
 ;「はぁはぁ、」\
 ^* Pant, pant. *\
 
-
-
-
 ;☆車内
 bg "e\car_byoin_chusyajo_yoru.jpg",3
 
@@ -545,13 +542,8 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 
 ;大急ぎでエンジンをかけると、
 ;思いっきりアクセルを踏み込む。\
-if %unvoiced_mode == 0 goto *generated_301
 ^While panting heavily, I started the engine in a big rush and slammed on the gas.\
-
-goto *generated_302
-*generated_301
 ^Starting the engine in a big rush, I slammed on the gas.\
-*generated_302
 
 ;そして、ハンドルを切りつつ車を急発進させた…^@^その時、\
 ^Turning the wheel, I hurriedly pulled the car out...^@^ at that time...\
@@ -564,24 +556,14 @@ bg "e\b.jpg",3
 ;bg "e\w.jpg",3
 
 ;ガンっ、ガリガリガリ…\
-if %unvoiced_mode == 0 goto *generated_303
 ^There was a rough metallic grinding sound.\
-
-goto *generated_304
-*generated_303
 ^* Gan! Garigarigari... *\
-*generated_304
-
 
 ;「きゃっ」\
 ^``Kya!''\
 
-
-
 ;「ちっ」\
 ^``Tsk.''\
-
-
 
 ;bg "e\car_byoin_chusyajo_yoru.jpg",3
 
@@ -598,14 +580,12 @@ bg "e\naname_machi2_yoru.jpg",3
 ;目の前の道へと車を走らせた。\
 ^However, there wasn't time to worry about that. I drove out onto the road in front of us.\
 
-
 ;☆ＢＧ＞走る車
 ;●：車内正面・移動中０６（車道２）夜
 bg "e\shanai_michi02_yoru.jpg",5
 
 ;「はぁはあ…ふう…」\
 ^``Haa, haaa... phew...''\
-
 
 ;息切れしそうになる胸をなだめながら、
 ;すっかりと日が暮れた道を走る銀のクーペ。\
@@ -632,16 +612,11 @@ bg "e\b.jpg",3
 ;●：車外・停車０２（夜）
 bg "e\chusha_michi2_yoru.jpg",5
 
-
 ;「…大丈夫？」\
 ^``... Is it okay?''\
 
-
-
 ;「ああ、大したことないだろう…」\
 ^``Ah, it's probably nothing major...''\
-
-
 
 ;助手席から少しだけ心配そうに声を掛ける彼女。
 ;俺は、ぶつけた個所を点検しながら答える。\
@@ -683,22 +658,14 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 ;最初から覚悟して持てば何とかなるだろうし…\
 ^If I were prepared from the start, I could probably manage.\
 
-
 ;「…勘違いしてるわね」\
 ^``... You're being mistaken.''\
-
-
 
 ;「えっ…」\
 ^``Eh?''\
 
-
-
-
 ;「今のあなたは、以前のあなたとは違う筈…」\
 ^``The you now, should be different from the you from before...''\
-
-
 
 ;まるで、見透かされたような彼女の言葉だった。\
 ^The girl spoke words as if she were seeing clear through me.\
@@ -706,18 +673,11 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 ;「だけど、あれくらいの重さなら…」\
 ^``However, with a weight like that...''\
 
-
-
-
 ;「…同じように考えない方がいい」\
 ^``... You shouldn't think of it as being the same.''\
 
-
-
 ;「…………」\
 ^``......''\
-
-
 
 ;恐らく、彼女の言は正しいのだろう。
 ;認めたくないが、今の俺は以前の俺とは違う。\
@@ -730,13 +690,8 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 ;「じゃあ…どうすりゃいいんだよ？」\
 ^``Then... what should I do?''\
 
-
-
-
 ;「………………」\
 ^``......''\
-
-
 
 ;その問いには返事はなかった。\
 ^To that question, there came no answer.\
@@ -748,66 +703,22 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 ;…それは、諦めろということなのだろうか…\
 ^... That probably was telling me to give up...\
 
-
 bg "e\b.jpg",5
-stop
-mp3fadeout 2500
-
-mov %flg_cha4,1
-mov %flg_bplay,4
-
-;＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-;・小タイトル戻し\
-
-goto *agilis_mini_title
 
 ;＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 *agilis_honpen5
-
 ;★チャプター５：
-
-;mov $sys_midasi,"エメラルドの海　ボイスＶｅｒ"
-mov $sys_midasi,"Emerald Sea [a]"
-;＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-;・小タイトル戻し\
-;＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-stop
-mp3fadeout 2500
-dwavestop 5
-
-;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
-h_usewindow "main"
-!sd
-erasetextwindow 0
 
 bg "e\w.jpg",5
 
-stop
-mp3fadeout 1000
-
 bg "e\sora_ame03.jpg",5
-
-;☆ＢＧＭ　ｎ４くらい
-
-mp3loop "bgm\3_12.mp3"
-
 
 ;「時間を止め、心を止めて…」\
 ^``Stopping time, stopping my heart...''\
 
-
-
-;mp3loop "tui\sen032.mp3"
-
-
 ;「情報だけを積み重ねる日々…」\
 ^``Days of simply gathering knowledge...''\
-
-
 
 ;地図を眺め、目を閉じ、知らない町を旅する日々…\
 ^Days of gazing at maps, closing my eyes, travelling to unknown towns...\
@@ -850,15 +761,11 @@ bg "e\image01.jpg",5
 ;…わたしには、パジャマがあれば十分だった。\
 ^... For me, if I had pajamas, that was enough.\
 
-
 bg "e\w.jpg",3
-
 
 ;「幾つもの季節を、白い梅雨空を、
 ;　誰とも言葉を交わす必要もなく過ごした…」\
 ^``Numerous seasons, white overcast skies... passed without even the need to exchange words with anyone...''\
-
-
 
 bg "e\sora_ame03.jpg",3
 
@@ -914,50 +821,28 @@ bg "e\b.jpg",5
 
 bg "e\chara_k01.jpg",3
 
-
 ;「だけど…」\
 ^``But...''\
-
-
-
 
 ;「…胸の大きな傷跡が、諦めろと諭した」\
 ^``... The large scar on my chest, advised me to give up.''\
 
-
-
 bg "e\chara_k01.jpg",3
-
 
 ;「生涯の伴侶は、目を閉じた世界にしろと諭した…」\
 ^``My lifelong companion, told me to make do with the world in my closed eyes...''\
 
-
-dwavestop 5
-
 bg "e\b.jpg",5
-stop
-mp3fadeout 2500
 
 ;＿＿＿＿;＿＿＿＿;＿＿
-
-;mov $sys_midasi,"エメラルドの海２　ボイスＶｅｒ"
-mov $sys_midasi,"Emerald Sea 2 [a]"
-
 
 ;bg "tui2\c047.bmp",3
 bg "agilis\1\c046.png",3 ; c046 and c047 were identical...
 
-click
-
 ;・シーンぷち　変え　どこか
 
 ;☆ＢＧ　夕焼けあたり
-
 bg "e\sora_yu.jpg",3
-
-;mp3loop "tui2\e01.mp3"
-
 
 ;日がゆっくりと傾き、西の空がオレンジに染まる頃。^@^
 ^When the sun slowly slanted, staining the western sky orange.^@^
@@ -971,26 +856,18 @@ bg "e\sora_yu.jpg",3
 ;所持金にしてもほとんど余裕はなかった。\
 ^Our money was for the most part tight.\
 
-mp3loop "bgm\n03.mp3"
-
 ;●とも　ＢＧ＞車内＞■仕込みました
 bg "e\shanai_michi01_yu.jpg",3
 
-
 ;「ねえ、あなた…」\
 ^``Say... you...''\
-
-
 
 ;そんなことを思っていると、
 ;珍しく彼女の方から声を掛けてきた。\
 ^When I was thinking about that, surprisingly, the girl spoke to me.\
 
-
 ;「あなた、お風呂は入れるの…？」\
 ^``You, can go take baths?''\
-
-
 
 ;「ああ、今のところ、長湯以外は止められてない」\
 ^``Ah, right now, outside of long baths, I haven't been told to stop.''\
