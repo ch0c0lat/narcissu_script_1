@@ -1,5 +1,4 @@
-﻿
-;相変わらず、俺の方は見ようともせず、
+﻿;相変わらず、俺の方は見ようともせず、
 ;彼女は窓の外を見つめたままだった。\
 ^As always, without even looking my way, the girl sat looking out the window.\
 
@@ -1509,10 +1508,10 @@ bg "e\b.jpg",5
 ;＿＿＿＿;＿
 
 ;bg "tui2\c046.bmp",3
+
 bg "agilis\1\c046.png",3
 
 bg "e\umibe_yoru.jpg",5
-
 
 ;ざざ…\
 ^The roaring and crashing of waves.\
