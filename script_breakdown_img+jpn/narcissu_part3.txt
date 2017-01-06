@@ -1,4 +1,4 @@
-;さっきは何気なく、満タンと言ってしまったが、
+﻿;さっきは何気なく、満タンと言ってしまったが、
 ;手持ちの金額はそれほど多くなかった。\
 ^Just before, I had wound up saying full tank on a whim, but the amount of money we had on hand wasn't all that much.\
 
@@ -30,30 +30,20 @@
 ;「…くそう、まだかよ」\
 ^``... Damn it, it's still going?''\
 
-
-
 ;思わず言葉が漏れてしまう。\
 ^Before I knew it, the words tumbled out.\
 
 ;●とも　ここから車内に
 bg "e\car_byoin_chusyajo.jpg",3
 
-
 ;「…大丈夫よ、もう止まるわ」\
 ^``... It's okay, it'll stop now.''\
-
-
 
 ;「えっ？」\
 ^``Eh?''\
 
-
-
-
 ;「これ、５０リッターだから…」\
 ^``This, is a 50 liter...''\
-
-
 
 ;その言葉通り、ちょうどメーターは、
 ;４７と４８の間くらいでピタっと止まった。\
@@ -66,12 +56,8 @@ bg "e\car_byoin_chusyajo.jpg",3
 ;「お待たせしました、５２４０円となります」\
 ^``Sorry for the wait, it comes to ¥5240.''\
 
-
-
 ;「あ、ああ…はい」\
 ^``A-ah... here.''\
-
-
 
 ;俺はポケットから５千円札と、
 ;くしゃくしゃになった千円札を手渡す。\
@@ -80,14 +66,10 @@ bg "e\car_byoin_chusyajo.jpg",3
 ;「ではこちら、お釣り７６０円とレシートとなります」\
 ^``Here is your change of ¥760 and your receipt.''\
 
-
-
 bg "e\b.jpg",5
 
 ;「どうもありがとうござましたー」\
 ^``Thank you very much!''\
-
-
 
 ;店員の明るい声を背に、
 ;また俺は目の前の道へと車を走らせた。\
@@ -121,29 +103,17 @@ bg "e\naname_michi.jpg",5
 ;「なあ、お前ってさあ…」\
 ^``Hey, are you....''\
 
-
-
 ;「もしかして、車にも詳しいのか？」\
 ^``Could it be that you know a lot about cars?''\
-
-
-
 
 ;「…別に」\
 ^``... Not particularly.''\
 
-
-
 ;「別にって、さっき５０リッターとか言ってたじゃん？」\
 ^``Not particularly, didn't you just say this was a 50 liter before?''\
 
-
-
-
 ;「……………」\
 ^``......''\
-
-
 
 ;もちろん、これくらいのことは当てずっぽうで分かる、
 ;一般的な認識程度のことかも知れない。\
@@ -156,44 +126,28 @@ bg "e\naname_michi.jpg",5
 ;ダッシュボードにあった車検証を取り出す。\
 ^Also nagged by that fact, I took out the car registration on the dashboard.\
 
-;;そして、それを見ながら彼女にたずねてみた。\
+;;そして、それを見ながら彼女にたずねてみた。\ **-----> No translation! **
 
 ;「お前さあ、もちろんこの車の、車名って知ってるよな？」\
 ^``You, would of course know this car's name, right?''\
 
-
-
-
 ;「…それは質問？」\
 ^``... Is that a question?''\
-
-
 
 ;「いや、なんだったらクイズでもいいぞ」\
 ^``Well you can think of it as a quiz.''\
 
-
 ;「……………」\
 ^``......''\
-
-
-
 
 ;「インテグラ、タイプＲ、クーペ…」\
 ^``Integra, Type R. Coupe...''\
 
-
-
 ;「正解だ…じゃあスペックは？」\
 ^``That's correct... and the specs?''\
 
-
-
-
 ;「９９年式、５速ミッション、最高出力２００馬力…」\
 ^``99 model, 5-speed transmission, maximum output, 200 horsepower...''\
-
-
 
 ;まさか本当に答えてくるとは思ってなかった。\
 ^I hadn't thought that she would really answer.\
@@ -202,22 +156,14 @@ bg "e\naname_michi.jpg",5
 ;思わず俺は、手元の車検証の文字を目で追う。\
 ^My eyes couldn't help but follow the words on the registration in my hand as the girl flatly continued speaking.\
 
-
 ;「…全長４３８０、全幅１６９５、総排気量１７９７ｃｃ…」\
 ^``... Total length, 4380mm, total width, 1695mm, general displacement, 1797cc...''\
-
-
-
 
 ;「…まだ言うの？」\
 ^``... Do you want me to go on?''\
 
-
-
 ;「いや、もういい、正解だ…」\
 ^``No, that's enough. Correct...''\
-
-
 
 ;答えながら車検証を元の場所へと戻す。\
 ^As I replied, I returned the registration to it's place.\
@@ -240,19 +186,11 @@ bg "e\naname_michi.jpg",5
 ;「なあ…なんでお前ってそんな物知りなんだ？」\
 ^``Hey... why do you know so much?''\
 
-
-
-
 ;「……………」\
 ^``......''\
 
-
-
-
 ;「別に…あなたより年上だからよ」\
 ^``No particular reason... it's because I'm older than you.''\
-
-
 
 ;それだけを答えると、
 ;またいつものように黙ってしまう彼女。\
@@ -278,23 +216,15 @@ bg "e\naname_michi.jpg",5
 ^And that she seemed to be older, that was the little information I knew of her.\
 
 bg "e\b.jpg",3
-stop
-mp3fadeout 2500
-
-;＿＿＿＿;＿＿＿＿
 
 ;・回想　必要ならば＞地図とか情報とかあたり\
 
-;＿＿＿＿;＿＿＿＿
-
 ;ＢＧ　夕焼け
-;●：＞ある
+
 bg "e\sora_yu.jpg",3
 
 ;日がゆっくりと翳り出す頃。\
 ^When the sun was slowly setting.\
-
-mp3loop "bgm\e02.mp3"
 
 ;●とも＞車外：夕方移動
 ;＞■仕込みました
@@ -317,7 +247,6 @@ bg "e\hiki_shigai_yu.jpg",3
 ;もって３～４日分ほどか…\
 ^Thinking in term of buying meals at convenience stores, it would last about three or four days...\
 
-
 ;ＢＧ　車走る＞夕方
 ;●：車内正面・移動中０５（車道２）夕方
 bg "e\shanai_michi01_yu.jpg",3
@@ -325,29 +254,17 @@ bg "e\shanai_michi01_yu.jpg",3
 ;「なあ、これからどうする？」\
 ^``Hey, what should we do from now on?''\
 
-
-
-
 ;「…質問の意味がわからない」\
 ^``... I don't understand the meaning of your question.''\
-
-
 
 ;「もう、ほとんど金ないぞって意味だ」\
 ^``I mean, we don't have much money left.''\
 
-
-
-
 ;「…だから？」\
 ^``... And so?''\
 
-
-
 ;「だからってお前…」\
 ^``|`And so?' you...''\
-
-
 
 ;相変わらずの様子の彼女。\
 ^The girl was as she always had been.\
@@ -385,18 +302,11 @@ bg "e\shanai_michi01_yu.jpg",3
 ;「なあ、お前さ…」\
 ^``Hey, you...''\
 
-
-
 ;「例の…淡路島だっけ、行ってみたいか？」\
 ^``That place... Awaji-shima was it, you want to go there?''\
 
-
-
-
 ;「…………」\
 ^``......''\
-
-
 
 ;返事はなかった。
 ;いつもと変わらず窓の外を眺めているだけだった。\
@@ -411,8 +321,6 @@ bg "e\shanai_michi01_yu.jpg",3
 
 ;「いや、それは…」\
 ^``Well, that's...''\
-
-
 
 bg "e\b.jpg",3
 
@@ -467,18 +375,11 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 ;「どうだ…やってみたいか？」\
 ^``How about it... want to try?''\
 
-
-
-
 ;「…嫌」\
 ^``... No.''\
 
-
-
 ;「そうか…わかった」\
 ^``I see... alright.''\
-
-
 
 ;予想できたことだが、あっさり拒否された。\
 ^It was what was expected, but I was plainly refused.\
