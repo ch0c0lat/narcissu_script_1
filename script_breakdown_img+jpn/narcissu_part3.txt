@@ -872,13 +872,8 @@ bg "e\shanai_michi01_yu.jpg",3
 ;「ああ、今のところ、長湯以外は止められてない」\
 ^``Ah, right now, outside of long baths, I haven't been told to stop.''\
 
-
-
-
 ;「そう…わたしも似たようなもんよ」\
 ^``I see... something similar to me then.''\
-
-
 
 ;ここで言うところの、風呂に入れるってのは、
 ;医者に止められているかって意味だった。\
@@ -895,24 +890,14 @@ bg "e\shanai_michi01_yu.jpg",3
 ;「なんだ、もしかして風呂に入りたいのか？」\
 ^``What, did you want to go take a bath?''\
 
-
-
-
 ;「…………」\
 ^``......''\
-
-
-
 
 ;「…悪い？」\
 ^``... Problem?''\
 
-
-
 ;「いや、俺も入りたかったし」\
 ^``No, I also want to take one.''\
-
-
 
 ;といっても、どこかの宿やホテルに泊まるには、
 ;金銭的に無理だった。\
@@ -921,37 +906,22 @@ bg "e\shanai_michi01_yu.jpg",3
 ;「じゃあさ、どっか銭湯でも探すか？」\
 ^``Well then, shall we look for a bathhouse someplace?''\
 
-
-
-
 ;「…銭湯？」\
 ^``... Bathhouse?''\
-
-
 
 ;「ああ、それくらいなら、まだ金もあるし…」\
 ^``Ah, something like that, we still haven the money for...''\
 
-
-
-
 ;「…………」\
 ^``......''\
 
-
-
 ;□心情・情景
-
 
 ;「…やっぱりいい」\
 ^``... On second thought, I'm fine.''\
 
-
-
 ;「なんだ、いいのかよ？」\
 ^``What, you're fine?''\
-
-
 
 ;あの日、７階を飛び出してから、
 ;既に３日が経とうとしていた。\
@@ -969,18 +939,11 @@ bg "e\shanai_michi01_yu.jpg",3
 ;　銭湯とかって恥ずかしいから嫌なのか？」\
 ^``Is it that you're... embarrassed about the bathhouse and so you don't want to go?''\
 
-
-
-
 ;「…………」\
 ^``......''\
 
-
-
-
 ;「別に…そんな意味じゃないわよ」\
 ^``Not particularly... I didn't mean that.''\
-
 
 ;＿＿＿＿;＿＿＿＿;＿
 
@@ -1021,25 +984,13 @@ bg "e\shanai_michi01_yoru.jpg",3
 ;「じゃあ、ちょっと待ってろよ」\
 ^``Well, wait a bit.''\
 
-
-
-
 ;「…？」\
-if %unvoiced_mode == 0 goto *generated_305
 ^The girl looked at me questioningly.\
-
-goto *generated_306
-*generated_305
 ^``...?''\
-*generated_306
-
-
 
 ;ＳＥ＞ドア開け閉め
 
 bg "e\b.jpg",3
-
-dwavestop 5
 
 ;そのしょぼいタオルを２枚だけ持って、
 ;目の前の学校へと向かった。\
@@ -1052,21 +1003,13 @@ dwavestop 5
 ;「あ、あった」\
 ^``Ah, there it is.''\
 
-
-
 ;しばらくして、目指していた水道を見つけた。
 ;恐らくは花壇用に設けられたものだろう。\
 ^After a while, I found the faucet that I was looking for. It was probably there for the gardens.\
 
-
 ;キュッキュ、シャーーーっ\
-if %unvoiced_mode == 0 goto *generated_307
 ^The faucet squeaked loudly.\
-
-goto *generated_308
-*generated_307
 ^* Squeak, squeak, splusssh. *\
-*generated_308
 
 ;蛇口をひねると、勢いよく流れ出る水。
 ;まるで身を切るような冷たさだった。\
@@ -1077,23 +1020,14 @@ goto *generated_308
 
 ;ＳＥ＞
 ;バタン\
-if %unvoiced_mode == 0 goto *generated_309
 ^I returned to the car, slamming the door closed.\
-
-goto *generated_310
-*generated_309
 ^* Slam. *\
-*generated_310
 
 ;●とも　車内：夜＞■仕込みました
 bg "e\car_byoin_chusyajo_yoru.jpg",3
 
-dwavestop 5
-
 ;「待たせたな、ほら」\
 ^``Sorry for the wait. Here.''\
-
-
 
 ;手に持った濡れタオル。
 ;２つある内の一つを彼女にも渡す。\
@@ -1110,29 +1044,16 @@ dwavestop 5
 ;「お前も遠慮せずに、身体拭けよ」\
 ^``You don't have to hold back, wipe your body.''\
 
-
-
-
 ;「…………」\
 ^``......''\
-
-
 
 ;「冷たくて気持ちいいぞ？」\
 ^``It's cold and feels good, you know?''\
 
-
-
-
 ;「わかった…」\
 ^``Alright...''\
 
-
-
-
 ;;「…うん」\
-
-
 
 ;最初は遠慮気味にじっとしていた彼女だけど、
 ;その返事と共にゆっくりと服のボタンに手をかける。\
@@ -1145,27 +1066,17 @@ dwavestop 5
 ;身体を拭こうとしていた。\
 ^Unlike me, she placed her hand within her clothes and wiped her body that way.\
 
-
 ;「ねえ…」\
 ^``Hey...''\
-
-
 
 ;「どうかしたか？」\
 ^``Something the matter?''\
 
-
-
-
 ;「…見ないでよ」\
 ^``... Don't look.''\
 
-
-
 ;「ああ、悪い…そうだったな」\
 ^``Ah, sorry... that's right.''\
-
-
 
 ;手に濡れタオルを持って、
 ;服を脱ぎかけたまま彼女が呟く。\
@@ -1177,20 +1088,14 @@ dwavestop 5
 
 bg "e\b.jpg",3
 
-
 ;狭い車内、お互いに背中を向け合う俺達。\
 ^In the cramped car, the two of us faced our backs to each other.\
 
 ;「どうだ、気持ちいいだろ」\
 ^``How about it? Feels good, doesn't it?''\
 
-
-
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;真っ暗なあたりに、薄明るい車内。\
 ^It was just turning totally dark, and the interior was dimly lit.\
@@ -1216,33 +1121,22 @@ bg "e\b.jpg",3
 
 bg "e\sora_yoru01.jpg",5
 
-
 ;「ねえ、あなた…」\
 ^``Say, you...''\
-
-
 
 ;;突然、背中越しに声を掛けてきた。\
 
 ;「えっ、あ、ああ…なんだ？」\
 ^``Eh, a-ah... what is it?''\
 
-
-
-
 ;「そんなに…珍しい？」\
 ^``Is it that... unusual?''\
-
-
 
 ;背中越し。
 ;ガラスに映った俺に向かっての言葉だった。\
 ^From beyond my back, words towards my figure reflected in the glass.\
 
 bg "e\b.jpg",5
-
-stop
-mp3fadeout 2500
 
 ;＿＿＿＿;＿＿＿＿;＿＿＿＿
 
@@ -1252,22 +1146,14 @@ mp3fadeout 2500
 
 ;＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-;mov $sys_midasi,"エメラルドの海３　ボイスＶｅｒ"
-mov $sys_midasi,"Emerald Sea 3 [a]"
-
-
 ;bg "tui2\c049.bmp",3
 bg "agilis\1\c049.png",3
-
-click
 
 ;☆ＢＧ　空　くもり昼あたり\
 
 bg "e\sora02.jpg",3
 
 ;■心情・情景＞空の様子
-
-mp3loop "bgm\e02.mp3"
 
 ;曇り空の下、走る銀のクーペ。\
 ^Under the cloudy sky, the silver coupe ran on.\
@@ -1299,13 +1185,8 @@ bg "e\shanai_michi01.jpg",3
 ;「ちょっと飽きたか？」\
 ^``Have you gotten a bit tired of it?''\
 
-
-
-
 ;「別に…」\
 ^``Not particularly...''\
-
-
 
 ;お互い、コンビニのおにぎりを食べながら言葉を交わす。\
 ^The two of us, while eating convenience store ~i~nigiri,~i~ exchanged words.\
@@ -1320,27 +1201,17 @@ bg "e\shanai_michi01.jpg",3
 
 ;●とも＞排気音
 
-
 ;「…音がうるさい」\
 ^``... That sound is noisy.''\
-
-
 
 ;「は？　どうした突然？」\
 ^``Ha? What's this all of a sudden?''\
 
-
-
-
 ;「車の音、前より大きくなってる…」\
 ^``The sound of the car, it's gotten louder than before...''\
 
-
-
 ;「ああ、そういえば確かに…」\
 ^``Ah, now that you say, it really has...''\
-
-
 
 ;きっと、数日前のパチンコ屋から逃げる時に、
 ;マフラーをぶつけたのが原因なんだろう。\
@@ -1386,25 +1257,14 @@ bg "e\gs.jpg",3
 ;「給油に寄る…」\
 ^``I'll get some gas...''\
 
-
-dwavestop 5
-
-
 ;「そう…」\
 ^``I see...''\
-
-
 
 ;「だけど、車からは降りるなよ」\
 ^``But, don't get out of the car.''\
 
-
-
-
 ;「…………」\
 ^``......''\
-
-
 
 ;返事はなかった。だけどあいつも、
 ;どういう意味かは理解しているのだろう。\
@@ -1417,8 +1277,6 @@ bg "e\b.jpg",3
 ;車の給油口を開け、
 ;見よう見まねでガソリンを入れる俺。\
 ^Opening the car's gas cap, I put in the gasoline by imitating others.\
-
-dwavestop 5
 
 ;辺りには他の客が一台と、
 ;奥には自販機も備えた建物。店員らしき姿も見えた。\
@@ -1457,8 +1315,6 @@ bg "e\gs.jpg",3
 ;「いらっしゃいませ」\
 ^``Welcome!''\
 
-
-
 ;さっきまで建物の中にいたバイトらしき店員。
 ;何故か、こちらに駆け寄って来た。\
 ^The clerk that seemed to be a part-timer that had been in the building up until now, for some reason, ran over here.\
@@ -1466,17 +1322,11 @@ bg "e\gs.jpg",3
 ;「灰皿、空気圧大丈夫ですか」\
 ^``Ashtray, tire pressure, are they all fine?''\
 
-
-
 ;「え、あ…ええ、大丈夫です…」\
 ^``Eh, ah... yes, they're fine...''\
 
-
-
 ;「そうですか、寒いですから気をつけて下さいね」\
 ^``I see. It's cold, so please be careful.''\
-
-
 
 ;そして、サービスのつもりか窓まで拭き始めた。\
 ^And, perhaps intended to be a service, the clerk started cleaning the windows.\
@@ -1488,8 +1338,6 @@ bg "e\gs.jpg",3
 ;「あ、清算は向こうでお願いしますね」\
 ^``Ah, please make your payment over there.''\
 
-
-
 ;窓を拭く手を止め、さきほどの建物を指差す店員。\
 ^Pausing from washing the windows, the clerk pointed at the building from before.\
 
@@ -1500,12 +1348,8 @@ bg "e\gs.jpg",3
 ;「どうしました、お客さん？」\
 ^``Is something the matter, sir?''\
 
-
-
 ;「あ、いや、なんでもない…」\
 ^``A, no, nothing...''\
-
-
 
 ;ＳＥ＞ドア閉め
 
@@ -1515,7 +1359,6 @@ bg "e\car_byoin_chusyajo.jpg",3
 ^For the moment, I went back inside the car.\
 
 ;ＳＥ＞エンジン始動\
-
 
 ;そして、エンジンだけは始動させた。\
 ^And then, I only started up the engine.\
@@ -1536,8 +1379,6 @@ bg "e\car_byoin_chusyajo.jpg",3
 ;検問でもあれば簡単に捕まってしまう。\
 ^If there were an investigation, we would easily be caught.\
 
-dwavestop 5
-
 ;…だけど、今この場を逃げる為には…\
 ^... However, in order to run here...\
 
@@ -1550,21 +1391,14 @@ dwavestop 5
 
 bg "e\b.jpg",3
 
-
 ;「はい…」\
 ^``Here...''\
-
-
 
 ;「えっ？」\
 ^``Eh?''\
 
-
-
 ;「…使っていいわよ」\
 ^``... You can use it.''\
-
-
 
 ;突然、彼女が封筒を取り出す。
 ;そしてその中から１万円札を俺に向けた。\
@@ -1572,8 +1406,6 @@ bg "e\b.jpg",3
 
 ;「お、お前、金持ってたのか？」\
 ^``Y-you, had money?''\
-
-
 
 ;てっきり持ってないと思っていた。\
 ^And I had been convinced she had none.\
@@ -1585,38 +1417,23 @@ bg "e\b.jpg",3
 ;「どうして、言ってくれなかったんだよ？」\
 ^``Why, didn't you say anything?''\
 
-
-
-
 ;「…………」\
 ^``......''\
-
-
-
 
 ;「あなた…聞いた？」\
 ^``Did you... ask?''\
 
-
-
 ;「え、あ、いや、それは…」\
 ^``Eh, ah, no, that's....''\
 
-
-
-
 ;「聞かれなかったからよ…」\
 ^``Because I wasn't asked...''\
-
-
 
 ;それだけを答えると、
 ;またいつものように窓の方を向いてしまった。\
 ^With just that answer, once again, as always, she faced the window.\
 
-
 bg "e\soukou.jpg",5
-
 
 ;■心情・情景＞情景とか\
 
@@ -1636,7 +1453,6 @@ bg "e\soukou.jpg",5
 
 ;●とも　車内＞走る＞■仕込みました
 bg "e\naname_michi.jpg",3
-
 
 ;「はい、これで全部よ…」\
 ^``Here, this is all of it...''\
