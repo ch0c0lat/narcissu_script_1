@@ -1,28 +1,15 @@
-
+﻿
 ;「……………」\
 ^``......''\
-
-dwavestop 0
 
 ;「あ、その、例の場所…淡路島までさ」\
 ^``Ah, um, to that place... Awaji-shima.''\
 
-dwavestop 0
-
-!s90
-
-
 ;「……悪い？」\
 ^``... Problem?''\
 
-!sd
-
-dwavestop 0
-
 ;「いや、そんな意味じゃねえけどさ…」\
 ^``Um, no, that's not what I meant...''\
-
-dwavestop 0
 
 ;何の目的も持たずに進む俺達。\
 ^We had driven without any destination.\
@@ -36,59 +23,35 @@ dwavestop 0
 
 bg "e\b.jpg",3
 
-
 ;「…期待してる訳じゃない」\
 ^``... It's not that I'm expecting anything.''\
-
-dwavestop 0
 
 ;「えっ？」\
 ^``Eh?''\
 
-dwavestop 0
-
-
 ;「別に水着が欲しい訳じゃ…」\
 ^``It's not like I want a swimsuit...''\
-
-dwavestop 0
 
 ;「…お前、なに言ってるんだ？」\
 ^``... What are you saying?''\
 
-dwavestop 0
-
-
 ;「……………」\
 ^``......''\
 
-dwavestop 0
-
-
 ;「…なんでもないわよ」\
 ^``... It's nothing.''\
-
-dwavestop 0
 
 ;□心情・情景＞ヒロイン様子とか\
 
 ;＿＿＿＿;＿＿＿＿;＿＿;＿
 
 bg "e\w.jpg",5
-stop
-mp3fadeout 2500
 
 ;bg "yobi\cat03.bmp",3
 bg "agilis\1\cat03.png",3
 
-!w800
-
 ;☆ＢＧ　青空あたり
 bg "e\sora03.jpg",5
-
-mp3loop "bgm\a01.mp3"
-
-;☆ＢＧＭ＞ナルインストあたり＞００２;＿２
 
 ;冬の澄んだ空の下、日射しを跳ねて進む銀のクーペ。\
 ^Under the clear winter sky, while reflecting the sunlight, the silver coupe ran on.\
@@ -100,13 +63,8 @@ mp3loop "bgm\a01.mp3"
 ;「なあ、ここらってどこらへんだ？」\
 ^``Hey, this place is around where?''\
 
-dwavestop 0
-
-
 ;「愛知県よ、間もなく名古屋市街に入るわ…」\
 ^``Aichi-ken, and soon, we'll entering the city of Nagoya...''\
-
-dwavestop 0
 
 ;残り金額を考え、高速は使わずに下道を走る俺達。\
 ^Thinking of our money, we drove on the lower roads without using the expressways.\
@@ -122,16 +80,11 @@ dwavestop 0
 ;恐らくは正しいルートなのだと思えた。\
 ^I didn't know the reason why, but I felt that it was probably the right route.\
 
-
 ;「次の交差点…２２号線に入って」\
 ^``At the next intersection... enter Route 22.''\
 
-dwavestop 0
-
 ;「わかった」\
 ^``Got it.''\
-
-dwavestop 0
 
 ;言われた通りに車線を変え、ハンドルを切る。\
 ^Changing lanes as told, I turned the wheel.\
@@ -150,8 +103,6 @@ bg "e\soukou_machi.jpg",3
 ;「なあ、あそこでも寄ってくか？」\
 ^``Hey, you want to go there?''\
 
-dwavestop 0
-
 bg "e\naname_machi.jpg",3
 
 ;国道沿いに見える、どこかのファミレス。\
@@ -163,12 +114,7 @@ bg "e\naname_machi.jpg",3
 ;「ほら、今までコンビニばっかだったろ？」\
 ^``Look, up until now we've been eating only convenience store food, right?''\
 
-dwavestop 0
-
-
 ;;「…うん」\
-
-;;dwavestop 0
 
 ;もちろん好きでコンビニばかりだった訳じゃない。\
 ^Of course, we hadn't been eating only convenience store food because we liked it.\
@@ -184,13 +130,8 @@ dwavestop 0
 ;「な、たまにはファミレスもいいじゃん」\
 ^``Well, once in a while, a restaurant's good too.''\
 
-dwavestop 0
-
-
 ;「…わたしは、コンビニでいい…」\
 ^``... I'm, fine with the convenience store.''\
-
-dwavestop 0
 
 ;そう言うと、少しだけ俯く彼女。
 ;どうやら自分の服を見つめているようだった。\
@@ -203,18 +144,11 @@ dwavestop 0
 ;「わかった、じゃあ先にあっち寄るか？」\
 ^``Got it, then want to go there first?''\
 
-dwavestop 0
-
-
 ;「…あっちって？」\
 ^``... There?''\
 
-dwavestop 0
-
 ;「ほら、手前の店、どこかのジーンズショップ」\
 ^``Look, the store just up front, some kind of jeans shop.''\
-
-dwavestop 0
 
 ;それは、国道沿いによく見られる、
 ;ジーンズやカジュアルを揃えた量販店のようだった。\
@@ -224,24 +158,14 @@ dwavestop 0
 ;　そんな高くないのあるだろうからさ」\
 ^``I'm sure a store like that would have things that don't cost that much.''\
 
-dwavestop 0
-
-
 ;「……………」\
 ^``......''\
-
-dwavestop 0
 
 ;「じゃあ寄るぞ？　寄るからな」\
 ^``Well, we're going. We're going in, okay?''\
 
-dwavestop 0
-
-
 ;「………………」\
 ^``......''\
-
-dwavestop 0
 
 ;返事はなかった。
 ;でも、反対もされなかった。\
@@ -283,33 +207,20 @@ bg "e\b.jpg",3
 ;そして、試着をする度に俺の方へと駆け寄って…\
 ^And while trying things on, she would come up to me...\
 
-
 ;「…どう？」\
 ^``... How is it?''\
-
-dwavestop 0
 
 ;「どうって、似合ってんじゃねえか？」\
 ^``How is it? It suits you.''\
 
-dwavestop 0
-
-
 ;「……………」\
 ^``......''\
-
-dwavestop 0
-
 
 ;「…変じゃない？」\
 ^``... It's not strange?''\
 
-dwavestop 0
-
 ;「ああ、たぶんな」\
 ^``Ah, probably.''\
-
-dwavestop 0
 
 ;こんな感じで何度も何度も、
 ;試着を繰り返しては見せにくる彼女。\
@@ -322,13 +233,8 @@ dwavestop 0
 ;「どうだ、決まったか？」\
 ^``How about it, decided?''\
 
-dwavestop 0
-
-
 ;「…うん、これにする」\
 ^``... Un, I'll take this.''\
-
-dwavestop 0
 
 ;そう言って俺に、最後に試着した、
 ;可愛いシャツと短いスカートを見せる。\
@@ -345,53 +251,34 @@ dwavestop 0
 ;逆にハマり過ぎてて微笑ましく見えてしまう。\
 ^But however you looked at it, when put together with a figure that really didn't look older, it suited her so well it was charming.\
 
-
 ;「でもさ、そのスカートは、
 ;　止めた方がいいんじゃねえか？」\
 ^``But, that skirt, isn't it better if you gave up on it?''\
 
-dwavestop 0
-
-
 ;「えっ…」\
 ^``Eh?''\
-
-dwavestop 0
 
 ;「あ、いや、似合ってないとか、そーゆーのじゃないから」\
 ^``Ah, no, it's not that it doesn't suit you or anything.''\
 
-
 ;「……………」\
 ^``......''\
-
-dwavestop 0
 
 ;「ほら、寒いだろ？　今の時期ってその格好じゃ」\
 ^``Look, it's cold isn't it? It's not an outfit for this season.''\
 
-
 ;「…べ、別に平気よ…わたし我慢するから」\
 ^``... I-it's not particularly a problem... I'll endure it.''\
 
-dwavestop 0
-
 ;＿キープ;＿普通のぼそぼそパターンも;＿
-
 
 ;;「別に平気よ…わたし我慢するから
 ;;＿＿;＿
 
-dwavestop 0
-
 bg "e\w.jpg",3
-
-!s100
 
 ;そう答えた時…\
 ^When she answered...\
-
-!sd
 
 ;少しだけその白い顔が赤くなったように見えた。
 ;普段は絶対に感情を表さないこいつなのに…\
@@ -403,8 +290,6 @@ bg "e\w.jpg",3
 ;初めて見る、こいつの表情だった。\
 ^It was the first time, I saw her show emotion.\
 
-;＿
-
 ;☆ＢＧ　空
 bg "e\sora03.jpg",3
 
@@ -415,16 +300,11 @@ bg "e\sora03.jpg",3
 ;少し排気音のうるさい銀のクーペは走り続けていた。\
 ^Under the high, high winter sky, the silver coupe with the slightly noisy exhaust continued driving.\
 
-
 ;「次で２１号線に入って…」\
 ^``Next, go onto Route 21...''\
 
-dwavestop 0
-
 ;「わかった」\
 ^``Alright.''\
-
-dwavestop 0
 
 bg "e\shanai_michi01.jpg",3
 
@@ -449,30 +329,17 @@ bg "e\shanai_michi01.jpg",3
 ;「…………」\
 ^``......''\
 
-dwavestop 0
-
-
 ;「…なに？」\
 ^``... What?''\
-
-dwavestop 0
 
 ;「いや、さっきの服、気に入ったみたいだな」\
 ^``Nothing, the clothes from before, looks like you like them.''\
 
-dwavestop 0
-
-
 ;「……………」\
 ^``......''\
 
-dwavestop 0
-
-
 ;「別に…そんなことないわよ」\
 ^``Not particularly... it's not that.''\
-
-dwavestop 0
 
 ;そう言うとサイドミラーを見るのを止めてしまう。\
 ^Saying that, she stopped looking at the side mirror.\
@@ -489,23 +356,12 @@ dwavestop 0
 ^From just that little thing, just normally, and only normally, I thought she was cute.\
 
 bg "e\b.jpg",5
-stop
-mp3fadeout 2500
 
 ;＿＿＿＿＿＿＿＿＿＿＿＿
-
-;小タイトル戻し\
-
-;mov $sys_midasi,"一号線３　ボイスＶｅｒ"
-mov $sys_midasi,"Route 1: 3 [a]"
-
-;＿＿＿＿;＿＿＿＿;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 ;☆ＢＧ　夜空\
 
 bg "e\sora07.jpg",3
-
-mp3loop "bgm\n05.mp3"
 
 ;すっかりと日が暮れる頃。\
 ^When the sun had completely set.\
@@ -519,8 +375,6 @@ bg "e\chusha_michi2_yoru.jpg",3
 
 ;「なあ、今頃どうなってっかな…」\
 ^``Say, I wonder what's become of things right now...''\
-
-dwavestop 0
 
 ;今も手首に巻かれたままになっている、
 ;ビニール製の白い腕輪。\
