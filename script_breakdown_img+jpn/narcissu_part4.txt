@@ -1282,8 +1282,6 @@ bg "e\yakkyoku.jpg",3
 ;店の人「お医者さんから貰ってますよね？」\
 ^Pharmacist: ``You received one from your doctor, right?''\
 
-dwavestop 0
-
 ;…予想していなかった。\
 ^... I hadn't expected this.\
 
@@ -1294,12 +1292,8 @@ dwavestop 0
 ;店の人「…どうしました？」\
 ^Pharmacist: ``Is something the matter?''\
 
-dwavestop 0
-
 ;「あ、いや、その…」\
 ^``Ah, no, um...''\
-
-dwavestop 0
 
 ;言いよどむ俺に、
 ;段々と怪訝な目を向ける白衣のおじさん。\
@@ -1318,18 +1312,11 @@ dwavestop 0
 ;…そして、病院の名前を読もうとしていた。\
 ^... And, he was trying to read the name of the hospital.\
 
-;ＳＥ＞それっぽいの
-
 bg "e\w.jpg",3
 
 ;だっ、\
-if %unvoiced_mode == 0 goto *generated_313
 ^My hands moved.\
-
-goto *generated_314
-*generated_313
 ^* Snatch! *\
-*generated_314
 
 ;店の人「あっ」\
 ^Pharmacist: ``Ah!''\
@@ -1356,10 +1343,6 @@ bg "e\b.jpg",3
 ;それでも俺は無我夢中で走った。\
 ^Unable to gain steady footing, I was stumbling, but even then, I ran on in a daze.\
 
-dwavestop 5
-
-;ＳＥ＞ガー＞自動ドア
-
 ;そして、やたらと開くのが遅い自動ドアから、
 ;店外へと出ようとした…\
 ^And then, coming to the stuttering, slow automatic door, as I was making to leave the store...\
@@ -1367,21 +1350,14 @@ dwavestop 5
 ;その時、\
 ^At that time...\
 
-;＞ＳＥ＞ぶつかる音からガラス割れる音
-
 bg "e\w.jpg",1
 bg "e\b.jpg",3
 
 ;ガン、ガシャーン、\
-;-;Nuke
-if %unvoiced_mode == 1 goto *generated_315
 ^* Gan! Gashaaaaan! *\
-*generated_315
 
 ;「痛っ、くそ…」\
 ^``Ow! Damn it!''\
-
-dwavestop 5
 
 ;思わず、意識が一瞬白くなった。\
 ^Suddenly, for a moment my awareness turned white.\
@@ -1432,17 +1408,9 @@ bg "e\sora06.jpg",3
 
 bg "e\b.jpg",3
 
-;ＳＥ＞
-
 ;バタン、\
-if %unvoiced_mode == 0 goto *generated_316
 ^I slammed the car door shut behind me.\
-
-goto *generated_317
-*generated_316
 ^* Slam. *\
-*generated_317
-
 
 ;「はぁはぁ、ふう…」\
 ^``Haa, haa, phew...''\
@@ -1464,31 +1432,19 @@ bg "e\soukou_machi_yoru.jpg",3
 ;俺は運転しながら、ポケットティッシュで軽く押さえる。\
 ^... Probably if it's just this much, it'll stop soon. While driving, I lightly pressed some pocket tissues on it.\
 
-dwavestop 5
-
 bg "e\naname_michi_yoru.jpg",3
-
 
 ;「…大丈夫？」\
 ^``... Are you alright?''\
 
-dwavestop 0
-
 ;「ああ、平気だ」\
 ^``Yeah, I'm fine.''\
-
-dwavestop 0
-
 
 ;「でも、血が出てるし…」\
 ^``But, you're bleeding...''\
 
-dwavestop 0
-
 ;「…気にするな、何でもないから」\
 ^``... Don't worry about it, it's nothing.''\
-
-dwavestop 0
 
 ;不安そうな顔を向ける彼女に、
 ;俺は、心配いらないと手を振ってみせる。\
@@ -1501,13 +1457,8 @@ dwavestop 0
 ;「ほら、飲んでおけよ」\
 ^``Here, take your medicine.''\
 
-dwavestop 0
-
-
 ;「あ、うん…」\
 ^``Ah, un...''\
-
-dwavestop 0
 
 ;これで当分は大丈夫だと思えた。
 ;少なくとも１週間くらいなら保つだろう。\
@@ -1533,29 +1484,14 @@ dwavestop 0
 ;目的が生まれ、失う怖さも生まれていた…\
 ^With the birth of purpose, the fear of loss also was born.\
 
-
 bg "e\b.jpg",3
-stop
-mp3fadeout 2500
 
 ;＿＿＿＿;＿＿＿＿;＿＿＿＿
-
-;☆ヒロイン　回想　暫定　５　とか予定＞流れみて
-
-;・小タイトル　戻し\
-
-;＿＿＿＿;＿＿;＿
-
-;☆シーン変え　昼
-
 
 ;bg "tui2\cat06.bmp",5
 bg "agilis\1\cat06.png",5
 
-wait 800
-
 bg "e\b.jpg",3
-
 
 bg "e\sora01.jpg",5
 
@@ -1563,12 +1499,7 @@ bg "e\sora01.jpg",5
 ;冬特有の高い、高い澄んだ空が広がっていた。\
 ^The day cleared up and that clear, so very high sky that was characteristic of winter spread wide.\
 
-;mp3loop "bgm\n03.mp3"
-
-mp3loop "bgm\sen02.mp3"
-
 ;☆ＢＧ　高速走る　上から　昼\
-
 bg "e\joku_kosoku.jpg",3
 
 ;再び高速に乗った俺達。\
@@ -1580,22 +1511,14 @@ bg "e\joku_kosoku.jpg",3
 ;「なあ、次はどっちだ？」\
 ^``Hey, what's the next one?''\
 
-
 ;「神戸ＪＣＴから…」\
 ^``From the Kobe Junction...''\
-
-dwavestop 0
 
 ;「わかった、山陽自動車道だな」\
 ^``Got it, the Sanyo Expressway, right?''\
 
-dwavestop 0
-
-
 ;「うん」\
 ^``Un.''\
-
-dwavestop 0
 
 ;☆ＢＧ車内　昼\
 bg "e\car_michi01.jpg",5
@@ -1624,7 +1547,6 @@ bg "e\b.jpg",3
 
 ;「これが、明石海峡大橋ってのか…すげえ橋だな？」\
 ^``This, is the Akashi-Kaikyo Bridge? It's an amazing bridge, isn't it?''\
-
 
 ;「…うん」\
 ^``... Un.''\
@@ -1655,16 +1577,11 @@ bg "e\b.jpg",3
 
 bg "e\car_naname_michi01.jpg",3
 
-
 ;「…ここ駐停車禁止よ」\
 ^``... Stopping is prohibited here.''\
 
-dwavestop 0
-
 ;「まあ、少しくらいなら大丈夫だろ」\
 ^``Well, if it's just for a bit, it'd probably be fine.''\
-
-dwavestop 0
 
 ;それに見た限りでも、
 ;数台の車も同じように車を停めていた。\
@@ -1673,53 +1590,33 @@ dwavestop 0
 ;「なあなあ、ちょっと外に出てみようぜ」\
 ^``Come now, let's go out for a bit and have a look.''\
 
-dwavestop 0
-
-
 ;「……………」\
 ^``......''\
-
-dwavestop 0
 
 ;「きっと、すげえ眺めいいからさ」\
 ^``I'm sure it's got an amazing view.''\
 
-dwavestop 0
-
-
 ;;「…うん」\
-
-dwavestop 0
-
 
 ;「わかった…」\
 ^``Alright...''\
-
-dwavestop 0
 
 ;まだちょっと渋々なんだけど、
 ;俺に合わせるように車を降りる彼女。\
 ^She sounded a little reluctant still, but the girl got out of the car to join me.\
 
-;ＳＥ＞ドア閉め
-
 ;☆ＢＧ　橋の上のとか
 bg "e\hashigeta.jpg",3
 
 ;ＳＥ＞風
-
 ;ビュウーー、\
-;-;Nuke
-if %unvoiced_mode == 1 goto *generated_318
 ^* Phewwwwwwww. *\
-*generated_318
 
 ;強くて冷たい風が吹く橋の上。\
 ^A strong, cold wind whistled atop the bridge.\
 
 ;「思ったより、ここ寒いな…」\
 ^``It's colder than you'd think, isn't it?''\
-
 
 ;「…うん」\
 ^``... Un.''\
@@ -1747,22 +1644,14 @@ if %unvoiced_mode == 1 goto *generated_318
 ;「そういえば…」\
 ^``Speaking of which...''\
 
-
-
 ;「…どうかした？」\
 ^``... What's wrong?''\
-
-dwavestop 0
 
 ;「ああ、ちょっと待ってろよ」\
 ^``Ah, wait a sec.''\
 
-
 ;「あ、うん…」\
 ^``Ah, un...''\
-
-dwavestop 0
-dwavestop 5
 
 ;☆ＢＧ　車内\
 bg "e\car_naname_michi01.jpg",3
@@ -1790,12 +1679,8 @@ bg "e\hashigeta.jpg",3
 ;「お待たせ、ほら、撮ってやるよ」\
 ^``Sorry for the wait, look, I'll take one of you.''\
 
-dwavestop 0
-
 ;「えっ…」\
 ^``Eh?''\
-
-dwavestop 0
 
 ;「写真だよ、写真、せっかくだしさ」\
 ^``A picture. Picture. Since we're here after all.''\
