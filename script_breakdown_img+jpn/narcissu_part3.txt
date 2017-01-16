@@ -1693,11 +1693,8 @@ bg "e\image01.jpg",5
 ;☆ＢＧ：窓に顔のかな\
 bg "e\setsumi_kaisou.jpg",5
 
-
 ;「だけど…」\
 ^``But...''\
-
-
 
 ;生涯のほとんどを病院で過ごし、
 ;目を閉じた世界だけで過ごして…\
@@ -1713,20 +1710,13 @@ bg "e\setsumi_kaisou.jpg",5
 ;その場所すら見つけられない自分を憐れだと思った。\
 ^But even saying that, unable to even find that place, I felt myself to be pathetic.\
 
-!s85
-
 ;…それでも、２２年も生きたのに…\
 ^... Even though I had lived 22 years...\
 
 bg "e\b.jpg",3
 
-
 ;「一つくらい…好きにさせてよ…」\
 ^``Just once... let me do as I please...''\
-
-
-
-!s75
 
 ;そう呟いた時、止めた筈の時間が揺らいだ気がした。\
 ^When I murmured that, the time that should have stopped felt like it swayed.\
@@ -1734,20 +1724,10 @@ bg "e\b.jpg",3
 ;あの日、止めた筈の心が苦しかった…\
 ^On that day, the heart that should stopped hurt....\
 
-!sd
-
 ;bg "e\w.jpg",3
-
-;＿＿＿＿;＿
-
-;mov $sys_midasi,"一号線２　ボイスＶｅｒ"
-mov $sys_midasi,"Route 1: 2 [a]"
 
 ;bg "tui2\cat02.bmp",5
 bg "agilis\1\cat02.png",5
-
-click
-
 
 bg "e\b.jpg",3
 
@@ -1770,13 +1750,11 @@ bg "e\shanai_michi04.jpg",3
 ;;そしてハンドルを握る俺の隣では、
 ;;軽く寝息を立てる彼女。\
 
-
 ;;「んぅ…
 
 ;;「起きたか？
 
-
-;;「…うん
+;;「…うん  -------------->> NO TRASLATION?
 
 ;□心情・情景＞ヒロイン様子とか
 
@@ -1800,22 +1778,14 @@ bg "e\shanai_michi04.jpg",3
 
 bg "e\b.jpg",3
 
-
 ;「そこ、左折…」\
 ^``There, left...''\
-
-
 
 ;「えっ？」\
 ^``Eh?''\
 
-
-
-
 ;「左に曲がって」\
 ^``Turn left.''\
-
-
 
 ;突然、俺に指示を出した彼女。\
 ^Suddenly, the girl gave me directions.\
@@ -1833,24 +1803,14 @@ bg "e\naname_michi.jpg",3
 ;「どうしたんだよ、一体？」\
 ^``Just what was that?''\
 
-
-
-
 ;「……………」\
 ^``......''\
-
-
-
 
 ;「これが１号線…当分は真っ直ぐよ…」\
 ^``This is Route 1... for a while, go straight...''\
 
-
-
 ;「当分はって…」\
 ^``For a while?''\
-
-
 
 ;彼女の突然の指示に俺は驚いてしまう。\
 ^Her sudden directions left me surprised.\
