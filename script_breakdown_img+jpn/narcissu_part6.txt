@@ -1,17 +1,12 @@
-
+﻿
 ;「もしかして…くれるのか？」\
 ^``Are you... giving this to me?''\
-
 
 ;「うん、あげる…」\
 ^``Un. I am...''\
 
-
-
 ;「そっか…じゃあ俺も、記念に貰っといてやるよ」\
 ^``I see... then, I'll take it as a memento myself.''\
-
-
 
 ;同じように受け取った腕輪。
 ;俺も自分のポケットへと収める。\
@@ -23,39 +18,20 @@
 ;その後ろ姿に向かって、俺は最後の言葉をかけた。\
 ^Facing her back, I threw out my final words.\
 
-!s75
-
 ;「なあ…最後にもう一つだけ質問していいか？」\
 ^``Hey... can I ask you just one last question?''\
-
-
-
-!s90
-
 
 ;「うん」\
 ^``Un.''\
 
-
-
 ;「お前、今…^@^引きとめてほしいか？」\
 ^``Do you, right now...^@^ want me to pull you back?''\
-
-
-
 
 ;「……………」\
 ^``.....''\
 
-
-
 ;「それとも…背中を押して欲しいか？」\
 ^``Or instead... you want me to give your back a push?''\
-
-
-
-
-!s75
 
 ;寄せる波を足に受けながら、その場に立ち止まった彼女。
 ;問いを投げる俺に背中を向けたままだった。\
@@ -68,18 +44,11 @@
 ;やがて、俺の方を振り返ってくれると…\
 ^Before long, she turned around, and...\
 
-!s85
-
-
 ;「…さあ…どっちだろうね」\
 ^``... Hmm... which one, I wonder...''\
 
 ;「あはは、よくわからないね」\
 ^``Ahaha, I don't really know.''\
-
-
-
-!s75
 
 ;そう言って、最後にもう一度だけ笑ってくれた。\
 ^Saying that, just one more time, she smiled for me.\
@@ -94,42 +63,20 @@
 ;でも今は止まることはなかった。\
 ^But this time, they didn't stop.\
 
-!s100
-
 ;…だから、それが答えなんだと思う…\
 ^... That was why, I thought that was her answer...\
 
-
 bg "e\w.jpg",5
-
-!w500
-
-
-
 
 ;「それじゃあ…^@^さよなら…」\
 ^``Well then...^@^ Farewell...''\
 
-
-
-dwavestop 5
-
-dwavestop 6
-
-;*last01
-
-mp3loop "bgm\sen02_20.mp3"
-
 ;bg "e\st00.jpg",1
+
 bg "english\credits\st00.png",1
-
-
-!s75
 
 ;…こうして、俺達の９６０ｋｍの旅が終わった…\
 ^... And so, our journey of 960km ended...\
-
-!s80
 
 ;俺にとっては１５日間、
 ;彼女にとっては２２年間の旅も終わった。\
@@ -155,8 +102,6 @@ bg "e\w.jpg",3
 
 bg "yobi\cat09.bmp",5
 
-!s75
-
 ;本当は、ビキニの水着が好きで、ナビ以上に道に詳しくて、
 ;車が好きで、普免だって持っている。\
 ^In reality, she liked bikini swimsuits, knew more about the roads than a navigation system, and loved cars. She even had a license.\
@@ -164,8 +109,6 @@ bg "yobi\cat09.bmp",5
 ;いつもは無表情で、滅多に向けてくれないけど、^@^
 ;たまには、照れくさそうな、拗ねたような顔だってしてくれる…\
 ^She was always without expression, and would only rarely face you,^@^ but once in a while, she would even make this embarrassed, pouting face...\
-
-!s80
 
 ;エメラルドの海を背に…\
 ^The emerald sea to her back...\
@@ -181,15 +124,11 @@ bg "yobi\cat09.bmp",5
 ;たった一枚しか残せなかった彼女の笑顔。\
 ^On this cheap disposable camera, only a single picture remained of her smile.\
 
-!s90
-
 bg "e\imege94.jpg",5
 
 ;…それでも…たった一枚だけでも…\
 ^... But even so...
 ^... Even with just one picture...\
-
-!s120
 
 ;　……残せた俺達の証し……\
 ^... It was the proof of ourselves that we left behind...\
@@ -197,40 +136,31 @@ bg "e\imege94.jpg",5
 bg "e\b.jpg",5
 
 ;bg "e\st01.jpg",5
-bg "english\credits\st01.png",5
 
-!w1500
+bg "english\credits\st01.png",5
 
 bg "e\b.jpg",5
 
-
 ;bg "e\st02.jpg",5
-bg "english\credits\st02.png",5
 
-!w1500
+bg "english\credits\st02.png",5
 
 bg "e\b.jpg",5
 
 ;bg "e\st03.jpg",5
-bg "english\credits\st03.png",5
 
-!w1500
+bg "english\credits\st03.png",5
 
 bg "e\b.jpg",5
 
 ;bg "e\st04.jpg",5
-bg "english\credits\st04.png",5
 
-!w1500
+bg "english\credits\st04.png",5
 
 bg "e\b.jpg",5
 
 ;bg "e\st05.jpg",5
 bg "english\credits\st05.png",5
-
-!w1500
-
-!s85
 
 bg "e\w.jpg",3
 
@@ -240,73 +170,54 @@ bg "e\nar01c.jpg",1
 
 bg "e\nar01.jpg",5
 
-!w1500
-
 ;bg "e\imege95.jpg",5
+
 bg "agilis\1\imege95.png",5
 
-
 ;bg "e\imege96.jpg",10,1000
+
 bg "agilis\1\imege96.png",10,1000
 
-!w1500
-
 ;bg "e\imege97.jpg",5
+
 bg "agilis\1\imege97.png",5
-
-click
-
-click
-
-!sd
 
 bg "english\1\imege98.bmp",5
 
-if %unvoiced_mode == 0 goto *generated_narc1_voiced_agi
-
-goto *generated_narc1_unvoiced_agi
-*generated_narc1_voiced_agi
-steamsetachieve narc1
-goto *narc1_continue_agi
-*generated_narc1_unvoiced_agi
-steamsetachieve narc3
-goto *narc1_continue_agi
-
-*narc1_continue_agi
-
-dwavestop 5
-
-mov %flg_cha9,1
-mov %flg_bplay,9
-
-mov %sys_nar1_limited,1
 goto *title_nar1_limited
 
-;agi_narci1_end
-;-*- ponscripter -*-
 ; Chapter select screen: Narci1 tr. gp32
-*gp32_mini_title
 
 lsp 200,":a/2,0,3;english\sys\modoru.png",644,549
 
 lsp 191,":a/2,0,3;english\1\chapter00.bmp",285,224
+
 if %flg_pro  == 1 lsp 192,":a/2,0,3;gp32\1\chapter01.bmp",285,248
+
 if %flg_cha2 == 1 lsp 193,":a/2,0,3;gp32\1\chapter02.bmp",285,272
+
 if %flg_cha3 == 1 lsp 194,":a/2,0,3;gp32\1\chapter03.bmp",285,296
+
 if %flg_cha4 == 1 lsp 195,":a/2,0,3;english\1\chapter04.bmp",285,320
+
 if %flg_cha5 == 1 lsp 196,":a/2,0,3;gp32\1\chapter05.bmp",535,248
+
 if %flg_cha6 == 1 lsp 197,":a/2,0,3;english\1\chapter06.bmp",535,272
+
 if %flg_cha7 == 1 lsp 198,":a/2,0,3;gp32\1\chapter07.bmp",535,296
+
 if %flg_cha8 == 1 lsp 199,":a/2,0,3;english\1\chapter08.bmp",535,320
 
 lsp 200,":a/2,0,3;english\sys\modoru.png",644,549
 
-movz ?0[0], 273, 273, 273, 273, 523, 523, 523, 523
-movz ?0[1], 252, 276, 300, 324, 252, 276, 300, 324
 if %flg_bplay <= 8 lsp 201,":a/10,250,0;tui\cur2.bmp",?0[0][%flg_bplay-1],?0[1][%flg_bplay-1]
 
 if %unvoiced_mode == 0 bg "english\1\mini_title.png",5
+
 if %unvoiced_mode == 1 bg "english\1\mini_title_novoice.png",5
+
+
+
 
 ~
 btndef clear
@@ -314,46 +225,13 @@ cellcheckspbtn 191,200,1
 
 btnwait %11
 
-if %11==-1 csp 191,201:goto *middle_title
-if %11<=0 jumpb
-
-if %11==10 csp 191,201:goto *middle_title
-;前の画面に戻る
-
-;以下はボタンを押した場合なのでまず画像クリア
-csp 191,201
-tablegoto1 %11, *gp32_image, *gp32_honpen2, *gp32_honpen3, *gp32_honpen4, *gp32_honpen5, *gp32_honpen6, *gp32_honpen7, *gp32_honpen8, *gp32_honpen9
-
-jumpb
-;-*- ponscripter -*-
-*gp32_image
-mov $sys_midasi,"^Prologue [g]"
-
-; TODOs:
-; * Remove manual line breaks where Ponscripter's auto-breaking should be used
-
-;goto *tc1
-
-
 ;bg "tui\title_off2.bmp",1
 
-dwavestop 5
-
-;プロローグ
-
 bg "e\b.jpg",3
-stop
-mp3fadeout 1500
 
-
-
-h_usewindow "caption"
-
-
-!s100
 h_centreline ^~s~... on a blindingly bright day ...~s~^
 ^~s~... on a blindingly bright day ...~s~
-wait 400
+
 h_centreline ^~s~... on that very day of winter ...~s~^
 ^~s~... on that very day of winter ...~s~\
 
@@ -367,42 +245,29 @@ bg "english\1\c002.jpg",3
 
 bg "english\1\c003.jpg",3
 
-wait 700
-
 bg "english\1\c004.jpg",5
 
-wait 1000
-
 bg "e\b.jpg",5
-
-wait 200
-
 
 bg "e\sora_ame03.jpg",3
 
 bg "english\1\c02.jpg",3
 
-;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
-h_usewindow "main"
-!sd
-erasetextwindow 0
+
+
+
+
+
 
 ;　■　１９９６年　春　セツミ　■\
 ^ ■ Spring 1996: Setsumi ■\
 
 ;bg "e\c02b.jpg",3
 
-mp3loop "bgm\n04.mp3"
-
 bg "e\sora_ame01.jpg",3
-
-
 
 ;『…確かに、幼い頃から丈夫な方じゃなかった…』\
 ^(... true, I wasn't very healthy ever since I was a child ...)\
-
-
-
 
 ;それでも小学校は普通に通えたし、
 ;夏休みには真っ黒に日焼けするほど遊んだこともあった。\
@@ -428,10 +293,7 @@ bg "e\byoin_heya_yu2.jpg",5
 
 ;○とも＞夕：空
 
-
 bg "e\sora_ame03.jpg",5
-
-
 
 ;真っ白な梅雨空の中。\
 ^Falling from amidst the pure white of the overcast sky.\
