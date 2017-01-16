@@ -711,13 +711,8 @@ bg "e\naname_inaka_ame2.jpg",3
 ;「おい、大丈夫かっ」\
 ^``Hey, are you alright?''\
 
-
-
-
 ;「うん…たぶん」\
 ^``Un... probably.''\
-
-
 
 ;こいつの体調が悪くなっていた。\
 ^Her health had taken a turn for the worse.\
@@ -740,37 +735,20 @@ bg "e\naname_inaka_ame2.jpg",3
 ;「なあお前…帰りたいか？」\
 ^``Say... do you, want to go back?''\
 
-
-
-
 ;「……………」\
 ^``......''\
-
-
-
 
 ;「…あなた、帰りたいの？」\
 ^``... You, want to go back?''\
 
-
-
 ;「ああ、少しだけな…」\
 ^``Ah, just a little bit...''\
-
-
-
-!w300
-
 
 ;「７階…それとも家？」\
 ^``7th floor?... Or home?''\
 
-
-
 ;「そ、それは…」\
 ^``T-that's...''\
-
-
 
 ;……わからない…\
 ^... I didn't know...\
@@ -784,17 +762,13 @@ bg "e\naname_inaka_ame2.jpg",3
 
 bg "e\b.jpg",5
 
-stop
-mp3fadeout 2500
-
 ;＿＿＿＿;＿＿＿＿;＿
 
 ;・夜　また車内で
 
 ;bg "tui2\cat073.bmp",5
-bg "agilis\1\cat073.png",5
 
-!w300
+bg "agilis\1\cat073.png",5
 
 ;☆ＢＧ　夜空
 bg "e\sora_ame01b.jpg",5
@@ -809,14 +783,8 @@ bg "e\sora_ame01b.jpg",5
 
 bg "e\naname_inaka_ame2.jpg",5
 
-dwavestop 5
-
-
-
 ;「なあ、これってさ…」\
 ^``Say, this is...''\
-
-
 
 ;言いながらフロントガラスの向こうに見える白い花を指差す。\
 ^As I spoke, I pointed at the white flowers beyond the windshield.\
@@ -824,13 +792,8 @@ dwavestop 5
 ;「確か、ナルキッソスだっけ？…水仙のこと」\
 ^``These were, Narcissus, weren't they?... The daffodils.''\
 
-
-
-
 ;「…うん、ナルシスが語源よ」\
 ^``... Un, the word came from Narkissos.''\
-
-
 
 ;「…ナルシス？」\
 ^``... Narkissos?''\
@@ -842,65 +805,35 @@ dwavestop 5
 ;「それって、ナルシストのナルシスのことか？」\
 ^``You mean, the Narkissos where `narcissist' came from?''\
 
-
-
-
 ;「うん、元々が神話だから、色んな説があるんだけどね…」\
 ^``Un, originally it was a myth, so there are many tellings...''\
-
-
 
 ;そして感心したような顔をする俺に、
 ;彼女はゆっくりと説明してくれた。\
 ^And then, the girl started to slowly explain as I wore an admiring expression on my face.\
 
-dwavestop 6
-dwavestop 5
-
 bg "e\b.jpg",5
-
-mp3loop "tui2\e01.mp3"
-
 
 ;「誰からも愛されるナルシス…」\
 ^``The one who was loved by everyone, Narkissos...''\
 
-
-
-
 ;「妖精のエコーも、そんな彼が好きな一人だったの」\
 ^``The nymph Echo was also one of those who loved him.''\
-
-
-
 
 ;「でもエコーは、相手と同じ言葉しか話せない…」\
 ^``But, Echo couldn't say anything but the same words spoken to her...''\
 
-
-
 ;「…同じ言葉しか？」\
 ^``... Nothing but the same words?''\
-
-
-
 
 ;「そう。だからナルシスに…」\
 ^``Yes, and so, for Narkissos...''\
 
-
-
-
 ;「先に彼の口から『愛してる』って言ってもらわないと…」\
 ^``Unless she got him to say `I love you' from his own mouth first...''\
 
-
-
-
 ;「エコーは、自分の気持ちを伝えることが出来ないの…」\
 ^``Echo could not express her own feelings...''\
-
-
 
 ;寂しげに、哀しそうな声で彼女が話し続けていた。\
 ^In a lonely and sad voice, the girl continued to speak.\
@@ -909,48 +842,28 @@ mp3loop "tui2\e01.mp3"
 ;どこかずっと遠いところを見ているようにも思えた。\
 ^I felt that her gaze, like before, looking at some place much farther away.\
 
-
 ;「でも…そんなこと絶対にありえない」\
 ^``However... that was absolutely impossible.''\
-
-
-
 
 ;「どんなに夢見て、憧れても、
 ;　決して叶うことのないエコーの願い…」\
 ^``No matter how much she dreamed, yearned, Echo's wish could never be granted...''\
 
-
-
-
 ;「最後には、ナルシスに呪いをかけてしまうの」\
 ^``Finally, she wound up placing a curse upon Narkissos.''\
-
-
 
 ;「…それが有名な、
 ;　泉に映った自分の姿に惚れるってのか」\
 ^``... That was the famous, falling in love with his own image reflected in the pool?''\
 
-
-
-
 ;「うん、そして自分の姿を見続けたナルシスは…」\
 ^``Un. And then, Narkissos, who continued to gaze at his reflection...''\
-
-
-
 
 ;「いつしか、綺麗な花へと姿を変えてしまうの」\
 ^``Eventually was transformed into a beautiful flower.''\
 
-
-
-
 ;「それがこの花…ナルキッソスの語源よ」\
 ^``And that was where this flower... the Narcissus, drew its name.''\
-
-
 
 bg "e\naname_inaka_ame2.jpg",5
 
@@ -965,13 +878,8 @@ bg "e\naname_inaka_ame2.jpg",5
 ;「それで、エコーの方はどうなったんだ？」\
 ^``And then, what happened to Echo?''\
 
-
-
-
 ;「いないわ…呪いをかける時に消えちゃったから」\
 ^``She's nowhere... from the moment the curse was cast, she disappeared.''\
-
-
 
 ;…消えた？^@^
 ;それでは意味がないのではないだろうか…\
@@ -982,54 +890,32 @@ bg "e\naname_inaka_ame2.jpg",5
 ;結局ナルシスも不幸にしただけだし…\
 ^To go so far as to place a curse, but to get nothing from it -- in the end it just made Narkissos unhappy also...\
 
-
 ;「…どうかした？」\
 ^``... Is something wrong?''\
-
-
 
 ;「いや…でもさ、お前は違うんだったな」\
 ^``No... but, you're different, aren't you?''\
 
-
-
-
 ;「えっ…」\
 ^``Eh?''\
-
-
 
 ;「ほら、以前に、俺にも尋ねたろう？」\
 ^``Well, before, didn't you ask me?''\
 
-
-
 ;「どうにもならない、自分の運命を呪うかって…」\
 ^``Whether I cursed my own fate, which I couldn't do anything about...''\
-
-
 
 ;「……………」\
 ^``......''\
 
-
-
-
 ;「うん…わたしは諦めているから」\
 ^``Un... because I had given up.''\
 
-
-
 bg "e\w.jpg",5
-
-stop
-mp3fadeout 2500
-;＿＿＿＿;＿＿＿＿;＿＿＿＿;＿
 
 ;☆ヒロイン　回想
 
 bg "e\sora_ame01b.jpg",5
-
 
 ;『…時間の止まったわたし…』\
 ^``... The me whose time had stopped...''\
@@ -1037,14 +923,9 @@ bg "e\sora_ame01b.jpg",5
 ;☆ＢＧ　雨空\
 ;bg "e\sora_ame01.jpg",5
 
-mp3loop "bgm\n04.mp3"
-
-;mp3loop "bgm\3_1.mp3"
-
 ;幾つもの季節を、梅雨空を、
 ;誰とも言葉を交わす必要もなく過ごした…\
 ^Numerous seasons, white overcast skies... passed without even the need to exchange words with anyone...\
-
 
 ;「…いつからわたしは、一人なのだろうか…」\
 ^``... When was it, that I became alone I wonder...''\
@@ -1053,11 +934,8 @@ mp3loop "bgm\n04.mp3"
 
 bg "e\chara_0012.jpg",5
 
-
 ;「目を閉じても世界は消えない…」\
 ^``Even if I closed my eyes, the world didn't disappear...''\
-
-
 
 ;耳を塞いでも雨音は止まない。
 ;そんなことは分かっている。\
@@ -1080,8 +958,6 @@ bg "e\chara_0012.jpg",5
 
 bg "e\chara_k01.jpg",5
 
-!s85
-
 ;「…決して憧れない…呪わない」\
 ^``... I would never yearn... never curse.''\
 
@@ -1093,28 +969,20 @@ bg "e\chara_k01.jpg",5
 ^My heart right now, swayed.^@^
 ^The time that was supposed to have stopped, tried to move.\
 
-!s65
-
 ;今更、そんなことしても、
 ;まもなく終わろうとしているのに…\
 ^Even though if it did so now, very soon it would end...\
 
 bg "e\w.jpg",3
 
-!s100
-
 ;「傷は…」\
 ^``Wounds...''\
 
 bg "e\chara_k02.jpg",5
 
-!s65
-
-
 ;「深ければ、深いほど、
 ;　それに比例して治るのも時間がかかるらしい…」\
 ^``The deeper they are, it seems that they require a proportionate amount of time to heal...''\
-
 
 ;「それならば、長い時間をかけてゆっくり離れてしまうと、
 ;　もう取り返しがつかないのだろうか？」\
@@ -1122,46 +990,22 @@ bg "e\chara_k02.jpg",5
 
 bg "e\b.jpg",3
 
-!s85
-
 ;「じゃあ…」\
 ^``Then...''\
 
 ;「…２２年も生きたわたしはどうなるのだろう…」\
 ^``...What would become of me, someone who had lived 22 years...?''\
 
-dwavestop 5
-
-!sd
-
-
 ;bg "e\b.jpg",5
-;stop
-;mp3fadeout 2500
-
-;＿＿＿＿;＿＿＿＿;＿
-
 
 bg "e\sora07.jpg",5
 
-
 ;「けほけほっ」\
-if %unvoiced_mode == 0 goto *generated_325
 ^The girl's coughing grew more severe.\
-
-goto *generated_326
-*generated_325
 ^* Cough, cough, cough. *\
-*generated_326
-
-
 
 ;「おい、大丈夫かっ」\
 ^``Hey, are you alright?''\
-
-
-
-;mp3loop "bgm\n04.mp3"
 
 bg "e\naname_inaka_yoru.jpg",5
 
@@ -1184,27 +1028,17 @@ bg "e\naname_inaka_yoru.jpg",5
 ;そして、イグニッションをオンにしようとすると…\
 ^Then, as I was about to switch on the ignition...\
 
-
 ;「…いいから」\
 ^``... It's fine.''\
-
-
 
 ;弱々しい声で、俺を止めた。\
 ^I was stopped by a weak voice.\
 
-
-
 ;「だけどお前、このままじゃ…」\
 ^``But, at this rate you're...''\
 
-
-
-
 ;「…どうせ、もう効かない」\
 ^``... Either way, they don't work anymore.''\
-
-
 
 ;「そ、そりゃあそうかも知れないけど…」\
 ^``T-that may be so, but...''\
@@ -1220,33 +1054,20 @@ bg "e\naname_inaka_yoru.jpg",5
 ;「じゃ、じゃあさ、どっか別の場所に行こうぜ」\
 ^``Then, well, let's go somewhere else.''\
 
-
-
-
 ;「…別の場所？」\
 ^``... Somewhere else?''\
-
-
 
 ;「ああ、こんな寂しいところじゃなくてさ」\
 ^``Yeah, somewhere other than this lonely place.''\
 
-
-
 ;「な？　次の目的地を決めようぜ」\
 ^``Okay? Let's decide on our next destination.''\
-
-
 
 ;「……………」\
 ^``......''\
 
-
-
 ;「ほら、どこでもいいからさ、またナビしてくれよ」\
 ^``Come on, anything will do, be the navigator again.''\
-
-
 
 ;自分でも可笑しいくらいに明るい声で話していた。\
 ^I was speaking in a bright tone of voice that even I thought was laughable.\
@@ -1265,23 +1086,15 @@ bg "e\naname_inaka_yoru.jpg",5
 ;「なあ、言ってくれよ、どっかあるだろ？」\
 ^``Come on, say something. There's some place, isn't there?''\
 
-
-
-
 ;「別に…」\
 ^``Not particularly...''\
-
-
 
 ;「そ、そうだ、お前って車とか好きじゃん、
 ;　もっかい高速乗ってみたくないか？」\
 ^``I-I know, don't you like cars? You want to go on the expressway again?''\
 
-
 ;「…別に…」\
 ^``... Not particularly...''\
-
-
 
 ;「……………」\
 ^``......''\
@@ -1290,30 +1103,18 @@ bg "e\naname_inaka_yoru.jpg",5
 ;　新しい服、買いに行こうぜ、お前も欲しいだろっ」\
 ^``Then, well, let's go buy some new clothes, you want them, don't you?''\
 
-
 ;「……………」\
 ^``......''\
-
-
-
-!s75
 
 ;「………^@^/
 ^``......^@^/
 ;別に…」\
 ^Not particularly...''\
 
-
-
-
 ;「…別にって…お前…」\
 ^``... `Not particularly'... you...''\
 
-
-
 ;;「…………」\
-
-!sd
 
 ;その言葉を最後に、また窓の外を見つめる彼女。\
 ^With those final words, once again the girl looked out the window.\
@@ -1321,7 +1122,6 @@ bg "e\naname_inaka_yoru.jpg",5
 ;目の前に広がる水仙の花を見ているのではなく、
 ;以前のように、どこか遠くを見つめたままだった。\
 ^Not looking at the narcissus that spread before her, but like before, looking off somewhere far away.\
-
 
 ;あの、たまに見せてくれた、
 ;拗ねたような、照れくさそうな顔。\
@@ -1332,28 +1132,17 @@ bg "e\naname_inaka_yoru.jpg",5
 
 bg "e\b.jpg",5
 
-!s85
-
 ;「…な、なんでそうなんだよ…」\
 ^``... Wh-why are you like that...''\
-
-
 
 ;「いつもいつも、別にばっかりで…」\
 ^``Always, always with just `not particularly'...''\
 
-
 ;「………………」\
 ^``......''\
 
-
-
-!sd
-
 ;「す、少しは前向きになっても、いいじゃねえかよっ」\
 ^``J-just being a little bit forward facing, what's wrong with that?''\
-
-
 
 bg "e\w.jpg",3
 
@@ -1381,20 +1170,14 @@ bg "e\naname_inaka_yoru.jpg",5
 ;僅かに聞こえる潮騒だけが、この場を支配していた…\
 ^Only the faint sounds of waves held sway in this place...\
 
-
 ;;「…………」\
-
-
 
 ;やがて…\
 
 bg "e\b.jpg",5
 
-
 ;「…前向きになんて、なれる訳ないじゃないの…」\
 ^``... Looking foward? How could I...?''\
-
-
 
 ;「えっ…」\
 ^``Eh?''\
@@ -1404,46 +1187,31 @@ bg "e\b.jpg",5
 ^Inside the dark car.
 ^Suddenly, she spoke up.\
 
-
 ;「憧れて、懸命になって、頑張って、
 ;　いつか報われるのなら良いけど…」\
 ^``To yearn, to be eager, to strive, if someday you would be rewarded, then fine...''\
 
-
-
-
 ;「でも、叶わなかった時にはどうすればいいの？」\
 ^``But, when it doesn't come true, what should I do?''\
-
-
-
 
 ;「その時に、無理だったねって、
 ;　笑って言えるほど、強くないわよ…」\
 ^``At that time, to say `oh, it wasn't possible' and laugh? I'm not that strong...''\
 
-
-
 ;いつも遠い目をしていたあいつが、
 ;助手席から真っ直ぐに俺を見ていた。\
 ^The girl who had eyes that always looked far away, was looking straight at me from the passenger seat.\
-
 
 ;「わ、わたしに出来ることは、
 ;　最初から諦めて、何も望まずにいて…」\
 ^``W-what I could do, was give up from the start. To not wish for anything...''\
 
-
-
 ;「やっぱり無理だったと、
 ;　冷めた目で自分を見ることしか出来ないのよ…」\
 ^``To say `of course it was impossible.' To look at myself with cold eyes. There was nothing else I could do...''\
 
-!s80
-
 ;「…お前……」\
 ^``... You're...''\
-
 
 ;;「うぅ、ぐすっ」\
 
@@ -1452,20 +1220,14 @@ bg "e\w.jpg",5
 ;…初めて彼女が泣いた。\
 ^... For the first time, the girl cried.\
 
-!s75
-
 ;ほとんど表情を出さなかったこいつなのに…\
 ^Even though she almost never showed any emotion...\
 
 ;小さく肩を震わせて、涙を流していた。\
 ^Her small shoulders shook and her tears flowed.\
 
-
 ;「あ、あの時、頑張っていたら…もしかしたらって…」\
 ^``A-at that time, `if I had tried harder...' `what if...'|''\
-
-
-
 
 ;「自分にとっての、
 ;　最後の言い訳を取っておくしかないのよ…」\
