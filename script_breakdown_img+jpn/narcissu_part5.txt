@@ -1233,36 +1233,20 @@ bg "e\w.jpg",5
 ;　最後の言い訳を取っておくしかないのよ…」\
 ^``What was to me, my final excuses, I could do nothing other than put them aside...''\
 
-
-
-
-
 ;「最初から無理だと分かっているんだから…」\
 ^``Because I knew from the start that it was impossible...''\
-
-
-
 
 ;「そ、それくらい…良いじゃないの…」\
 ^``I-isn't that much... allowed?''\
 
-
-
-
-
 ;;「うわーん」\
 
-;
 
 bg "e\sora07.jpg",10,1500
-
-!s70
 
 ;フロントガラス越しに見た夜空。^@^
 ;夜明け前の空には月さえ顔を見せていた。\
 ^I looked at the dark sky beyond the windshield.^@^ The sky before the dawn even showed the face of the moon.\
-
-
 
 ;時折聞こえてくる潮騒と、
 ;彼女の嗚咽の声だけが聞こえていた。\
@@ -1276,65 +1260,34 @@ bg "e\sora07.jpg",10,1500
 ^Unable to return anything but the same words.
 ^From herself, she could say nothing, hope for nothing, see nothing...\
 
-!s85
-
 ;…諦めることしかできない。\
 ^... Could do nothing but give up.\
 
 ;その彼女にとって、７階か家かを拒否したのは…\
 ^So for this girl, refusing both the 7th floor and home was...\
 
-
 ;最初で最後の、抵抗だったのかも知れない…\
 ^Perhaps her first, and last, act of defiance...\
 
-!sd
-
 bg "e\b.jpg",5
-stop
-mp3fadeout 2500
 
-;読んだフラグ(タイトル戻しのgotoの前に入れること)
-mov %flg_cha8,1
-mov %flg_bplay,8
+;★チャプター９ラスト Chapter 9
 
-goto *agilis_mini_title
-;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-;・小タイトル戻し
-
-;★チャプター９ラスト
-*agilis_honpen9
-;mov $sys_midasi,"白石工務店　ボイスＶｅｒ"
-mov $sys_midasi,"Shiraishi Construction [a]"
-dwavestop 5
-;＿＿＿＿;＿＿＿＿;＿＿＿＿;＿＿
 
 ;・シーン　ラスト　翌朝くらい
-
-dwavestop 5
 
 bg "e\w.jpg",5
 
 ;ＳＥ＞波の音とか
 ;☆ＢＧ　浜辺
 
-
 ;bg "e\kaigan.jpg",5
 
-;setwindow 180,358,35,16,16,16,0,3,1,1,5,#ffffff,0,0,799,599
-h_usewindow "main"
-!sd
-erasetextwindow 0
 
 ;１月の澄んだ海。
 ;肌を刺す冷たい風。\
 ^The clear sea of January.
 ^Cold wind that pierced the skin.\
-
-;mp3loop "bgm\e014.mp3"
-
-mp3loop "bgm\o02.mp3"
 
 ;時折、強く吹いては松原を揺らし、
 ;潮騒の音が静かに響いていた。\
@@ -1343,27 +1296,18 @@ mp3loop "bgm\o02.mp3"
 ;「なあ、こんなもんしか無いぞ」\
 ^``Well, there's nothing other than this.''\
 
-
-
 ;白石工務店と印刷されたタオルを手渡す。
 ;以前にも身体を拭くのに使ったものだった。\
 ^I handed over the towel with ``Shiraishi Construction'' printed on it. It was what we had used to wipe our bodies down with before.\
 
-
 ;「……………」\
 ^``......''\
-
-
 
 ;「こら、そんな変な顔すんなよ」\
 ^``Hey, don't make such a strange face.''\
 
-
-
 ;「…わかった」\
 ^``... Alright.''\
-
-
 
 ;少し不満そうにタオルを受け取る彼女。\
 ^Seeming slightly unsatisfied, the girl took the towel.\
@@ -1385,40 +1329,26 @@ mp3loop "bgm\o02.mp3"
 ;先ほどのタオルを胸に巻いて彼女が現れた。\
 ^In that skirt she liked, with the towel from just before wrapped around her chest, the girl appeared.\
 
-
 ;「…どう？」\
 ^``... How is it?''\
-
-
 
 ;「いや、どうって言われてもな…」\
 ^``Well, even if you ask me that...''\
 
-
-
-
 ;「変じゃ…ない？」\
 ^``It's not... strange?''\
-
-
 
 ;「ん…まあ、たぶんな」\
 ^``Mm... well, probably.''\
 
-
 ;「………………」\
 ^``......''\
-
-
 
 ;「あ、全然大丈夫だって、全然、変じゃないから」\
 ^``Ah, it's perfectly fine! Totally, not strange at all.''\
 
-
 ;「うん、わかった…」\
 ^``Un, alright...''\
-
-
 
 ;そして、波打ち際をゆっくりと歩き始める彼女。\
 ^Then, the girl slowly began walking out to the water's edge.\
@@ -1441,16 +1371,11 @@ mp3loop "bgm\o02.mp3"
 ;素足で水際を歩いてみせる。\
 ^Happily, as if she were splashing around, walking barefoot at the edge of the water.\
 
-
 ;「ねえ…それっぽく見える？」\
 ^``Say... does it look like it?''\
 
-
-
 ;「うーん、まあまあかな…」\
 ^``Mmm, maybe so-so...''\
-
-
 
 ;真冬の寒さに、お互いの吐息が真っ白に弾む。\
 ^In the cold of mid-winter, our breaths whitely misted.\
@@ -1466,11 +1391,8 @@ mp3loop "bgm\o02.mp3"
 ;「じゃあ、撮ってやるよ」\
 ^``Here, I'll take pictures of you.''\
 
-
 ;「えっ…」\
 ^``Eh?''\
-
-
 
 ;「きっと…もっとそれっぽくなるからさ」\
 ^``I'm sure... it'd be more like it that way.''\
@@ -1478,20 +1400,14 @@ mp3loop "bgm\o02.mp3"
 ;言いながら俺は、カメラを構えて見せる。\
 ^As I spoke, I made a show of preparing the camera.\
 
-
 ;「……………」\
 ^``......''\
-
-
 
 ;「ほら、遠慮すんなって、な？」\
 ^``Come now, don't so reserved, okay?''\
 
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;波打ち際。
 ;ファインダー越しに見た彼女。\
@@ -1505,29 +1421,17 @@ mp3loop "bgm\o02.mp3"
 ;「だからさ、もっとこうポーズつけてくれねえか？」\
 ^``So, could you give me a better pose?''\
 
-
-
-
 ;「…でも…」\
 ^``... But...''\
-
-
 
 ;「でもじゃないって、ほら、
 ;　そんな棒立ちしたグラビアアイドルいないぞ」\
 ^``No buts! Look, there's no magazine model that would stand like a stake.''\
 
-
-
-
 ;「わかった…」\
 ^``Alright...''\
 
-
-
 ;ＳＥ＞波音\
-
-!sd
 
 ;少し照れながらでも…それでも彼女なりに精一杯で…\
 ^Even while still seeming a bit embarrassed... in her own way, she tried her best...\
@@ -1546,73 +1450,45 @@ mp3loop "bgm\o02.mp3"
 ;エメラルドグリーンの海を背にしていた…\
 ^Stretched straight towards the sky, with the emerald green sea to her back...\
 
-!s85
-
 ;「じゃあ、最後にもうひとつ…」\
 ^``Well then, one last thing...''\
-
 
 ;「…うん？」\
 ^``... Un?''\
 
-
-
-!s120
-
 ;「……笑って……」\
 ^``... Smile...''\
-
-
-dwavestop 5
-
 
 ;「えっ…」\
 ^``Eh?''\
 
-
 ;;「えっ…」\
-
-
 
 ;「…笑ってくれよ、^@^セツミ…」\
 ^``... Smile for me.^@^ Setsumi...''\
 
-
-
 ;「……………」\
 ^``......''\
 
-
-
-!w300
-
-
-!s100
-
 ;「…なによ…^@^…年下のくせに…」\
 ^``... What's with that...^@^ you're the younger one...''\
-
-
 
 ;ＳＥ＞シャッター
 
 ;bg "e\w.jpg",1
 
 bg "e\imege93.jpg",3
-bg "e\imege92.jpg",5
-bg "e\imege09.jpg",5
 
+bg "e\imege92.jpg",5
+
+bg "e\imege09.jpg",5
 
 ;…そう言って…^@^初めて笑ってくれた。\
 ^... Saying that...^@^ for the first time, she smiled for me.\
 
-!s80
-
 ;お気に入りのスカートと、
 ;白いビキニに身を包んだ彼女が…\
 ^The girl wearing the skirt she liked, with a white bikini...\
-
-!s75
 
 ;使い捨てカメラの最後の一枚で笑ってくれた。
 ;エメラルドグリーンの海を背に笑ってくれた。\
@@ -1621,21 +1497,14 @@ bg "e\imege09.jpg",5
 ;まるで、グラビアアイドルのような笑顔を向けてくれた…\
 ^It was as if... a magazine model were smiling at me...\
 
-!sd
-
 bg "e\b.jpg",5
 
 ;「よし、じゃあ次は、
 ;　もっとこう動きのあるポーズやってみるか」\
 ^``Great! Then next, how about a pose with a bit more movement?''\
 
-
-
-
 ;「うんっ」\
 ^``Un.''\
-
-
 
 ;嬉しそうに、楽しそうに、水辺を跳ねる彼女。\
 ^Happily, like she were having fun, she splashed through the water.\
@@ -1647,12 +1516,8 @@ bg "e\b.jpg",5
 ;「お、なんかお前、調子乗ってきたな」\
 ^``Oh, you're getting caught up in this, aren't you?''\
 
-
-
-
 ;「そ、そんなことないわよ…」\
 ^``N-no such thing...''\
-
 
 ;明るく話す俺達と、
 ;追い討ちをかけるように更に強さを増す降る雪。\
@@ -1668,69 +1533,37 @@ bg "e\b.jpg",5
 
 bg "e\w.jpg",5
 
-dwavestop 5
-
-mp3fadeout 2500
-stop
-
-;＿＿＿＿
-
-;*tugi99
-
 ;bg "e\kaigan.jpg",5
 
 bg "e\imege072.jpg",5
 
 ;ＳＥ＞波
 
-
 ;ざざ……\
-if %unvoiced_mode == 0 goto *generated_327
 ^Waves crashed rhythmically.\
-
-goto *generated_328
-*generated_327
 ^* Splash, splash... *\
-*generated_328
-
 
 ;「それじゃあ…」\
 ^``Well then...''\
 
-
-
 ;「ん…ああ、もうそんな頃合か…」\
 ^``Mm... ah, it's already that time?...''\
 
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;その返事と共に、
 ;以前のように海に向かって歩き始める彼女。\
 ^With that answer, like before, the girl started walking towards the sea.\
 
-
 ;「あ、そういえば免許証…」\
 ^``Ah, that's right, the license...''\
-
-
 
 ;「いいよ、記念に貰っといてくれよ」\
 ^``That's fine. Take it as a memento.''\
 
-
-
-
 ;「うん、わかった…」\
 ^``Un, alright...''\
-
-
-
-dwavestop 6
-
 
 ;頷きながら、ポケットに収める彼女。\
 ^While nodding, she put it in her pocket.\
@@ -1742,10 +1575,6 @@ dwavestop 6
 ;そして彼女は、自分の手首に巻かれた、
 ;あのビニールの白い腕輪を外すと…\
 ^Then, the girl took off that white vinyl bracelet wrapped around around her wrist...\
-
-;dwavestop 5
-
-!s90
 
 ;…俺へと差し出してくれた。\
 ^... And offered it to me.\
