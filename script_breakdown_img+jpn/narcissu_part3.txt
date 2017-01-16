@@ -1467,13 +1467,8 @@ bg "e\naname_michi.jpg",3
 ;「これ、使っていいのか？」\
 ^``It's okay if I use this?''\
 
-
-
-
 ;「別に…いいわよ」\
 ^``It doesn't matter... you can.''\
-
-
 
 ;受け取った封筒の中を覗くと、
 ;まだ１万円札が４枚も入っていた。\
@@ -1499,39 +1494,23 @@ bg "e\naname_michi.jpg",3
 ;「なあ、お前ってさ…」\
 ^``Hey, you...''\
 
-
-
 ;「以前に７階は嫌だって言ってたよな？」\
 ^``Before, you said that you didn't like the 7th floor, right?''\
-
-
-
 
 ;「…家だって嫌よ」\
 ^``... I also didn't like home.''\
 
-
-
 ;「ああ、俺だってそうだ…」\
 ^``Ah, I'm the same way...''\
-
-
 
 ;「じゃあさ、どこへ行くつもりだったんだ？」\
 ^``Then, you were planning on going somewhere?''\
 
-
-
-
 ;「……………」\
 ^``......''\
 
-
-
 ;「これは、その為の金だったんじゃねえのか？」\
 ^``This, is the money for that purpose, isn't it?''\
-
-
 
 ;そして俺は、以前の彼女の言葉を思い出していた。\
 ^Then, I remembered the girl's words from before.\
@@ -1543,31 +1522,17 @@ bg "e\naname_michi.jpg",3
 ;「やっぱり本当は、どこか行くあてがあったのか？」\
 ^``Then, you really did have someplace you wanted to go to?''\
 
-
-
-
 ;「別に……」\
 ^``Not particularly...''\
-
-
 
 ;「別に、じゃ分からねえよ」\
 ^``I can't understand if you say `not particularly'...''\
 
-
-
-
-
 ;「……………」\
 ^``......''\
 
-
-
-
 ;「…どこもないわよ…」\
 ^``... There is no place...''\
-
-
 
 ;それだけを…寂しそうに、哀しそうに呟いた。\
 ^Just that... looking lonely, she sadly murmured.\
@@ -1588,32 +1553,20 @@ bg "e\b.jpg",3
 ;それを肯定しているようにも思えた。\
 ^I sensed the girl's lonely profile was confirming that.\
 
-
 ;「…じゃあ、あなたはどうなのよ？」\
 ^``... Then, what about you?''\
-
-
 
 ;「俺だって…別に、だ…」\
 ^``Even me... not, particularly...''\
 
-
-
-
 ;「…真似しないでよ」\
 ^``... Don't imitate me.''\
-
-
 
 ;「別に、真似じゃねえよ」\
 ^``I'm not imitating you.''\
 
-
 ;「……………」\
 ^``......''\
-
-
-
 
 ;…行き先も持たずに走り続ける俺達。\
 ^... We continued driving without a destination.\
@@ -1635,29 +1588,18 @@ bg "e\naname_michi.jpg",3
 ;「えっ…」\
 ^``Eh?''\
 
-
-
 ;少なくとも俺には、
 ;何でもいいから示すモノが欲しかった。\
 ^At the least, for me, I wanted some ~i~thing~i~ to give me direction.\
 
-
-
-
 ;「なあ、以前に話していた淡路島なんてどうだ？」\
 ^``Well, how about that Awaji-shima that we talked about before?''\
-
-
 
 ;「…………」\
 ^``......''\
 
-
-
 ;「今の所持金なら、十分に行けるぞ」\
 ^``With the money we have now, it's definitely enough to go.''\
-
-
 
 ;きっと、どこでも良かったんだと思う。
 ;７階でも、家で無くても、動き続けてさえいられれば。\
@@ -1672,18 +1614,11 @@ bg "e\naname_michi.jpg",3
 ;「…お前も行ってみたいと思わないか？」\
 ^``... Don't you think of wanting to go too?''\
 
-
-
 ;「……………」\
 ^``......''\
 
-
-
-
 ;「……別に…」\
 ^``... Not particularly...''\
-
-
 
 ;それだけを返すと、またいつもと同じように、
 ;窓の外に視線を向けてしまう彼女。\
@@ -1700,45 +1635,18 @@ bg "e\naname_michi.jpg",3
 
 bg "e\b.jpg",3
 
-stop
-mp3fadeout 2500
-
-mov %flg_cha5,1
-mov %flg_bplay,5
-
-goto *agilis_mini_title
-
 ;＿＿＿＿;＿＿＿＿;＿＿;＿
 
 ;●とも＞タイトル戻り候補
 
 ；★チャプター６
-*agilis_honpen6
-;mov $sys_midasi,"一号線　ボイスＶｅｒ"
-mov $sys_midasi,"Route 1 [a]"
-dwavestop 5
-;＿＿＿＿＿＿＿＿＿＿＿＿＿
-
 
 ;☆回想　３　シーン
 
 bg "e\w.jpg",5
 
-;☆ＢＧＭ＞銀色あたりｏｒ４くらい
-
-
-;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
-h_usewindow "main"
-!sd
-erasetextwindow 0
-
-
 ;『地図を見るのは好きだった…』\
 ^``I liked looking at maps...''\
-
-
-
-mp3loop "bgm\o02.mp3"
 
 ;どこまでも続く１号線、知らない場所。
 ;どこまでも連れて行ってくれる車も好きだった。\
