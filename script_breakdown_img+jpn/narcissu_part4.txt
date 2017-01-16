@@ -739,7 +739,6 @@ bg "e\hiki_kosoku2.jpg",3
 ;●とも　ここから車内かな？＞■仕込みました
 bg "e\shanai_michi01.jpg",5
 
-
 ;「ねえ、今って、お金は大丈夫？」\
 ^``Say, right now, is our money fine?''\
 
@@ -766,20 +765,11 @@ bg "e\shanai_michi01.jpg",5
 ;「確かにギリギリまでなら行けるけど…」\
 ^``Certainly, up until very close, you can...''\
 
-dwavestop 0
-
-!w500
-
-
 ;「でも、最終的には、必ず有料道路に乗るから…」\
 ^``But in the end, you have to take a toll road, so...''\
 
-dwavestop 0
-
 ;「そっか、淡路島だもんな」\
 ^``I see, well, it's Awaji Island after all..''\
-
-dwavestop 0
 
 ;俺も詳しくは知らないが、淡路島に行く為には、
 ;瀬戸大橋だか何だかの橋を渡らないと行けなかった筈だ。\
@@ -787,17 +777,11 @@ dwavestop 0
 
 ;;は有料道路だったと聞いたことがあるとか
 
-
 ;「じゃあ、草津からバイパスに入って」\
 ^``Well, from Kusatsu, go onto the bypass.''\
 
-dwavestop 0
-
 ;「わかった」\
 ^``Alright.''\
-
-dwavestop 0
-dwavestop 5
 
 ;＿＿＿＿;＿＿＿＿;＿＿;＿
 
@@ -808,7 +792,6 @@ bg "e\b.jpg",3
 ;彼女の指示に従い、
 ;瀬田ＩＣから、名神高速へと乗り継ぐ。\
 ^Following the girl's direction, we went from the Seda Interchange and connected onto the Meishin Expressway.\
-
 
 ;☆ＢＧ　車走る：上空の\
 
@@ -825,7 +808,6 @@ bg "e\joku_kosoku.jpg",3
 ;後ろからスゴイ勢いでやってくる後続車が怖かった。\
 ^It was just, if I were in the high speed lane on the right, the cars that came up from behind at a ferocious pace were scary.\
 
-
 ;最初は、パッシングや右ウインカーの意味も分からなかったが、
 ;慣れてくると高速道路の運転は楽しいと思えた。\
 ^At the start, I didn't know what passing was, or what the right blinkers meant, but when I got used to it, I thought driving on the expressways was fun.\
@@ -835,10 +817,7 @@ bg "e\shanai_michi01.jpg",3
 ;「すげえな、あの車…」\
 ^``Amazing, that car...''\
 
-
 ;;「…うん」\
-
-dwavestop 0
 
 ;物凄いスピードで追い抜いていく、どこかの車。
 ;のんびり走る俺達は、思わず顔を見合わせてしまう。\
@@ -862,45 +841,25 @@ dwavestop 0
 ;「なあなあ、今のって何て車だ？」\
 ^``So, so, what car was that just now?''\
 
-dwavestop 0
-
-
 ;;「…それは質問？」\
-
-dwavestop 0
-
 
 ;「……………」\
 ^``......''\
 
-dwavestop 0
-
 ;「ほら、クイズのつもりで」\
 ^``Come now, think of it like a quiz.''\
-
-dwavestop 0
-
 
 ;「…トヨタセリカ、オーバービュー」\
 ^``... Toyota Celica, Overview.''\
 
-dwavestop 0
-
 ;「じゃあ、今、抜いてったのは？」\
 ^``Then, the one that passed us now?''\
-
-dwavestop 0
-
 
 ;「シトロエン、クサラ…」\
 ^``Citroen, Xsara...''\
 
-dwavestop 0
-
 ;「へ～、よく分かるな」\
 ^``I see, you know them well, don't you?''
-
-dwavestop 0
 
 ;正直なところ、
 ;俺にはそれが正解かどうかも分からない。\
@@ -913,19 +872,14 @@ dwavestop 0
 ;だから俺は、休むことなく言葉を続けた。\
 ^That was why, without pausing, I continued to speak.\
 
-
 ;「青いのがユーノス、赤いのはアルファロメオ…」\
 ^``The blue one is a Eunos, the red one an Alfa Romeo...''\
-
-dwavestop 0
 
 ;同時に追い抜いていった２台までも答える。\
 ^She even answered for two cars that passed us at the same time.\
 
 ;「でもさ、あれは分からないだろう」\
 ^``But, you don't know that one, right?''\
-
-dwavestop 0
 
 ;言いながら今度は、普通車と違うトラックを指差す。\
 ^As I spoke, this time, I pointed to a something different from a normal car, a truck.\
@@ -934,25 +888,17 @@ dwavestop 0
 ;困った顔も少しだけ見たくなっていた。\
 ^I wanted to see that slightly troubled face from the girl who would show so little emotion.\
 
-
 ;「…………」\
 ^``......''\
-
-dwavestop 0
 
 ;「やっぱ、さすがにトラックは分からないか」\
 ^``So yeah, I guess you don't know trucks, eh?''\
 
-
 ;「…日産アトラス１０」\
 ^``... Nissan, Atlas 10.''\
 
-dwavestop 0
-
 ;「おいおい、すげえぞ、お前っ」\
 ^``Hey, hey, you're amazing.''\
-
-dwavestop 0
 
 ;本当はいじわるしたつもりだったのに、
 ;まさかトラックまで分かるとは思わなかった。\
@@ -961,18 +907,11 @@ dwavestop 0
 ;「ここまでくればさ、自慢できるレベルじゃねえか？」\
 ^``If you know this much, isn't it on the level where you can be proud of it?''\
 
-dwavestop 0
-
-
 ;「…そう？」\
 ^``... Is that so?''\
 
-dwavestop 0
-
 ;「ああ、胸張っていいと思うぞ」\
 ^``Ah, I think you can puff out your chest.''\
-
-
 
 ;「……………」\
 ^``......''\
@@ -984,34 +923,21 @@ dwavestop 0
 ;きっと車とか好きなんだろうな…\
 ^I'm sure she really liked cars...\
 
-dwavestop 0
-
 ;「じゃあさ、向こうに着いたら運転してみるか？」\
 ^``Well then, when we get over there, you want to try driving?''\
-
-dwavestop 0
 
 
 ;;「えっ…」\
 
-
-
 ;「えっ…」\
 ^``Eh?''\
-
-dwavestop 0
-
 
 ;「でもわたし、免許持ってない…」\
 ^``But, I don't have a license...''\
 
-dwavestop 0
-
 ;「大丈夫だって、
 ;　きっと、浜辺なんて運転すると楽しいぞ」\
 ^``It'll be fine. I'm sure driving on the beach or something will be fun.''\
-
-dwavestop 0
 
 ;恐らく淡路島まで行けば、
 ;ひと気のない場所はいくらでもあるだろう。\
@@ -1024,70 +950,31 @@ dwavestop 0
 ;「なんだったらさ、俺が教えてやるよ」\
 ^``Well, in that case, I'll teach you.''\
 
-dwavestop 0
-
-
 ;「……………」\
 ^``......''\
-
-dwavestop 0
 
 ;「あ、といっても俺も超初心者だけどさ」\
 ^``Ah, well, even so, I'm just a new driver myself.''\
 
-dwavestop 0
-
-
 ;「…うん」\
 ^``... Un.''\
 
-
 ;;「うん、ありがと…」\
-
-dwavestop 0
-
 
 ;;「…うん」\
 
-dwavestop 0
-dwavestop 5
-
-
 bg "e\b.jpg",5
-stop
-mp3fadeout 2500
-
 
 ;☆ＢＧＭ　フェードアウト
 ;＿＿＿＿;＿＿＿＿;＿＿＿＿
 
-mov %flg_cha6,1
-mov %flg_bplay,6
-goto *agilis_mini_title
-
-;＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-
-;★チャプター７
-
-*agilis_honpen7
-;mov $sys_midasi,"エコー　ボイスＶｅｒ"
-mov $sys_midasi,"Echo [a]"
-dwavestop 5
-
-;setwindow 180,358,35,16,16,16,0,3,1,1,5,#ffffff,0,0,799,599
-h_usewindow "main"
-!sd
-erasetextwindow 0
+;★チャプター７ Chapter7
 
 ;☆ＢＧ　変え＞夕空
 bg "e\sora_yu.jpg",3
 
-
 ;あんなに高かった日が、わずかだけ翳る頃。\
 ^When that high sun was just misting over.\
-
-mp3loop "bgm\3_12.mp3"
 
 ;☆ＢＧ　車：上空：高速\
 bg "e\joku_kosoku_yu.jpg",3
@@ -1104,29 +991,17 @@ bg "e\shanai_michi01b.jpg",3
 ;「なあ、次も休憩するか」\
 ^``Say, you want to take a break next?''\
 
-dwavestop 0
-
-
 ;「あ、う、うん…」\
 ^``Ah, u-un...''\
-
-dwavestop 0
 
 ;「…どうした？」\
 ^``... What's wrong?''\
 
-dwavestop 0
-
-
 ;「ちょっと疲れたみたい…」\
 ^``Looks like I'm a bit tired...''\
 
-dwavestop 0
-
 ;「そうか…」\
 ^``I see...''\
-
-dwavestop 0
 
 ;無理もないことかも知れない。\
 ^It wasn't too surprising.\
@@ -1138,35 +1013,19 @@ dwavestop 0
 ;「じゃあ、なんか買ってきてやるよ」\
 ^``Well, I'll go buy you something.''\
 
-dwavestop 0
-
-
 ;「…うん」\
 ^``... Un.''
 
-dwavestop 0
-dwavestop 5
-
-;＿＿
-
 ;☆ＢＧ　車止め＞駐車場
 bg "yobi\car_byoin_chusyajo_yu.bmp",3
-
-;ＳＥ＞車止め
-
 
 ;「じゃあ、すぐ買ってくるから」\
 ^``Alright, I'll go buy them quick.''\
 
 ;＞ＳＥ＞閉め
 ;バタン、\
-if %unvoiced_mode == 0 goto *generated_311
 ^I closed the door with a slam.\
-
-goto *generated_312
-*generated_311
 ^* Slam. *\
-*generated_312
 
 ;☆ベタ\
 bg "e\b.jpg",3
@@ -1175,22 +1034,14 @@ bg "e\b.jpg",3
 ;普段コンビニで買うものと大差ない買い物をする。\
 ^Rushing over to a nearby shop, I bought things that weren't too different from what I would buy at a convenience store.\
 
-;ＳＥ＞開け閉め\
-
 ;☆ＢＧ　車内
 bg "yobi\car_byoin_chusyajo_yu.bmp",3
 
 ;「ほら、ポカリとおにぎり、それとポテトも」\
 ^``Here, a Pocari and ~i~nigiri~i~, that and also the fries.''\
 
-dwavestop 0
-dwavestop 5
-
-
 ;「あ、うん…」\
 ^``Ah, un...''\
-
-dwavestop 0
 
 ;言葉ではそう返事をするけど、
 ;受け取ったまま口をつけようとしない彼女。\
@@ -1202,26 +1053,17 @@ dwavestop 0
 ;「…大丈夫か？」\
 ^``... You alright?''\
 
-
 ;「……………」\
 ^``......''\
-
-dwavestop 0
 
 ;「もしかしてお前…具合悪くなってきたのか…」\
 ^``Is it that you're... starting to feel bad?''\
 
-
 ;「………………」\
 ^``......''\
 
-dwavestop 0
-
-
 ;「…薬が…切れただけだから」\
 ^``... My medicine... has run out is all.''\
-
-dwavestop 0
 
 ;「…そうか…」\
 ^``... I see...''\
@@ -1245,18 +1087,11 @@ dwavestop 0
 ;「いつからだ？　薬が切れたのは？」\
 ^``Since when? When did your medicine run out.''\
 
-dwavestop 0
-
-
 ;「…昨日の夜」\
 ^``... Last night.''\
 
-dwavestop 0
-
 ;「じゃあ、もうすぐ丸一日だな…」\
 ^``Then, it's almost been an entire day...''\
-
-dwavestop 0
 
 ;俺の場合は、２日飲まずが限界だと医者から言われていた。
 ;恐らく彼女の場合も似たようなもんだろう。\
@@ -1273,28 +1108,17 @@ dwavestop 0
 ;…今、俺はどうするべきなんだろうか…\
 ^... Right now, what should I do?\
 
-
 ;「ねえ…」\
 ^``Say...''\
-
-dwavestop 0
-
 
 ;「…わたし、７階は嫌よ」\
 ^``I... don't like the 7th floor.''\
 
-dwavestop 0
-
 ;「ああ、分かってる、家も嫌なんだろ」\
 ^``Ah, I know. And you don't want home either, right?''\
 
-dwavestop 0
-
-
 ;「うん…」\
 ^`Un...''\
-
-dwavestop 0
 
 ;☆ベタ\
 bg "e\b.jpg",3
@@ -1311,20 +1135,12 @@ bg "e\b.jpg",3
 ^It wasn't that it would help anything, but I wouldn't be able to do anything while on it.\
 
 bg "e\b.jpg",3
-dwavestop 5
-stop
-mp3fadeout 2500
 
 ;＿＿＿＿;＿＿
-
 ;☆シーン変え　ぷち
-
 
 ;☆ＢＧ　空：夕\
 bg "e\soukou_machi_yu.jpg",3
-
-mp3loop "bgm\e02.mp3"
-
 
 ;殺風景な高速降り口から、
 ;市街地へ向けて走り続ける。\
@@ -1356,8 +1172,6 @@ mp3loop "bgm\e02.mp3"
 ;「見つけたっ」\
 ^``Found one.''\
 
-dwavestop 0
-
 bg "e\b.jpg",3
 
 ;大きな通りに面した角に立つ、どこかの大学病院。
@@ -1368,22 +1182,14 @@ bg "e\b.jpg",3
 ;俺は空き地を見つけ、すぐさま車を停める。\
 ^Just when I decided I wouldn't be able to find parking, I found an open space and quickly stopped the car.\
 
-;ＳＥ＞止め
-
 ;☆ＢＧ　車内
 bg "yobi\car_byoin_chusyajo_yu.bmp",3
 
 ;「おい、薬の袋、貸してくれ」\
 ^``Hey, let me borrow your medicine bag.''\
 
-dwavestop 0
-dwavestop 5
-
-
 ;「あ、うん…」\
 ^``Ah, un...''\
-
-dwavestop 0
 
 ;不思議そうな顔で、薬の入っていた袋を手渡す彼女。\
 ^With a mystified expression, the girl handed the bag with medicine over.\
@@ -1398,17 +1204,11 @@ dwavestop 0
 ;「じゃあ、すぐ帰ってくるから」\
 ^``Well, I'll be back soon.''\
 
-dwavestop 0
-
-;ＳＥ＞閉め\
-
 bg "e\b.jpg",3
 
 ;車内にあいつだけを残し、
 ;俺は少しだけ離れた薬局へと走った。\
 ^Leaving her alone in the car, I ran the short distance to the pharmacy.\
-
-;＞ＳＥ＞自動ドア
 
 ;ガー…\
 ;Nuke
@@ -1420,12 +1220,8 @@ bg "e\yakkyoku.jpg",3
 ;俺は真っ直ぐにカウンターへと向かう。\
 ^Passing through the stuttering, slow automatic door, I came into the store. I headed straight for the counter.\
 
-dwavestop 5
-
 ;店の人「いらっしゃいませ」\
 ^Shopkeeper: ``Welcome!''\
-
-dwavestop 0
 
 ;俺の姿に声を掛けてくれた中年風のおじさん。
 ;白衣を着た、いかにもって感じの薬剤師のようだった。\
@@ -1434,12 +1230,8 @@ dwavestop 0
 ;「すみません、この薬お願いします」\
 ^``I need this medicine please.''\
 
-dwavestop 0
-
 ;店の人「え、ああ、ちょっと待って下さいね…」\
 ^Pharmacist: ``Eh, ah yes, please wait a moment...''\
-
-dwavestop 0
 
 ;そう言って俺の渡した薬の説明用紙を手に、
 ;奥へと引っ込んでいくおじさん。\
@@ -1477,23 +1269,15 @@ dwavestop 0
 ;店の人「あ、それより薬箋も頂けますか」\
 ^Pharmacist: ``Ah, before that, may I have your prescription?''\
 
-dwavestop 0
-
 ;「…やくせん？」\
 ^``... Prescription?''\
-
-dwavestop 0
 
 ;店の人「ああ、処方箋のことですよ、
 ;　　　　これは臨床用ですからね」\
 ^Pharmacist: ``Ah, I'm talking about the prescription for the medicine. These are for clinical use you see.''\
 
-dwavestop 0
-
 ;「…………」\
 ^``......''\
-
-dwavestop 0
 
 ;店の人「お医者さんから貰ってますよね？」\
 ^Pharmacist: ``You received one from your doctor, right?''\
