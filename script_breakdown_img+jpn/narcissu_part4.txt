@@ -387,18 +387,11 @@ bg "e\chusha_michi2_yoru.jpg",3
 ;「やっぱ、大騒ぎしてると思うか？」\
 ^``You think... there's been a big uproar?''\
 
-dwavestop 0
-
-
 ;「…たぶんね」\
 ^``... Probably.''\
 
-dwavestop 0
-
 ;「だよな…」\
 ^``Yeah...''\
-
-dwavestop 0
 
 ;両親や、友達、それに病院の先生達…\
 ^Parents, friends, as well as the hospital doctors...\
@@ -411,7 +404,6 @@ dwavestop 0
 ;自分勝手な、我侭やっちまって…\
 ^Sorry... dad, everyone...^@^ going off and doing something selfish...\
 
-
 ;☆ＢＧ　どこかの道端とか：夜
 
 bg "e\car_byoin_chusyajo_yoru.jpg",3
@@ -420,21 +412,14 @@ bg "e\car_byoin_chusyajo_yoru.jpg",3
 ;「ねえ、あなたって…」\
 ^``Say, you...''\
 
-dwavestop 0
-
 ;「ん？　どうかしたか？」\
 ^``Mm? Something the matter?''\
-
 
 ;「最初に…死ぬって聞かされた時……泣いた？」\
 ^``The first time... you heard you were going to die... did you cry?''\
 
-dwavestop 0
-
 ;「……………」\
 ^``......''\
-
-dwavestop 0
 
 ;突然の彼女の問いに、一瞬だけ驚いた。
 ;そして、その問いの重さに暫く考えてしまった。\
@@ -443,18 +428,11 @@ dwavestop 0
 ;「…確か…泣かなかったと思う」\
 ^``... I think... I didn't cry.''\
 
-dwavestop 0
-
-
 ;「じゃあ、どうして自分だけって…運命を呪った？」\
 ^``Then, did you say `why only me?'... and curse fate?''\
 
-dwavestop 0
-
 ;「それは…よく覚えていない」\
 ^``That... I don't really remember.''\
-
-dwavestop 0
 
 ;始めは現実に起こった事として認識できなかった。
 ;リアルとして考えられなかったように思う。\
@@ -486,54 +464,29 @@ dwavestop 0
 ;「じゃあお前は…どうだったんだ？」\
 ^``Then... what about you?''\
 
-dwavestop 0
-
-
 ;「…わたし？」\
 ^``... Me?''\
-
-dwavestop 0
 
 ;「ああ、哀しくて泣いて…運命を呪ったか？」\
 ^``Yeah, did you cry out of sadness... or curse fate?''\
 
-dwavestop 0
-
-
 ;「……………」\
 ^``......''\
-
-dwavestop 0
-
 
 ;「…わたしは、平気だった」\
 ^``... I was, fine with it.''\
 
-dwavestop 0
-
 ;「…どうしてだ？」\
 ^``... Why?''\
-
-dwavestop 0
-
 
 ;「…だって、最初から何も望んでなかったから…」\
 ^``... Because, from the start, I didn't wish for anything...''\
 
-dwavestop 0
-
-!w500
-
-
 ;「…わたしは、諦めていたから」\
 ^``Because I... had given up.''\
 
-dwavestop 0
-
 ;「そうか…」\
 ^``I see...''\
-
-dwavestop 0
 
 bg "e\b.jpg",3
 
@@ -550,17 +503,11 @@ bg "e\b.jpg",3
 
 bg "e\car_byoin_chusyajo_yoru.jpg",3
 
-
 ;「前に見た映画で言ってた…」\
 ^``A movie that I saw before said...''\
 
-dwavestop 0
-
-
 ;「…狼は３年しか生きないって」\
 ^``... That wolves only live three years.''\
-
-dwavestop 0
 
 ;「は？　狼？」\
 ^``Wha? Wolves?''\
@@ -568,35 +515,19 @@ dwavestop 0
 ;突然、よく分からないことを話し始めた彼女。\
 ^Suddenly, the girl started talking about something I didn't really get.\
 
-dwavestop 0
-
-
 ;「でも…ロバは９年も生きるんだって」\
 ^``But... it said that donkeys lived nine years.''\
-
-dwavestop 0
 
 ;「何のことだ？…狼が３年でロバが９年って？」\
 ^``What's this?... Wolves are three years and donkeys are nine?''\
 
-dwavestop 0
-
-
 ;;「…………」\
-
-dwavestop 0
-
 
 ;「…ロバは…役に立つから長生きする」\
 ^``... Donkeys are... useful, so they live long.''\
 
-dwavestop 0
-
-
 ;「そういうことらしいの…」\
 ^``That's how it is, it seems...''\
-
-dwavestop 0
 
 ;□心情・情景＞いろいろと\
 
@@ -607,7 +538,6 @@ dwavestop 0
 ;自分を納得させる為の、諦める為の言い訳なのだろうか…\
 ^This was probably, to this girl... the excuse to convince herself, the excuse so that she could give up.\
 
-
 bg "e\w.jpg",3
 
 ;＿＿＿＿＿＿＿＿＿＿＿
@@ -615,8 +545,6 @@ bg "e\w.jpg",3
 ;☆シーン変え
 
 ;☆ＢＧ　冬空＞雪
-
-
 bg "e\yukizora.jpg",3
 
 ;暮れかけた真冬の空。
@@ -627,16 +555,11 @@ bg "e\yukizora.jpg",3
 ;次第に降りを強くしているようだった。\
 ^Dancing in that darkening sky, lightly floating specks of white. It seemed that depending on circumstances, it might snow harder.\
 
-
 ;「…どうかした？」\
 ^``... Something wrong?''\
 
-dwavestop 0
-
 ;「ああ、雪が降ってきた…」\
 ^``Yeah, it's snowing...''\
-
-dwavestop 0
 
 ;そして、気づけば、
 ;道路の脇には白い積雪が姿を現すようになっていた。\
@@ -663,22 +586,14 @@ bg "e\naname_yuki.jpg",3
 ;「なあ、ここらって豪雪地帯なのか？」\
 ^``Hey, is this place a snowy area?''\
 
-
 ;「えっ…」\
 ^``Eh?''\
-
-dwavestop 0
 
 ;「いや、これ以上、雪が酷くなると辛いからさ」\
 ^``Well, if the snow gets any worse, it might be difficult, you see.''\
 
-dwavestop 0
-
-
 ;「……………」\
 ^``......''\
-
-dwavestop 0
 
 ;仮に路面に積雪は無かったとしても、
 ;それだけの場所なら道路が凍結していても不思議ではない。\
@@ -691,30 +606,15 @@ dwavestop 0
 ;「どうだ、知ってるか？」\
 ^``How about it, do you know?''\
 
-dwavestop 0
-
-
 ;「この先は…関が原」\
 ^``Up ahead is... Sekigahara.''\
-
-dwavestop 0
 
 ;「そりゃさっき聞いたって、
 ;　俺が知りたいのは雪が酷い場所かってこと」\
 ^``I heard that the last time, what I want to know is whether this place gets heavy snow.''\
 
-dwavestop 0
-
-!w500
-!s90
-
-
 ;「…わからない…」\
 ^``... I don't know...''\
-
-dwavestop 0
-
-!sd
 
 ;何故か寂しそうに答える彼女。^@^
 ;その様子に俺は少しだけ違和感を覚えた。\
@@ -730,40 +630,17 @@ dwavestop 0
 ;「わかった、とにかく気をつけて走る」\
 ^``Alright, at any rate, I'll drive carefully.''\
 
-dwavestop 0
-
-
 ;「…うん」\
 ^``... Un.''\
 
-dwavestop 0
-
 bg "e\b.jpg",3
-stop
-mp3fadeout 2500
-
-
-;＿＿＿＿;＿＿＿＿;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-;・小タイトル戻し
-
-;mov $sys_midasi,"一号線３　ボイスＶｅｒ"
-mov $sys_midasi,"Route 1: 3 [a]"
-
-;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-mp3 "bgm\o012.mp3"
 
 ;ちらちらと降り続く雪。\
-
-;ＳＥ＞波の音\
 
 bg "e\yukizora.jpg",3
 
 ;;☆ＢＧ　雪湖っぽいの
-
 bg "e\yuki_kohan.jpg",5
-
 
 ;波打ち際。
 ;俺達は車を降りると、湖を眺めていた。\
@@ -781,38 +658,23 @@ bg "e\yuki_kohan.jpg",5
 ;…以前にもあった光景だった。\
 ^... It was a scene that occurred before.\
 
-
 ;「…ねえ、どう思う？」\
 ^``... Say, what do you think?''\
-
-dwavestop 0
 
 ;「このまま進むと、楽に死ねるか？ってのか」\
 ^``That `if you continue into the sea like this, would you die comfortably?' thing?''\
 
-dwavestop 0
-
-
 ;「うん、海より楽な気がする…」\
 ^``Un. I have a feeling it would be more comfortable than the sea...''\
-
-dwavestop 0
 
 ;「俺には、その解答の根拠がわからん…」\
 ^``I don't see the basis for that answer...''\
 
-dwavestop 0
-
-
 ;「だって、海水は塩辛いし身体も浮いちゃうでしょ…」\
 ^``Well, sea water is salty, and your body would float wouldn't it?''\
 
-dwavestop 0
-
 ;「…そりゃあ、名推理だな」\
 ^``... That's, impressive reasoning.''\
-
-dwavestop 0
 
 ;冷たい北風と降る雪の中、
 ;お互いに本気とも冗談とも取れないことを言い合う。\
@@ -822,27 +684,16 @@ dwavestop 0
 ;再び湖へと向けると歩き出す彼女。\
 ^And then, the feet that had briefly paused, once again started to move towards the lake.\
 
-
 ;「…やっぱり止めないの？」\
 ^``... I guess, you aren't going to stop me?''\
-
-dwavestop 0
 
 ;「だって今日は、死ぬつもりないだろ？」\
 ^``Well, today you don't plan on dying, right?''\
 
-dwavestop 0
-
-
 ;;「…………」\
-
-dwavestop 0
-
 
 ;「…うん…そうかもね」\
 ^``... Un... that may be so.''\
-
-dwavestop 0
 
 ;…例の場所、淡路島まで
 ;あと、どのくらいの距離なのだろうか…\
@@ -863,30 +714,20 @@ dwavestop 0
 ;…きっと、そういうことなんだと思う。\
 ^... I was sure, that was how it was.\
 
-dwavestop 5
-
 ;＿＿＿＿;＿＿＿＿;＿＿;＿
 
 ;bg "tui2\cat05.bmp",5
 bg "agilis\1\cat05.png",5
 
-!w600
-
 bg "e\b.jpg",3
 
-
 bg "e\hiki_kosoku2.jpg",3
-
 
 ;「そこから、１号に戻って…」\
 ^From there, go back to Route 1...''\
 
-dwavestop 0
-
 ;「わかった」\
 ^``Got it.''\
-
-dwavestop 0
 
 ;８号から再び１号へ。\
 ^From Route 8 back to Route 1.\
@@ -902,12 +743,8 @@ bg "e\shanai_michi01.jpg",5
 ;「ねえ、今って、お金は大丈夫？」\
 ^``Say, right now, is our money fine?''\
 
-dwavestop 0
-
 ;「ああ、まだ３万円ほどはある」\
 ^``Ah, we still have bout ¥30,000.''\
-
-dwavestop 0
 
 ;以前に服は買ったけど、それ以外では、
 ;相変わらずコンビニで済ます程度だった。\
@@ -916,26 +753,15 @@ dwavestop 0
 ;「どうかしたのか？」\
 ^``Is something the matter?''\
 
-dwavestop 0
-
-
 ;「…じゃあ、高速に乗る？」\
 ^``... Then, you want to go on the expressway?''\
-
-dwavestop 0
 
 ;「高速？　全部下道じゃ行けないのか？」\
 ^``Expressway? We can't go all the way using the smaller roads?''\
 
-dwavestop 0
-
-
 ;;「それは、無理よ」\
 
-dwavestop 0
-
 ;□心情・情景
-
 
 ;「確かにギリギリまでなら行けるけど…」\
 ^``Certainly, up until very close, you can...''\
