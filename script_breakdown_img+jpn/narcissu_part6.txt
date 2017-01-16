@@ -313,8 +313,6 @@ bg "e\sora_ame03.jpg",5
 
 ;どんどん学校から、社会から、置き去りにされてしまうわたし。\
 
-dwavestop 5
-
 ;bg "e\byoin_heya_yu2.jpg",5
 
 bg "e\sora_ame01.jpg",3
@@ -326,7 +324,6 @@ bg "e\sora_ame01.jpg",3
 
 ;かつて、友達と呼んでいたクラスメイト。\
 ^And before I knew it, even the classmates I once called friends ...\
-
 
 ;いつしか、知り合いへと変わった。\
 ^... turned into acquaintances ...\
@@ -341,69 +338,40 @@ bg "e\sora_ame01.jpg",3
 
 bg "e\chara_k01.jpg",5
 
-
 ;「…どうやら、”良い気がしない”らしい」\
 ^``... it seems that to all those normal people ...''\
-
-
-
-wait 300
-
 
 ;「普通に生きている人にとって、わたしの存在ってのは」\
 ^``... my very existence was an `unpleasant' fact.''\
 
-
-
 bg "e\chara_k01.jpg",3
-
 
 ;「だから…消されたようだった…」\
 ^``And so ... it looks like I've been erased ...''\
 
-
-
-
 bg "e\w.jpg",5
 
 bg "e\sora_ame03.jpg",5
-
 
 ;「幾つもの季節を、白い梅雨空を…
 ;　誰とも言葉を交わす必要もなく過ごした…」\
 ^``I'd spent so many seasons, so many white overcast skies ...
 ^ without the want or need to converse with anybody ...''\
 
-
-
-
 ;「わたしの英語の教科書は、
 ;　１年生の中間テスト以降、まっさらな状態だった」\
 ^``For that matter, my English textbook never changed from that of a 1st-year middle school student before the first midterms.''\
 
-
-
 bg "e\chara_0012.jpg",5
-
 
 ;「…そこで…^@^わたしの時間も止まったらしい」\
 ^``... that is where ...^@^ my time seems to come to an end.''\
-
-
 
 bg "e\chara_0013b.jpg",3
 
 bg "e\c005.jpg",5
 
 bg "e\c0052.jpg",3
-
-;mp3fadeout 2000
-;stop
-
-;click
-
-!w800
-
 
 bg "e\w.jpg",1
 
@@ -415,11 +383,6 @@ bg "english\1\c00.jpg",5
 ^ ■ Eight years later ... Early Summer 2004: Protagonist ■\
 
 bg "e\sora01.jpg",3
-
-;mp3loop "tui\sen032.mp3"
-
-;mp3loop "tui2\e01.mp3"
-
 
 ;夏。流れる汗。\
 ^Summer.  Flowing sweat.\
@@ -437,8 +400,6 @@ bg "e\sora01.jpg",3
 ;「２３７、２３７…」\
 ^``237, 237 ...''\
 
-
-
 ;チカチカと約８割ほどのライトが点灯する中、
 ;無事に自分の受験番号が光ったことを確認した。\
 ^And of some eight columns of lit text,
@@ -447,7 +408,6 @@ bg "e\sora01.jpg",3
 bg "e\b.jpg",3
 
 ;○とも＞ＳＥとか
-
 
 ;ガタンゴトン、\
 ^ *clickety-clack*\
@@ -468,8 +428,6 @@ bg "e\b.jpg",3
 
 ;「これで俺も、普免持ちか…」\
 ^``So now I've got a license as well ...''\
-
-
 
 ;しみじみ呟くが、特に感慨はなかった。\
 ^I muttered somewhat happily,
@@ -544,26 +502,12 @@ bg "e\byoin_rouka.jpg",3
 
 bg "e\b.jpg",5
 
-mp3fadeout 2000
-stop
-
 bg "e\sora07.jpg",5
-
-;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
-h_usewindow "main"
-!sd
-erasetextwindow 0
-
-dwavestop 5
 
 bg "english\1\c03.jpg",3
 
 ;　■　主人公　２００４年　秋　■\
 ^ ■ Protagonist: Autumn 2004 ■\
-
-mp3loop "tui2\e01.mp3"
-
-;mp3loop "tui\sen032.mp3"
 
 bg "e\sora07.jpg",3
 
@@ -624,7 +568,6 @@ bg "e\sora07.jpg",3
 ^And that's why, even though it was all happening to me,
 ^I kept looking on as if it were happening to someone far away.\
 
-
 bg "english\1\c033.jpg",5
 
 bg "e\b.jpg",5
@@ -677,7 +620,6 @@ bg "e\amazora02.jpg",5
 ;終わるのかも知れないと思った。\
 ^That perhaps things would end for the license without it ever having known any use.\
 
-
 ;bg "e\amazora02.jpg",5
 
 bg "e\w.jpg",5
@@ -691,16 +633,13 @@ bg "e\w.jpg",5
 ^with dispassion, ambiguity, and total disinterest.\
 
 bg "e\w.jpg",5
-;bg "e\b.jpg",5
 
-;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+;bg "e\b.jpg",5
 
 bg "english\1\c032.jpg",5
 
 ;　■　主人公　２００５年　１月　■\
 ^ ■ Protagonist:  January 2005 ■\
-
-;bgm
 
 bg "e\byoin_rouka.jpg",5
 
@@ -726,8 +665,6 @@ bg "e\byoin_rouka.jpg",5
 
 ;「そうですか…」\
 ^``I see ...''\
-
-
 
 ;だから、それだけを返した。他に言葉は見つからなかった。
 ;入室してから出るまでに、口にしたのはこれだけだった。\
@@ -810,13 +747,9 @@ bg "e\b.jpg",5
 
 ;bg "e\w.jpg",3
 
-mp3fadeout 2500
-stop
-
 bg "e\w.jpg",3
 
 bg "e\nar01.jpg",5
-
 
 bg "e\nar01.jpg",5
 
@@ -826,26 +759,7 @@ bg "e\nar01d.jpg",3
 
 bg "e\w.jpg",3
 
-
-mov %flg_pro,1
-mov %flg_bplay,1
-goto *gp32_honpen2
-
-;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-
-*gp32_honpen2
-dwavestop 5
-
-;★チャプター２
-
-mov $sys_midasi,"^７F [g]"
-
-stop
-mp3fadeout 2500
-
-;＿＿＿＿;＿＿＿＿;＿＿
-
+;★チャプター２ Chapter2
 
 bg "e\b.jpg",5
 
@@ -853,19 +767,9 @@ bg "gp32\1\c04.jpg",3
 
 ;bg "e\b.jpg",3
 
-click
-
-mp3loop "bgm\n04.mp3"
-
 ;○本編　序盤
 
 bg "e\byoin7_rouka.jpg",3
-
-
-;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
-h_usewindow "main"
-!sd
-erasetextwindow 0
 
 ;廊下の横、ナースステーションの向かいにある、
 ;談話室のような場所。\
@@ -900,8 +804,6 @@ bg "e\b.jpg",3
 ;「なあ、お前…それ面白いか？」\
 ^``Hey ... do you find that interesting?''\
 
-
-
 ;深い意味はない。
 ;ひと気がないので、何となくその横顔に話し掛けた。\
 ^There was no deep purpose in the asking.  Simply:
@@ -909,11 +811,8 @@ bg "e\b.jpg",3
 
 ;●ぱじゃまーのヒロイン
 
-
 ;「別に…」\
 ^``Not really ...''\
-
-
 
 ;只、それだけを返す女の子。
 ;声を掛けた俺に振り向きもしなかった。\
@@ -959,70 +858,43 @@ bg "e\danwa.jpg",5
 
 ;●：談話室
 
-
 ;「ねえ…あなた…」\
 ^``Say ... tell me ...''\
-
-
 
 ;突然、話し掛けてきた女の子。
 ;相変わらずテレビを見つめたままだった。\
 ^The girl suddenly started talking to me.
 ^But her eyes were as always glued to the TV screen.\
 
-
 ;「…あなた、何回目？」\
 ^``... how many times is it for you now?''\
-
-
 
 ;「…何回目って、どういう意味だ？」\
 ^``... what do you mean by that?''\
 
-
-
-
 ;「ここに…７階に来たの」\
 ^``How many times have you come here ... to ７F?''\
-
-
 
 ;「悪い、質問の意味がわからない」\
 ^``Sorry, I have no clue what you're talking about.''\
 
-
-
-
 ;「………………」\
-
-
-
 
 ;「そう…初めてなんだね」\
 ^``I see ... so it's your first time, then.''\
-
-
 
 ;何を言ってるのか理解できない俺に、
 ;彼女は勝手に納得したようだった。\
 ^So she'd seen my confusion about her question and come to the right conclusion.\
 
-
 ;「じゃあ、他に誰も居ないし…わたしの役目だから…」\
 ^``Then since there's no one else around ... and since it's my duty ...''\
-
-
 
 ;「…役目？」\
 ^``... duty?''\
 
-
-
-
 ;「そういうルールなの…」\
 ^``There's this rule ...''\
-
-
 
 ;頷きながら、初めてここ（７階）に来た人には、
 ;誰かが教えてあげるルールなんだと付け足した。\
@@ -1036,11 +908,8 @@ bg "e\danwa.jpg",5
 ^And as if I did not even exist,
 ^she slowly started her speech.\
 
-
 ;「それじゃあ、よく聞いてね…」\
 ^``Then listen closely ...''\
-
-
 
 bg "e\b.jpg",5
 
@@ -1082,23 +951,14 @@ bg "e\b.jpg",5
 ;●談話室復帰
 bg "e\danwa.jpg",3
 
-
-
 ;「わたし、２回目だから…」\
 ^``See, this is my second time ...''\
-
-
 
 ;「２回目ってなにが？」\
 ^``Second time doing what?''\
 
-
-
-
 ;「…ここに来るの」\
 ^``... coming here.''\
-
-
 
 ;そして、彼女は教えてくれた。\
 ^And then she explained to me.\
@@ -1128,17 +988,11 @@ bg "e\danwa.jpg",3
 ^And with that meaning permeating her every word,
 ^she informed me that this was her second time up here.\
 
-
 ;「じゃあ、１度しか言わないから…」\
 ^``I'm only going to say this once ...''\
 
-
-
-
 ;「ここからは、よく聞いて…」\
 ^``... so listen closely now ...''\
-
-
 
 bg "e\b.jpg",3
 
@@ -1177,15 +1031,11 @@ bg "e\b.jpg",3
 ^... relevant only to those who were going to die ...
 ^... and kept by those who came here for that purpose.\
 
-
 ;●談話室
 bg "e\danwa.jpg",3
 
 ;「もしかして、さっきの役目ってのは、これのことか？」\
 ^``So is ~i~this~i~ the duty that you were talking about?''\
-
-
-
 
 ;「ええ、そうよ…」\
 ^``Yes, that's right ...''\
