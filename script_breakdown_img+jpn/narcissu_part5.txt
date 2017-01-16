@@ -1,8 +1,6 @@
-
+﻿
 ;「……嫌よ」\
 ^``... No.''\
-
-
 
 ;「まあまあ、そう言わずに。
 ;　なんかこうポーズでもとってくれよ」\
@@ -14,16 +12,11 @@
 ;「……………」\
 ^``......''\
 
-
-
 ;「ほら、ちょっとは嬉しそうな顔してみろよ」\
 ^``Come now, try making a bit of a happier face.''\
 
-
 ;「……………」\
 ^``......''\
-
-
 
 ;だけど、照れくさいのか、やっとこちらを向いても、
 ;不機嫌そうな顔しか向けてくれなかった。\
@@ -65,19 +58,13 @@ bg "e\b.jpg",3
 ;ファインダーに収めるとシャッターを切った。\
 ^I placed the two of them in the viewfinder, and hit the shutter.\
 
-
 ;カシャ、\
-if %unvoiced_mode == 0 goto *generated_319
 ^The shutter clicked.\
-
-goto *generated_320
-*generated_319
 ^* Snap. *\
-*generated_320
 
 bg "e\w.jpg",1
-bg "e\b.jpg",3
 
+bg "e\b.jpg",3
 
 ;彼氏「どうも、ありがとうございます」\
 ^Boyfriend: ``Thank you very much.''\
@@ -86,8 +73,6 @@ bg "e\hashigeta.jpg",3
 
 ;彼女「じゃあ、代わりにお二人も撮りますよ」\
 ^Girlfriend: ``Well, in exchange, we'll take a picture of you two.''\
-
-dwavestop 5
 
 ;「え、あ、いや、俺達は…」\
 ^``Eh, ah, no, we're...''\
@@ -105,8 +90,6 @@ dwavestop 5
 
 ;彼氏「ほら、二人とも、もっと寄って」\
 ^Boyfriend: ``Come now, the two of you, get closer together.''\
-
-
 
 ;その言葉に俺は、少しだけ彼女へと身体を寄せる。\
 ^At those words, I moved my body just a bit closer to the girl.\
@@ -128,10 +111,7 @@ dwavestop 5
 ;ゆっくりと手をまわした。\
 ^I slowly wrapped my arm around her.\
 
-
-
 bg "e\b.jpg",3
-
 
 ;「…あ……」\
 ^``Ah--''\
@@ -142,7 +122,6 @@ bg "e\b.jpg",3
 ;先日買った子供っぽい服に、
 ;腰まである長い髪の感触が手に広がる。\
 ^The feeling of the childish clothes we bought the other day, and the waist-length hair, spread through my hands.\
-
 
 ;「……………」\
 ^``......''\
@@ -158,21 +137,15 @@ bg "e\b.jpg",3
 ;拗ねたような顔をしてくれているのかも知れない。\
 ^She might be wearing that embarrassed, pouting face that she would only show very rarely.\
 
-
 ;彼氏「それじゃあ、撮りますよ」\
 ^Boyfriend: ``Well then, ready!''\
 
-
 ;カシャっ、\
-if %unvoiced_mode == 0 goto *generated_321
 ^The shutter clicked.\
-
-goto *generated_322
-*generated_321
 ^* Click. *\
-*generated_322
 
 bg "e\w.jpg",1
+
 bg "e\b.jpg",3
 
 
@@ -183,8 +156,6 @@ bg "e\b.jpg",3
 ;俺達も自分の車へと足を向ける。\
 ^We also turned towards our own car.\
 
-;ＳＥ＞ドア開け閉め
-
 ;☆ＢＧ車内
 bg "e\car_naname_michi01.jpg",3
 
@@ -194,25 +165,15 @@ bg "e\car_naname_michi01.jpg",3
 ;「なんか、勘違いされたみたいだな？」\
 ^``Looks like, we've been mistaken?''\
 
-
-dwavestop 5
-
-
 ;「……………」\
 ^``......''\
-
-
 
 ;「もしかしてさ、
 ;　俺達ってそんな風に見えるのかな？」\
 ^``Could it be, that we look like it?''\
 
-
-
 ;「……………」\
 ^``......''\
-
-
 
 ;少しだけ、おどけた俺の物言い。\
 ^I said it in just a bit of a joking way.\
@@ -221,24 +182,17 @@ dwavestop 5
 ;ついつい、そんな口調で続けてしまう。\
 ^For some reason it felt fun, and I just wound up continuing in that light tone.\
 
-
 ;「なあってば、お前…あ、いや…」\
 ^``Well? You, ah, no...''\
 
 ;「なあ？　どう思うセツミ？」\
 ^``Well? What do you think, Setsumi?''\
 
-
 ;「……………」\
 ^``......''\
 
-
-
-
 ;「…なによ…年下のくせに…」\
 ^``... What's with that... you're the younger one...''\
-
-
 
 ;そんな俺の言葉にも、いつもと同じように、
 ;窓に顔を向けたままの彼女。\
@@ -256,12 +210,10 @@ dwavestop 5
 ^Her eyes weren't the ones that always looked far away. I had a feeling that it was embarrassing, so she was turning her face away.\
 
 ;bg "tui2\cat07.bmp",5
+
 bg "agilis\1\cat07.png",5
 
-!w700
-
 bg "e\b.jpg",3
-
 
 bg "e\sora01.jpg",5
 
@@ -276,13 +228,8 @@ bg "e\sora01.jpg",5
 ;「とうとう着いたな…」\
 ^``We've finally arrived, haven't we?''\
 
-
-
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;あの日、７階を飛び出してから、
 ;９００ｋｍもの距離を示した、車のメーター。\
@@ -294,18 +241,11 @@ bg "e\sora01.jpg",5
 ;「じゃあ、ここからはどう行けば良いんだ？」\
 ^``Well, where should we go from here?''\
 
-
-
-
 ;「南に…」\
 ^``South...''\
 
-
-
 ;「南か…わかった」\
 ^``South... got it.''\
-
-
 
 ;彼女の指示通りに進路をとる。\
 ^Following the girl's direction, I set off.\
@@ -322,44 +262,16 @@ bg "e\sora01.jpg",5
 ^I had a feeling that it would be wrong if I didn't.
 ^For some reason, I wanted to do it that way...\
 
-dwavestop 5
-dwavestop 6
-
 bg "e\b.jpg",3
-stop
-mp3fadeout 2500
 
 ;読んだフラグ(タイトル戻しのgotoの前に入れること)
-mov %flg_cha7,1
-mov %flg_bplay,7
-
-;＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-goto *agilis_mini_title
-
-*agilis_honpen8
-;mov $sys_midasi,"ナルキッソス　ボイスＶｅｒ"
-mov $sys_midasi,"Narcissus [a]"
-dwavestop 5
-
-;＿＿＿＿;＿＿＿＿;＿＿＿＿
-
 
 ;bg "e\b.jpg",3
 
 bg "e\sora_yu.jpg",5
 
-dwavestop 5
-
-;setwindow 180,358,35,17,17,17,0,3,1,1,5,#ffffff,0,0,799,599
-h_usewindow "main"
-!sd
-erasetextwindow 0
-
 ;ゆっくりと日がオレンジに染まる頃…\
 ^Slowly the setting sun dyed everything orange...\
-
-;ＳＥ波の音\
 
 ;☆ＢＧ　海辺：夕方\
 
@@ -371,50 +283,31 @@ erasetextwindow 0
 ;俺は彼女にドライバーズシートを譲る。\
 ^Driving the car out onto that beach, I turned the driver's seat over to the girl.\
 
-mp3loop "bgm\o02.mp3"
-
 bg "e\chusha_hamabe_yu.jpg",5
 
 ;「ほら、クラッチに足、届くか？」\
 ^``Alright, the clutch, can your feet reach it?''\
 
-
-
-
 ;「大丈夫…」\
 ^``It's fine...''\
-
-
 
 ;「よし、じゃあ次はギアをニュートラルからセカンドに」\
 ^``Okay, then next, shift the gear from neutral to second.''\
 
-
-
 ;＿キープ選択肢;＿
-
 
 ;「…知ってるわよ」\
 ^``... I know.''\
 
-
-
 ;「はいはい、じゃあ好きなようにやってみろよ」\
 ^``Alright, fine. Then do what you want.''\
 
-
 ;＿＿＿＿;＿
-
-
 
 ;「うん、わかった…」\
 ^``Un, alright...''\
 
-
 ;;「わかった…」\
-
-
-dwavestop 5
 
 ;小柄な身体で精一杯、足を伸ばす彼女。
 ;真剣な顔つきをしてハンドルを握っていた。\
@@ -426,13 +319,8 @@ dwavestop 5
 ;「いいぞ…後はゆっくりとクラッチを離して」\
 ^``That's great... after that, slowly release the clutch.''\
 
-
-
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;そして、明らかに緊張している様子で…\
 ^And then, looking obviously nervous...\
@@ -442,22 +330,14 @@ dwavestop 5
 ;「わっ」\
 ^``Wah!''\
 
-
-dwavestop 5
-
 ;予想通り、ノッキングが凄いことになってしまう。\
 ^As expected, the grinding noise was phenomenal.\
 
 ;「ほら、もっと静かにクラッチ切らないと」\
 ^``Look, you need to disengage the clutch more quietly.''\
 
-
-
-
 ;「うん」\
 ^``Un.''\
-
-
 
 ;言葉ではそう返事をするけど、
 ;やはりすぐには上手くいかない。\
@@ -473,26 +353,18 @@ dwavestop 5
 ;「おいおい、なんか悪酔いしそうだぞ」\
 ^``Hey, hey, I'm about to start feeling sick.''\
 
-
-
-
 ;「わ…わかってるわよ」\
 ^``I... I know.''\
 
-
-
 ;☆ＢＧ　夕焼けとか\
 
-
 bg "e\sora_yu.jpg",3
-
 
 ;マフラーが少し割れて、うるさくなった銀のクーペ。\
 ^With the muffler slightly broken, the silver coupe was noisy.\
 
 ;誰もいないこの砂浜に、まるで哭き声のように響いていた…\
 ^On the deserted beach, it was as if a howling voice was reverberating...\
-
 
 bg "e\sora07.jpg",10,1500
 
@@ -506,13 +378,8 @@ bg "e\sora07.jpg",10,1500
 ;「だいぶ、慣れてきたみたいだな」\
 ^``For the most part, it seems you've gotten used to it.''\
 
-
-
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;その返事と共に、ギアを３速にまで上げる。\
 ^Along with that reply, she even shifted into third.''\
@@ -527,19 +394,12 @@ bg "e\sora07.jpg",10,1500
 ;「お前、教習所行かなくても免許取れんじゃねえか？」\
 ^``You could get a license without going to the training center, no?''\
 
-
-
-
 ;「…そうなの？」\
 ^``... Really?''\
-
-
 
 ;「まあ、信憑性薄いけどな。
 ;　免許取り立ての俺の言葉だから…」\
 ^``Well, I don't have much credibility, it's the words of someone who just got their license after all...''\
-
-
 
 ;今更、俺達が免許なんて取ったって意味はない。
 ;そんなことはお互いに分かっている。\
@@ -549,20 +409,14 @@ bg "e\sora07.jpg",10,1500
 ;マフラーが壊れてうるさいけど、銀色のクーペだってある。\
 ^We had maps, we had medicine, the muffler was a bit broken and loud, but we even even had a silver coupe.\
 
-!sd
-
 ;…でも時間が無い。未来がない。\
 ^... But we had no time. Had no future.\
-
-!sd
 
 ;分かっているからこそ、俺には余計に切なく思えた。\
 ^It was exactly because we knew, that I felt it was all the more trying.\
 
 ;「じゃあさ…^@^代わりに俺のやるよ」\
 ^``Well then...^@^ instead, I'll give you mine.''\
-
-
 
 ;言いながら俺は、
 ;ポケットから自分の免許証を取り出す。\
@@ -572,26 +426,17 @@ bg "e\sora07.jpg",10,1500
 ;既に失った筈の、俺にとっての日常世界の証し…\
 ^This was... originally the license that had lost its debut.^@^ To me, the proof of the ordinary world that I should have already lost.\
 
-
 ;「ほら、卒業証書の代わりだ」\
 ^``Here, in place of your diploma.''\
-
 
 ;「……………」\
 ^``......''\
 
-
-
-
 ;「貰っても…使う時間なさそうよ…」\
 ^``Even if I take it, it doesn't look like I'd have time to use it...''\
 
-
-
 ;「まあ遠慮すんなって…俺も似たようなもんだし」\
 ^``Well, don't hold back... I'm more or less the same way after all.''\
-
-
 
 ;決して避けた奴はいない７階。
 ;高い天井、１５ｃｍしか開かない窓、白いビニールの腕輪。\
@@ -605,8 +450,6 @@ bg "e\sora07.jpg",10,1500
 
 ;「うん…ありがと…」\
 ^``Un... thank you...''\
-
-
 
 ;小さく頷くと、俺の免許証を受け取る彼女。\
 ^With a small nod, the girl accepted my license.\
@@ -625,28 +468,15 @@ bg "e\b.jpg",3
 
 bg "e\w.jpg",5
 
-stop
-mp3fadeout 2500
-
-
-dwavestop 5
-dwavestop 6
-
-;＿＿＿＿;＿＿＿＿;＿＿＿＿
-
 bg "e\b.jpg",3
 
 ;あれから一通り走った後。\
 ^After that, we drove for a bit more.\
 
-!sd
-
 ;俺達は目的地である水仙の見える場所へと到着した。\
 ^We arrived at our destination, the place where daffodils could be seen.\
 
 bg "e\sora_yoru01.jpg",5
-
-mp3loop "bgm\n05.mp3"
 
 ;一応、観光地の筈なのだが…\
 ^It was supposed to be a tourist spot, but...\
@@ -663,19 +493,14 @@ mp3loop "bgm\n05.mp3"
 
 bg "tui\naname_inaka_yoru2.bmp",5
 
-
 ;「ねえ、灯りつけないの？」\
 ^``Say, you're not going to turn on the light?''\
-
-
 
 ;「ああ、バッテリーが上がりそうだからな」\
 ^``Ah, the battery seems about dead.''\
 
-
 ;「うん、そうだね…」\
 ^``Un, that's right...''\
-
 
 ;＿＿;＿
 
@@ -700,29 +525,17 @@ bg "tui\naname_inaka_yoru2.bmp",5
 ;「…寒いだろう」\
 ^``... Aren't you cold?''\
 
-
-
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;「じゃあ、もっとくっついていいぞ？」\
 ^`Well, you can come a little closer, you know?''\
 
-
-
-
 ;「えっ…」\
 ^``Eh?''\
 
-
-
 ;「ほら、遠慮せずにこっちこいよ」\
 ^``Look, don't hold back, come here.''\
-
-
 
 ;助手席で寒そうに身体を震わす彼女に、
 ;俺は自分の膝の上を指し示す。\
@@ -731,46 +544,27 @@ bg "tui\naname_inaka_yoru2.bmp",5
 ;「きっと、その方が温かいしさ」\
 ^``I'm sure that it'd be warmer here.''\
 
-
-
-
 ;「……………」\
 ^``......''\
 
-
-
-
 ;「別に…わたしは平気よ」\
 ^``Not particularly... I'm fine.''\
-
-
 
 ;言いながら身体を震わせる彼女。
 ;車内でも白く息が煙り、明らかに強がっていた。\
 ^As the girl spoke, her body was shivering. Even inside the car, our breaths misted, and it was obvious she was putting on a brave face.\
 
-
 ;「…それとも、あなたが寒いから来て欲しいの？」\
 ^``... Or is it that you're cold, so you want me to come?''\
-
-
 
 ;「ん…まあ、それでもいいぞ」\
 ^``Mm... well, that's fine too.''\
 
-
-
-
 ;「……………」\
 ^``......''\
 
-
-
-
 ;「じゃあ、わかった…」\
 ^``Then, alright...''\
-
-
 
 bg "e\b.jpg",5
 
@@ -781,18 +575,12 @@ bg "e\b.jpg",5
 ;「な？　少しは温かいだろ？」\
 ^``Well? It's a bit warmer isn't it?''\
 
-
-
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;外気の寒さに真っ白に煙ったフロントガラス。
 ;その白さと夜の暗さで、今は何も見えなかった。\
 ^The windshield was fogged totally white from the cold outside. With that white and the dark outside, nothing could be seen outside.\
-
 
 ;でも、まもなく夜明け。\
 ^But soon, the sun would rise.\
@@ -814,10 +602,13 @@ bg "e\b.jpg",3
 ^Then, with the dawn, white flowers spread before our eyes...\
 
 bg "e\imege03.jpg",3
+
 bg "e\imege04.jpg",3
 
 bg "e\imege05.jpg",1
+
 bg "e\imege06.jpg",5
+
 bg "e\imege07.jpg",3
 
 ;今まで黒しかなかった場所に現れた、白と黄色。\
@@ -829,14 +620,8 @@ bg "e\imege07.jpg",3
 ;「すげえな…」\
 ^``Amazing...''\
 
-
-
-
-
 ;「…うん」\
 ^``... Un.''\
-
-
 
 ;目の前に広がる、数え切れないほどの水仙。\
 ^Spread before us, countless daffodils.\
@@ -858,13 +643,8 @@ bg "e\narcissu_b.jpg",5
 ;「…これは同じもので、いいんだよな？」\
 ^``... These flowers, I can think of them as being the same?''\
 
-
-
-
 ;「うん…厳密に言っても同じ」\
 ^``Un... even strictly speaking, they're the same.''\
-
-
 
 ;「そっか、よかったな…」\
 ^``I see, that's good...''\
@@ -880,16 +660,11 @@ bg "e\narcissu_b.jpg",5
 ;…でも、確かにここに在った。\
 ^... But, without a doubt, they were here.\
 
-
 ;「きれい…」\
 ^``Beautiful...''\
 
-
-
 ;「…そうだな」\\
 ^``... Indeed.''\
-
-
 
 bg "e\b.jpg",5
 
@@ -909,23 +684,13 @@ bg "e\b.jpg",5
 ;その見えない何かのカケラが散らばっていた…\
 ^Some fragments of those unseen somethings, were scattered about...\
 
-stop
-mp3fadeout 2500
-
-;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-;・小タイトル戻し\
-
-
 ;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 ;☆ＢＧ　雨空\
 
-
 ;bg "tui2\cat072.bmp",5
-bg "agilis\1\cat072.png",5
 
-!w300
+bg "agilis\1\cat072.png",5
 
 bg "e\sora_ame01.jpg",5
 
@@ -933,28 +698,15 @@ bg "e\sora_ame01.jpg",5
 ;１月の真っ白な空からこぼれ落ちていた。\
 ^Rain continued to fall from the solid white January sky.\
 
-mp3loop "tui\sen032.mp3"
-
-;mp3loop "bgm\e014.mp3"
-
 bg "e\naname_inaka_ame2.jpg",3
-
 
 ;あれから２日ほど経ったが、
 ;相変わらずこの場所に居た。行けなかった。\
 ^Since then, two days have passed, and the whole time, we were still in this place. We couldn't go.\
 
-
 ;「けほっ」\
-if %unvoiced_mode == 0 goto *generated_323
 ^The girl coughed.\
-
-goto *generated_324
-*generated_323
 ^* Cough. *\
-*generated_324
-
-
 
 ;「おい、大丈夫かっ」\
 ^``Hey, are you alright?''\
